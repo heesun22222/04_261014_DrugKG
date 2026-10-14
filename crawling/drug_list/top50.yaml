@@ -1,0 +1,55 @@
+# Top-50 drugs: ClinCalc DrugStats ranking by US prescription volume, restricted to drugs with a Drugs.com page.
+# `slug` is the Drugs.com path (https://www.drugs.com/<slug>.html). Slugs are auto-resolved into data/drug_urls.json;
+# set `slug` here to override. `candidates` lists alternative slugs tried in order when resolving.
+source: "ClinCalc DrugStats top-300 (by prescriptions) x Drugs.com"
+drugs:
+  - {rank: 1,  name: Atorvastatin}
+  - {rank: 2,  name: Levothyroxine}
+  - {rank: 3,  name: Metformin}
+  - {rank: 4,  name: Amlodipine}
+  - {rank: 5,  name: Lisinopril}
+  - {rank: 6,  name: Albuterol}
+  - {rank: 7,  name: Losartan}
+  - {rank: 8,  name: Metoprolol}
+  - {rank: 9,  name: Rosuvastatin}
+  - {rank: 10, name: Omeprazole}
+  - {rank: 11, name: Gabapentin}
+  - {rank: 12, name: Sertraline}
+  - {rank: 13, name: Escitalopram}
+  - {rank: 14, name: Semaglutide}
+  - {rank: 15, name: "Dextroamphetamine + Amphetamine salts", candidates: [adderall, amphetamine-dextroamphetamine, mtm/amphetamine-and-dextroamphetamine, mtm/dextroamphetamine-and-amphetamine]}
+  - {rank: 16, name: Pantoprazole}
+  - {rank: 17, name: Bupropion}
+  - {rank: 18, name: Hydrochlorothiazide}
+  - {rank: 19, name: Fluoxetine}
+  - {rank: 20, name: Trazodone}
+  - {rank: 21, name: Montelukast}
+  - {rank: 22, name: Amoxicillin}
+  - {rank: 23, name: Fluticasone, candidates: [fluticasone, fluticasone-nasal, flonase]}
+  - {rank: 24, name: Tamsulosin}
+  - {rank: 25, name: Apixaban}
+  - {rank: 26, name: Simvastatin}
+  - {rank: 27, name: "Insulin Glargine", candidates: [insulin-glargine, lantus]}
+  - {rank: 28, name: Empagliflozin}
+  - {rank: 29, name: Furosemide}
+  - {rank: 30, name: Meloxicam}
+  - {rank: 31, name: "Acetaminophen + Hydrocodone", candidates: [hydrocodone-acetaminophen, acetaminophen-hydrocodone, mtm/acetaminophen-and-hydrocodone, mtm/hydrocodone-and-acetaminophen]}
+  - {rank: 32, name: Tirzepatide}
+  - {rank: 33, name: Methylphenidate}
+  - {rank: 34, name: Duloxetine}
+  - {rank: 35, name: Prednisone}
+  - {rank: 36, name: Carvedilol}
+  - {rank: 37, name: Famotidine}
+  - {rank: 38, name: Ibuprofen}
+  - {rank: 39, name: Buspirone}
+  - {rank: 40, name: Venlafaxine}
+  - {rank: 41, name: Tramadol}
+  - {rank: 42, name: "Potassium Chloride", candidates: [potassium-chloride]}
+  - {rank: 43, name: Hydroxyzine}
+  - {rank: 44, name: Allopurinol}
+  - {rank: 45, name: Clopidogrel}
+  - {rank: 46, name: Ergocalciferol, candidates: [ergocalciferol, mtm/ergocalciferol, drisdol, vitamin-d2]}
+  - {rank: 47, name: Cetirizine}
+  - {rank: 48, name: Ondansetron}
+  - {rank: 49, name: Cyclobenzaprine}
+  - {rank: 50, name: Spironolactone}

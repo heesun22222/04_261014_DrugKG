@@ -1,0 +1,237 @@
+{
+ "name": "Carvedilol",
+ "slug": "carvedilol",
+ "url": "https://www.drugs.com/carvedilol.html",
+ "title": "Carvedilol",
+ "page_title": "Carvedilol Uses, Dosage & Side Effects - Drugs.com",
+ "generic_name": "carvedilol",
+ "pronunciation": "KAR-ve-dil-ole",
+ "brand_names": [
+  "Coreg",
+  "Coreg CR"
+ ],
+ "discontinued_brands": [],
+ "drug_classes": [
+  {
+   "name": "Non-cardioselective beta blockers",
+   "slug": "non-cardioselective-beta-blockers"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Philip Thornton, DipPharm. Last updated on Aug 25, 2026.",
+ "faq": [],
+ "description": "Carvedilol (Coreg) is used to treat heart failure and hypertension (high blood pressure). Includes carvedilol side effects, interactions and indications.",
+ "date_modified": "2026-08-25",
+ "reviewed_by": "Philip Thornton",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Lasix",
+   "slug": "lasix",
+   "blurb": "Lasix is a loop diuretic used to treat fluid retention from heart, liver, or kidney conditions, and..."
+  },
+  {
+   "name": "Valsartan",
+   "slug": "valsartan",
+   "blurb": "Valsartan is an angiotensin II receptor blocker (ARB) that may be used to treat high blood pressure..."
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Hydrochlorothiazide",
+   "slug": "hydrochlorothiazide",
+   "blurb": "Hydrochlorothiazide treats fluid retention (edema) in people with congestive heart failure..."
+  },
+  {
+   "name": "Atenolol",
+   "slug": "atenolol",
+   "blurb": "Atenolol is used to treat angina (chest pain) and hypertension (high blood pressure). Learn about..."
+  },
+  {
+   "name": "Metoprolol",
+   "slug": "metoprolol",
+   "blurb": "Metoprolol is used to treat angina (chest pain) and hypertension (high blood pressure). Learn about..."
+  },
+  {
+   "name": "Furosemide",
+   "slug": "furosemide",
+   "blurb": "Furosemide is a loop diuretic used to treat fluid retention and high blood pressure by increasing..."
+  },
+  {
+   "name": "Lisinopril",
+   "slug": "lisinopril",
+   "blurb": "Lisinopril is an ACE inhibitor. It is used to treat high blood pressure, congestive heart failure..."
+  },
+  {
+   "name": "Losartan",
+   "slug": "losartan",
+   "blurb": "Losartan is used to treat high blood pressure (hypertension). It is also used to lower the risk of..."
+  },
+  {
+   "name": "Amlodipine",
+   "slug": "amlodipine",
+   "blurb": "Amlodipine is a calcium channel blocker used to treat high blood pressure and angina by relaxing..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is carvedilol?",
+   "lines": [
+    "Carvedilol is a beta-blocker. Beta-blockers affect the heart and circulation (blood flow through arteries and veins).",
+    "Carvedilol is used to treat heart failure and hypertension (high blood pressure). It is also used after a heart attack that has caused your heart not to pump as well.",
+    "Carvedilol may also be used for purposes not listed in this medication guide.",
+    "Carvedilol is not approved for use by anyone younger than 18 years of age."
+   ],
+   "text": "Carvedilol is a beta-blocker. Beta-blockers affect the heart and circulation (blood flow through arteries and veins).\nCarvedilol is used to treat heart failure and hypertension (high blood pressure). It is also used after a heart attack that has caused your heart not to pump as well.\nCarvedilol may also be used for purposes not listed in this medication guide.\nCarvedilol is not approved for use by anyone younger than 18 years of age."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "You should not take carvedilol if you have asthma, bronchitis, emphysema, severe liver disease, severe heart failure requiring certain IV medications, or a serious heart condition such as heart block, \"sick sinus syndrome,\" or slow heart rate (unless you have a pacemaker).",
+    "Avoid drinking alcohol within 2 hours before or after taking extended-release carvedilol (Coreg CR). Also avoid taking medicines or other products that might contain alcohol. Alcohol may cause the carvedilol in Coreg CR to be released too quickly into the body.",
+    "If you are being treated for high blood pressure, keep using carvedilol even if you feel well. High blood pressure often has no symptoms. You may need to use blood pressure medication for the rest of your life."
+   ],
+   "text": "You should not take carvedilol if you have asthma, bronchitis, emphysema, severe liver disease, severe heart failure requiring certain IV medications, or a serious heart condition such as heart block, \"sick sinus syndrome,\" or slow heart rate (unless you have a pacemaker).\nAvoid drinking alcohol within 2 hours before or after taking extended-release carvedilol (Coreg CR). Also avoid taking medicines or other products that might contain alcohol. Alcohol may cause the carvedilol in Coreg CR to be released too quickly into the body.\nIf you are being treated for high blood pressure, keep using carvedilol even if you feel well. High blood pressure often has no symptoms. You may need to use blood pressure medication for the rest of your life."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not take carvedilol if you are allergic to it, or if you have:",
+    "- asthma, bronchitis, emphysema;",
+    "- severe liver disease; or",
+    "- a serious heart condition such as heart block, \"sick sinus syndrome,\" or slow heart rate (unless you have a pacemaker); or severe heart failure requiring certain IV medications.",
+    "To make sure carvedilol is safe for you, tell your doctor if you have:",
+    "- diabetes (taking carvedilol can make it harder for you to tell when you have low blood sugar);",
+    "- angina (chest pain);",
+    "- liver or kidney disease;",
+    "- a thyroid disorder;",
+    "- pheochromocytoma (tumor of the adrenal gland);",
+    "- circulation problems (such as Raynaud's syndrome); or",
+    "- a history of allergies.",
+    "FDA pregnancy category C. It is not known whether carvedilol will harm an unborn baby. Tell your doctor if you are pregnant or plan to become pregnant while using this medication.",
+    "It is not known whether carvedilol passes into breast milk or if it could harm a nursing baby. Talk with your doctor about the best way to feed your baby if you are taking carvedilol."
+   ],
+   "text": "You should not take carvedilol if you are allergic to it, or if you have:\n- asthma, bronchitis, emphysema;\n- severe liver disease; or\n- a serious heart condition such as heart block, \"sick sinus syndrome,\" or slow heart rate (unless you have a pacemaker); or severe heart failure requiring certain IV medications.\nTo make sure carvedilol is safe for you, tell your doctor if you have:\n- diabetes (taking carvedilol can make it harder for you to tell when you have low blood sugar);\n- angina (chest pain);\n- liver or kidney disease;\n- a thyroid disorder;\n- pheochromocytoma (tumor of the adrenal gland);\n- circulation problems (such as Raynaud's syndrome); or\n- a history of allergies.\nFDA pregnancy category C. It is not known whether carvedilol will harm an unborn baby. Tell your doctor if you are pregnant or plan to become pregnant while using this medication.\nIt is not known whether carvedilol passes into breast milk or if it could harm a nursing baby. Talk with your doctor about the best way to feed your baby if you are taking carvedilol."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "How should I take carvedilol?",
+   "lines": [
+    "Take carvedilol exactly as prescribed by your doctor. Follow all directions on your prescription label. Your doctor may occasionally change your dose to make sure you get the best results. Do not take this medicine in larger or smaller amounts or for longer than recommended.",
+    "Take carvedilol with food.",
+    "Swallow the extended-release capsule whole and do not crush or chew it. If you have trouble swallowing, you may open the carvedilol capsule and sprinkle the medicine into a spoonful of applesauce to make swallowing easier. The applesauce should not be warm. Do not sprinkle contents on foods other than applesauce. Swallow right away without chewing. Do not save the mixture for later use. Discard the empty capsule.",
+    "Take carvedilol at the same time every day. Do not skip doses or stop taking carvedilol without first talking to your doctor. Stopping suddenly may cause chest pain or a heart attack.",
+    "If you are switched from carvedilol tablets to carvedilol extended-release capsules (Coreg CR), your daily total dose of this medicine may be higher or lower than before. Older adults may be more likely to become dizzy or feel faint when switching from tablets to extended-release capsules. Follow your doctor's instructions.",
+    "Your blood pressure will need to be checked often.",
+    "If you are being treated for high blood pressure, keep using this medication even if you feel well. High blood pressure often has no symptoms. You may need to use blood pressure medication for the rest of your life.",
+    "If you need surgery, tell the surgeon ahead of time that you are using carvedilol. You may need to stop using the medicine for a short time.",
+    "You should not stop using carvedilol suddenly. Stopping suddenly may cause chest pain or a heart attack.",
+    "Carvedilol can affect your pupils during cataract surgery. Tell your eye surgeon ahead of time that you are using this medication. Do not stop using carvedilol before surgery unless your surgeon tells you to.",
+    "Carvedilol is only part of a complete program of treatment for hypertension that may also include diet, exercise, and weight control. Follow your diet, medication, and exercise routines very closely if you are being treated for hypertension.",
+    "Store at room temperature away from moisture and heat."
+   ],
+   "text": "Take carvedilol exactly as prescribed by your doctor. Follow all directions on your prescription label. Your doctor may occasionally change your dose to make sure you get the best results. Do not take this medicine in larger or smaller amounts or for longer than recommended.\nTake carvedilol with food.\nSwallow the extended-release capsule whole and do not crush or chew it. If you have trouble swallowing, you may open the carvedilol capsule and sprinkle the medicine into a spoonful of applesauce to make swallowing easier. The applesauce should not be warm. Do not sprinkle contents on foods other than applesauce. Swallow right away without chewing. Do not save the mixture for later use. Discard the empty capsule.\nTake carvedilol at the same time every day. Do not skip doses or stop taking carvedilol without first talking to your doctor. Stopping suddenly may cause chest pain or a heart attack.\nIf you are switched from carvedilol tablets to carvedilol extended-release capsules (Coreg CR), your daily total dose of this medicine may be higher or lower than before. Older adults may be more likely to become dizzy or feel faint when switching from tablets to extended-release capsules. Follow your doctor's instructions.\nYour blood pressure will need to be checked often.\nIf you are being treated for high blood pressure, keep using this medication even if you feel well. High blood pressure often has no symptoms. You may need to use blood pressure medication for the rest of your life.\nIf you need surgery, tell the surgeon ahead of time that you are using carvedilol. You may need to stop using the medicine for a short time.\nYou should not stop using carvedilol suddenly. Stopping suddenly may cause chest pain or a heart attack.\nCarvedilol can affect your pupils during cataract surgery. Tell your eye surgeon ahead of time that you are using this medication. Do not stop using carvedilol before surgery unless your surgeon tells you to.\nCarvedilol is only part of a complete program of treatment for hypertension that may also include diet, exercise, and weight control. Follow your diet, medication, and exercise routines very closely if you are being treated for hypertension.\nStore at room temperature away from moisture and heat."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the missed dose as soon as you remember. Skip the missed dose if it is almost time for your next scheduled dose. Do not take extra medicine to make up the missed dose."
+   ],
+   "text": "Take the missed dose as soon as you remember. Skip the missed dose if it is almost time for your next scheduled dose. Do not take extra medicine to make up the missed dose."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.",
+    "Overdose symptoms may include uneven heartbeats, shortness of breath, bluish-colored fingernails, dizziness, weakness, fainting, and seizure (convulsions)."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.\nOverdose symptoms may include uneven heartbeats, shortness of breath, bluish-colored fingernails, dizziness, weakness, fainting, and seizure (convulsions)."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What to avoid",
+   "lines": [
+    "Carvedilol may impair your thinking or reactions. Be careful if you drive or do anything that requires you to be alert.",
+    "Drinking alcohol can further lower your blood pressure and may increase certain side effects of carvedilol. You should especially avoid drinking alcohol within 2 hours before or after taking extended-release carvedilol (Coreg CR).",
+    "Avoid getting up too fast from a sitting or lying position, or you may feel dizzy. Get up slowly and steady yourself to prevent a fall."
+   ],
+   "text": "Carvedilol may impair your thinking or reactions. Be careful if you drive or do anything that requires you to be alert.\nDrinking alcohol can further lower your blood pressure and may increase certain side effects of carvedilol. You should especially avoid drinking alcohol within 2 hours before or after taking extended-release carvedilol (Coreg CR).\nAvoid getting up too fast from a sitting or lying position, or you may feel dizzy. Get up slowly and steady yourself to prevent a fall."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Carvedilol side effects",
+   "lines": [
+    "Get emergency medical help if you have any of these signs of an allergic reaction to carvedilol: hives; difficulty breathing; swelling of your face, lips, tongue, or throat.",
+    "Call your doctor at once if you have a serious side effect such as:",
+    "- a light-headed feeling, like you might pass out;",
+    "- slow or uneven heartbeats;",
+    "- swelling, rapid weight gain, feeling short of breath (even with mild exertion);",
+    "- cold feeling or numbness in your fingers or toes;",
+    "- chest pain, dry cough, wheezing, chest tightness, trouble breathing; or",
+    "- high blood sugar (increased thirst, increased urination, hunger, dry mouth, fruity breath odor, drowsiness, dry skin, blurred vision, weight loss).",
+    "Common carvedilol side effects may include:",
+    "- weakness, dizziness;",
+    "- diarrhea;",
+    "- dry eyes;",
+    "- tired feeling; or",
+    "- weight gain.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have any of these signs of an allergic reaction to carvedilol: hives; difficulty breathing; swelling of your face, lips, tongue, or throat.\nCall your doctor at once if you have a serious side effect such as:\n- a light-headed feeling, like you might pass out;\n- slow or uneven heartbeats;\n- swelling, rapid weight gain, feeling short of breath (even with mild exertion);\n- cold feeling or numbness in your fingers or toes;\n- chest pain, dry cough, wheezing, chest tightness, trouble breathing; or\n- high blood sugar (increased thirst, increased urination, hunger, dry mouth, fruity breath odor, drowsiness, dry skin, blurred vision, weight loss).\nCommon carvedilol side effects may include:\n- weakness, dizziness;\n- diarrhea;\n- dry eyes;\n- tired feeling; or\n- weight gain.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect carvedilol?",
+   "lines": [
+    "Other drugs may interact with carvedilol, including prescription and over-the-counter medicines, vitamins, and herbal products. Tell each of your health care providers about all medicines you use now and any medicine you start or stop using.",
+    "- Check interactions",
+    "- Compare alternatives",
+    "- Pricing & coupons",
+    "- Reviews (217)",
+    "- Drug images",
+    "- Side effects",
+    "- Dosage information",
+    "- Patient tips",
+    "- During pregnancy",
+    "- Support group",
+    "- Drug class: non-cardioselective beta blockers",
+    "- Breastfeeding",
+    "- En español",
+    "Patient resources:",
+    "Other brands:",
+    "Coreg",
+    "Professional resources:",
+    "- Carvedilol monograph",
+    "- Carvedilol (FDA)",
+    "- Carvedilol Capsule (FDA)",
+    "Other brands:",
+    "Coreg, Coreg CR",
+    "Related treatment guides:",
+    "- Atrial Fibrillation",
+    "- High Blood Pressure",
+    "- Left Ventricular Dysfunction",
+    "- Heart Failure",
+    "- Angina"
+   ],
+   "text": "Other drugs may interact with carvedilol, including prescription and over-the-counter medicines, vitamins, and herbal products. Tell each of your health care providers about all medicines you use now and any medicine you start or stop using.\n- Check interactions\n- Compare alternatives\n- Pricing & coupons\n- Reviews (217)\n- Drug images\n- Side effects\n- Dosage information\n- Patient tips\n- During pregnancy\n- Support group\n- Drug class: non-cardioselective beta blockers\n- Breastfeeding\n- En español\nPatient resources:\nOther brands:\nCoreg\nProfessional resources:\n- Carvedilol monograph\n- Carvedilol (FDA)\n- Carvedilol Capsule (FDA)\nOther brands:\nCoreg, Coreg CR\nRelated treatment guides:\n- Atrial Fibrillation\n- High Blood Pressure\n- Left Ventricular Dysfunction\n- Heart Failure\n- Angina"
+  }
+ ],
+ "rank": 36
+}

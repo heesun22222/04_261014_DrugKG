@@ -1,0 +1,277 @@
+{
+ "name": "Ondansetron",
+ "slug": "ondansetron",
+ "url": "https://www.drugs.com/ondansetron.html",
+ "title": "Ondansetron",
+ "page_title": "Ondansetron Uses, Dosage & Side Effects - Drugs.com",
+ "generic_name": "ondansetron (oral)",
+ "pronunciation": "on-DAN-se-tron",
+ "brand_names": [
+  "Zofran",
+  "Zofran ODT",
+  "Zuplenz"
+ ],
+ "discontinued_brands": [],
+ "drug_classes": [
+  {
+   "name": "5HT3 receptor antagonists",
+   "slug": "5ht3-receptor-antagonists"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Philip Thornton, DipPharm. Last updated on Aug 13, 2026.",
+ "faq": [
+  {
+   "q": "How long before a meal should you take ondansetron?",
+   "a": "If you are taking ondansetron for nausea that occurs with meals, then the standard tablet should be taken half an hour to 1 hour before meals, and the orally disintegrating tablet or oral soluble film can be taken 15 minutes before meals. However, if you are taking ondansetron for constant, all day nausea then it should be taken at regular intervals during the day as prescribed, with or without food."
+  },
+  {
+   "q": "How often can you take ondansetron?",
+   "a": "You can take ondansetron more frequently initially, for example, if you are taking it to prevent or treat nausea of vomiting from chemotherapy you can take 4mg then follow up with another 4mg dose at 4 and 8 hours after the first dose. The following day you should only take it every 8 hours (3 times a day). If you continue taking ondansetron more frequently than this you are at higher risk of side effects such as constipation, headache, or heart effects."
+  },
+  {
+   "q": "Chemo side effects: What should I expect and how to cope?",
+   "a": "Chemotherapy is a drug treatment used to kill fast-growing cancer cells in your body. While chemotherapy is an effective treatment for many types of cancer, it can also damage healthy cells that divide quickly, such as those in your hair follicles, digestive tract, and bone marrow. This widespread effect on healthy tissue is what causes the various side effects associated with chemotherapy treatment."
+  },
+  {
+   "q": "Can you take ondansetron while pregnant?",
+   "a": "Although ondansetron is not specifically approved by the FDA to treat nausea and vomiting during pregnancy (NVP), its use is common, and approximately 25% of pregnant women are prescribed ondansetron to treat NVP. Overall, studies show the use of ondansetron appears to be associated with an additional 3 instances of oral cleft defects (such as cleft lip or cleft palate) for every 10,000 women exposed to ondansetron during their first trimester. There may also be a very slight increased risk of a type of heart defect called a ventricular septal defect, but no apparent increased risk of other birth defects, miscarriage, or fetal death."
+  },
+  {
+   "q": "How long does ondansetron take to work?",
+   "a": "Oral ondansetron usually starts to work within 30 minutes, though it may take up to two hours to reach full effect. Typical timing is: 30 minutes before chemotherapy, 1 hour before surgery, 1 to 2 hours before radiation therapy."
+  },
+  {
+   "q": "Does ondansetron make you sleepy?",
+   "a": "Yes, ondansetron (Zofran) might make you feel sleepy or tired. Ondansetron injection for the treatment of post-operative nausea and vomiting has been reported to cause drowsiness or sedation in 8% of patients vs. 7% of those using a placebo (an inactive treatment). Malaise (generally feeling unwell) and fatigue (tiredness or lack of energy) have also been reported in 13% of patients (vs. 2% placebo) when it is used orally for the prevention of chemotherapy-induced nausea and vomiting."
+  }
+ ],
+ "description": "Ondansetron is used to prevent nausea and vomiting caused by surgery, chemotherapy, or radiation by blocking nausea-triggering chemicals in the body.",
+ "date_modified": "2026-08-13",
+ "reviewed_by": "Philip Thornton",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Zofran",
+   "slug": "zofran",
+   "blurb": "Zofran (ondansetron) is used to prevent nausea and vomiting caused by surgery or cancer medicines..."
+  },
+  {
+   "name": "Ativan",
+   "slug": "ativan",
+   "blurb": "Ativan is a benzodiazepine used to treat anxiety disorders or anxiety associated with depression..."
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Benadryl",
+   "slug": "benadryl",
+   "blurb": "Benadryl is an antihistamine and is used to treat sneezing, runny nose, itching and other..."
+  },
+  {
+   "name": "Promethazine",
+   "slug": "promethazine",
+   "blurb": "Promethazine is a phenothiazine and antihistamine used to treat allergies, motion sickness, nausea..."
+  },
+  {
+   "name": "Metoclopramide",
+   "slug": "metoclopramide",
+   "blurb": "Metoclopramide is used short-term to treat heartburn caused by gastroesophageal reflux. Learn about..."
+  },
+  {
+   "name": "Diphenhydramine",
+   "slug": "diphenhydramine",
+   "blurb": "Diphenhydramine is an antihistamine used to treat sneezing, runny nose, itching, hives and other..."
+  },
+  {
+   "name": "Meclizine",
+   "slug": "meclizine",
+   "blurb": "Meclizine is used to treat or prevent nausea, vomiting, and dizziness caused by motion sickness..."
+  },
+  {
+   "name": "Dexamethasone",
+   "slug": "dexamethasone",
+   "blurb": "Dexamethasone is used to treat inflammatory conditions such as allergies, skin conditions..."
+  },
+  {
+   "name": "Olanzapine",
+   "slug": "olanzapine",
+   "blurb": "Olanzapine (brand name Zyprexa) is an atypical antipsychotic that may be used to treat adults and..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is ondansetron?",
+   "lines": [
+    "Ondansetron blocks the actions of chemicals in the body that can trigger nausea and vomiting.",
+    "Ondansetron is used to prevent nausea and vomiting that may be caused by surgery, cancer chemotherapy, or radiation treatment.",
+    "Ondansetron may be used for purposes not listed in this medication guide."
+   ],
+   "text": "Ondansetron blocks the actions of chemicals in the body that can trigger nausea and vomiting.\nOndansetron is used to prevent nausea and vomiting that may be caused by surgery, cancer chemotherapy, or radiation treatment.\nOndansetron may be used for purposes not listed in this medication guide."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "You should not use ondansetron if you are also using apomorphine (Apokyn).",
+    "You should not use ondansetron if you are allergic to it or to similar medicines such as dolasetron (Anzemet), granisetron (Kytril), or palonosetron (Aloxi).",
+    "Before taking ondansetron, tell your doctor if you have liver disease, or a personal or family history of Long QT syndrome.",
+    "Ondansetron orally disintegrating tablets may contain phenylalanine. Tell your doctor if you have phenylketonuria (PKU).",
+    "Serious side effects of ondansetron include blurred vision or temporary vision loss (lasting from only a few minutes to several hours), slow heart rate, trouble breathing, anxiety, agitation, shivering, feeling like you might pass out, and urinating less than usual or not at all. Stop taking this medicine and call your doctor at once if you have any of these side effects. Ondansetron may impair your thinking or reactions. Be careful if you drive or do anything that requires you to be alert."
+   ],
+   "text": "You should not use ondansetron if you are also using apomorphine (Apokyn).\nYou should not use ondansetron if you are allergic to it or to similar medicines such as dolasetron (Anzemet), granisetron (Kytril), or palonosetron (Aloxi).\nBefore taking ondansetron, tell your doctor if you have liver disease, or a personal or family history of Long QT syndrome.\nOndansetron orally disintegrating tablets may contain phenylalanine. Tell your doctor if you have phenylketonuria (PKU).\nSerious side effects of ondansetron include blurred vision or temporary vision loss (lasting from only a few minutes to several hours), slow heart rate, trouble breathing, anxiety, agitation, shivering, feeling like you might pass out, and urinating less than usual or not at all. Stop taking this medicine and call your doctor at once if you have any of these side effects. Ondansetron may impair your thinking or reactions. Be careful if you drive or do anything that requires you to be alert."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking ondansetron",
+   "lines": [
+    "You should not use ondansetron if:",
+    "- you are also using apomorphine (Apokyn); or",
+    "- you are allergic to ondansetron or similar medicines (dolasetron, granisetron, palonosetron).",
+    "To make sure ondansetron is safe for you, tell your doctor if you have:",
+    "- liver disease;",
+    "- an electrolyte imbalance (such as low levels of potassium or magnesium in your blood);",
+    "- congestive heart failure, slow heartbeats;",
+    "- a personal or family history of long QT syndrome; or",
+    "- a blockage in your digestive tract (stomach or intestines).",
+    "Ondansetron is not expected to harm an unborn baby. Tell your doctor if you are pregnant.",
+    "It is not known whether ondansetron passes into breast milk or if it could harm a nursing baby. Tell your doctor if you are breast-feeding a baby.",
+    "Ondansetron is not approved for use by anyone younger than 1 month old.",
+    "Ondansetron orally disintegrating tablets may contain phenylalanine. Tell your doctor if you have phenylketonuria (PKU)."
+   ],
+   "text": "You should not use ondansetron if:\n- you are also using apomorphine (Apokyn); or\n- you are allergic to ondansetron or similar medicines (dolasetron, granisetron, palonosetron).\nTo make sure ondansetron is safe for you, tell your doctor if you have:\n- liver disease;\n- an electrolyte imbalance (such as low levels of potassium or magnesium in your blood);\n- congestive heart failure, slow heartbeats;\n- a personal or family history of long QT syndrome; or\n- a blockage in your digestive tract (stomach or intestines).\nOndansetron is not expected to harm an unborn baby. Tell your doctor if you are pregnant.\nIt is not known whether ondansetron passes into breast milk or if it could harm a nursing baby. Tell your doctor if you are breast-feeding a baby.\nOndansetron is not approved for use by anyone younger than 1 month old.\nOndansetron orally disintegrating tablets may contain phenylalanine. Tell your doctor if you have phenylketonuria (PKU)."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take ondansetron?",
+   "lines": [
+    "Take ondansetron exactly as prescribed by your doctor. Follow all directions on your prescription label. Do not take this medicine in larger or smaller amounts or for longer than recommended.",
+    "Ondansetron can be taken with or without food.",
+    "The first dose is usually taken before the start of your surgery, chemotherapy, or radiation treatment. Follow your doctor's dosing instructions very carefully.",
+    "Take the ondansetron regular tablet with a full glass of water.",
+    "To take the orally disintegrating tablet (Zofran ODT):",
+    "- Keep the tablet in its blister pack until you are ready to take it. Open the package and peel back the foil. Do not push a tablet through the foil or you may damage the tablet.",
+    "- Use dry hands to remove the tablet and place it in your mouth.",
+    "- Do not swallow the tablet whole. Allow it to dissolve in your mouth without chewing.",
+    "- Swallow several times as the tablet dissolves.",
+    "To use ondansetron oral soluble film (strip) (Zuplenz):",
+    "- Keep the strip in the foil pouch until you are ready to use the medicine.",
+    "- Using dry hands, remove the strip and place it on your tongue. It will begin to dissolve right away.",
+    "- Do not swallow the strip whole. Allow it to dissolve in your mouth without chewing.",
+    "- Swallow several times after the strip dissolves. If desired, you may drink liquid to help swallow the dissolved strip.",
+    "- Wash your hands after using Zuplenz.",
+    "Measure liquid medicine with the dosing syringe provided, or with a special dose-measuring spoon or medicine cup. If you do not have a dose-measuring device, ask your pharmacist for one.",
+    "Store at room temperature away from moisture, heat, and light. Store liquid medicine in an upright position."
+   ],
+   "text": "Take ondansetron exactly as prescribed by your doctor. Follow all directions on your prescription label. Do not take this medicine in larger or smaller amounts or for longer than recommended.\nOndansetron can be taken with or without food.\nThe first dose is usually taken before the start of your surgery, chemotherapy, or radiation treatment. Follow your doctor's dosing instructions very carefully.\nTake the ondansetron regular tablet with a full glass of water.\nTo take the orally disintegrating tablet (Zofran ODT):\n- Keep the tablet in its blister pack until you are ready to take it. Open the package and peel back the foil. Do not push a tablet through the foil or you may damage the tablet.\n- Use dry hands to remove the tablet and place it in your mouth.\n- Do not swallow the tablet whole. Allow it to dissolve in your mouth without chewing.\n- Swallow several times as the tablet dissolves.\nTo use ondansetron oral soluble film (strip) (Zuplenz):\n- Keep the strip in the foil pouch until you are ready to use the medicine.\n- Using dry hands, remove the strip and place it on your tongue. It will begin to dissolve right away.\n- Do not swallow the strip whole. Allow it to dissolve in your mouth without chewing.\n- Swallow several times after the strip dissolves. If desired, you may drink liquid to help swallow the dissolved strip.\n- Wash your hands after using Zuplenz.\nMeasure liquid medicine with the dosing syringe provided, or with a special dose-measuring spoon or medicine cup. If you do not have a dose-measuring device, ask your pharmacist for one.\nStore at room temperature away from moisture, heat, and light. Store liquid medicine in an upright position."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the missed dose as soon as you remember. Skip the missed dose if it is almost time for your next scheduled dose. Do not take extra medicine to make up the missed dose."
+   ],
+   "text": "Take the missed dose as soon as you remember. Skip the missed dose if it is almost time for your next scheduled dose. Do not take extra medicine to make up the missed dose."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.",
+    "Overdose symptoms may include sudden loss of vision, severe constipation, feeling light-headed, or fainting."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.\nOverdose symptoms may include sudden loss of vision, severe constipation, feeling light-headed, or fainting."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What to avoid",
+   "lines": [
+    "Ondansetron may impair your thinking or reactions. Be careful if you drive or do anything that requires you to be alert."
+   ],
+   "text": "Ondansetron may impair your thinking or reactions. Be careful if you drive or do anything that requires you to be alert."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Ondansetron side effects",
+   "lines": [
+    "Get emergency medical help if you have signs of an allergic reaction to ondansetron: rash, hives; fever, chills, difficult breathing; swelling of your face, lips, tongue, or throat.",
+    "Call your doctor at once if you have:",
+    "- severe constipation, stomach pain, or bloating;",
+    "- sudden chest pain or chest tightness, severe dizziness, fainting, fast or pounding heartbeats;",
+    "- fast or pounding heartbeats;",
+    "- jaundice (yellowing of the skin or eyes);",
+    "- blurred vision or temporary vision loss (lasting from only a few minutes to several hours);",
+    "- high levels of serotonin in the body--agitation, hallucinations, fever, fast heart rate, overactive reflexes, nausea, vomiting, diarrhea, loss of coordination, fainting.",
+    "Common ondansetron side effects may include:",
+    "- diarrhea or constipation;",
+    "- headache;",
+    "- drowsiness; or",
+    "- tired feeling.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have signs of an allergic reaction to ondansetron: rash, hives; fever, chills, difficult breathing; swelling of your face, lips, tongue, or throat.\nCall your doctor at once if you have:\n- severe constipation, stomach pain, or bloating;\n- sudden chest pain or chest tightness, severe dizziness, fainting, fast or pounding heartbeats;\n- fast or pounding heartbeats;\n- jaundice (yellowing of the skin or eyes);\n- blurred vision or temporary vision loss (lasting from only a few minutes to several hours);\n- high levels of serotonin in the body--agitation, hallucinations, fever, fast heart rate, overactive reflexes, nausea, vomiting, diarrhea, loss of coordination, fainting.\nCommon ondansetron side effects may include:\n- diarrhea or constipation;\n- headache;\n- drowsiness; or\n- tired feeling.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Dosing information",
+   "lines": [
+    "Usual Adult Dose of Ondansetron for Nausea/Vomiting -- Chemotherapy Induced:",
+    "Oral: Highly Emetogenic Cancer Chemotherapy (HEC): -Recommended dose: 24 mg orally 30 minutes before the start of single-day HEC (including cisplatin doses of 50 mg/m2 or greater) Moderately Emetogenic Cancer Chemotherapy (MEC): -Recommended dose: 8 mg orally twice a day, with the first dose administered 30 minutes before the start of chemotherapy and the subsequent dose 8 hours later; then 8 mg orally 2 times a day (every 12 hours) for 1 to 2 days after the completion of chemotherapy Parenteral: -Recommended dose: 0.15 mg/kg IV, with the first dose (infused over 15 minutes) 30 minutes before the start of emetogenic chemotherapy and subsequent doses given 4 and 8 hours after the first dose. -Maximum dose: 16 mg per dose Comments: -Multi-day, single-dose administration of 24 mg orally for HEC has not been studied. -The injection formulation should be diluted prior to IV administration. Uses: -Prevention of nausea and vomiting associated with HEC or MEC -Prevention of nausea and vomiting associated with initial and repeat courses of emetogenic chemotherapy",
+    "Usual Adult Dose of Ondansetron for Nausea/Vomiting:",
+    "Oral: Highly Emetogenic Cancer Chemotherapy (HEC): -Recommended dose: 24 mg orally 30 minutes before the start of single-day HEC (including cisplatin doses of 50 mg/m2 or greater) Moderately Emetogenic Cancer Chemotherapy (MEC): -Recommended dose: 8 mg orally twice a day, with the first dose administered 30 minutes before the start of chemotherapy and the subsequent dose 8 hours later; then 8 mg orally 2 times a day (every 12 hours) for 1 to 2 days after the completion of chemotherapy Parenteral: -Recommended dose: 0.15 mg/kg IV, with the first dose (infused over 15 minutes) 30 minutes before the start of emetogenic chemotherapy and subsequent doses given 4 and 8 hours after the first dose. -Maximum dose: 16 mg per dose Comments: -Multi-day, single-dose administration of 24 mg orally for HEC has not been studied. -The injection formulation should be diluted prior to IV administration. Uses: -Prevention of nausea and vomiting associated with HEC or MEC -Prevention of nausea and vomiting associated with initial and repeat courses of emetogenic chemotherapy",
+    "Usual Adult Dose of Ondansetron for Nausea/Vomiting -- Postoperative:",
+    "Oral: -Recommended dose: 16 mg orally 1 hour before the induction of anesthesia Parenteral: -Recommended dose: 4 mg IV (undiluted) immediately before induction of anesthesia or postoperatively (nausea and/or vomiting within 2 hours after surgery) -Alternative route: 4 mg IM (undiluted) Comment: -Administration of a second dose does not provide additional control of nausea and vomiting. Use: -Prevention of postoperative nausea and vomiting",
+    "Usual Adult Dose for Nausea/Vomiting--Radiation Induced:",
+    "Recommended dose: 8 mg orally 3 times a day -Total Body Irradiation: 8 mg orally 1 to 2 hours before each fraction of radiotherapy administered each day -Single High-dose Fraction Radiotherapy to the Abdomen: 8 mg orally 1 to 2 hours before radiotherapy, with subsequent doses every 8 hours after the first dose for 1 to 2 days after the completion of radiotherapy -Daily Fractionated Radiotherapy to the Abdomen: 8 mg orally 1 to 2 hours before radiotherapy, with subsequent doses every 8 hours after the first dose for each day radiotherapy is given Use: -Prevention of nausea and vomiting associated with radiotherapy, either as total body irradiation, single high-dose fraction, or daily fractions to the abdomen",
+    "Usual Pediatric Dose for Nausea/Vomiting -- Postoperative:",
+    "Parenteral: 1 month to 12 years: Less than 40 kg: -Recommended dose: 0.1 mg/kg IV over 2 to 5 minutes immediately prior to/following anesthesia induction or postoperatively (nausea and/or vomiting occurring shortly after surgery) 40 kg and greater: -Recommended dose: 4 mg IV over 2 to 5 minutes immediately prior to/following anesthesia induction or postoperatively (nausea and/or vomiting occurring shortly after surgery) Use: -Prevention of postoperative nausea and vomiting",
+    "Usual Pediatric Dose for Nausea/Vomiting -- Chemotherapy Induced:",
+    "Oral: 4 to 11 years: -Recommended dose: 4 mg orally 3 times a day, with the first dose administered 30 minutes before the start of chemotherapy, and subsequent doses 4 and 8 hours after the first dose; then 4 mg orally 3 times a day (every 8 hours) for 1 to 2 days after the completion of chemotherapy 12 years and older: -Recommended dose: 8 mg orally twice a day, with the first dose administered 30 minutes before the start of chemotherapy and the subsequent dose 8 hours later; then 8 mg orally 2 times a day (every 12 hours) for 1 to 2 days after the completion of chemotherapy Parenteral: 6 months to 18 years: -Recommended dose: 0.15 mg/kg IV, with the first dose (infused over 15 minutes) 30 minutes before the start of emetogenic chemotherapy, and subsequent doses given 4 and 8 hours after the first dose -Maximum dose: 16 mg (per dose) Comments: -The injection formulation should be diluted in 50 mL prior to IV administration. -This drug should be used to prevent nausea and vomiting associated with moderately to highly emetogenic chemotherapy. Uses: -Prevention of nausea and vomiting associated with moderately emetogenic cancer chemotherapy -Prevention of nausea and vomiting associated with initial and repeat courses of emetogenic chemotherapy"
+   ],
+   "text": "Usual Adult Dose of Ondansetron for Nausea/Vomiting -- Chemotherapy Induced:\nOral: Highly Emetogenic Cancer Chemotherapy (HEC): -Recommended dose: 24 mg orally 30 minutes before the start of single-day HEC (including cisplatin doses of 50 mg/m2 or greater) Moderately Emetogenic Cancer Chemotherapy (MEC): -Recommended dose: 8 mg orally twice a day, with the first dose administered 30 minutes before the start of chemotherapy and the subsequent dose 8 hours later; then 8 mg orally 2 times a day (every 12 hours) for 1 to 2 days after the completion of chemotherapy Parenteral: -Recommended dose: 0.15 mg/kg IV, with the first dose (infused over 15 minutes) 30 minutes before the start of emetogenic chemotherapy and subsequent doses given 4 and 8 hours after the first dose. -Maximum dose: 16 mg per dose Comments: -Multi-day, single-dose administration of 24 mg orally for HEC has not been studied. -The injection formulation should be diluted prior to IV administration. Uses: -Prevention of nausea and vomiting associated with HEC or MEC -Prevention of nausea and vomiting associated with initial and repeat courses of emetogenic chemotherapy\nUsual Adult Dose of Ondansetron for Nausea/Vomiting:\nOral: Highly Emetogenic Cancer Chemotherapy (HEC): -Recommended dose: 24 mg orally 30 minutes before the start of single-day HEC (including cisplatin doses of 50 mg/m2 or greater) Moderately Emetogenic Cancer Chemotherapy (MEC): -Recommended dose: 8 mg orally twice a day, with the first dose administered 30 minutes before the start of chemotherapy and the subsequent dose 8 hours later; then 8 mg orally 2 times a day (every 12 hours) for 1 to 2 days after the completion of chemotherapy Parenteral: -Recommended dose: 0.15 mg/kg IV, with the first dose (infused over 15 minutes) 30 minutes before the start of emetogenic chemotherapy and subsequent doses given 4 and 8 hours after the first dose. -Maximum dose: 16 mg per dose Comments: -Multi-day, single-dose administration of 24 mg orally for HEC has not been studied. -The injection formulation should be diluted prior to IV administration. Uses: -Prevention of nausea and vomiting associated with HEC or MEC -Prevention of nausea and vomiting associated with initial and repeat courses of emetogenic chemotherapy\nUsual Adult Dose of Ondansetron for Nausea/Vomiting -- Postoperative:\nOral: -Recommended dose: 16 mg orally 1 hour before the induction of anesthesia Parenteral: -Recommended dose: 4 mg IV (undiluted) immediately before induction of anesthesia or postoperatively (nausea and/or vomiting within 2 hours after surgery) -Alternative route: 4 mg IM (undiluted) Comment: -Administration of a second dose does not provide additional control of nausea and vomiting. Use: -Prevention of postoperative nausea and vomiting\nUsual Adult Dose for Nausea/Vomiting--Radiation Induced:\nRecommended dose: 8 mg orally 3 times a day -Total Body Irradiation: 8 mg orally 1 to 2 hours before each fraction of radiotherapy administered each day -Single High-dose Fraction Radiotherapy to the Abdomen: 8 mg orally 1 to 2 hours before radiotherapy, with subsequent doses every 8 hours after the first dose for 1 to 2 days after the completion of radiotherapy -Daily Fractionated Radiotherapy to the Abdomen: 8 mg orally 1 to 2 hours before radiotherapy, with subsequent doses every 8 hours after the first dose for each day radiotherapy is given Use: -Prevention of nausea and vomiting associated with radiotherapy, either as total body irradiation, single high-dose fraction, or daily fractions to the abdomen\nUsual Pediatric Dose for Nausea/Vomiting -- Postoperative:\nParenteral: 1 month to 12 years: Less than 40 kg: -Recommended dose: 0.1 mg/kg IV over 2 to 5 minutes immediately prior to/following anesthesia induction or postoperatively (nausea and/or vomiting occurring shortly after surgery) 40 kg and greater: -Recommended dose: 4 mg IV over 2 to 5 minutes immediately prior to/following anesthesia induction or postoperatively (nausea and/or vomiting occurring shortly after surgery) Use: -Prevention of postoperative nausea and vomiting\nUsual Pediatric Dose for Nausea/Vomiting -- Chemotherapy Induced:\nOral: 4 to 11 years: -Recommended dose: 4 mg orally 3 times a day, with the first dose administered 30 minutes before the start of chemotherapy, and subsequent doses 4 and 8 hours after the first dose; then 4 mg orally 3 times a day (every 8 hours) for 1 to 2 days after the completion of chemotherapy 12 years and older: -Recommended dose: 8 mg orally twice a day, with the first dose administered 30 minutes before the start of chemotherapy and the subsequent dose 8 hours later; then 8 mg orally 2 times a day (every 12 hours) for 1 to 2 days after the completion of chemotherapy Parenteral: 6 months to 18 years: -Recommended dose: 0.15 mg/kg IV, with the first dose (infused over 15 minutes) 30 minutes before the start of emetogenic chemotherapy, and subsequent doses given 4 and 8 hours after the first dose -Maximum dose: 16 mg (per dose) Comments: -The injection formulation should be diluted in 50 mL prior to IV administration. -This drug should be used to prevent nausea and vomiting associated with moderately to highly emetogenic chemotherapy. Uses: -Prevention of nausea and vomiting associated with moderately emetogenic cancer chemotherapy -Prevention of nausea and vomiting associated with initial and repeat courses of emetogenic chemotherapy"
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect ondansetron?",
+   "lines": [
+    "Ondansetron can cause a serious heart problem, especially if you use certain medicines at the same time, including antibiotics, antidepressants, heart rhythm medicine, antipsychotic medicines, and medicines to treat cancer, malaria, HIV or AIDS. Tell your doctor about all medicines you use, and those you start or stop using during your treatment with ondansetron.",
+    "Taking ondansetron while you are using certain other medicines can cause high levels of serotonin to build up in your body, a condition called \"serotonin syndrome,\" which can be fatal. Tell your doctor if you also use:",
+    "- medicine to treat depression;",
+    "- medicine to treat a psychiatric disorder;",
+    "- a narcotic (opioid) medication; or",
+    "- medicine to prevent nausea and vomiting.",
+    "This list is not complete and many other drugs can interact with ondansetron. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Give a list of all your medicines to any healthcare provider who treats you."
+   ],
+   "text": "Ondansetron can cause a serious heart problem, especially if you use certain medicines at the same time, including antibiotics, antidepressants, heart rhythm medicine, antipsychotic medicines, and medicines to treat cancer, malaria, HIV or AIDS. Tell your doctor about all medicines you use, and those you start or stop using during your treatment with ondansetron.\nTaking ondansetron while you are using certain other medicines can cause high levels of serotonin to build up in your body, a condition called \"serotonin syndrome,\" which can be fatal. Tell your doctor if you also use:\n- medicine to treat depression;\n- medicine to treat a psychiatric disorder;\n- a narcotic (opioid) medication; or\n- medicine to prevent nausea and vomiting.\nThis list is not complete and many other drugs can interact with ondansetron. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Give a list of all your medicines to any healthcare provider who treats you."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: How long before a meal should you take ondansetron? A: If you are taking ondansetron for nausea that occurs with meals, then the standard tablet should be taken half an hour to 1 hour before meals, and the orally disintegrating tablet or oral soluble film can be taken 15 minutes before meals. However, if you are taking ondansetron for constant, all day nausea then it should be taken at regular intervals during the day as prescribed, with or without food.",
+    "Q: How often can you take ondansetron? A: You can take ondansetron more frequently initially, for example, if you are taking it to prevent or treat nausea of vomiting from chemotherapy you can take 4mg then follow up with another 4mg dose at 4 and 8 hours after the first dose. The following day you should only take it every 8 hours (3 times a day). If you continue taking ondansetron more frequently than this you are at higher risk of side effects such as constipation, headache, or heart effects.",
+    "Q: Chemo side effects: What should I expect and how to cope? A: Chemotherapy is a drug treatment used to kill fast-growing cancer cells in your body. While chemotherapy is an effective treatment for many types of cancer, it can also damage healthy cells that divide quickly, such as those in your hair follicles, digestive tract, and bone marrow. This widespread effect on healthy tissue is what causes the various side effects associated with chemotherapy treatment.",
+    "Q: Can you take ondansetron while pregnant? A: Although ondansetron is not specifically approved by the FDA to treat nausea and vomiting during pregnancy (NVP), its use is common, and approximately 25% of pregnant women are prescribed ondansetron to treat NVP. Overall, studies show the use of ondansetron appears to be associated with an additional 3 instances of oral cleft defects (such as cleft lip or cleft palate) for every 10,000 women exposed to ondansetron during their first trimester. There may also be a very slight increased risk of a type of heart defect called a ventricular septal defect, but no apparent increased risk of other birth defects, miscarriage, or fetal death.",
+    "Q: How long does ondansetron take to work? A: Oral ondansetron usually starts to work within 30 minutes, though it may take up to two hours to reach full effect. Typical timing is: 30 minutes before chemotherapy, 1 hour before surgery, 1 to 2 hours before radiation therapy.",
+    "Q: Does ondansetron make you sleepy? A: Yes, ondansetron (Zofran) might make you feel sleepy or tired. Ondansetron injection for the treatment of post-operative nausea and vomiting has been reported to cause drowsiness or sedation in 8% of patients vs. 7% of those using a placebo (an inactive treatment). Malaise (generally feeling unwell) and fatigue (tiredness or lack of energy) have also been reported in 13% of patients (vs. 2% placebo) when it is used orally for the prevention of chemotherapy-induced nausea and vomiting."
+   ],
+   "text": "Q: How long before a meal should you take ondansetron? A: If you are taking ondansetron for nausea that occurs with meals, then the standard tablet should be taken half an hour to 1 hour before meals, and the orally disintegrating tablet or oral soluble film can be taken 15 minutes before meals. However, if you are taking ondansetron for constant, all day nausea then it should be taken at regular intervals during the day as prescribed, with or without food.\nQ: How often can you take ondansetron? A: You can take ondansetron more frequently initially, for example, if you are taking it to prevent or treat nausea of vomiting from chemotherapy you can take 4mg then follow up with another 4mg dose at 4 and 8 hours after the first dose. The following day you should only take it every 8 hours (3 times a day). If you continue taking ondansetron more frequently than this you are at higher risk of side effects such as constipation, headache, or heart effects.\nQ: Chemo side effects: What should I expect and how to cope? A: Chemotherapy is a drug treatment used to kill fast-growing cancer cells in your body. While chemotherapy is an effective treatment for many types of cancer, it can also damage healthy cells that divide quickly, such as those in your hair follicles, digestive tract, and bone marrow. This widespread effect on healthy tissue is what causes the various side effects associated with chemotherapy treatment.\nQ: Can you take ondansetron while pregnant? A: Although ondansetron is not specifically approved by the FDA to treat nausea and vomiting during pregnancy (NVP), its use is common, and approximately 25% of pregnant women are prescribed ondansetron to treat NVP. Overall, studies show the use of ondansetron appears to be associated with an additional 3 instances of oral cleft defects (such as cleft lip or cleft palate) for every 10,000 women exposed to ondansetron during their first trimester. There may also be a very slight increased risk of a type of heart defect called a ventricular septal defect, but no apparent increased risk of other birth defects, miscarriage, or fetal death.\nQ: How long does ondansetron take to work? A: Oral ondansetron usually starts to work within 30 minutes, though it may take up to two hours to reach full effect. Typical timing is: 30 minutes before chemotherapy, 1 hour before surgery, 1 to 2 hours before radiation therapy.\nQ: Does ondansetron make you sleepy? A: Yes, ondansetron (Zofran) might make you feel sleepy or tired. Ondansetron injection for the treatment of post-operative nausea and vomiting has been reported to cause drowsiness or sedation in 8% of patients vs. 7% of those using a placebo (an inactive treatment). Malaise (generally feeling unwell) and fatigue (tiredness or lack of energy) have also been reported in 13% of patients (vs. 2% placebo) when it is used orally for the prevention of chemotherapy-induced nausea and vomiting."
+  }
+ ],
+ "rank": 48
+}

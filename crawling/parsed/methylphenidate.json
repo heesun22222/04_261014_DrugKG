@@ -1,0 +1,258 @@
+{
+ "name": "Methylphenidate",
+ "slug": "methylphenidate",
+ "url": "https://www.drugs.com/methylphenidate.html",
+ "title": "Methylphenidate",
+ "page_title": "Methylphenidate: Uses, Dosage, Side Effects - Drugs.com",
+ "generic_name": "methylphenidate (oral)",
+ "pronunciation": "METH-il-FEN-i-date",
+ "brand_names": [
+  "Adhansia XR",
+  "Aptensio XR",
+  "Concerta",
+  "Cotempla XR-ODT",
+  "Jornay PM",
+  "show all 12 brands Metadate ER",
+  "Methylin",
+  "QuilliChew ER",
+  "Quillivant XR",
+  "Relexxii",
+  "Ritalin",
+  "Ritalin LA"
+ ],
+ "discontinued_brands": [],
+ "drug_classes": [
+  {
+   "name": "CNS stimulants",
+   "slug": "cns-stimulants"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Philip Thornton, DipPharm. Last updated on Aug 24, 2026.",
+ "faq": [
+  {
+   "q": "What is metilfenidato used for?",
+   "a": "Metilfenidato is the Spanish, Italian, and Portuguese translation for methylphenidate which may be used to treat children or adults with attention deficit hyperactivity disorder (ADHD) to help with hyperactivity and impulsive behavior, and allow them to concentrate better. Metilfenidato may also be used to treat adults with narcolepsy. Metilfenidato translates to methylphenidate."
+  }
+ ],
+ "description": "Methylphenidate is used to treat attention deficit disorder (ADD) and attention deficit hyperactivity disorder (ADHD). Learn about side effects, interactions and indications.",
+ "date_modified": "2026-08-24",
+ "reviewed_by": "Philip Thornton",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Xywav",
+   "slug": "xywav",
+   "blurb": "Xywav is used for the treatment of cataplexy and excessive daytime sleepiness (EDS) in patients..."
+  },
+  {
+   "name": "Xyrem",
+   "slug": "xyrem",
+   "blurb": "Xyrem (sodium oxybate) is an oral prescription solution that may be used to treat cataplexy or..."
+  },
+  {
+   "name": "Rexulti",
+   "slug": "rexulti",
+   "blurb": "Rexulti is an antipsychotic used to treat major depressive disorder, schizophrenia, or agitation..."
+  },
+  {
+   "name": "Adderall",
+   "slug": "adderall",
+   "blurb": "Adderall (amphetamine and dextroamphetamine) is used to treat narcolepsy and ADHD. Includes side..."
+  },
+  {
+   "name": "Vyvanse",
+   "slug": "vyvanse",
+   "blurb": "Vyvanse is a prescription stimulant used to treat ADHD in children and adults, and binge eating..."
+  },
+  {
+   "name": "Strattera",
+   "slug": "strattera",
+   "blurb": "Strattera (atomoxetine) is used to treat attention deficit hyperactivity disorder. Learn about side..."
+  },
+  {
+   "name": "Concerta",
+   "slug": "concerta",
+   "blurb": "Concerta is used to treat attention deficit disorder (ADD) and attention deficit hyperactivity..."
+  },
+  {
+   "name": "Ritalin",
+   "slug": "ritalin",
+   "blurb": "Ritalin (methylphenidate) is used to treat attention deficit disorder (ADD) and narcolepsy..."
+  },
+  {
+   "name": "Adderall XR",
+   "slug": "mtm/adderall-xr",
+   "blurb": "Adderall XR is used for ADHD"
+  },
+  {
+   "name": "Focalin",
+   "slug": "focalin",
+   "blurb": "Focalin (dexmethylphenidate) is used to treat attention deficit hyperactivity disorder (ADHD)..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is methylphenidate?",
+   "lines": [
+    "Methylphenidate is a central nervous system stimulant. It affects chemicals in the brain and nerves that contribute to hyperactivity and impulse control.",
+    "Methylphenidate is used to treat attention deficit disorder (ADD), attention deficit hyperactivity disorder (ADHD), and narcolepsy.",
+    "Methylphenidate should be used as a part of a total treatment program for ADHD that may include counseling or other therapies."
+   ],
+   "text": "Methylphenidate is a central nervous system stimulant. It affects chemicals in the brain and nerves that contribute to hyperactivity and impulse control.\nMethylphenidate is used to treat attention deficit disorder (ADD), attention deficit hyperactivity disorder (ADHD), and narcolepsy.\nMethylphenidate should be used as a part of a total treatment program for ADHD that may include counseling or other therapies."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Methylphenidate may be habit-forming. Misuse can cause addiction, overdose, or death. Tell your doctor if you have had problems with drug or alcohol abuse.",
+    "Stimulants have caused stroke, heart attack, and sudden death in people with high blood pressure, heart disease, or a heart defect.",
+    "Do not use methylphenidate if you have used an MAO inhibitor in the past 14 days, such as isocarboxazid, linezolid, methylene blue injection, phenelzine, rasagiline, selegiline, or tranylcypromine.",
+    "Methylphenidate may cause new or worsening psychosis (unusual thoughts or behavior), especially if you have a history of depression, mental illness, or bipolar disorder.",
+    "You may have blood circulation problems that can cause numbness, pain, or discoloration in your fingers or toes.",
+    "Call your doctor right away if you have: signs of heart problems - chest pain, feeling light-headed or short of breath; signs of psychosis - paranoia, aggression, new behavior problems, seeing or hearing things that are not real; signs of circulation problems - unexplained wounds on your fingers or toes.",
+    "Tell your doctor if you have a history of drug or alcohol addiction. Keep the medication where others cannot get to it."
+   ],
+   "text": "Methylphenidate may be habit-forming. Misuse can cause addiction, overdose, or death. Tell your doctor if you have had problems with drug or alcohol abuse.\nStimulants have caused stroke, heart attack, and sudden death in people with high blood pressure, heart disease, or a heart defect.\nDo not use methylphenidate if you have used an MAO inhibitor in the past 14 days, such as isocarboxazid, linezolid, methylene blue injection, phenelzine, rasagiline, selegiline, or tranylcypromine.\nMethylphenidate may cause new or worsening psychosis (unusual thoughts or behavior), especially if you have a history of depression, mental illness, or bipolar disorder.\nYou may have blood circulation problems that can cause numbness, pain, or discoloration in your fingers or toes.\nCall your doctor right away if you have: signs of heart problems - chest pain, feeling light-headed or short of breath; signs of psychosis - paranoia, aggression, new behavior problems, seeing or hearing things that are not real; signs of circulation problems - unexplained wounds on your fingers or toes.\nTell your doctor if you have a history of drug or alcohol addiction. Keep the medication where others cannot get to it."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not use methylphenidate if you are allergic to it, or if you have:",
+    "- glaucoma:",
+    "- pheochromocytoma (tumor of the adrenal gland);",
+    "- severe high blood pressure or a heart problem;",
+    "- overactive thyroid;",
+    "- a personal or family history of tics (muscle twitches) or Tourette's syndrome; or",
+    "- severe anxiety, tension, or agitation (stimulant medicine can make these symptoms worse).",
+    "Stimulants have caused stroke, heart attack, and sudden death in certain people. Tell your doctor if you have:",
+    "- heart problems or a congenital heart defect;",
+    "- high blood pressure; or",
+    "- a family history of heart disease or sudden death.",
+    "Do not use methylphenidate if you have used an MAO inhibitor in the past 14 days. A dangerous drug interaction could occur. MAO inhibitors include isocarboxazid, linezolid, methylene blue injection, phenelzine, and tranylcypromine.",
+    "Tell your doctor if you also use opioid medicine, herbal products, or medicine for depression, mental illness, Parkinson's disease, migraine headaches, serious infections, or prevention of nausea and vomiting. An interaction with methylphenidate could cause a serious condition called serotonin syndrome.",
+    "Tell your doctor if you or anyone in your family has ever had:",
+    "- depression, mental illness, bipolar disorder, psychosis, or suicidal thoughts or actions;",
+    "- blood circulation problems in the hands or feet;",
+    "- alcoholism or drug addiction; or",
+    "- if you take Adhansia - an allergy to aspirin or yellow food dye.",
+    "- phenylketonuria (PKU), as some chewable tablets contain phenylalanine.",
+    "To make sure methylphenidate is safe for you, tell your doctor if you have::",
+    "- problems with the esophagus, stomach, or intestines; or",
+    "- seizures, epilepsy, or an abnormal brain wave test (EEG).",
+    "Becoming dependent on methylphenidate during pregnancy can cause premature birth or low birth weight. Tell your doctor if you are pregnant or plan to become pregnant. If you are pregnant, your name may be listed on a pregnancy registry to track the effects of methylphenidate on the baby.",
+    "Ask a doctor if it is safe to breastfeed while using this medicine. If you are breastfeeding, tell your doctor if you notice symptoms in the baby such as agitation, sleep problems, feeding problems, or reduced weight gain.",
+    "methylphenidate is not approved for use by anyone younger than 6 years old."
+   ],
+   "text": "You should not use methylphenidate if you are allergic to it, or if you have:\n- glaucoma:\n- pheochromocytoma (tumor of the adrenal gland);\n- severe high blood pressure or a heart problem;\n- overactive thyroid;\n- a personal or family history of tics (muscle twitches) or Tourette's syndrome; or\n- severe anxiety, tension, or agitation (stimulant medicine can make these symptoms worse).\nStimulants have caused stroke, heart attack, and sudden death in certain people. Tell your doctor if you have:\n- heart problems or a congenital heart defect;\n- high blood pressure; or\n- a family history of heart disease or sudden death.\nDo not use methylphenidate if you have used an MAO inhibitor in the past 14 days. A dangerous drug interaction could occur. MAO inhibitors include isocarboxazid, linezolid, methylene blue injection, phenelzine, and tranylcypromine.\nTell your doctor if you also use opioid medicine, herbal products, or medicine for depression, mental illness, Parkinson's disease, migraine headaches, serious infections, or prevention of nausea and vomiting. An interaction with methylphenidate could cause a serious condition called serotonin syndrome.\nTell your doctor if you or anyone in your family has ever had:\n- depression, mental illness, bipolar disorder, psychosis, or suicidal thoughts or actions;\n- blood circulation problems in the hands or feet;\n- alcoholism or drug addiction; or\n- if you take Adhansia - an allergy to aspirin or yellow food dye.\n- phenylketonuria (PKU), as some chewable tablets contain phenylalanine.\nTo make sure methylphenidate is safe for you, tell your doctor if you have::\n- problems with the esophagus, stomach, or intestines; or\n- seizures, epilepsy, or an abnormal brain wave test (EEG).\nBecoming dependent on methylphenidate during pregnancy can cause premature birth or low birth weight. Tell your doctor if you are pregnant or plan to become pregnant. If you are pregnant, your name may be listed on a pregnancy registry to track the effects of methylphenidate on the baby.\nAsk a doctor if it is safe to breastfeed while using this medicine. If you are breastfeeding, tell your doctor if you notice symptoms in the baby such as agitation, sleep problems, feeding problems, or reduced weight gain.\nmethylphenidate is not approved for use by anyone younger than 6 years old."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "How should I take methylphenidate?",
+   "lines": [
+    "Take methylphenidate exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.",
+    "Methylphenidate may be habit-forming. Misuse can cause addiction, overdose, or death. Keep the medication where others cannot get to it. Selling or giving away this medicine is against the law.",
+    "Your dose needs may change if you switch to a different brand, strength, or form of this medicine. Avoid medication errors by using only the medicine your doctor prescribes.",
+    "Most brands of methylphenidate are taken 1 or 2 times during the day. Jornay PM is for use only at night between 6:30 and 9:30 pm.",
+    "You may take methylphenidate with or without food, but take it the same way each time.",
+    "Swallow the extended-release capsule or tablet whole and do not crush, chew, or break it.",
+    "If you cannot swallow an extended-release CAPSULE whole, open it and mix the medicine with soft food such as applesauce, pudding or yogurt. Swallow the mixture right away WITHOUT CHEWING.",
+    "You must chew the chewable tablet well and swallow it with at least 8 ounces (a full glass) of water or other liquid to prevent choking.",
+    "Measure liquid medicine with the supplied measuring device (not a kitchen spoon).",
+    "Allow the orally disintegrating tablet to dissolve in your mouth without chewing.",
+    "Apply the skin patch to your hip area 2 hours before an effect is needed and remove it within 9 hours. Do not wear the patch longer than 9 hours a day. Avoid exposing the patch to direct external heat sources, such as hair dryers, heating pads, or electric blankets.",
+    "Tell your doctor if you have a planned surgery.",
+    "Your treatment may also include counseling or other treatments.",
+    "Your doctor will need to check your progress on a regular basis. Your heart and blood pressure may also need to be checked often.",
+    "Store tightly closed at room temperature, away from moisture, heat, and light. Keep your medicine in a place where no one can use it improperly.",
+    "Do not keep leftover medicine. Ask your pharmacist about a drug take-back program. You may also mix the leftover medicine with cat litter or coffee grounds in a sealed plastic bag and throw the bag in the trash."
+   ],
+   "text": "Take methylphenidate exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.\nMethylphenidate may be habit-forming. Misuse can cause addiction, overdose, or death. Keep the medication where others cannot get to it. Selling or giving away this medicine is against the law.\nYour dose needs may change if you switch to a different brand, strength, or form of this medicine. Avoid medication errors by using only the medicine your doctor prescribes.\nMost brands of methylphenidate are taken 1 or 2 times during the day. Jornay PM is for use only at night between 6:30 and 9:30 pm.\nYou may take methylphenidate with or without food, but take it the same way each time.\nSwallow the extended-release capsule or tablet whole and do not crush, chew, or break it.\nIf you cannot swallow an extended-release CAPSULE whole, open it and mix the medicine with soft food such as applesauce, pudding or yogurt. Swallow the mixture right away WITHOUT CHEWING.\nYou must chew the chewable tablet well and swallow it with at least 8 ounces (a full glass) of water or other liquid to prevent choking.\nMeasure liquid medicine with the supplied measuring device (not a kitchen spoon).\nAllow the orally disintegrating tablet to dissolve in your mouth without chewing.\nApply the skin patch to your hip area 2 hours before an effect is needed and remove it within 9 hours. Do not wear the patch longer than 9 hours a day. Avoid exposing the patch to direct external heat sources, such as hair dryers, heating pads, or electric blankets.\nTell your doctor if you have a planned surgery.\nYour treatment may also include counseling or other treatments.\nYour doctor will need to check your progress on a regular basis. Your heart and blood pressure may also need to be checked often.\nStore tightly closed at room temperature, away from moisture, heat, and light. Keep your medicine in a place where no one can use it improperly.\nDo not keep leftover medicine. Ask your pharmacist about a drug take-back program. You may also mix the leftover medicine with cat litter or coffee grounds in a sealed plastic bag and throw the bag in the trash."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+   ],
+   "text": "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222. An overdose of methylphenidate could be fatal.",
+    "Overdose symptoms may include nausea, dry mouth, vomiting, diarrhea, anxiety, agitation, restlessness, tremor, muscle twitches, rapid breathing, confusion, hallucinations, dilated pupils, muscle pain or weakness, fever, sweating, headache, pounding in your neck or ears, fast or pounding heartbeats, feeling light-headed, fainting, seizure (convulsions), or coma."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222. An overdose of methylphenidate could be fatal.\nOverdose symptoms may include nausea, dry mouth, vomiting, diarrhea, anxiety, agitation, restlessness, tremor, muscle twitches, rapid breathing, confusion, hallucinations, dilated pupils, muscle pain or weakness, fever, sweating, headache, pounding in your neck or ears, fast or pounding heartbeats, feeling light-headed, fainting, seizure (convulsions), or coma."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking methylphenidate?",
+   "lines": [
+    "Avoid drinking alcohol.",
+    "Avoid driving or hazardous activity until you know how methylphenidate will affect you. Your reactions could be impaired."
+   ],
+   "text": "Avoid drinking alcohol.\nAvoid driving or hazardous activity until you know how methylphenidate will affect you. Your reactions could be impaired."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Methylphenidate side effects",
+   "lines": [
+    "Get emergency medical help if you have signs of an allergic reaction to methylphenidate: hives; difficulty breathing; swelling of your face, lips, tongue, or throat.",
+    "Call your doctor at once if you have:",
+    "- signs of heart problems - chest pain, trouble breathing, feeling like you might pass out;",
+    "- signs of psychosis - hallucinations (seeing or hearing things that are not real), new behavior problems, aggression, hostility, paranoia;",
+    "- signs of circulation problems - numbness, pain, cold feeling, unexplained wounds, or skin color changes (pale, red, or blue appearance) in your fingers or toes; or",
+    "- penis erection that is painful or lasts 4 hours or longer.",
+    "- signs of skin problems from the patch - swelling or blisters at the application site, or loss of skin color;",
+    "Seek medical attention right away if you have symptoms of serotonin syndrome, such as: agitation, hallucinations, fever, sweating, shivering, fast heart rate, muscle stiffness, twitching, loss of coordination, nausea, vomiting, or diarrhea.",
+    "Methylphenidate can affect growth in children. Your child's height and weight may need to be checked often. Tell your doctor if your child is not growing at a normal rate.",
+    "Common methylphenidate side effects may include:",
+    "- sweating, increased blood pressure;",
+    "- mood changes, anxiety, feeling nervous or irritable, trouble sleeping;",
+    "- fast heart rate, pounding heartbeats or fluttering in your chest;",
+    "- loss of appetite, weight loss;",
+    "- dry mouth, nausea, vomiting, stomach pain, indigestion; or",
+    "- headache, dizziness.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have signs of an allergic reaction to methylphenidate: hives; difficulty breathing; swelling of your face, lips, tongue, or throat.\nCall your doctor at once if you have:\n- signs of heart problems - chest pain, trouble breathing, feeling like you might pass out;\n- signs of psychosis - hallucinations (seeing or hearing things that are not real), new behavior problems, aggression, hostility, paranoia;\n- signs of circulation problems - numbness, pain, cold feeling, unexplained wounds, or skin color changes (pale, red, or blue appearance) in your fingers or toes; or\n- penis erection that is painful or lasts 4 hours or longer.\n- signs of skin problems from the patch - swelling or blisters at the application site, or loss of skin color;\nSeek medical attention right away if you have symptoms of serotonin syndrome, such as: agitation, hallucinations, fever, sweating, shivering, fast heart rate, muscle stiffness, twitching, loss of coordination, nausea, vomiting, or diarrhea.\nMethylphenidate can affect growth in children. Your child's height and weight may need to be checked often. Tell your doctor if your child is not growing at a normal rate.\nCommon methylphenidate side effects may include:\n- sweating, increased blood pressure;\n- mood changes, anxiety, feeling nervous or irritable, trouble sleeping;\n- fast heart rate, pounding heartbeats or fluttering in your chest;\n- loss of appetite, weight loss;\n- dry mouth, nausea, vomiting, stomach pain, indigestion; or\n- headache, dizziness.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect methylphenidate?",
+   "lines": [
+    "Tell your doctor about all your other medicines, especially:",
+    "- a blood thinner - warfarin, Coumadin, Jantoven;",
+    "- blood pressure medication;",
+    "- an antidepressant;",
+    "- seizure medication; or",
+    "- cold or allergy medications that contain decongestants.",
+    "This list is not complete. Other drugs may interact with methylphenidate, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+   ],
+   "text": "Tell your doctor about all your other medicines, especially:\n- a blood thinner - warfarin, Coumadin, Jantoven;\n- blood pressure medication;\n- an antidepressant;\n- seizure medication; or\n- cold or allergy medications that contain decongestants.\nThis list is not complete. Other drugs may interact with methylphenidate, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: What is metilfenidato used for? A: Metilfenidato is the Spanish, Italian, and Portuguese translation for methylphenidate which may be used to treat children or adults with attention deficit hyperactivity disorder (ADHD) to help with hyperactivity and impulsive behavior, and allow them to concentrate better. Metilfenidato may also be used to treat adults with narcolepsy. Metilfenidato translates to methylphenidate."
+   ],
+   "text": "Q: What is metilfenidato used for? A: Metilfenidato is the Spanish, Italian, and Portuguese translation for methylphenidate which may be used to treat children or adults with attention deficit hyperactivity disorder (ADHD) to help with hyperactivity and impulsive behavior, and allow them to concentrate better. Metilfenidato may also be used to treat adults with narcolepsy. Metilfenidato translates to methylphenidate."
+  }
+ ],
+ "rank": 33
+}

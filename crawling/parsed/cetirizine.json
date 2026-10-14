@@ -1,0 +1,247 @@
+{
+ "name": "Cetirizine",
+ "slug": "cetirizine",
+ "url": "https://www.drugs.com/cetirizine.html",
+ "title": "Cetirizine",
+ "page_title": "Cetirizine Uses, Dosage & Side Effects - Drugs.com",
+ "generic_name": "cetirizine",
+ "pronunciation": "se-TIR-a-zeen",
+ "brand_names": [
+  "Zyrtec"
+ ],
+ "discontinued_brands": [],
+ "drug_classes": [
+  {
+   "name": "Antihistamines",
+   "slug": "antihistamines"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Philip Thornton, DipPharm. Last updated on Aug 13, 2026.",
+ "faq": [
+  {
+   "q": "Can you take Benadryl and cetirizine together?",
+   "a": "Benadryl should not be taken at the same time as cetirizine because it can increase side effects such as dizziness, drowsiness, and difficulty concentrating. Some people, especially the elderly or children, may also find their thinking, judgement, and coordination impaired. You should also not drink alcohol while taking either of these medications because it can make these side effects worse."
+  },
+  {
+   "q": "Can cetirizine raise blood pressure?",
+   "a": "Cetirizine does not increase blood pressure and blood pressure is not listed as a side effect in the product information. But cetirizine can be found in combination with other medications, such as pseudoephedrine in products such as Zyrtec-D, and pseudoephedrine does increase blood pressure."
+  },
+  {
+   "q": "Is it OK to take antihistamines every day?",
+   "a": "Yes, most people can take antihistamines every day, if they have daily symptoms of their allergies. If you have chronic allergies with daily symptoms, you may take a daily antihistamine."
+  },
+  {
+   "q": "Should cetirizine be taken at bedtime or upon awakening?",
+   "a": "Cetirizine can be taken at any time of day. Most people do not feel drowsy when taking cetirizine, so they often take it in the morning. However, a small number of people do experience sedation. If cetirizine makes you feel drowsy, it is best to take it in the evening."
+  },
+  {
+   "q": "Which antihistamines make you drowsy?",
+   "a": "First-generation antihistamines, like Benadryl (diphenhydramine) and Chlor-Trimeton (chlorpheniramine), often cause sedation. This can include drowsiness, fatigue, and reduced alertness or concentration."
+  },
+  {
+   "q": "Can you take antihistamines when pregnant?",
+   "a": "According to the American College of Obstetricians and Gynecologists (ACOG), several over-the-counter (OTC) antihistamines may be taken during pregnancy. Older, first-generation antihistamines can be taken, but they may cause drowsiness. Newer, second-generation antihistamines can also be taken and have less risk of drowsiness."
+  },
+  {
+   "q": "How long does it take for cetirizine to work?",
+   "a": "Cetirizine is an allergy medicine that usually starts to work within about 20 to 60 minutes after you take it. Many people notice less sneezing and itching within the first hour, especially if they take it on an empty stomach. One dose of cetirizine generally provides relief for up to 24 hours, so most people only need to take it once a day."
+  },
+  {
+   "q": "Does cetirizine make you drowsy?",
+   "a": "Cetirizine is considered a non-drowsy (second-generation) antihistamine, but it can still cause drowsiness in some people. In clinical studies, the chance of feeling sleepy increased with higher doses."
+  },
+  {
+   "q": "How long after taking cetirizine can I drink alcohol?",
+   "a": "It is best to wait until cetirizine completely leaves your body before you drink alcohol, which may take up to 40 hours (almost 2 days)."
+  }
+ ],
+ "description": "Cetirizine treats cold or allergy symptoms such as sneezing, itching, watery eyes, or runny nose. Includes cetirizine side effects, interactions and indications.",
+ "date_modified": "2026-08-13",
+ "reviewed_by": "Philip Thornton",
+ "availability": "Rx and/or OTC",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Dupixent",
+   "slug": "dupixent",
+   "blurb": "Dupixent is used to treat multiple inflammatory conditions, including moderate-to-severe eczema..."
+  },
+  {
+   "name": "Zyrtec",
+   "slug": "zyrtec",
+   "blurb": "Zyrtec (cetirizine) is used to treat allergy symptoms such as sneezing, itching, watery eyes, or..."
+  },
+  {
+   "name": "Skyrizi",
+   "slug": "skyrizi",
+   "blurb": "Skyrizi (risankizumab) is an injection used to treat plaque psoriasis, psoriatic arthritis..."
+  },
+  {
+   "name": "Benadryl",
+   "slug": "benadryl",
+   "blurb": "Benadryl is an antihistamine and is used to treat sneezing, runny nose, itching and other..."
+  },
+  {
+   "name": "Claritin",
+   "slug": "claritin",
+   "blurb": "Claritin is an antihistamine used to treat the symptoms of allergies, such as sneezing, watery..."
+  },
+  {
+   "name": "Xolair",
+   "slug": "xolair",
+   "blurb": "Xolair injection (omalizumab) is used for allergic asthma, nasal polyps, and chronic hives and to..."
+  },
+  {
+   "name": "Levocetirizine",
+   "slug": "levocetirizine",
+   "blurb": "Levocetirizine is an antihistamine that may be used to reduce allergy symptoms such as red, itchy..."
+  },
+  {
+   "name": "Fexofenadine",
+   "slug": "fexofenadine",
+   "blurb": "Fexofenadine is an antihistamine that may be used to treat allergies."
+  },
+  {
+   "name": "Doxepin",
+   "slug": "doxepin",
+   "blurb": "Doxepin is used for anxiety, depression, insomnia, irritable bowel syndrome, major depressive..."
+  },
+  {
+   "name": "Promethazine",
+   "slug": "promethazine",
+   "blurb": "Promethazine is a phenothiazine and antihistamine used to treat allergies, motion sickness, nausea..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is cetirizine?",
+   "lines": [
+    "Cetirizine is a second generation antihistamine that reduces the natural chemical histamine in the body. Histamine can produce symptoms of sneezing, itching, watery eyes, and runny nose.",
+    "Cetirizine is used to treat cold or allergy symptoms such as sneezing, itching, watery eyes, or runny nose.",
+    "Cetirizine is also used to treat an allergic reaction, itching and swelling caused by chronic urticaria (hives) and minimizes or eliminates the symptoms of perennial allergic rhinitis, seasonal allergic rhinitis, chronic idiopathic urticaria, allergic asthma, physical urticaria, and atopic dermatitis."
+   ],
+   "text": "Cetirizine is a second generation antihistamine that reduces the natural chemical histamine in the body. Histamine can produce symptoms of sneezing, itching, watery eyes, and runny nose.\nCetirizine is used to treat cold or allergy symptoms such as sneezing, itching, watery eyes, or runny nose.\nCetirizine is also used to treat an allergic reaction, itching and swelling caused by chronic urticaria (hives) and minimizes or eliminates the symptoms of perennial allergic rhinitis, seasonal allergic rhinitis, chronic idiopathic urticaria, allergic asthma, physical urticaria, and atopic dermatitis."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Cetirizine can cause side effects that may impair your thinking or reactions. Be careful if you drive or do anything that requires you to be awake and alert. Avoid drinking alcohol. It can increase some of the side effects of cetirizine.",
+    "Tell your doctor if you regularly use other medicines that make you sleepy (such as other cold or allergy medicine, narcotic pain medicine, sleeping pills, muscle relaxers, and medicine for seizures, depression, or anxiety). They can add to sleepiness caused by cetirizine.",
+    "Call your doctor if your symptoms do not improve, if they get worse, or if you also have a fever.",
+    "If you are taking cetirizine for hives, get emergency medical help immediately if you have trouble swallowing, dizziness, swelling of the tongue or around the mouth, trouble speaking, drooling, or wheezing. Cetirizine is not a substitute for an epinephrine injector. Do not use cetirizine to prevent hives from known causes such as foods, insect stings, or medicines. Call your doctor if your hives do not improve after 3 days, if they last more than 6 weeks, or if they are an unusual color, look bruised or blistered, or do not itch.",
+    "Rarely, some people have reported severe itching when stopping cetirizine after daily, long-term use of at least a few months or several years. If you experience widespread, severe itching on stopping this medication, contact your healthcare provider."
+   ],
+   "text": "Cetirizine can cause side effects that may impair your thinking or reactions. Be careful if you drive or do anything that requires you to be awake and alert. Avoid drinking alcohol. It can increase some of the side effects of cetirizine.\nTell your doctor if you regularly use other medicines that make you sleepy (such as other cold or allergy medicine, narcotic pain medicine, sleeping pills, muscle relaxers, and medicine for seizures, depression, or anxiety). They can add to sleepiness caused by cetirizine.\nCall your doctor if your symptoms do not improve, if they get worse, or if you also have a fever.\nIf you are taking cetirizine for hives, get emergency medical help immediately if you have trouble swallowing, dizziness, swelling of the tongue or around the mouth, trouble speaking, drooling, or wheezing. Cetirizine is not a substitute for an epinephrine injector. Do not use cetirizine to prevent hives from known causes such as foods, insect stings, or medicines. Call your doctor if your hives do not improve after 3 days, if they last more than 6 weeks, or if they are an unusual color, look bruised or blistered, or do not itch.\nRarely, some people have reported severe itching when stopping cetirizine after daily, long-term use of at least a few months or several years. If you experience widespread, severe itching on stopping this medication, contact your healthcare provider."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not use this medication if you are allergic to cetirizine, levocetirizine, hydroxyzine, or any of the ingredients in the product.",
+    "Before taking cetirizine, tell your doctor about all of your medical conditions or if you have ever had kidney or liver disease.",
+    "Ask a health professional before using this medicine if you are pregnant. Cetirizine is not recommended if you are breast-feeding.",
+    "Cetirizine is indicated for chronic idiopathic urticaria in adults and children 6 months of age and older.",
+    "Older adults may need to take a lower than normal dose. Follow your doctor's instructions."
+   ],
+   "text": "You should not use this medication if you are allergic to cetirizine, levocetirizine, hydroxyzine, or any of the ingredients in the product.\nBefore taking cetirizine, tell your doctor about all of your medical conditions or if you have ever had kidney or liver disease.\nAsk a health professional before using this medicine if you are pregnant. Cetirizine is not recommended if you are breast-feeding.\nCetirizine is indicated for chronic idiopathic urticaria in adults and children 6 months of age and older.\nOlder adults may need to take a lower than normal dose. Follow your doctor's instructions."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "How should I take cetirizine?",
+   "lines": [
+    "Take cetirizine exactly as directed on the label, or as prescribed by your doctor. Do not use it in larger amounts or for longer than recommended.",
+    "You may take cetirizine with or without food.",
+    "The chewable tablet must be chewed before you swallow it.",
+    "Oral doses: measure liquid medicine (oral solution) with a special dose-measuring spoon or cup, not a regular table spoon. If you do not have a dose-measuring device, ask your pharmacist for one.",
+    "Call your doctor if your symptoms do not improve, if they get worse, or if you also have a fever. Store cetirizine at room temperature away from moisture and heat."
+   ],
+   "text": "Take cetirizine exactly as directed on the label, or as prescribed by your doctor. Do not use it in larger amounts or for longer than recommended.\nYou may take cetirizine with or without food.\nThe chewable tablet must be chewed before you swallow it.\nOral doses: measure liquid medicine (oral solution) with a special dose-measuring spoon or cup, not a regular table spoon. If you do not have a dose-measuring device, ask your pharmacist for one.\nCall your doctor if your symptoms do not improve, if they get worse, or if you also have a fever. Store cetirizine at room temperature away from moisture and heat."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the missed dose as soon as you remember. If it is almost time for your next dose, wait until then to take the medicine and skip the missed dose. Do not take extra medicine or add extra doses to make up the missed dose."
+   ],
+   "text": "Take the missed dose as soon as you remember. If it is almost time for your next dose, wait until then to take the medicine and skip the missed dose. Do not take extra medicine or add extra doses to make up the missed dose."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention if you think you have used too much of this medicine.",
+    "Overdose symptoms may include feeling restless or nervous, and then feeling drowsy."
+   ],
+   "text": "Seek emergency medical attention if you think you have used too much of this medicine.\nOverdose symptoms may include feeling restless or nervous, and then feeling drowsy."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid?",
+   "lines": [
+    "Tell your doctor if you regularly use other medicines that make you sleepy (such as other cold or allergy medicine, narcotic pain medicine, sleeping pills, muscle relaxers, and medicine for seizures, depression, or anxiety). They can add to sleepiness caused by cetirizine.",
+    "Cetirizine can cause side effects that may impair your thinking or reactions. Be careful if you drive or do anything that requires you to be awake and alert.",
+    "Avoid drinking alcohol. It can increase some of the side effects of cetirizine."
+   ],
+   "text": "Tell your doctor if you regularly use other medicines that make you sleepy (such as other cold or allergy medicine, narcotic pain medicine, sleeping pills, muscle relaxers, and medicine for seizures, depression, or anxiety). They can add to sleepiness caused by cetirizine.\nCetirizine can cause side effects that may impair your thinking or reactions. Be careful if you drive or do anything that requires you to be awake and alert.\nAvoid drinking alcohol. It can increase some of the side effects of cetirizine."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Cetirizine acute and common side effects",
+   "lines": [
+    "Get emergency medical help if you have any serious adverse effects or any of these signs of an allergic reaction: chronic idiopathic urticaria (hives); difficulty breathing; swelling of your face, lips, tongue, or throat. Stop using cetirizine and call your doctor at once if you have any of these serious side effects:",
+    "- fast, pounding, or uneven heartbeat;",
+    "- weakness, tremors (uncontrolled shaking), or sleep problems (insomnia);",
+    "- severe restless feeling, hyperactivity;",
+    "- confusion;",
+    "- problems with vision; or",
+    "- urinating less than usual or not at all.",
+    "Less serious cetirizine side effects may include:",
+    "- dizziness, drowsiness;",
+    "- tired feeling;",
+    "- dry mouth;",
+    "- sore throat, cough;",
+    "- nausea, constipation; or",
+    "- headache.",
+    "This is not a complete list of side effects and others may occur. Tell your doctor about any unusual or bothersome side effect."
+   ],
+   "text": "Get emergency medical help if you have any serious adverse effects or any of these signs of an allergic reaction: chronic idiopathic urticaria (hives); difficulty breathing; swelling of your face, lips, tongue, or throat. Stop using cetirizine and call your doctor at once if you have any of these serious side effects:\n- fast, pounding, or uneven heartbeat;\n- weakness, tremors (uncontrolled shaking), or sleep problems (insomnia);\n- severe restless feeling, hyperactivity;\n- confusion;\n- problems with vision; or\n- urinating less than usual or not at all.\nLess serious cetirizine side effects may include:\n- dizziness, drowsiness;\n- tired feeling;\n- dry mouth;\n- sore throat, cough;\n- nausea, constipation; or\n- headache.\nThis is not a complete list of side effects and others may occur. Tell your doctor about any unusual or bothersome side effect."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect cetirizine?",
+   "lines": [
+    "There may be other drugs that can interact with cetirizine. Tell your doctor about all your prescription and over-the-counter medications, vitamins, minerals, herbal products, and drugs prescribed by other doctors. Do not start a new medication without telling your doctor."
+   ],
+   "text": "There may be other drugs that can interact with cetirizine. Tell your doctor about all your prescription and over-the-counter medications, vitamins, minerals, herbal products, and drugs prescribed by other doctors. Do not start a new medication without telling your doctor."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: Can you take Benadryl and cetirizine together? A: Benadryl should not be taken at the same time as cetirizine because it can increase side effects such as dizziness, drowsiness, and difficulty concentrating. Some people, especially the elderly or children, may also find their thinking, judgement, and coordination impaired. You should also not drink alcohol while taking either of these medications because it can make these side effects worse.",
+    "Q: Can cetirizine raise blood pressure? A: Cetirizine does not increase blood pressure and blood pressure is not listed as a side effect in the product information. But cetirizine can be found in combination with other medications, such as pseudoephedrine in products such as Zyrtec-D, and pseudoephedrine does increase blood pressure.",
+    "Q: Is it OK to take antihistamines every day? A: Yes, most people can take antihistamines every day, if they have daily symptoms of their allergies. If you have chronic allergies with daily symptoms, you may take a daily antihistamine.",
+    "Q: Should cetirizine be taken at bedtime or upon awakening? A: Cetirizine can be taken at any time of day. Most people do not feel drowsy when taking cetirizine, so they often take it in the morning. However, a small number of people do experience sedation. If cetirizine makes you feel drowsy, it is best to take it in the evening.",
+    "Q: Which antihistamines make you drowsy? A: First-generation antihistamines, like Benadryl (diphenhydramine) and Chlor-Trimeton (chlorpheniramine), often cause sedation. This can include drowsiness, fatigue, and reduced alertness or concentration.",
+    "Q: Can you take antihistamines when pregnant? A: According to the American College of Obstetricians and Gynecologists (ACOG), several over-the-counter (OTC) antihistamines may be taken during pregnancy. Older, first-generation antihistamines can be taken, but they may cause drowsiness. Newer, second-generation antihistamines can also be taken and have less risk of drowsiness.",
+    "Q: How long does it take for cetirizine to work? A: Cetirizine is an allergy medicine that usually starts to work within about 20 to 60 minutes after you take it. Many people notice less sneezing and itching within the first hour, especially if they take it on an empty stomach. One dose of cetirizine generally provides relief for up to 24 hours, so most people only need to take it once a day.",
+    "Q: Does cetirizine make you drowsy? A: Cetirizine is considered a non-drowsy (second-generation) antihistamine, but it can still cause drowsiness in some people. In clinical studies, the chance of feeling sleepy increased with higher doses.",
+    "Q: How long after taking cetirizine can I drink alcohol? A: It is best to wait until cetirizine completely leaves your body before you drink alcohol, which may take up to 40 hours (almost 2 days)."
+   ],
+   "text": "Q: Can you take Benadryl and cetirizine together? A: Benadryl should not be taken at the same time as cetirizine because it can increase side effects such as dizziness, drowsiness, and difficulty concentrating. Some people, especially the elderly or children, may also find their thinking, judgement, and coordination impaired. You should also not drink alcohol while taking either of these medications because it can make these side effects worse.\nQ: Can cetirizine raise blood pressure? A: Cetirizine does not increase blood pressure and blood pressure is not listed as a side effect in the product information. But cetirizine can be found in combination with other medications, such as pseudoephedrine in products such as Zyrtec-D, and pseudoephedrine does increase blood pressure.\nQ: Is it OK to take antihistamines every day? A: Yes, most people can take antihistamines every day, if they have daily symptoms of their allergies. If you have chronic allergies with daily symptoms, you may take a daily antihistamine.\nQ: Should cetirizine be taken at bedtime or upon awakening? A: Cetirizine can be taken at any time of day. Most people do not feel drowsy when taking cetirizine, so they often take it in the morning. However, a small number of people do experience sedation. If cetirizine makes you feel drowsy, it is best to take it in the evening.\nQ: Which antihistamines make you drowsy? A: First-generation antihistamines, like Benadryl (diphenhydramine) and Chlor-Trimeton (chlorpheniramine), often cause sedation. This can include drowsiness, fatigue, and reduced alertness or concentration.\nQ: Can you take antihistamines when pregnant? A: According to the American College of Obstetricians and Gynecologists (ACOG), several over-the-counter (OTC) antihistamines may be taken during pregnancy. Older, first-generation antihistamines can be taken, but they may cause drowsiness. Newer, second-generation antihistamines can also be taken and have less risk of drowsiness.\nQ: How long does it take for cetirizine to work? A: Cetirizine is an allergy medicine that usually starts to work within about 20 to 60 minutes after you take it. Many people notice less sneezing and itching within the first hour, especially if they take it on an empty stomach. One dose of cetirizine generally provides relief for up to 24 hours, so most people only need to take it once a day.\nQ: Does cetirizine make you drowsy? A: Cetirizine is considered a non-drowsy (second-generation) antihistamine, but it can still cause drowsiness in some people. In clinical studies, the chance of feeling sleepy increased with higher doses.\nQ: How long after taking cetirizine can I drink alcohol? A: It is best to wait until cetirizine completely leaves your body before you drink alcohol, which may take up to 40 hours (almost 2 days)."
+  }
+ ],
+ "rank": 47
+}

@@ -1,0 +1,225 @@
+{
+ "name": "Buspirone",
+ "slug": "buspirone",
+ "url": "https://www.drugs.com/buspirone.html",
+ "title": "Buspirone",
+ "page_title": "Buspirone: Uses, Dosage, Side Effects - Drugs.com",
+ "generic_name": "buspirone",
+ "pronunciation": "byoo-SPYE-rone",
+ "brand_names": [
+  "BuSpar",
+  "BuSpar Dividose",
+  "Vanspar"
+ ],
+ "discontinued_brands": [
+  "Vanspar"
+ ],
+ "drug_classes": [
+  {
+   "name": "Miscellaneous anxiolytics, sedatives and hypnotics",
+   "slug": "miscellaneous-anxiolytics-sedatives-and-hypnotics"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Aug 26, 2026.",
+ "faq": [
+  {
+   "q": "How long does it take for buspirone to work?",
+   "a": "Buspirone, commonly prescribed for anxiety, is not a fast-acting medication and typically takes 2 to 4 weeks of regular use before most people experience noticeable improvement in symptoms."
+  },
+  {
+   "q": "What drugs cause pinpoint pupils?",
+   "a": "Pinpoint pupils, medically termed miosis, refer to abnormally small, constricted pupils that do not dilate appropriately in low light. This symptom can be caused by opioids, clonidine, buspirone, metoclopramide, and other medications."
+  }
+ ],
+ "description": "Buspirone is used to treat symptoms of anxiety, such as fear, tension, irritability and dizziness. Learn about side effects, interactions and indications.",
+ "date_modified": "2026-08-26",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Xanax",
+   "slug": "xanax",
+   "blurb": "Xanax (alprazolam) is a benzodiazepine medication used to treat anxiety and panic disorders..."
+  },
+  {
+   "name": "Paroxetine",
+   "slug": "paroxetine",
+   "blurb": "Paroxetine is used to treat depression, obsessive-compulsive disorder, anxiety disorders, PTSD, and..."
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Diazepam",
+   "slug": "diazepam",
+   "blurb": "Diazepam is used to treat anxiety disorders, alcohol withdrawal symptoms, or muscle spasms. Learn..."
+  },
+  {
+   "name": "Cymbalta",
+   "slug": "cymbalta",
+   "blurb": "Cymbalta (duloxetine) is used to treat major depressive disorder, general anxiety disorder and..."
+  },
+  {
+   "name": "Lorazepam",
+   "slug": "lorazepam",
+   "blurb": "Lorazepam is in a group of drugs called benzodiazepines and is used to treat anxiety disorders..."
+  },
+  {
+   "name": "Lexapro",
+   "slug": "lexapro",
+   "blurb": "Lexapro is used to treat anxiety and major depressive disorder. Learn about side effects..."
+  },
+  {
+   "name": "Venlafaxine",
+   "slug": "venlafaxine",
+   "blurb": "Venlafaxine is used to treat major depressive disorder, anxiety, and panic disorder. Learn about..."
+  },
+  {
+   "name": "Alprazolam",
+   "slug": "alprazolam",
+   "blurb": "Alprazolam is used to treat anxiety disorders, panic disorders, and anxiety. Learn about side..."
+  },
+  {
+   "name": "Escitalopram",
+   "slug": "escitalopram",
+   "blurb": "Escitalopram is an SSRI antidepressant used to treat major depressive disorder in adults and teens..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is buspirone?",
+   "lines": [
+    "Buspirone is an anti-anxiety medicine that affects chemicals in the brain that may be unbalanced in people with anxiety.",
+    "Buspirone is used to treat symptoms of anxiety, such as fear, tension, irritability, dizziness, pounding heartbeat, and other physical symptoms.",
+    "Buspirone is not an anti-psychotic medication and should not be used in place of medication prescribed by your doctor for psychotic disorders."
+   ],
+   "text": "Buspirone is an anti-anxiety medicine that affects chemicals in the brain that may be unbalanced in people with anxiety.\nBuspirone is used to treat symptoms of anxiety, such as fear, tension, irritability, dizziness, pounding heartbeat, and other physical symptoms.\nBuspirone is not an anti-psychotic medication and should not be used in place of medication prescribed by your doctor for psychotic disorders."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Do not use buspirone if you have taken an MAO inhibitor in the past 14 days. A dangerous drug interaction could occur. MAO inhibitors include isocarboxazid, linezolid, methylene blue injection, phenelzine, rasagiline, selegiline, and tranylcypromine."
+   ],
+   "text": "Do not use buspirone if you have taken an MAO inhibitor in the past 14 days. A dangerous drug interaction could occur. MAO inhibitors include isocarboxazid, linezolid, methylene blue injection, phenelzine, rasagiline, selegiline, and tranylcypromine."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not use buspirone if you are allergic to it.",
+    "Do not use buspirone if you have taken an MAO inhibitor in the past 14 days. A dangerous drug interaction could occur. MAO inhibitors include isocarboxazid, linezolid, methylene blue injection, phenelzine, rasagiline, selegiline, and tranylcypromine.",
+    "To make sure this medicine is safe for you, tell your doctor if you have any of these conditions:",
+    "- kidney disease; or",
+    "- liver disease.",
+    "Tell your doctor if you are pregnant or plan to become pregnant. This medicine should be used during pregnancy only if clearly needed.",
+    "It is not known whether buspirone passes into breast milk. You should avoid breast-feeding while using this medicine.",
+    "Buspirone is not FDA-approved for use by anyone younger than 18 years old, but this medicine has been used in children and adolescents under close medical supervision and at the appropriate dosage."
+   ],
+   "text": "You should not use buspirone if you are allergic to it.\nDo not use buspirone if you have taken an MAO inhibitor in the past 14 days. A dangerous drug interaction could occur. MAO inhibitors include isocarboxazid, linezolid, methylene blue injection, phenelzine, rasagiline, selegiline, and tranylcypromine.\nTo make sure this medicine is safe for you, tell your doctor if you have any of these conditions:\n- kidney disease; or\n- liver disease.\nTell your doctor if you are pregnant or plan to become pregnant. This medicine should be used during pregnancy only if clearly needed.\nIt is not known whether buspirone passes into breast milk. You should avoid breast-feeding while using this medicine.\nBuspirone is not FDA-approved for use by anyone younger than 18 years old, but this medicine has been used in children and adolescents under close medical supervision and at the appropriate dosage."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take buspirone?",
+   "lines": [
+    "Take buspirone exactly as it was prescribed for you. Follow all directions on your prescription label. Your doctor may occasionally change your dose to make sure you get the best results. Do not take this medicine in larger or smaller amounts or for longer than recommended.",
+    "You may take buspirone with or without food but take it the same way each time.",
+    "Some buspirone tablets are scored so you can break the tablet into 2 or 3 pieces in order to take a smaller amount of the medicine at each dose. Do not use a tablet if it has not been broken correctly and the piece is too big or too small. Follow your doctor's instructions about how much of the tablet to take.",
+    "If you have difficulty swallowing capsules, you may open the capsule and sprinkle the medicine into a small amount (about 1 to 2 tablespoons) of applesauce. Swallow the mixture right away without chewing.",
+    "If you have switched to buspirone from another anxiety medication, you may need to slowly decrease your dose of the other medication rather than stopping suddenly. Some anxiety medications can cause withdrawal symptoms when you stop taking them suddenly after long-term use.",
+    "This medication can cause false positive results with certain medical tests. You may need to stop using the medicine for at least 48 hours before your test. Tell any doctor who treats you that you are using buspirone.",
+    "Store at room temperature away from moisture, heat, and light."
+   ],
+   "text": "Take buspirone exactly as it was prescribed for you. Follow all directions on your prescription label. Your doctor may occasionally change your dose to make sure you get the best results. Do not take this medicine in larger or smaller amounts or for longer than recommended.\nYou may take buspirone with or without food but take it the same way each time.\nSome buspirone tablets are scored so you can break the tablet into 2 or 3 pieces in order to take a smaller amount of the medicine at each dose. Do not use a tablet if it has not been broken correctly and the piece is too big or too small. Follow your doctor's instructions about how much of the tablet to take.\nIf you have difficulty swallowing capsules, you may open the capsule and sprinkle the medicine into a small amount (about 1 to 2 tablespoons) of applesauce. Swallow the mixture right away without chewing.\nIf you have switched to buspirone from another anxiety medication, you may need to slowly decrease your dose of the other medication rather than stopping suddenly. Some anxiety medications can cause withdrawal symptoms when you stop taking them suddenly after long-term use.\nThis medication can cause false positive results with certain medical tests. You may need to stop using the medicine for at least 48 hours before your test. Tell any doctor who treats you that you are using buspirone.\nStore at room temperature away from moisture, heat, and light."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the missed dose as soon as you remember. Skip the missed dose if it is almost time for your next scheduled dose. Do not take extra medicine to make up the missed dose."
+   ],
+   "text": "Take the missed dose as soon as you remember. Skip the missed dose if it is almost time for your next scheduled dose. Do not take extra medicine to make up the missed dose."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid?",
+   "lines": [
+    "This medication may impair your thinking or reactions. Be careful if you drive or do anything that requires you to be alert.",
+    "Drinking alcohol may increase certain side effects of buspirone.",
+    "Grapefruit and grapefruit juice may interact with buspirone and lead to unwanted side effects. Discuss the use of grapefruit products with your doctor."
+   ],
+   "text": "This medication may impair your thinking or reactions. Be careful if you drive or do anything that requires you to be alert.\nDrinking alcohol may increase certain side effects of buspirone.\nGrapefruit and grapefruit juice may interact with buspirone and lead to unwanted side effects. Discuss the use of grapefruit products with your doctor."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Buspirone side effects",
+   "lines": [
+    "Get emergency medical help if you have any signs of an allergic reaction to buspirone: hives; difficult breathing; swelling of your face, lips, tongue, or throat.",
+    "Call your doctor at once if you have:",
+    "- chest pain;",
+    "- shortness of breath; or",
+    "- a light-headed feeling, like you might pass out.",
+    "- signs of serotonin syndrome, such as agitation, hallucinations, fever, sweating, shivering, fast heart rate, muscle stiffness, twitching, loss of coordination, nausea, vomiting, or diarrhea.",
+    "Common buspirone side effects may include:",
+    "- headache;",
+    "- dizziness, drowsiness;",
+    "- sleep problems (insomnia);",
+    "- nausea, upset stomach; or",
+    "- feeling nervous or excited.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have any signs of an allergic reaction to buspirone: hives; difficult breathing; swelling of your face, lips, tongue, or throat.\nCall your doctor at once if you have:\n- chest pain;\n- shortness of breath; or\n- a light-headed feeling, like you might pass out.\n- signs of serotonin syndrome, such as agitation, hallucinations, fever, sweating, shivering, fast heart rate, muscle stiffness, twitching, loss of coordination, nausea, vomiting, or diarrhea.\nCommon buspirone side effects may include:\n- headache;\n- dizziness, drowsiness;\n- sleep problems (insomnia);\n- nausea, upset stomach; or\n- feeling nervous or excited.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Dosing information",
+   "lines": [
+    "Usual Adult Dose for Anxiety:",
+    "Initial dose: 7.5 mg orally two times a day or 5 mg 3 times a day. Maintenance dose: The daily dose may be increased in 5 mg increments every 2 to 3 days up to 20 to 60 mg/day in divided doses. Maximum dose: 60 mg per day"
+   ],
+   "text": "Usual Adult Dose for Anxiety:\nInitial dose: 7.5 mg orally two times a day or 5 mg 3 times a day. Maintenance dose: The daily dose may be increased in 5 mg increments every 2 to 3 days up to 20 to 60 mg/day in divided doses. Maximum dose: 60 mg per day"
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect buspirone?",
+   "lines": [
+    "Taking this medicine with other drugs that make you sleepy or slow your breathing can worsen these effects. Ask your doctor before taking buspirone with a sleeping pill, narcotic pain medicine, muscle relaxer, or medicine for anxiety, depression, or seizures.",
+    "Other drugs may interact with buspirone, including prescription and over-the-counter medicines, vitamins, and herbal products. Tell each of your health care providers about all medicines you use now and any medicine you start or stop using."
+   ],
+   "text": "Taking this medicine with other drugs that make you sleepy or slow your breathing can worsen these effects. Ask your doctor before taking buspirone with a sleeping pill, narcotic pain medicine, muscle relaxer, or medicine for anxiety, depression, or seizures.\nOther drugs may interact with buspirone, including prescription and over-the-counter medicines, vitamins, and herbal products. Tell each of your health care providers about all medicines you use now and any medicine you start or stop using."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: How long does it take for buspirone to work? A: Buspirone, commonly prescribed for anxiety, is not a fast-acting medication and typically takes 2 to 4 weeks of regular use before most people experience noticeable improvement in symptoms.",
+    "Q: What drugs cause pinpoint pupils? A: Pinpoint pupils, medically termed miosis, refer to abnormally small, constricted pupils that do not dilate appropriately in low light. This symptom can be caused by opioids, clonidine, buspirone, metoclopramide, and other medications."
+   ],
+   "text": "Q: How long does it take for buspirone to work? A: Buspirone, commonly prescribed for anxiety, is not a fast-acting medication and typically takes 2 to 4 weeks of regular use before most people experience noticeable improvement in symptoms.\nQ: What drugs cause pinpoint pupils? A: Pinpoint pupils, medically termed miosis, refer to abnormally small, constricted pupils that do not dilate appropriately in low light. This symptom can be caused by opioids, clonidine, buspirone, metoclopramide, and other medications."
+  }
+ ],
+ "rank": 39
+}

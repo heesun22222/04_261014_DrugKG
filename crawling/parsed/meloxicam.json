@@ -1,0 +1,338 @@
+{
+ "name": "Meloxicam",
+ "slug": "meloxicam",
+ "url": "https://www.drugs.com/meloxicam.html",
+ "title": "Meloxicam",
+ "page_title": "Meloxicam: Uses, Dosage, Side Effects & Warnings - Drugs.com",
+ "generic_name": "meloxicam (oral/injection)",
+ "pronunciation": "mel-OKS-i-kam",
+ "brand_names": [
+  "Anjeso",
+  "Mobic",
+  "Qamzova",
+  "Xifyrm",
+  "Vivlodex",
+  "Qmiiz ODT"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "intravenous dispersion",
+   "strengths": [
+    "30 mg/mL"
+   ]
+  },
+  {
+   "form": "oral capsule",
+   "strengths": [
+    "10 mg",
+    "5 mg"
+   ]
+  },
+  {
+   "form": "oral suspension",
+   "strengths": [
+    "7.5 mg/5 mL"
+   ]
+  },
+  {
+   "form": "oral tablet",
+   "strengths": [
+    "15 mg",
+    "7.5 mg"
+   ]
+  },
+  {
+   "form": "single-dose vial for intravenous injection",
+   "strengths": [
+    "30 mg/1 mL"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Nonsteroidal anti-inflammatories (NSAIDs)",
+   "slug": "nonsteroidal-anti-inflammatory-agents"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Philip Thornton, DipPharm. Last updated on Aug 13, 2026.",
+ "faq": [
+  {
+   "q": "Meloxicam vs Ibuprofen: What's the difference?",
+   "a": "Meloxicam is stronger, prescription-only, longer-acting, and used mainly for arthritis; ibuprofen is milder, OTC, shorter-acting, and treats various pains."
+  },
+  {
+   "q": "Should I take meloxicam tablets at night or in the morning?",
+   "a": "Meloxicam can be taken in the morning or at night. Oral meloxicam is usually taken once daily, at about the same time each day. You can take it with or without food, but food may help with stomach upset. Follow your prescribed dose and do not take more than recommended."
+  },
+  {
+   "q": "How long does it take for meloxicam to work?",
+   "a": "Meloxicam usually starts to ease pain within the first day, but the full benefit for chronic conditions like osteoarthritis can take several days to a couple of weeks. How quickly you feel relief depends on the dose, the formulation (oral tablet vs intravenous), and whether you are treating short‑term postoperative pain or long‑term arthritis."
+  },
+  {
+   "q": "How much meloxicam can I give my dog?",
+   "a": "The amount of meloxicam you can give your dog will depend on your dog’s weight and veterinarian’s instructions. The typical dose is 0.09 mg/lb (0.2 mg/kg) on day 1 given by mouth or mixed with food, then 0.045 mg/lb (0.1 mg/kg) once a day."
+  },
+  {
+   "q": "How long do I wait after taking ibuprofen to take meloxicam?",
+   "a": "If you are switching from ibuprofen to meloxicam, wait until the ibuprofen has worn off before taking your first dose of meloxicam. For most people, that’s about 6 hours after the last dose of ibuprofen."
+  },
+  {
+   "q": "Is meloxicam very similar to Celebrex?",
+   "a": "Both meloxicam and Celebrex are prescription NSAIDs that treat arthritis pain and swelling, and for most people they work about the same. Celebrex is a more “stomach‑friendly” COX‑2 selective drug while meloxicam usually costs less and lasts longer in the body."
+  },
+  {
+   "q": "Can meloxicam cause drowsiness and headache?",
+   "a": "Drowsiness isn’t a known side effect of meloxicam. In fact, some people may have trouble sleeping instead. Dizziness can occur, and headache is a fairly common but usually mild side effect."
+  },
+  {
+   "q": "Is meloxicam a narcotic?",
+   "a": "No, meloxicam is not a narcotic. It is in a group of drugs called nonsteroidal anti-inflammatory drugs (NSAIDs)."
+  }
+ ],
+ "description": "Meloxicam is a nonsteroidal anti-inflammatory drug used to treat pain or inflammation caused by rheumatoid arthritis and osteoarthritis. IV meloxicam is also approved for moderate-to-severe pain in adults alone or in combination with non-NSAID analgesics.",
+ "date_modified": "2026-08-13",
+ "reviewed_by": "Philip Thornton",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Cymbalta",
+   "slug": "cymbalta",
+   "blurb": "Cymbalta (duloxetine) is used to treat major depressive disorder, general anxiety disorder and..."
+  },
+  {
+   "name": "Celecoxib",
+   "slug": "celecoxib",
+   "blurb": "Celecoxib is a nonsteroidal anti-inflammatory drug (NSAID) used to treat pain or inflammation..."
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Triamcinolone",
+   "slug": "triamcinolone",
+   "blurb": "Triamcinolone is used to treat allergies, skin conditions, ulcerative colitis, and arthritis. Learn..."
+  },
+  {
+   "name": "Methylprednisolone",
+   "slug": "methylprednisolone",
+   "blurb": "Methylprednisolone is used to treat conditions such as allergies, arthritis, lupus and ulcerative..."
+  },
+  {
+   "name": "Naproxen",
+   "slug": "naproxen",
+   "blurb": "Naproxen is a nonsteroidal anti-inflammatory drug used to treat pain or inflammation caused by..."
+  },
+  {
+   "name": "Diclofenac",
+   "slug": "diclofenac",
+   "blurb": "Diclofenac is a nonsteroidal anti-inflammatory drug used to treat pain and inflammation associated..."
+  },
+  {
+   "name": "Ibuprofen",
+   "slug": "ibuprofen",
+   "blurb": "Ibuprofen (Advil, Motrin) treats minor aches and pains caused by the common cold, headaches..."
+  },
+  {
+   "name": "Aspirin",
+   "slug": "aspirin",
+   "blurb": "Aspirin is used to treat mild to moderate pain and to reduce fever or inflammation. Learn about..."
+  },
+  {
+   "name": "Duloxetine",
+   "slug": "duloxetine",
+   "blurb": "Duloxetine is a selective serotonin and norepinephrine reuptake inhibitor antidepressant used to..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is meloxicam?",
+   "lines": [
+    "Meloxicam is a nonsteroidal anti-inflammatory drug (NSAID). It works by reducing hormones that cause pain, fever, and inflammation in the body.",
+    "Meloxicam is used to relieve pain, tenderness, swelling, and stiffness caused by osteoarthritis (arthritis caused by a breakdown of the lining of the joints) and rheumatoid arthritis (arthritis caused by swelling of the lining of the joints).",
+    "Meloxicam is also used to relieve the pain, tenderness, swelling, and stiffness caused by juvenile rheumatoid arthritis (a type of arthritis that affects children) in children 2 years of age and older.",
+    "IV meloxicam (brands Anjeso [discontinued], Qamzova, Xifyrm) is used for moderate to severe pain in adults, alone or in combination with non-NSAID analgesics.",
+    "Vivlodex capsules [discontinued] are only for use in adults. Qmiiz ODT (orally disintegrating tablet) [discontinued] is for adults and children weighing at least 132 pounds (60 kilograms).",
+    "Generic meloxicam is available."
+   ],
+   "text": "Meloxicam is a nonsteroidal anti-inflammatory drug (NSAID). It works by reducing hormones that cause pain, fever, and inflammation in the body.\nMeloxicam is used to relieve pain, tenderness, swelling, and stiffness caused by osteoarthritis (arthritis caused by a breakdown of the lining of the joints) and rheumatoid arthritis (arthritis caused by swelling of the lining of the joints).\nMeloxicam is also used to relieve the pain, tenderness, swelling, and stiffness caused by juvenile rheumatoid arthritis (a type of arthritis that affects children) in children 2 years of age and older.\nIV meloxicam (brands Anjeso [discontinued], Qamzova, Xifyrm) is used for moderate to severe pain in adults, alone or in combination with non-NSAID analgesics.\nVivlodex capsules [discontinued] are only for use in adults. Qmiiz ODT (orally disintegrating tablet) [discontinued] is for adults and children weighing at least 132 pounds (60 kilograms).\nGeneric meloxicam is available."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Meloxicam can increase your risk of a fatal heart attack or stroke, especially if you use it long term or take high doses, or if you have heart disease. Even people without heart disease or risk factors could have a stroke or heart attack while taking this medicine.",
+    "Do not use this medicine just before or after heart bypass surgery (coronary artery bypass graft, or CABG).",
+    "Avoid taking meloxicam after a recent heart attack, unless your doctor tells you to. You may have an increased risk of another heart attack if you take this medicine after a recent heart attack.",
+    "Get emergency medical help if you have chest pain, weakness, shortness of breath, slurred speech, or problems with vision or balance.",
+    "Meloxicam may also cause stomach or intestinal bleeding, which can be fatal. These conditions can occur without warning while you are using this medicine, especially in older adults.",
+    "Call your doctor at once if you have symptoms of stomach bleeding, such as black, bloody, or tarry stools, or coughing up blood or vomit that looks like coffee grounds.",
+    "Avoid smoking and drinking alcohol, as they also increase your risk of stomach bleeding."
+   ],
+   "text": "Meloxicam can increase your risk of a fatal heart attack or stroke, especially if you use it long term or take high doses, or if you have heart disease. Even people without heart disease or risk factors could have a stroke or heart attack while taking this medicine.\nDo not use this medicine just before or after heart bypass surgery (coronary artery bypass graft, or CABG).\nAvoid taking meloxicam after a recent heart attack, unless your doctor tells you to. You may have an increased risk of another heart attack if you take this medicine after a recent heart attack.\nGet emergency medical help if you have chest pain, weakness, shortness of breath, slurred speech, or problems with vision or balance.\nMeloxicam may also cause stomach or intestinal bleeding, which can be fatal. These conditions can occur without warning while you are using this medicine, especially in older adults.\nCall your doctor at once if you have symptoms of stomach bleeding, such as black, bloody, or tarry stools, or coughing up blood or vomit that looks like coffee grounds.\nAvoid smoking and drinking alcohol, as they also increase your risk of stomach bleeding."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "Meloxicam can increase your risk of a fatal heart attack or stroke. Do not use this medicine just before or after heart bypass surgery (coronary artery bypass graft, or CABG). Meloxicam may also cause stomach or intestinal bleeding, which can be fatal.",
+    "Meloxicam may also cause stomach or intestinal bleeding, which can be fatal. These conditions can occur without warning while you are using this medicine, especially in older adults.",
+    "You should not use meloxicam if you are allergic to it, or if you have ever had an asthma attack or severe allergic reaction after taking aspirin or an NSAID.",
+    "To make sure meloxicam is safe for you, tell your doctor if you have ever had:",
+    "- heart disease, high blood pressure, high cholesterol, diabetes, or if you smoke;",
+    "- a heart attack, stroke, or blood clot;",
+    "- ulcers or stomach bleeding;",
+    "- asthma;",
+    "- kidney disease (or if you are on dialysis);",
+    "- liver disease; or",
+    "- fluid retention",
+    "- are pregnant or planning a pregnancy",
+    "- are breastfeeding or intending to breastfeed.",
+    "Meloxicam is not approved for use by anyone younger than 2 years old.",
+    "Pregnancy:",
+    "If you are pregnant, you should not take meloxicam unless your doctor tells you to. Taking an NSAID at about 20 weeks of pregnancy or later may harm your unborn baby. If you need to take this medicine for more than 2 days when you are between 20 and 30 weeks of pregnancy, your doctor may need to monitor the amount of fluid around your baby. You should not take meloxicam after about 30 weeks of pregnancy.",
+    "Planning a pregnancy:",
+    "Meloxicam may cause a delay in ovulation (the release of an egg from an ovary). You should not take this medicine if you are undergoing fertility treatment or are otherwise trying to get pregnant.",
+    "Breastfeeding:",
+    "Ask a doctor if it is safe to breastfeed while using this medicine."
+   ],
+   "text": "Meloxicam can increase your risk of a fatal heart attack or stroke. Do not use this medicine just before or after heart bypass surgery (coronary artery bypass graft, or CABG). Meloxicam may also cause stomach or intestinal bleeding, which can be fatal.\nMeloxicam may also cause stomach or intestinal bleeding, which can be fatal. These conditions can occur without warning while you are using this medicine, especially in older adults.\nYou should not use meloxicam if you are allergic to it, or if you have ever had an asthma attack or severe allergic reaction after taking aspirin or an NSAID.\nTo make sure meloxicam is safe for you, tell your doctor if you have ever had:\n- heart disease, high blood pressure, high cholesterol, diabetes, or if you smoke;\n- a heart attack, stroke, or blood clot;\n- ulcers or stomach bleeding;\n- asthma;\n- kidney disease (or if you are on dialysis);\n- liver disease; or\n- fluid retention\n- are pregnant or planning a pregnancy\n- are breastfeeding or intending to breastfeed.\nMeloxicam is not approved for use by anyone younger than 2 years old.\nPregnancy:\nIf you are pregnant, you should not take meloxicam unless your doctor tells you to. Taking an NSAID at about 20 weeks of pregnancy or later may harm your unborn baby. If you need to take this medicine for more than 2 days when you are between 20 and 30 weeks of pregnancy, your doctor may need to monitor the amount of fluid around your baby. You should not take meloxicam after about 30 weeks of pregnancy.\nPlanning a pregnancy:\nMeloxicam may cause a delay in ovulation (the release of an egg from an ovary). You should not take this medicine if you are undergoing fertility treatment or are otherwise trying to get pregnant.\nBreastfeeding:\nAsk a doctor if it is safe to breastfeed while using this medicine."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How is meloxicam given?",
+   "lines": [
+    "Take Meloxicam exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Use the lowest effective dose for your condition.",
+    "- Meloxicam oral is taken by mouth.",
+    "- Meloxicam injection (Qamzova, Xifyrm) is given as an intravenous bolus injection over 15 seconds. A healthcare provider will give you this injection.",
+    "Your dose needs may change if you switch to a different brand, strength, or form of meloxicam. Avoid medication errors by using only the medicine your doctor prescribes.",
+    "Meloxicam doses are based on weight (especially in children and teenagers). Your dose needs may change if you gain or lose weight.",
+    "If you use this medicine long-term, you may need frequent medical tests.",
+    "Store oral suspension, tablets, or capsules at room temperature, away from moisture and heat. Keep the bottle tightly closed when not in use."
+   ],
+   "text": "Take Meloxicam exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Use the lowest effective dose for your condition.\n- Meloxicam oral is taken by mouth.\n- Meloxicam injection (Qamzova, Xifyrm) is given as an intravenous bolus injection over 15 seconds. A healthcare provider will give you this injection.\nYour dose needs may change if you switch to a different brand, strength, or form of meloxicam. Avoid medication errors by using only the medicine your doctor prescribes.\nMeloxicam doses are based on weight (especially in children and teenagers). Your dose needs may change if you gain or lose weight.\nIf you use this medicine long-term, you may need frequent medical tests.\nStore oral suspension, tablets, or capsules at room temperature, away from moisture and heat. Keep the bottle tightly closed when not in use."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Dosing Information",
+   "lines": [
+    "Usual Adult Dose of Meloxicam for Osteoarthritis:",
+    "Oral Tablets and Oral Disintegrating Tablets: -Initial dose: 7.5 mg orally once a day -Maintenance dose: 15 mg orally once a day in patients requiring additional analgesia -Maximum dose: 15 mg orally once a day Oral Capsules: -Initial dose: 5 mg orally once a day -Maintenance dose: 10 mg orally once a day in patients requiring additional analgesia -Maximum dose: 10 mg orally once a day.",
+    "Use: For the relief of signs and symptoms of osteoarthritis pain",
+    "Usual Adult Dose of Meloxicam for Rheumatoid Arthritis:",
+    "Oral Tablets and Oral Disintegrating Tablets: -Initial dose: 7.5 mg orally once a day -Maintenance dose: 15 mg orally once a day in patients requiring additional analgesia -Maximum dose: 15 mg orally once a day.",
+    "Use: For the relief of signs and symptoms of rheumatoid arthritis",
+    "Usual Adult Dose of Meloxicam IV for Pain:",
+    "- 30 mg IV bolus (over 15 seconds) once a day.",
+    "The median time to meaningful pain relief was 2 to 3 hours in clinical trials.",
+    "- A non-NSAID with a rapid onset may be used in combination with IV meloxicam.",
+    "- Some patients may not experience adequate analgesia for the first 24 hours.",
+    "- The lowest effective dose for the shortest duration possible consistent with individual treatment goals should be used.",
+    "Usual Pediatric Dose of Meloxicam for Juvenile Rheumatoid Arthritis:",
+    "- Oral disintegrating tablets in children 60 kg or greater: 7.5 mg orally once a day.",
+    "- Oral suspension in children 2 years and older: 0.125 mg/kg orally once a day (to a maximum dose of 7.5 mg/day).",
+    "No additional benefit has been demonstrated with doses above 7.5 mg/day. Oral formulations have not shown equivalent systemic exposure and are not considered interchangeable.",
+    "The oral disintegrating tablets should not be used in children who weigh less than 60 kg."
+   ],
+   "text": "Usual Adult Dose of Meloxicam for Osteoarthritis:\nOral Tablets and Oral Disintegrating Tablets: -Initial dose: 7.5 mg orally once a day -Maintenance dose: 15 mg orally once a day in patients requiring additional analgesia -Maximum dose: 15 mg orally once a day Oral Capsules: -Initial dose: 5 mg orally once a day -Maintenance dose: 10 mg orally once a day in patients requiring additional analgesia -Maximum dose: 10 mg orally once a day.\nUse: For the relief of signs and symptoms of osteoarthritis pain\nUsual Adult Dose of Meloxicam for Rheumatoid Arthritis:\nOral Tablets and Oral Disintegrating Tablets: -Initial dose: 7.5 mg orally once a day -Maintenance dose: 15 mg orally once a day in patients requiring additional analgesia -Maximum dose: 15 mg orally once a day.\nUse: For the relief of signs and symptoms of rheumatoid arthritis\nUsual Adult Dose of Meloxicam IV for Pain:\n- 30 mg IV bolus (over 15 seconds) once a day.\nThe median time to meaningful pain relief was 2 to 3 hours in clinical trials.\n- A non-NSAID with a rapid onset may be used in combination with IV meloxicam.\n- Some patients may not experience adequate analgesia for the first 24 hours.\n- The lowest effective dose for the shortest duration possible consistent with individual treatment goals should be used.\nUsual Pediatric Dose of Meloxicam for Juvenile Rheumatoid Arthritis:\n- Oral disintegrating tablets in children 60 kg or greater: 7.5 mg orally once a day.\n- Oral suspension in children 2 years and older: 0.125 mg/kg orally once a day (to a maximum dose of 7.5 mg/day).\nNo additional benefit has been demonstrated with doses above 7.5 mg/day. Oral formulations have not shown equivalent systemic exposure and are not considered interchangeable.\nThe oral disintegrating tablets should not be used in children who weigh less than 60 kg."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Use the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not use two doses at one time."
+   ],
+   "text": "Use the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not use two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while receiving meloxicam?",
+   "lines": [
+    "Drinking alcohol may increase your risk of stomach bleeding.",
+    "Avoid taking aspirin while you are taking meloxicam, unless your doctor tells you to.",
+    "Ask a doctor or pharmacist before using other medicines for pain, fever, swelling, or cold/flu symptoms. They may contain ingredients similar to meloxicam (such as aspirin, ibuprofen, ketoprofen, or naproxen)."
+   ],
+   "text": "Drinking alcohol may increase your risk of stomach bleeding.\nAvoid taking aspirin while you are taking meloxicam, unless your doctor tells you to.\nAsk a doctor or pharmacist before using other medicines for pain, fever, swelling, or cold/flu symptoms. They may contain ingredients similar to meloxicam (such as aspirin, ibuprofen, ketoprofen, or naproxen)."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Meloxicam side effects",
+   "lines": [
+    "Get emergency medical help if you have signs of an allergic reaction to meloxicam (hives, difficult breathing, swelling in your face or throat) or a severe skin reaction (fever, sore throat, burning eyes, skin pain, red or purple skin rash with blistering and peeling).",
+    "Get emergency medical help if you have signs of a heart attack or stroke: chest pain spreading to your jaw or shoulder, sudden numbness or weakness on one side of the body, slurred speech, leg swelling, or feeling short of breath.",
+    "Meloxicam may cause serious side effects. Stop using this medicine and call your doctor at once if you have:",
+    "- the first sign of any skin rash, no matter how mild;",
+    "- shortness of breath (even with mild exertion);",
+    "- swelling or rapid weight gain;",
+    "- signs of stomach bleeding - bloody or tarry stools, coughing up blood or vomit that looks like coffee grounds;",
+    "- liver problems - nausea, upper stomach pain, itching, tired feeling, flu-like symptoms, loss of appetite, dark urine, clay-colored stools, jaundice (yellowing of the skin or eyes);",
+    "- low red blood cells (anemia) - pale skin, unusual tiredness, feeling light-headed, cold hands and feet; or",
+    "- kidney problems - little or no urination, swelling in your feet or ankles, feeling tired or short of breath.",
+    "Common meloxicam side effects may include:",
+    "- stomach pain, nausea, vomiting, heartburn",
+    "- diarrhea, constipation, gas;",
+    "- dizziness; or",
+    "- cold symptoms, flu symptoms.",
+    "This is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects tothe FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have signs of an allergic reaction to meloxicam (hives, difficult breathing, swelling in your face or throat) or a severe skin reaction (fever, sore throat, burning eyes, skin pain, red or purple skin rash with blistering and peeling).\nGet emergency medical help if you have signs of a heart attack or stroke: chest pain spreading to your jaw or shoulder, sudden numbness or weakness on one side of the body, slurred speech, leg swelling, or feeling short of breath.\nMeloxicam may cause serious side effects. Stop using this medicine and call your doctor at once if you have:\n- the first sign of any skin rash, no matter how mild;\n- shortness of breath (even with mild exertion);\n- swelling or rapid weight gain;\n- signs of stomach bleeding - bloody or tarry stools, coughing up blood or vomit that looks like coffee grounds;\n- liver problems - nausea, upper stomach pain, itching, tired feeling, flu-like symptoms, loss of appetite, dark urine, clay-colored stools, jaundice (yellowing of the skin or eyes);\n- low red blood cells (anemia) - pale skin, unusual tiredness, feeling light-headed, cold hands and feet; or\n- kidney problems - little or no urination, swelling in your feet or ankles, feeling tired or short of breath.\nCommon meloxicam side effects may include:\n- stomach pain, nausea, vomiting, heartburn\n- diarrhea, constipation, gas;\n- dizziness; or\n- cold symptoms, flu symptoms.\nThis is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects tothe FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect meloxicam?",
+   "lines": [
+    "Ask your doctor before using meloxicam if you take an antidepressant. Taking certain antidepressants with an NSAID may cause you to bruise or bleed easily.",
+    "Tell your doctor about all your other medicines, especially:",
+    "- cyclosporine;",
+    "- lithium;",
+    "- methotrexate;",
+    "- pemetrexed;",
+    "- sodium polystyrene sulfonate (Kayexalate);",
+    "- a blood thinner (warfarin, Coumadin, Jantoven);",
+    "- heart or blood pressure medication, including a diuretic or \"water pill\"; or",
+    "- steroid medicine (such as prednisone).",
+    "This list is not complete. Other drugs may interact with meloxicam, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+   ],
+   "text": "Ask your doctor before using meloxicam if you take an antidepressant. Taking certain antidepressants with an NSAID may cause you to bruise or bleed easily.\nTell your doctor about all your other medicines, especially:\n- cyclosporine;\n- lithium;\n- methotrexate;\n- pemetrexed;\n- sodium polystyrene sulfonate (Kayexalate);\n- a blood thinner (warfarin, Coumadin, Jantoven);\n- heart or blood pressure medication, including a diuretic or \"water pill\"; or\n- steroid medicine (such as prednisone).\nThis list is not complete. Other drugs may interact with meloxicam, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: Meloxicam vs Ibuprofen: What's the difference? A: Meloxicam is stronger, prescription-only, longer-acting, and used mainly for arthritis; ibuprofen is milder, OTC, shorter-acting, and treats various pains.",
+    "Q: Should I take meloxicam tablets at night or in the morning? A: Meloxicam can be taken in the morning or at night. Oral meloxicam is usually taken once daily, at about the same time each day. You can take it with or without food, but food may help with stomach upset. Follow your prescribed dose and do not take more than recommended.",
+    "Q: How long does it take for meloxicam to work? A: Meloxicam usually starts to ease pain within the first day, but the full benefit for chronic conditions like osteoarthritis can take several days to a couple of weeks. How quickly you feel relief depends on the dose, the formulation (oral tablet vs intravenous), and whether you are treating short‑term postoperative pain or long‑term arthritis.",
+    "Q: How much meloxicam can I give my dog? A: The amount of meloxicam you can give your dog will depend on your dog’s weight and veterinarian’s instructions. The typical dose is 0.09 mg/lb (0.2 mg/kg) on day 1 given by mouth or mixed with food, then 0.045 mg/lb (0.1 mg/kg) once a day.",
+    "Q: How long do I wait after taking ibuprofen to take meloxicam? A: If you are switching from ibuprofen to meloxicam, wait until the ibuprofen has worn off before taking your first dose of meloxicam. For most people, that’s about 6 hours after the last dose of ibuprofen.",
+    "Q: Is meloxicam very similar to Celebrex? A: Both meloxicam and Celebrex are prescription NSAIDs that treat arthritis pain and swelling, and for most people they work about the same. Celebrex is a more “stomach‑friendly” COX‑2 selective drug while meloxicam usually costs less and lasts longer in the body.",
+    "Q: Can meloxicam cause drowsiness and headache? A: Drowsiness isn’t a known side effect of meloxicam. In fact, some people may have trouble sleeping instead. Dizziness can occur, and headache is a fairly common but usually mild side effect.",
+    "Q: Is meloxicam a narcotic? A: No, meloxicam is not a narcotic. It is in a group of drugs called nonsteroidal anti-inflammatory drugs (NSAIDs)."
+   ],
+   "text": "Q: Meloxicam vs Ibuprofen: What's the difference? A: Meloxicam is stronger, prescription-only, longer-acting, and used mainly for arthritis; ibuprofen is milder, OTC, shorter-acting, and treats various pains.\nQ: Should I take meloxicam tablets at night or in the morning? A: Meloxicam can be taken in the morning or at night. Oral meloxicam is usually taken once daily, at about the same time each day. You can take it with or without food, but food may help with stomach upset. Follow your prescribed dose and do not take more than recommended.\nQ: How long does it take for meloxicam to work? A: Meloxicam usually starts to ease pain within the first day, but the full benefit for chronic conditions like osteoarthritis can take several days to a couple of weeks. How quickly you feel relief depends on the dose, the formulation (oral tablet vs intravenous), and whether you are treating short‑term postoperative pain or long‑term arthritis.\nQ: How much meloxicam can I give my dog? A: The amount of meloxicam you can give your dog will depend on your dog’s weight and veterinarian’s instructions. The typical dose is 0.09 mg/lb (0.2 mg/kg) on day 1 given by mouth or mixed with food, then 0.045 mg/lb (0.1 mg/kg) once a day.\nQ: How long do I wait after taking ibuprofen to take meloxicam? A: If you are switching from ibuprofen to meloxicam, wait until the ibuprofen has worn off before taking your first dose of meloxicam. For most people, that’s about 6 hours after the last dose of ibuprofen.\nQ: Is meloxicam very similar to Celebrex? A: Both meloxicam and Celebrex are prescription NSAIDs that treat arthritis pain and swelling, and for most people they work about the same. Celebrex is a more “stomach‑friendly” COX‑2 selective drug while meloxicam usually costs less and lasts longer in the body.\nQ: Can meloxicam cause drowsiness and headache? A: Drowsiness isn’t a known side effect of meloxicam. In fact, some people may have trouble sleeping instead. Dizziness can occur, and headache is a fairly common but usually mild side effect.\nQ: Is meloxicam a narcotic? A: No, meloxicam is not a narcotic. It is in a group of drugs called nonsteroidal anti-inflammatory drugs (NSAIDs)."
+  }
+ ],
+ "rank": 30
+}

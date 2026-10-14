@@ -1,0 +1,240 @@
+{
+ "name": "Amoxicillin",
+ "slug": "amoxicillin",
+ "url": "https://www.drugs.com/amoxicillin.html",
+ "title": "Amoxicillin",
+ "page_title": "Amoxicillin: Uses, Dosage, Side Effects, Warnings - Drugs.com",
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Aug 24, 2026.",
+ "faq": [
+  {
+   "q": "What are the best antibiotics for a tooth infection?",
+   "a": "There are several antibiotics that kill the common mouth bacteria that cause tooth infections. The best (first-line) antibiotics for tooth infection include: Amoxicillin, Penicillin, Cephalexin, Clindamycin, Azithromycin. Amoxicillin is often the first choice because it is widely effective and has the fewest gastrointestinal side effects."
+  },
+  {
+   "q": "Can you drink alcohol with amoxicillin?",
+   "a": "Yes, you can drink alcohol while taking the antibiotic amoxicillin. The alcohol will not stop amoxicillin from working. However, many health professionals will recommend you avoid alcohol to give your body the best chance possible to fight the infection. Moderation is key."
+  },
+  {
+   "q": "Does amoxicillin expire? Is it safe to take after expiration?",
+   "a": "Amoxicillin capsules and tablets have an expiry of around 2 years and, provided they are stored as recommended and in the original packaging, there will be a small lee way of safety if used beyond expiry. Amoxicillin suspension is different and has a very short shelf life of about 7-10 days once it is prepared."
+  },
+  {
+   "q": "What are the best antibiotics for pneumonia?",
+   "a": "The best antibiotic depends on your infection type, health, and local resistance patterns. Common first choices include azithromycin, clarithromycin, or doxycycline. More serious infections may require levofloxacin or amoxicillin/clavulanate."
+  },
+  {
+   "q": "Is amoxicillin safe for dogs?",
+   "a": "Amoxicillin is a prescription antibiotic that veterinarians commonly use to treat bacterial infections in dogs, and it is generally considered safe when given at the correct dose under veterinary supervision. However, amoxicillin can cause side effects, allergic reactions, and serious problems if the dose is wrong, the drug is not needed, or human products are used without a veterinarian’s guidance."
+  },
+  {
+   "q": "Does amoxicillin help with tooth infection and pain?",
+   "a": "Yes, amoxicillin will help your tooth infection. Amoxicillin is one of the first antibiotics recommended for the treatment of a tooth infection. It has shown to be widely effective and have fewer gastrointestinal side effects compared to other options."
+  },
+  {
+   "q": "What is the Best Antibiotic for Strep Throat?",
+   "a": "Penicillin and amoxicillin are the first-choice antibiotics for strep throat. According to the CDC, Group A Streptococcus (the bacteria that cause Strep throat) has never shown resistance to penicillin, making it the gold standard treatment."
+  },
+  {
+   "q": "What's the difference between amoxicillin and penicillin?",
+   "a": "The main difference between amoxicillin and penicillin is that amoxicillin is effective against a wider spectrum of bacteria compared with penicillin. Both amoxicillin and penicillin belong to the class of antibiotics called penicillins."
+  },
+  {
+   "q": "Amoxicillin rash: When should I be concerned?",
+   "a": "From 5% to 10% of children will develop a rash from amoxicillin after taking it, which in most cases, is considered a side effect of amoxicillin and not an allergic rash. But in a small number of cases, the rash will be a sign of an allergic reaction which means the amoxicillin will need to be stopped right away."
+  }
+ ],
+ "description": "Amoxicillin is a penicillin antibiotic that fights bacteria. It is used to treat many types of infections such as tonsillitis, bronchitis, pneumonia, and others.",
+ "date_modified": "2026-08-24",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Augmentin",
+   "slug": "augmentin",
+   "blurb": "Augmentin is a prescription antibiotic combining amoxicillin and clavulanate to treat bacterial..."
+  },
+  {
+   "name": "Cefdinir",
+   "slug": "mtm/cefdinir",
+   "blurb": "Cefdinir is used for bacterial infection, bronchitis, middle ear infections, pneumonia, sinusitis..."
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Amoxicillin/clavulanate",
+   "slug": "amoxicillin_clavulanate",
+   "blurb": "Amoxicillin and clavulanate potassium is a combination antibiotic used to treat bacterial..."
+  },
+  {
+   "name": "Levofloxacin",
+   "slug": "levofloxacin",
+   "blurb": "Levofloxacin is a fluoroquinolone antibiotic used to treat serious bacterial infections and prevent..."
+  },
+  {
+   "name": "Ceftriaxone",
+   "slug": "mtm/ceftriaxone-injection",
+   "blurb": "Ceftriaxone is used for bacteremia, bacterial endocarditis prevention, bacterial infection, bone..."
+  },
+  {
+   "name": "Clindamycin",
+   "slug": "clindamycin",
+   "blurb": "Clindamycin (Cleocin) is used to treat serious infections caused by bacteria. Includes clindamycin..."
+  },
+  {
+   "name": "Metronidazole",
+   "slug": "metronidazole",
+   "blurb": "Metronidazole is an antibiotic used to fight bacteria in your body. Learn about side effects..."
+  },
+  {
+   "name": "Azithromycin",
+   "slug": "azithromycin",
+   "blurb": "Azithromycin is an antibiotic used to treat many different types of infections caused by bacteria..."
+  },
+  {
+   "name": "Ciprofloxacin",
+   "slug": "ciprofloxacin",
+   "blurb": "Ciprofloxacin is an antibiotic belong to a group of drugs called fluoroquinolones. Learn about side..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is amoxicillin?",
+   "lines": [
+    "Amoxicillin is a penicillin antibiotic used to treat bacterial infections such as tonsillitis, bronchitis, sinusitis, pneumonia, and infections of the ear, nose, throat, skin, or urinary tract.",
+    "Amoxicillin clavulanate is a combination of amoxicillin and clavulanate potassium. The amoxicillin fights bacteria, and the clavulanate potassium helps prevent certain bacteria from becoming resistant to amoxicillin.",
+    "Amoxicillin is also sometimes used together with another antibiotic called clarithromycin (Biaxin) to treat stomach ulcers caused by Helicobacter pylori infection. This combination is sometimes used with a stomach acid reducer called lansoprazole (Prevacid).",
+    "Amoxicillin 500mg and 250mg are available as tablets or capsules and as an oral suspension. Many brands and forms of amoxicillin are available, and not all brands are listed on this leaflet."
+   ],
+   "text": "Amoxicillin is a penicillin antibiotic used to treat bacterial infections such as tonsillitis, bronchitis, sinusitis, pneumonia, and infections of the ear, nose, throat, skin, or urinary tract.\nAmoxicillin clavulanate is a combination of amoxicillin and clavulanate potassium. The amoxicillin fights bacteria, and the clavulanate potassium helps prevent certain bacteria from becoming resistant to amoxicillin.\nAmoxicillin is also sometimes used together with another antibiotic called clarithromycin (Biaxin) to treat stomach ulcers caused by Helicobacter pylori infection. This combination is sometimes used with a stomach acid reducer called lansoprazole (Prevacid).\nAmoxicillin 500mg and 250mg are available as tablets or capsules and as an oral suspension. Many brands and forms of amoxicillin are available, and not all brands are listed on this leaflet."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Amoxicillin side effects",
+   "lines": [
+    "Common amoxicillin side effects:",
+    "Common amoxicillin side effects may include nausea, vomiting, diarrhea, or rash. These side effects affected more than 1% of patients in clinical trials.",
+    "Serious amoxicillin side effects:",
+    "Get emergency medical help if you have signs of an allergic reaction to amoxicillin (hives, difficult breathing, swelling in your face or throat) or a severe skin reaction (fever, sore throat, burning eyes, skin pain, red or purple skin rash with blistering and peeling).",
+    "Call your doctor at once if you have:",
+    "- severe stomach pain or vomiting (which may be signs of a serious intestinal condition); or",
+    "- diarrhea that is watery or bloody (even if it occurs months after your last dose).",
+    "This is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may also report side effects to the FDA at 1-800-FDA-1088."
+   ],
+   "text": "Common amoxicillin side effects:\nCommon amoxicillin side effects may include nausea, vomiting, diarrhea, or rash. These side effects affected more than 1% of patients in clinical trials.\nSerious amoxicillin side effects:\nGet emergency medical help if you have signs of an allergic reaction to amoxicillin (hives, difficult breathing, swelling in your face or throat) or a severe skin reaction (fever, sore throat, burning eyes, skin pain, red or purple skin rash with blistering and peeling).\nCall your doctor at once if you have:\n- severe stomach pain or vomiting (which may be signs of a serious intestinal condition); or\n- diarrhea that is watery or bloody (even if it occurs months after your last dose).\nThis is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may also report side effects to the FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Do not use this medication if you are allergic to amoxicillin or to any other penicillin antibiotic, such as ampicillin (Omnipen, Principen), dicloxacillin (Dycill, Dynapen), oxacillin (Bactocill), penicillin (Beepen-VK, Ledercillin VK, Pen-V, Pen-Vee K, Pfizerpen, V-Cillin K, Veetids), and others.",
+    "Before using amoxicillin, tell your doctor if you are allergic to cephalosporins such as Omnicef, Cefzil, Ceftin, Keflex, and others. Also, tell your doctor if you have asthma, liver or kidney disease, a bleeding or blood-clotting disorder, mononucleosis (also called \"mono\"), or any type of allergy.",
+    "Amoxicillin can make birth control pills less effective. Ask your doctor about using a non-hormone method of birth control (such as a condom, diaphragm, or spermicide) to prevent pregnancy while taking this medicine. Take this medication for the full prescribed length of time. Your symptoms may improve before the infection is completely cleared. Amoxicillin will not treat a viral infection such as the common cold or flu. Do not share this medication with another person, even if they have the same symptoms you have.",
+    "Antibiotic medicines can cause diarrhea. This may happen while you are taking amoxicillin, or within a few months after you stop taking it. This may be a sign of a new infection. If you have diarrhea that is watery or bloody, stop taking this medicine and call your doctor. Do not use anti-diarrhea medicine unless your doctor tells you to."
+   ],
+   "text": "Do not use this medication if you are allergic to amoxicillin or to any other penicillin antibiotic, such as ampicillin (Omnipen, Principen), dicloxacillin (Dycill, Dynapen), oxacillin (Bactocill), penicillin (Beepen-VK, Ledercillin VK, Pen-V, Pen-Vee K, Pfizerpen, V-Cillin K, Veetids), and others.\nBefore using amoxicillin, tell your doctor if you are allergic to cephalosporins such as Omnicef, Cefzil, Ceftin, Keflex, and others. Also, tell your doctor if you have asthma, liver or kidney disease, a bleeding or blood-clotting disorder, mononucleosis (also called \"mono\"), or any type of allergy.\nAmoxicillin can make birth control pills less effective. Ask your doctor about using a non-hormone method of birth control (such as a condom, diaphragm, or spermicide) to prevent pregnancy while taking this medicine. Take this medication for the full prescribed length of time. Your symptoms may improve before the infection is completely cleared. Amoxicillin will not treat a viral infection such as the common cold or flu. Do not share this medication with another person, even if they have the same symptoms you have.\nAntibiotic medicines can cause diarrhea. This may happen while you are taking amoxicillin, or within a few months after you stop taking it. This may be a sign of a new infection. If you have diarrhea that is watery or bloody, stop taking this medicine and call your doctor. Do not use anti-diarrhea medicine unless your doctor tells you to."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not use amoxicillin if you are allergic to any penicillin antibiotic, such as ampicillin, dicloxacillin, oxacillin, penicillin, or ticarcillin.",
+    "To make sure this medicine is safe for you, tell your doctor if you have:",
+    "Tell your doctor if you have phenylketonuria (PKU). The chewable tablets may contain phenylalanine.",
+    "It is not known whether this medicine will harm an unborn baby. Tell your doctor if you are pregnant or plan to become pregnant.",
+    "Amoxicillin can make birth control pills less effective. Ask your doctor about using a non-hormonal birth control (condom, diaphragm, cervical cap, or contraceptive sponge) to prevent pregnancy.",
+    "It may not be safe to breastfeed while using this medicine. Ask your doctor about any risk."
+   ],
+   "text": "You should not use amoxicillin if you are allergic to any penicillin antibiotic, such as ampicillin, dicloxacillin, oxacillin, penicillin, or ticarcillin.\nTo make sure this medicine is safe for you, tell your doctor if you have:\nTell your doctor if you have phenylketonuria (PKU). The chewable tablets may contain phenylalanine.\nIt is not known whether this medicine will harm an unborn baby. Tell your doctor if you are pregnant or plan to become pregnant.\nAmoxicillin can make birth control pills less effective. Ask your doctor about using a non-hormonal birth control (condom, diaphragm, cervical cap, or contraceptive sponge) to prevent pregnancy.\nIt may not be safe to breastfeed while using this medicine. Ask your doctor about any risk."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "How should I take amoxicillin?",
+   "lines": [
+    "Take amoxicillin exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets.",
+    "Take amoxicillin at the same time each day.",
+    "Some forms of amoxicillin may be taken with or without food. Check your medicine label to see if you should take your medicine with food or not.",
+    "Shake the oral suspension (liquid) before you measure a dose.",
+    "Measure liquid medicine with the dosing syringe provided, or use a medicine dose-measuring device (not a kitchen spoon). You may mix the liquid with water, milk, baby formula, fruit juice, or ginger ale. Drink all of the mixture right away. Do not save for later use.",
+    "You must chew the chewable tablet before you swallow it.",
+    "Swallow the regular tablet whole and do not crush, chew, or break it.",
+    "If you are taking amoxicillin with clarithromycin and/or lansoprazole to treat stomach ulcer, use all of your medications as directed. Read the medication guide or patient instructions provided with each medication. Do not change your doses or medication schedule without your doctor's advice.",
+    "Use this medicine for the full prescribed length of time, even if your symptoms quickly improve. Skipping doses can increase your risk of infection, that is resistant to medication. Amoxicillin will not treat a viral infection such as the flu or a common cold.",
+    "Do not share this medicine with another person, even if they have the same symptoms you have.",
+    "This medicine can affect the results of certain medical tests. Tell any doctor who treats you that you are using this medicine.",
+    "Store tablets and capsules at room temperature, away from moisture, heat, and light.",
+    "Liquid amoxicillin may need to be stored in a refrigerator or at room temperature, depending on the brand. Check your label for storage instructions. If stored in the refrigerator, do not allow it to freeze. Throw away any liquid medicine that is not used within 14 days after it was mixed at the pharmacy."
+   ],
+   "text": "Take amoxicillin exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets.\nTake amoxicillin at the same time each day.\nSome forms of amoxicillin may be taken with or without food. Check your medicine label to see if you should take your medicine with food or not.\nShake the oral suspension (liquid) before you measure a dose.\nMeasure liquid medicine with the dosing syringe provided, or use a medicine dose-measuring device (not a kitchen spoon). You may mix the liquid with water, milk, baby formula, fruit juice, or ginger ale. Drink all of the mixture right away. Do not save for later use.\nYou must chew the chewable tablet before you swallow it.\nSwallow the regular tablet whole and do not crush, chew, or break it.\nIf you are taking amoxicillin with clarithromycin and/or lansoprazole to treat stomach ulcer, use all of your medications as directed. Read the medication guide or patient instructions provided with each medication. Do not change your doses or medication schedule without your doctor's advice.\nUse this medicine for the full prescribed length of time, even if your symptoms quickly improve. Skipping doses can increase your risk of infection, that is resistant to medication. Amoxicillin will not treat a viral infection such as the flu or a common cold.\nDo not share this medicine with another person, even if they have the same symptoms you have.\nThis medicine can affect the results of certain medical tests. Tell any doctor who treats you that you are using this medicine.\nStore tablets and capsules at room temperature, away from moisture, heat, and light.\nLiquid amoxicillin may need to be stored in a refrigerator or at room temperature, depending on the brand. Check your label for storage instructions. If stored in the refrigerator, do not allow it to freeze. Throw away any liquid medicine that is not used within 14 days after it was mixed at the pharmacy."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Skip the missed dose and use your next dose at the regular time. Do not use two doses at one time."
+   ],
+   "text": "Skip the missed dose and use your next dose at the regular time. Do not use two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What to avoid",
+   "lines": [
+    "Antibiotic medicines can cause diarrhea, which may be a sign of a new infection. If you have diarrhea that is watery or bloody, call your doctor before using anti-diarrhea medicine."
+   ],
+   "text": "Antibiotic medicines can cause diarrhea, which may be a sign of a new infection. If you have diarrhea that is watery or bloody, call your doctor before using anti-diarrhea medicine."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect amoxicillin?",
+   "lines": [
+    "Tell your doctor about all your other medicines, especially:",
+    "- any other antibiotics;",
+    "- allopurinol;",
+    "- probenecid; or",
+    "- a blood thinner - warfarin, Coumadin, Jantoven;",
+    "- birth control pills.",
+    "This list is not complete. Other drugs may interact with amoxicillin, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here; to check for interactions, click on the link below."
+   ],
+   "text": "Tell your doctor about all your other medicines, especially:\n- any other antibiotics;\n- allopurinol;\n- probenecid; or\n- a blood thinner - warfarin, Coumadin, Jantoven;\n- birth control pills.\nThis list is not complete. Other drugs may interact with amoxicillin, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here; to check for interactions, click on the link below."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: What are the best antibiotics for a tooth infection? A: There are several antibiotics that kill the common mouth bacteria that cause tooth infections. The best (first-line) antibiotics for tooth infection include: Amoxicillin, Penicillin, Cephalexin, Clindamycin, Azithromycin. Amoxicillin is often the first choice because it is widely effective and has the fewest gastrointestinal side effects.",
+    "Q: Can you drink alcohol with amoxicillin? A: Yes, you can drink alcohol while taking the antibiotic amoxicillin. The alcohol will not stop amoxicillin from working. However, many health professionals will recommend you avoid alcohol to give your body the best chance possible to fight the infection. Moderation is key.",
+    "Q: Does amoxicillin expire? Is it safe to take after expiration? A: Amoxicillin capsules and tablets have an expiry of around 2 years and, provided they are stored as recommended and in the original packaging, there will be a small lee way of safety if used beyond expiry. Amoxicillin suspension is different and has a very short shelf life of about 7-10 days once it is prepared.",
+    "Q: What are the best antibiotics for pneumonia? A: The best antibiotic depends on your infection type, health, and local resistance patterns. Common first choices include azithromycin, clarithromycin, or doxycycline. More serious infections may require levofloxacin or amoxicillin/clavulanate.",
+    "Q: Is amoxicillin safe for dogs? A: Amoxicillin is a prescription antibiotic that veterinarians commonly use to treat bacterial infections in dogs, and it is generally considered safe when given at the correct dose under veterinary supervision. However, amoxicillin can cause side effects, allergic reactions, and serious problems if the dose is wrong, the drug is not needed, or human products are used without a veterinarian’s guidance.",
+    "Q: Does amoxicillin help with tooth infection and pain? A: Yes, amoxicillin will help your tooth infection. Amoxicillin is one of the first antibiotics recommended for the treatment of a tooth infection. It has shown to be widely effective and have fewer gastrointestinal side effects compared to other options.",
+    "Q: What is the Best Antibiotic for Strep Throat? A: Penicillin and amoxicillin are the first-choice antibiotics for strep throat. According to the CDC, Group A Streptococcus (the bacteria that cause Strep throat) has never shown resistance to penicillin, making it the gold standard treatment.",
+    "Q: What's the difference between amoxicillin and penicillin? A: The main difference between amoxicillin and penicillin is that amoxicillin is effective against a wider spectrum of bacteria compared with penicillin. Both amoxicillin and penicillin belong to the class of antibiotics called penicillins.",
+    "Q: Amoxicillin rash: When should I be concerned? A: From 5% to 10% of children will develop a rash from amoxicillin after taking it, which in most cases, is considered a side effect of amoxicillin and not an allergic rash. But in a small number of cases, the rash will be a sign of an allergic reaction which means the amoxicillin will need to be stopped right away."
+   ],
+   "text": "Q: What are the best antibiotics for a tooth infection? A: There are several antibiotics that kill the common mouth bacteria that cause tooth infections. The best (first-line) antibiotics for tooth infection include: Amoxicillin, Penicillin, Cephalexin, Clindamycin, Azithromycin. Amoxicillin is often the first choice because it is widely effective and has the fewest gastrointestinal side effects.\nQ: Can you drink alcohol with amoxicillin? A: Yes, you can drink alcohol while taking the antibiotic amoxicillin. The alcohol will not stop amoxicillin from working. However, many health professionals will recommend you avoid alcohol to give your body the best chance possible to fight the infection. Moderation is key.\nQ: Does amoxicillin expire? Is it safe to take after expiration? A: Amoxicillin capsules and tablets have an expiry of around 2 years and, provided they are stored as recommended and in the original packaging, there will be a small lee way of safety if used beyond expiry. Amoxicillin suspension is different and has a very short shelf life of about 7-10 days once it is prepared.\nQ: What are the best antibiotics for pneumonia? A: The best antibiotic depends on your infection type, health, and local resistance patterns. Common first choices include azithromycin, clarithromycin, or doxycycline. More serious infections may require levofloxacin or amoxicillin/clavulanate.\nQ: Is amoxicillin safe for dogs? A: Amoxicillin is a prescription antibiotic that veterinarians commonly use to treat bacterial infections in dogs, and it is generally considered safe when given at the correct dose under veterinary supervision. However, amoxicillin can cause side effects, allergic reactions, and serious problems if the dose is wrong, the drug is not needed, or human products are used without a veterinarian’s guidance.\nQ: Does amoxicillin help with tooth infection and pain? A: Yes, amoxicillin will help your tooth infection. Amoxicillin is one of the first antibiotics recommended for the treatment of a tooth infection. It has shown to be widely effective and have fewer gastrointestinal side effects compared to other options.\nQ: What is the Best Antibiotic for Strep Throat? A: Penicillin and amoxicillin are the first-choice antibiotics for strep throat. According to the CDC, Group A Streptococcus (the bacteria that cause Strep throat) has never shown resistance to penicillin, making it the gold standard treatment.\nQ: What's the difference between amoxicillin and penicillin? A: The main difference between amoxicillin and penicillin is that amoxicillin is effective against a wider spectrum of bacteria compared with penicillin. Both amoxicillin and penicillin belong to the class of antibiotics called penicillins.\nQ: Amoxicillin rash: When should I be concerned? A: From 5% to 10% of children will develop a rash from amoxicillin after taking it, which in most cases, is considered a side effect of amoxicillin and not an allergic rash. But in a small number of cases, the rash will be a sign of an allergic reaction which means the amoxicillin will need to be stopped right away."
+  }
+ ],
+ "rank": 22
+}

@@ -1,0 +1,480 @@
+{
+ "name": "Tirzepatide",
+ "slug": "tirzepatide",
+ "url": "https://www.drugs.com/tirzepatide.html",
+ "title": "Tirzepatide",
+ "page_title": "Tirzepatide (Zepbound, Mounjaro): Weight Loss, Diabetes, Dosage & Side Effects",
+ "brand_names": [
+  "Zepbound",
+  "Zepbound KwikPen",
+  "Mounjaro",
+  "Mounjaro KwikPen"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "Subcutaneous injection",
+   "strengths": []
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "GLP-1 Drugs",
+   "slug": "glp-1-receptor-agonists"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Sep 30, 2026.",
+ "faq": [
+  {
+   "q": "Zepbound vs Mounjaro: Comparison Guide for Weight Loss and Diabetes Treatment",
+   "a": "Zepbound and Mounjaro contain tirzepatide and are made by Eli Lilly. They are both administered as a once-weekly subcutaneous injection, but they have different FDA-approved indications and insurance coverage."
+  },
+  {
+   "q": "Which GLP-1 drug is best for weight loss?",
+   "a": "The most effective GLP-1 drug for weight loss currently (as of early 2026) is tirzepatide, marketed under the names Zepbound (for weight loss) and Mounjaro (for diabetes). Clinical trials and recent meta-analyses consistently show tirzepatide delivers the most substantial weight reduction among GLP-1 medications, with average losses of up to 22.5% of body weight."
+  },
+  {
+   "q": "How long does it take for Mounjaro (tirzepatide) to start working?",
+   "a": "Mounjaro (generic name: tirzepatide) will start to lower your blood sugar levels right away but it can take 8 to 12 weeks to reach your target A1C goal. When compared to some other diabetes treatments, studies have shown that it can take 8 weeks to reach an A1C target of ≤7% and 12 weeks to reach an A1C ≤6.5% with Mounjaro. Significant weight loss can occur as early as 28-weeks."
+  },
+  {
+   "q": "Tirzepatide vs semaglutide: How do they compare?",
+   "a": "Semaglutide and tirzepatide are prescription medicines used for type 2 diabetes and long-term weight management. Semaglutide products include Ozempic, Rybelsus, Wegovy, and Wegovy HD, while tirzepatide products include Mounjaro and Zepbound. These medicines differ in dosing, approved uses, side effects, and cost, so discuss options with your healthcare provider."
+  },
+  {
+   "q": "How does retatrutide compare to tirzepatide?",
+   "a": "Retatrutide is an investigational triple hormone agonist (GLP-1, GIP, glucagon) showing promising early results for obesity and type 2 diabetes, while tirzepatide is an FDA-approved dual agonist (GLP-1, GIP) available for use today."
+  },
+  {
+   "q": "How much is Zepbound with or without insurance?",
+   "a": "Zepbound may cost $25 for a 1-month or 3-month pen prescription if you have insurance and are eligible for the Savings Card, but without insurance, Zepbound costs start at $299 for a 2.5mg vial or 2.5mg KwikPen, $399 per month for a 5mg dose, and $449 for the higher doses per month."
+  },
+  {
+   "q": "Can you get tirzepatide from a compounding pharmacy?",
+   "a": "Tirzepatide cannot be legally compounded in a U.S. pharmacy at this time because it was removed from the FDA drug shortage list as of October 2, 2024. When drugs are in short supply, the FDA can allow temporary compounding of some medicines so that patients can access their treatments. Tirzepatide is now widely available as a prescription medicine made by Eli Lilly under the brands names Mounjaro (for type 2 diabetes) and Zepbound (for weight loss and sleep apnea)."
+  },
+  {
+   "q": "How much weight can I lose on Zepbound?",
+   "a": "The specific amount of weight you might lose from Zepbound is uncertain, but significant weight loss ranging from 35.5 lb (16.1 kg) to 52.0 lb (23.6 kg) was observed in the 72-week SURMOUNT-1 clinical trial, which compared different Zepbound (tirzepatide) doses to a placebo (inactive treatment)."
+  },
+  {
+   "q": "Is Zepbound covered by insurance?",
+   "a": "Most major insurance plans cover Zepbound, but your doctor may need to submit prior authorization before approval. Check your plan for deductibles, copays, and coinsurance. Eligible Medicare Part D beneficiaries may receive Zepbound KwikPen through the temporary Medicare GLP-1 Bridge program for $50 per monthly supply."
+  }
+ ],
+ "description": "Tirzepatide (Zepbound, Mounjaro) is a once-weekly injection for weight loss and type 2 diabetes. Includes dosage, side effects, interactions, warnings, and cost.",
+ "date_modified": "2026-09-30",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Mounjaro",
+   "slug": "mounjaro",
+   "blurb": "Mounjaro is used for type 2 diabetes to help lower blood sugar levels. Mounjaro has also been shown..."
+  },
+  {
+   "name": "Zepbound",
+   "slug": "zepbound",
+   "blurb": "Zepbound (tirzepatide) is an FDA-approved weekly injection for weight loss and obstructive sleep..."
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Provigil",
+   "slug": "provigil",
+   "blurb": "Provigil promotes wakefulness and is used to treat excessive daytime sleepiness caused by..."
+  },
+  {
+   "name": "Sunosi",
+   "slug": "sunosi",
+   "blurb": "Sunosi (solriamfetol) is a prescription medicine used for the treatment of excessive sleepiness in..."
+  },
+  {
+   "name": "Nuvigil",
+   "slug": "nuvigil",
+   "blurb": "Nuvigil may be used to improve wakefulness in adults who are very sleepy due to narcolepsy..."
+  },
+  {
+   "name": "Xiaflex",
+   "slug": "xiaflex",
+   "blurb": "Xiaflex (collagenase clostridium histolyticum) is used to treat Dupuytren's contracture is adults..."
+  },
+  {
+   "name": "Collagenase clostridium histolyticum",
+   "slug": "mtm/collagenase-clostridium-histolyticum",
+   "blurb": "Collagenase clostridium histolyticum is used for cellulite, dupuytren's contracture, peyronie disease"
+  },
+  {
+   "name": "Solriamfetol",
+   "slug": "solriamfetol",
+   "blurb": "Solriamfetol (Sunosi) tablets are used to treat excessive daytime sleepiness due to narcolepsy or..."
+  },
+  {
+   "name": "Armodafinil",
+   "slug": "armodafinil",
+   "blurb": "Armodafinil may be used to improve wakefulness in adults who are very sleepy due to narcolepsy..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is Tirzepatide?",
+   "lines": [
+    "Tirzepatide is a once-weekly injection available as two brands: Zepbound (for weight loss, weight management, and obstructive sleep apnea) and Mounjaro (for type 2 diabetes and to lower the risk of major adverse cardiovascular events in those with type 2 diabetes at high risk).",
+    "Zepbound (tirzepatide) is FDA-approved for weight loss and weight management in adults with obesity, or in overweight adults with at least one weight-related medical condition. Zepbound is also approved to treat moderate-to-severe obstructive sleep apnea (OSA) in adults with obesity.",
+    "Mounjaro (tirzepatide) is FDA-approved for type 2 diabetes in adults and children aged 10 years and older to help improve blood sugar (glucose) levels, used alongside diet and exercise. It is also approved to lower the risk of major adverse cardiovascular events (cardiovascular death, non-fatal heart attack, or non-fatal stroke) in adults with type 2 diabetes who are at high risk for these events.",
+    "Tirzepatide is a dual GIP/ GLP-1 receptor agonist, meaning it activates two gut hormone receptors that help regulate appetite, digestion, and blood sugar. It works by reducing appetite, increasing feelings of fullness, slowing gastric emptying, boosting insulin release when blood sugar is high, and reducing glucagon secretion.",
+    "Tirzepatide is self-administered as a subcutaneous (under the skin) injection using a single-dose pen, KwikPen, or vial with syringe, and should always be used together with diet and exercise.",
+    "Tirzepatide should not be used in people with type 1 diabetes. It is not known if tirzepatide is safe in people who have had pancreatitis."
+   ],
+   "text": "Tirzepatide is a once-weekly injection available as two brands: Zepbound (for weight loss, weight management, and obstructive sleep apnea) and Mounjaro (for type 2 diabetes and to lower the risk of major adverse cardiovascular events in those with type 2 diabetes at high risk).\nZepbound (tirzepatide) is FDA-approved for weight loss and weight management in adults with obesity, or in overweight adults with at least one weight-related medical condition. Zepbound is also approved to treat moderate-to-severe obstructive sleep apnea (OSA) in adults with obesity.\nMounjaro (tirzepatide) is FDA-approved for type 2 diabetes in adults and children aged 10 years and older to help improve blood sugar (glucose) levels, used alongside diet and exercise. It is also approved to lower the risk of major adverse cardiovascular events (cardiovascular death, non-fatal heart attack, or non-fatal stroke) in adults with type 2 diabetes who are at high risk for these events.\nTirzepatide is a dual GIP/ GLP-1 receptor agonist, meaning it activates two gut hormone receptors that help regulate appetite, digestion, and blood sugar. It works by reducing appetite, increasing feelings of fullness, slowing gastric emptying, boosting insulin release when blood sugar is high, and reducing glucagon secretion.\nTirzepatide is self-administered as a subcutaneous (under the skin) injection using a single-dose pen, KwikPen, or vial with syringe, and should always be used together with diet and exercise.\nTirzepatide should not be used in people with type 1 diabetes. It is not known if tirzepatide is safe in people who have had pancreatitis."
+  },
+  {
+   "id": "how-much-weight-can-you-lose-on-tirzepatide",
+   "page": "main",
+   "heading": "How Much Weight Can You Lose on Tirzepatide?",
+   "lines": [
+    "Patients on Tirzepatide 15 mg weekly lost an average of 20.9% or 48.6 lb of their body weight after 72 weeks in the Zepbound Study 1 (NCT04184622) compared to placebo patients who lost an average of 3.1% or 7.2 lb.",
+    "Study 1 was a 72-week trial comparing Zepbound weight loss with placebo in adults with obesity or overweight with at least one weight-related condition, excluding patients with type 2 diabetes.",
+    "Zepbound Weight Loss Results at 72 Weeks by Dose:",
+    "Treatment dose | Average % weight loss | Average weight lost | Average starting weight",
+    "Zepbound 5 mg | 15.0% | 34.0 lb | 226.9 lb",
+    "Zepbound 10 mg | 19.5% | 45.5 lb | 233.2 lb",
+    "Zepbound 15 mg | 20.9% | 48.6 lb | 232.8 lb",
+    "Placebo | 3.1% | 7.2 lb | 231.0 lb"
+   ],
+   "text": "Patients on Tirzepatide 15 mg weekly lost an average of 20.9% or 48.6 lb of their body weight after 72 weeks in the Zepbound Study 1 (NCT04184622) compared to placebo patients who lost an average of 3.1% or 7.2 lb.\nStudy 1 was a 72-week trial comparing Zepbound weight loss with placebo in adults with obesity or overweight with at least one weight-related condition, excluding patients with type 2 diabetes.\nZepbound Weight Loss Results at 72 Weeks by Dose:\nTreatment dose | Average % weight loss | Average weight lost | Average starting weight\nZepbound 5 mg | 15.0% | 34.0 lb | 226.9 lb\nZepbound 10 mg | 19.5% | 45.5 lb | 233.2 lb\nZepbound 15 mg | 20.9% | 48.6 lb | 232.8 lb\nPlacebo | 3.1% | 7.2 lb | 231.0 lb"
+  },
+  {
+   "id": "mounjaro-hba1c-results-for-type-2-diabetes",
+   "page": "main",
+   "heading": "Mounjaro HbA1c Results for Type 2 Diabetes",
+   "lines": [
+    "In the Mounjaro prescribing information, SURPASS-1 (NCT03954834) was a 40-week trial in adults with type 2 diabetes whose blood sugar was not adequately controlled with diet and exercise alone. Patients received once-weekly Mounjaro 5 mg, 10 mg, or 15 mg, or placebo.",
+    "After 40 weeks, 78% to 85% of adults taking Mounjaro achieved an HbA1c below 7%, compared with 23% of adults taking a placebo.",
+    "The average HbA1c change was -1.8% with Mounjaro 5 mg, -1.7% with Mounjaro 10 mg, and -1.7% with Mounjaro 15 mg, compared with -0.1% with placebo."
+   ],
+   "text": "In the Mounjaro prescribing information, SURPASS-1 (NCT03954834) was a 40-week trial in adults with type 2 diabetes whose blood sugar was not adequately controlled with diet and exercise alone. Patients received once-weekly Mounjaro 5 mg, 10 mg, or 15 mg, or placebo.\nAfter 40 weeks, 78% to 85% of adults taking Mounjaro achieved an HbA1c below 7%, compared with 23% of adults taking a placebo.\nThe average HbA1c change was -1.8% with Mounjaro 5 mg, -1.7% with Mounjaro 10 mg, and -1.7% with Mounjaro 15 mg, compared with -0.1% with placebo."
+  },
+  {
+   "id": "mounjaro-results-for-reducing-cardiovascular-risk",
+   "page": "main",
+   "heading": "Mounjaro Results for Reducing Cardiovascular Risk",
+   "lines": [
+    "SURPASS-CVOT randomized 13,299 adults with type 2 diabetes and established cardiovascular disease to Mounjaro (tirzepatide, up to 15 mg once weekly) or dulaglutide 1.5 mg once weekly, a GLP-1 medicine already approved to reduce cardiovascular risk, with a median follow-up of about 4 years.",
+    "- Cardiovascular death, non-fatal heart attack, or non-fatal stroke occurred in 12.1% of those taking Mounjaro compared with 13.0% of those taking dulaglutide (HR 0.92, 95.3% CI 0.83–1.01), meeting the trial's goal of non-inferiority but not demonstrating superiority.",
+    "- Death from any cause occurred in 8.5% of the Mounjaro group versus 10.1% of the dulaglutide group (HR 0.84, 95% CI 0.75–0.94), though this was not a primary endpoint and was not adjusted for multiple comparisons, so it should be read as exploratory.",
+    "Because the comparator was an active medicine rather than placebo, these results describe how Mounjaro performs against another GLP-1, not how much it lowers risk compared with no treatment."
+   ],
+   "text": "SURPASS-CVOT randomized 13,299 adults with type 2 diabetes and established cardiovascular disease to Mounjaro (tirzepatide, up to 15 mg once weekly) or dulaglutide 1.5 mg once weekly, a GLP-1 medicine already approved to reduce cardiovascular risk, with a median follow-up of about 4 years.\n- Cardiovascular death, non-fatal heart attack, or non-fatal stroke occurred in 12.1% of those taking Mounjaro compared with 13.0% of those taking dulaglutide (HR 0.92, 95.3% CI 0.83–1.01), meeting the trial's goal of non-inferiority but not demonstrating superiority.\n- Death from any cause occurred in 8.5% of the Mounjaro group versus 10.1% of the dulaglutide group (HR 0.84, 95% CI 0.75–0.94), though this was not a primary endpoint and was not adjusted for multiple comparisons, so it should be read as exploratory.\nBecause the comparator was an active medicine rather than placebo, these results describe how Mounjaro performs against another GLP-1, not how much it lowers risk compared with no treatment."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Tirzepatide side effects",
+   "lines": [
+    "Common Side Effects:",
+    "The most common tirzepatide side effects are:",
+    "- Diarrhea",
+    "- Vomiting",
+    "- Constipation",
+    "- Nausea (mild to moderate)",
+    "- Decreased appetite",
+    "- Abdominal pain.",
+    "Serious side effects:",
+    "Tirzepatide can cause serious side effects. Call your doctor right away if you have any of the following:",
+    "- Severe stomach pain (pancreatitis): Stop taking tirzepatide and call your healthcare provider immediately if you have severe pain in your stomach area that will not go away, with or without vomiting, or pain that spreads to your back.",
+    "- Kidney problems: Diarrhea, nausea, and vomiting can cause dehydration, which may lead to kidney problems. Drink plenty of fluids to reduce this risk and tell your doctor if you are unable to keep fluids down.",
+    "- Gallbladder problems: Symptoms include severe upper stomach pain, fever, nausea, vomiting, yellowing of the skin or eyes (jaundice), or clay-colored stools.",
+    "- Serious allergic reactions: Seek emergency medical attention if you experience hives, difficulty breathing, feeling light-headed, or swelling of your face, lips, tongue, or throat (anaphylaxis or angioedema).",
+    "- Low blood sugar (hypoglycemia): Symptoms may include headache, hunger, weakness, sweating, confusion, irritability, dizziness, fast heart rate, or feeling jittery.",
+    "- Vision changes: Tell your doctor about any blurred vision or other vision changes, particularly if you have type 2 diabetes.",
+    "- Thyroid tumor: Symptoms may include a lump or swelling in your neck, trouble swallowing, hoarseness, or shortness of breath.",
+    "- Mental health changes: Tell your healthcare provider right away about any new or worsening depression, mood changes, or thoughts of suicide or self-harm.",
+    "- Aspiration during surgery: Tirzepatide slows stomach emptying, which may increase the risk of food or liquid entering the lungs during procedures using anesthesia or sedation. Tell all your healthcare providers you are taking tirzepatide before any planned surgery or procedure.",
+    "This is not a complete list of side effects. Call your doctor for medical advice about side effects, or report them to the FDA at 1-800-FDA-1088."
+   ],
+   "text": "Common Side Effects:\nThe most common tirzepatide side effects are:\n- Diarrhea\n- Vomiting\n- Constipation\n- Nausea (mild to moderate)\n- Decreased appetite\n- Abdominal pain.\nSerious side effects:\nTirzepatide can cause serious side effects. Call your doctor right away if you have any of the following:\n- Severe stomach pain (pancreatitis): Stop taking tirzepatide and call your healthcare provider immediately if you have severe pain in your stomach area that will not go away, with or without vomiting, or pain that spreads to your back.\n- Kidney problems: Diarrhea, nausea, and vomiting can cause dehydration, which may lead to kidney problems. Drink plenty of fluids to reduce this risk and tell your doctor if you are unable to keep fluids down.\n- Gallbladder problems: Symptoms include severe upper stomach pain, fever, nausea, vomiting, yellowing of the skin or eyes (jaundice), or clay-colored stools.\n- Serious allergic reactions: Seek emergency medical attention if you experience hives, difficulty breathing, feeling light-headed, or swelling of your face, lips, tongue, or throat (anaphylaxis or angioedema).\n- Low blood sugar (hypoglycemia): Symptoms may include headache, hunger, weakness, sweating, confusion, irritability, dizziness, fast heart rate, or feeling jittery.\n- Vision changes: Tell your doctor about any blurred vision or other vision changes, particularly if you have type 2 diabetes.\n- Thyroid tumor: Symptoms may include a lump or swelling in your neck, trouble swallowing, hoarseness, or shortness of breath.\n- Mental health changes: Tell your healthcare provider right away about any new or worsening depression, mood changes, or thoughts of suicide or self-harm.\n- Aspiration during surgery: Tirzepatide slows stomach emptying, which may increase the risk of food or liquid entering the lungs during procedures using anesthesia or sedation. Tell all your healthcare providers you are taking tirzepatide before any planned surgery or procedure.\nThis is not a complete list of side effects. Call your doctor for medical advice about side effects, or report them to the FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Important Safety Information",
+   "lines": [
+    "Who should not use tirzepatide:",
+    "- Type 1 diabetes patients (tirzepatide is not approved for type 1 diabetes)",
+    "- Personal or family history of medullary thyroid carcinoma (MTC)",
+    "- Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).",
+    "Use with Caution:",
+    "- History of pancreatitis (safety not established in patients with prior pancreatitis)",
+    "- Severe gastrointestinal disease",
+    "- Diabetic retinopathy complications."
+   ],
+   "text": "Who should not use tirzepatide:\n- Type 1 diabetes patients (tirzepatide is not approved for type 1 diabetes)\n- Personal or family history of medullary thyroid carcinoma (MTC)\n- Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).\nUse with Caution:\n- History of pancreatitis (safety not established in patients with prior pancreatitis)\n- Severe gastrointestinal disease\n- Diabetic retinopathy complications."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Tirzepatide carries a Boxed Warning for the risk of possible thyroid tumors.",
+    "Possible Thyroid Tumors (Including Cancer):",
+    "Tell your healthcare provider if you get a lump or swelling in your neck, hoarseness, trouble swallowing, or shortness of breath. These may be symptoms of thyroid cancer. In studies with rats, tirzepatide and medicines that work like tirzepatide have caused thyroid tumors, including thyroid cancer. It is not known if tirzepatide will cause thyroid tumors, or a type of thyroid cancer called medullary thyroid carcinoma (MTC) in people.",
+    "Do not use tirzepatide if you or any of your family have ever had a type of thyroid cancer called medullary thyroid carcinoma (MTC), or if you have an endocrine system condition called Multiple Endocrine Neoplasia syndrome type 2 (MEN 2)."
+   ],
+   "text": "Tirzepatide carries a Boxed Warning for the risk of possible thyroid tumors.\nPossible Thyroid Tumors (Including Cancer):\nTell your healthcare provider if you get a lump or swelling in your neck, hoarseness, trouble swallowing, or shortness of breath. These may be symptoms of thyroid cancer. In studies with rats, tirzepatide and medicines that work like tirzepatide have caused thyroid tumors, including thyroid cancer. It is not known if tirzepatide will cause thyroid tumors, or a type of thyroid cancer called medullary thyroid carcinoma (MTC) in people.\nDo not use tirzepatide if you or any of your family have ever had a type of thyroid cancer called medullary thyroid carcinoma (MTC), or if you have an endocrine system condition called Multiple Endocrine Neoplasia syndrome type 2 (MEN 2)."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before using tirzepatide",
+   "lines": [
+    "- Tell your doctor and pharmacist if you are allergic to tirzepatide, any other medications, or any of the ingredients in this medicine. There is a list of ingredients in this medicine, at the bottom of this page.",
+    "- Tell your healthcare team if you are planning surgery or other procedure that uses anesthesia or deep sedation.",
+    "- Tell your doctor if you have or have ever had kidney or pancreas disease, a history of diabetic retinopathy or any stomach problems such as difficulty digesting food.",
+    "- Tell your doctor if you plan to become pregnant, are pregnant, or are breastfeeding. If you become pregnant while taking this medicine, you should tell your doctor. There is a pregnancy exposure registry for women who take Zepbound during pregnancy. Talk to your healthcare provider about how you can take part, call 1-844-524-0039, or visit https://pregnancyregistry.lilly.com/zepbound."
+   ],
+   "text": "- Tell your doctor and pharmacist if you are allergic to tirzepatide, any other medications, or any of the ingredients in this medicine. There is a list of ingredients in this medicine, at the bottom of this page.\n- Tell your healthcare team if you are planning surgery or other procedure that uses anesthesia or deep sedation.\n- Tell your doctor if you have or have ever had kidney or pancreas disease, a history of diabetic retinopathy or any stomach problems such as difficulty digesting food.\n- Tell your doctor if you plan to become pregnant, are pregnant, or are breastfeeding. If you become pregnant while taking this medicine, you should tell your doctor. There is a pregnancy exposure registry for women who take Zepbound during pregnancy. Talk to your healthcare provider about how you can take part, call 1-844-524-0039, or visit https://pregnancyregistry.lilly.com/zepbound."
+  },
+  {
+   "id": "cost",
+   "page": "main",
+   "heading": "What is the cost of tirzepatide?",
+   "lines": [
+    "The cost of tirzepatide depends on your insurance plan, pharmacy, and the brand you use.",
+    "Zepbound cost",
+    "Zepbound may cost $25 for a 1-month or 3-month pen prescription if you have commercial insurance and are eligible for the Savings Card. Note that patients with government insurance (Medicare, Medicaid) are not eligible for the savings card. Through the Zepbound self-pay program, tirzepatide is available directly to patients as a 4-count single-dose vial or single-patient-use KwikPen. All six doses are available: 2.5 mg ($299), 5 mg ($399), 7.5 mg ($499), 10 mg ($699), 12.5 mg ($699), and 15 mg ($699) per month. The list price of Zepbound is $499–$1,086.37 per fill, but this is not what most people pay.",
+    "Refer to our Zepbound price guide for more information, or see \" How much is Zepbound with or without insurance? \" and \" What is the Zepbound Coupon or Savings Card? \"",
+    "Mounjaro cost",
+    "Mounjaro may cost $25 for up to a 3-month prescription if you have commercial insurance and are eligible for the Savings Card. Note that patients with government insurance (Medicare, Medicaid) are not eligible for the savings card. Without insurance, Mounjaro can cost $499 for a 1-month prescription of single-dose pens (all strengths) through the LillyDirect Mounjaro Self Pay Journey Program. The list price of Mounjaro is $1,112.16 per fill, but this is not what most people pay.",
+    "Refer to our Mounjaro price guide for more information, or see \" Can you afford Mounjaro without insurance? \" and \" What is the Mounjaro Coupon or Savings Card? \""
+   ],
+   "text": "The cost of tirzepatide depends on your insurance plan, pharmacy, and the brand you use.\nZepbound cost\nZepbound may cost $25 for a 1-month or 3-month pen prescription if you have commercial insurance and are eligible for the Savings Card. Note that patients with government insurance (Medicare, Medicaid) are not eligible for the savings card. Through the Zepbound self-pay program, tirzepatide is available directly to patients as a 4-count single-dose vial or single-patient-use KwikPen. All six doses are available: 2.5 mg ($299), 5 mg ($399), 7.5 mg ($499), 10 mg ($699), 12.5 mg ($699), and 15 mg ($699) per month. The list price of Zepbound is $499–$1,086.37 per fill, but this is not what most people pay.\nRefer to our Zepbound price guide for more information, or see \" How much is Zepbound with or without insurance? \" and \" What is the Zepbound Coupon or Savings Card? \"\nMounjaro cost\nMounjaro may cost $25 for up to a 3-month prescription if you have commercial insurance and are eligible for the Savings Card. Note that patients with government insurance (Medicare, Medicaid) are not eligible for the savings card. Without insurance, Mounjaro can cost $499 for a 1-month prescription of single-dose pens (all strengths) through the LillyDirect Mounjaro Self Pay Journey Program. The list price of Mounjaro is $1,112.16 per fill, but this is not what most people pay.\nRefer to our Mounjaro price guide for more information, or see \" Can you afford Mounjaro without insurance? \" and \" What is the Mounjaro Coupon or Savings Card? \""
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I use tirzepatide?",
+   "lines": [
+    "You should follow the directions on your prescription label carefully and ask your pharmacist or doctor to explain any part you do not understand. It is important to use this medicine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.",
+    "Tirzepatide is injected under the skin (subcutaneously) using a pre-filled single-dose pen, a multi-dose KwikPen (for single patient use), and a single-dose vial with a syringe. Caregivers or patients should be trained on proper injection techniques and should read the instructions for use. Children should not inject themselves with the KwikPen; an adult caregiver should give a child their injections.",
+    "Tirzepatide is usually given:",
+    "- once a week.",
+    "- can be given with or without meals at any time of the day.",
+    "- may be injected into the thigh, abdomen, or have another person inject it into the back of your upper arm",
+    "- You should rotate injection sites with each dose.",
+    "- Do not inject into a muscle (intramuscularly) or vein (intravenously).",
+    "- Do not mix insulin and tirzepatide together in the same injection. You may give an injection of tirzepatide and insulin in the same body area, but not right next to each other.",
+    "Your doctor will probably start you on a low dose, which may be gradually increased, but not more than once every 4 weeks.",
+    "You may change the day of the week you use tirzepatide as long as there are at least three days between doses.",
+    "Do not stop taking this medicine without talking to your doctor.",
+    "Tirzepatide KwikPen:",
+    "The KwikPen contains 4 fixed doses, and one dose is injected weekly (subcutaneously).",
+    "- For your weekly dose, you need to turn the dose knob all the way until it stops AND the 1 icon is in the dose window.",
+    "- After 4 doses, throw away (discard) the Pen, including the unused medicine. The Pen will prevent you from dialing a full dose after you have given yourself 4 weekly doses. Do not inject the leftover medicine. Do not transfer the leftover medicine from your Pen into a syringe.",
+    "- Do not share your tirzepatide Pen with other people, even if the pen needle has been changed. You may give other people a serious infection or get a serious infection from them.",
+    "- People who are blind or have vision problems should not use the Pen without help from a person who has been trained to use the pen."
+   ],
+   "text": "You should follow the directions on your prescription label carefully and ask your pharmacist or doctor to explain any part you do not understand. It is important to use this medicine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.\nTirzepatide is injected under the skin (subcutaneously) using a pre-filled single-dose pen, a multi-dose KwikPen (for single patient use), and a single-dose vial with a syringe. Caregivers or patients should be trained on proper injection techniques and should read the instructions for use. Children should not inject themselves with the KwikPen; an adult caregiver should give a child their injections.\nTirzepatide is usually given:\n- once a week.\n- can be given with or without meals at any time of the day.\n- may be injected into the thigh, abdomen, or have another person inject it into the back of your upper arm\n- You should rotate injection sites with each dose.\n- Do not inject into a muscle (intramuscularly) or vein (intravenously).\n- Do not mix insulin and tirzepatide together in the same injection. You may give an injection of tirzepatide and insulin in the same body area, but not right next to each other.\nYour doctor will probably start you on a low dose, which may be gradually increased, but not more than once every 4 weeks.\nYou may change the day of the week you use tirzepatide as long as there are at least three days between doses.\nDo not stop taking this medicine without talking to your doctor.\nTirzepatide KwikPen:\nThe KwikPen contains 4 fixed doses, and one dose is injected weekly (subcutaneously).\n- For your weekly dose, you need to turn the dose knob all the way until it stops AND the 1 icon is in the dose window.\n- After 4 doses, throw away (discard) the Pen, including the unused medicine. The Pen will prevent you from dialing a full dose after you have given yourself 4 weekly doses. Do not inject the leftover medicine. Do not transfer the leftover medicine from your Pen into a syringe.\n- Do not share your tirzepatide Pen with other people, even if the pen needle has been changed. You may give other people a serious infection or get a serious infection from them.\n- People who are blind or have vision problems should not use the Pen without help from a person who has been trained to use the pen."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Dosing Information",
+   "lines": [
+    "Usual Zepbound Dose for Weight Loss and OSA (Adult):",
+    "- Initial dose: 2.5 mg under the skin (subcutaneously) once a week.",
+    "- After 4 weeks: The dosage should be increased to 5 mg subcutaneously once a week.",
+    "- Further dose increases: After at least 4 weeks on the current dose, the dosage may be increased in 2.5 mg increments.",
+    "- Recommended maintenance dose for weight loss: 5 mg, 10 mg, or 15 mg injected subcutaneously once weekly.",
+    "- Recommended maintenance dose for OSA: 10 mg or 15 mg injected subcutaneously once weekly.",
+    "- Maximum dose: 15 mg subcutaneously once a week.",
+    "Dose of Mounjaro for Type 2 Diabetes (Adults and Children 10 Years and Older):",
+    "- Initial dose: 2.5 mg subcutaneously once a week.",
+    "- If additional glycemic control is needed: Increase the dose in 2.5 mg increments after at least 4 weeks on the current dose.",
+    "- Maximum dose (adults): 15 mg subcutaneously once a week.",
+    "- Maximum dose (children 10 years and older): 10 mg subcutaneously once a week.",
+    "- Comments: The starting dose and escalation schedule are designed to reduce the risk of gastrointestinal side effects.",
+    "Dose of Mounjaro to Reduce Cardiovascular Risk (Adults With Type 2 Diabetes at High Risk):",
+    "- The same dosing and escalation schedule applies.",
+    "- Start at 2.5 mg subcutaneously once a week and increase in 2.5 mg increments after at least 4 weeks on the current dose, up to a maximum of 15 mg once a week.",
+    "- In the SURPASS-CVOT trial, participants were titrated to 15 mg once weekly or their maximum tolerated dose.",
+    "How to Use Mounjaro:",
+    "- Give once weekly at any time of day, with or without meals.",
+    "- Inject subcutaneously into the abdomen or thigh. Another person may inject into the back of the upper arm. Rotate injection sites with each dose.",
+    "- Missed dose: Give as soon as possible within 4 days (96 hours). If more than 4 days have passed, skip the missed dose and give the next dose on the regularly scheduled day.",
+    "- The day of weekly administration can be changed, if necessary, as long as the time between the 2 doses is at least 3 days (72 hours)."
+   ],
+   "text": "Usual Zepbound Dose for Weight Loss and OSA (Adult):\n- Initial dose: 2.5 mg under the skin (subcutaneously) once a week.\n- After 4 weeks: The dosage should be increased to 5 mg subcutaneously once a week.\n- Further dose increases: After at least 4 weeks on the current dose, the dosage may be increased in 2.5 mg increments.\n- Recommended maintenance dose for weight loss: 5 mg, 10 mg, or 15 mg injected subcutaneously once weekly.\n- Recommended maintenance dose for OSA: 10 mg or 15 mg injected subcutaneously once weekly.\n- Maximum dose: 15 mg subcutaneously once a week.\nDose of Mounjaro for Type 2 Diabetes (Adults and Children 10 Years and Older):\n- Initial dose: 2.5 mg subcutaneously once a week.\n- If additional glycemic control is needed: Increase the dose in 2.5 mg increments after at least 4 weeks on the current dose.\n- Maximum dose (adults): 15 mg subcutaneously once a week.\n- Maximum dose (children 10 years and older): 10 mg subcutaneously once a week.\n- Comments: The starting dose and escalation schedule are designed to reduce the risk of gastrointestinal side effects.\nDose of Mounjaro to Reduce Cardiovascular Risk (Adults With Type 2 Diabetes at High Risk):\n- The same dosing and escalation schedule applies.\n- Start at 2.5 mg subcutaneously once a week and increase in 2.5 mg increments after at least 4 weeks on the current dose, up to a maximum of 15 mg once a week.\n- In the SURPASS-CVOT trial, participants were titrated to 15 mg once weekly or their maximum tolerated dose.\nHow to Use Mounjaro:\n- Give once weekly at any time of day, with or without meals.\n- Inject subcutaneously into the abdomen or thigh. Another person may inject into the back of the upper arm. Rotate injection sites with each dose.\n- Missed dose: Give as soon as possible within 4 days (96 hours). If more than 4 days have passed, skip the missed dose and give the next dose on the regularly scheduled day.\n- The day of weekly administration can be changed, if necessary, as long as the time between the 2 doses is at least 3 days (72 hours)."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What should I do if I miss a dose?",
+   "lines": [
+    "If you miss a dose of tirzepatide, take the missed dose as soon as you remember it, if within 4 days after the missed dose. However, if it has been more than 4 days since your last dose, then skip the missed dose and continue your regular dosing schedule. Do not inject two doses within 3 days of each other."
+   ],
+   "text": "If you miss a dose of tirzepatide, take the missed dose as soon as you remember it, if within 4 days after the missed dose. However, if it has been more than 4 days since your last dose, then skip the missed dose and continue your regular dosing schedule. Do not inject two doses within 3 days of each other."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at Poison Help. If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911."
+   ],
+   "text": "In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at Poison Help. If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "Interactions",
+   "lines": [
+    "Tell your doctor and pharmacist what prescription and over-the-counter medications, vitamins, nutritional supplements, and herbal products you are planning to take or are taking. They may interact with tirzepatide, and your doctor may need to change the doses of your medications or monitor you carefully for side effects.",
+    "Birth control pills may not work as well while receiving this medicine. Your doctor may suggest you use another form of birth control for 4 weeks after starting tirzepatide and for 4 weeks after each dose change.",
+    "Taking tirzepatide with other medicines to treat diabetes, such as sulfonylureas or insulin, may increase your risk of hypoglycemia. Talk to your doctor and pharmacist about low blood sugar and how to manage it.",
+    "This medicine delays gastric emptying and may alter the absorption of other orally administered medicines.",
+    "This list is not complete. Many other drugs may interact with Mounjaro and Zepbound, including prescription and over-the-counter medicines, vitamins, and herbal products. To check for interactions with this medicine, click the link below."
+   ],
+   "text": "Tell your doctor and pharmacist what prescription and over-the-counter medications, vitamins, nutritional supplements, and herbal products you are planning to take or are taking. They may interact with tirzepatide, and your doctor may need to change the doses of your medications or monitor you carefully for side effects.\nBirth control pills may not work as well while receiving this medicine. Your doctor may suggest you use another form of birth control for 4 weeks after starting tirzepatide and for 4 weeks after each dose change.\nTaking tirzepatide with other medicines to treat diabetes, such as sulfonylureas or insulin, may increase your risk of hypoglycemia. Talk to your doctor and pharmacist about low blood sugar and how to manage it.\nThis medicine delays gastric emptying and may alter the absorption of other orally administered medicines.\nThis list is not complete. Many other drugs may interact with Mounjaro and Zepbound, including prescription and over-the-counter medicines, vitamins, and herbal products. To check for interactions with this medicine, click the link below."
+  },
+  {
+   "id": "how-long-does-it-take-to-lose-weight-on-tirzepatide",
+   "page": "main",
+   "heading": "How long does it take to lose weight on tirzepatide?",
+   "lines": [
+    "Weight loss starts slowly in the first 4 weeks of treatment, with changes in appetite and a feeling of fullness with fewer cravings. Then, more measurable weight loss occurs in the first 2 to 3 months, and increases over 6 to 12 months (SURMOUNT-1). To learn more, see ” How long does it take for Zepbound to work?\""
+   ],
+   "text": "Weight loss starts slowly in the first 4 weeks of treatment, with changes in appetite and a feeling of fullness with fewer cravings. Then, more measurable weight loss occurs in the first 2 to 3 months, and increases over 6 to 12 months (SURMOUNT-1). To learn more, see ” How long does it take for Zepbound to work?\""
+  },
+  {
+   "id": "do-you-regain-weight-after-stopping-tirzepatide",
+   "page": "main",
+   "heading": "Do you regain weight after stopping tirzepatide?",
+   "lines": [
+    "Yes, when you stop tirzepatide, you may regain weight. Tirzepatide only works while you are using it. Patients who used Zepbound for 36 weeks lost an average of 21%, but then, when switched to a placebo, after 1 year, they had regained 14% of their weight back. (Phase 3 SURMOUNT-4 study) Learn more at: \" What happens when you stop taking Zepbound ?",
+    "Single-dose pens and vials (Zepbound and Mounjaro)",
+    "- Store in the refrigerator between 36°F and 46°F (2°C and 8°C).",
+    "- Do not freeze. Do not use if the medication has been frozen.",
+    "- Keep in the original carton until use to protect from light.",
+    "- If needed, single-dose pens and vials may be kept at room temperature up to 86°F (30°C) for up to 21 days. Once at room temperature, do not return to the refrigerator.",
+    "- Discard after 21 days at room temperature if unused.",
+    "KwikPen (Zepbound KwikPen and Mounjaro KwikPen)",
+    "Before first use:",
+    "- Store in the refrigerator between 36°F and 46°F (2°C and 8°C).",
+    "- Keep until the expiration date printed on the label.",
+    "- Do not freeze. Discard the pen if it has been frozen.",
+    "After first use:",
+    "- Store in the refrigerator or at room temperature up to 86°F (30°C).",
+    "- Keep away from heat and light.",
+    "- Discard the pen 30 days after first use, even if medicine remains.",
+    "- Discard after 4 weekly doses have been given.",
+    "General storage advice (all tirzepatide products)",
+    "- Keep all pens, vials, needles, and syringes out of reach of children.",
+    "- Dispose of used pens, needles, and syringes in an approved sharps container."
+   ],
+   "text": "Yes, when you stop tirzepatide, you may regain weight. Tirzepatide only works while you are using it. Patients who used Zepbound for 36 weeks lost an average of 21%, but then, when switched to a placebo, after 1 year, they had regained 14% of their weight back. (Phase 3 SURMOUNT-4 study) Learn more at: \" What happens when you stop taking Zepbound ?\nSingle-dose pens and vials (Zepbound and Mounjaro)\n- Store in the refrigerator between 36°F and 46°F (2°C and 8°C).\n- Do not freeze. Do not use if the medication has been frozen.\n- Keep in the original carton until use to protect from light.\n- If needed, single-dose pens and vials may be kept at room temperature up to 86°F (30°C) for up to 21 days. Once at room temperature, do not return to the refrigerator.\n- Discard after 21 days at room temperature if unused.\nKwikPen (Zepbound KwikPen and Mounjaro KwikPen)\nBefore first use:\n- Store in the refrigerator between 36°F and 46°F (2°C and 8°C).\n- Keep until the expiration date printed on the label.\n- Do not freeze. Discard the pen if it has been frozen.\nAfter first use:\n- Store in the refrigerator or at room temperature up to 86°F (30°C).\n- Keep away from heat and light.\n- Discard the pen 30 days after first use, even if medicine remains.\n- Discard after 4 weekly doses have been given.\nGeneral storage advice (all tirzepatide products)\n- Keep all pens, vials, needles, and syringes out of reach of children.\n- Dispose of used pens, needles, and syringes in an approved sharps container."
+  },
+  {
+   "id": "ingredients",
+   "page": "main",
+   "heading": "Tirzepatide ingredients",
+   "lines": [
+    "Zepbound and Mounjaro contain the same active ingredient, tirzepatide, and share the same inactive ingredients.",
+    "Active ingredient: tirzepatide",
+    "Inactive ingredients (single-dose pens and vials):",
+    "- Sodium chloride",
+    "- Sodium phosphate dibasic heptahydrate",
+    "- Water for injection",
+    "- Hydrochloric acid and/or sodium hydroxide (added to adjust pH)",
+    "Additional inactive ingredients (KwikPen and multi-dose vial only):",
+    "- Benzyl alcohol",
+    "- Glycerin",
+    "- Phenol"
+   ],
+   "text": "Zepbound and Mounjaro contain the same active ingredient, tirzepatide, and share the same inactive ingredients.\nActive ingredient: tirzepatide\nInactive ingredients (single-dose pens and vials):\n- Sodium chloride\n- Sodium phosphate dibasic heptahydrate\n- Water for injection\n- Hydrochloric acid and/or sodium hydroxide (added to adjust pH)\nAdditional inactive ingredients (KwikPen and multi-dose vial only):\n- Benzyl alcohol\n- Glycerin\n- Phenol"
+  },
+  {
+   "id": "what-strengths-are-zepbound-pens",
+   "page": "main",
+   "heading": "What strengths are Zepbound pens?",
+   "lines": [
+    "Zepbound is available in the following strengths as single-dose pens or vials:",
+    "- 2.5 mg/0.5 mL",
+    "- 5 mg/0.5 mL",
+    "- 7.5 mg/0.5 mL",
+    "- 10 mg/0.5 mL",
+    "- 12.5 mg/0.5 mL",
+    "- 15 mg/0.5 mL",
+    "Zepbound KwikPen (single-patient-use) or multi-dose vial, each containing 4 doses, are approved by the FDA in the following strengths:",
+    "- 10 mg/2.4 mL (4.17 mg/mL) for four 2.5 mg /0.6 mL doses",
+    "- 20 mg/2.4 mL (8.33 mg/mL) for four 5 mg /0.6 mL doses",
+    "- 30 mg/2.4 mL (12.5 mg/mL) for four 7.5 mg /0.6 mL doses",
+    "- 40 mg/2.4 mL (16.7 mg/mL) for four 10 mg /0.6 mL doses",
+    "- 50 mg/2.4 mL (20.8 mg/mL) for four 12.5 mg /0.6 mL doses",
+    "- 60 mg/2.4 mL (25 mg/mL) for four 15 mg /0.6 mL doses"
+   ],
+   "text": "Zepbound is available in the following strengths as single-dose pens or vials:\n- 2.5 mg/0.5 mL\n- 5 mg/0.5 mL\n- 7.5 mg/0.5 mL\n- 10 mg/0.5 mL\n- 12.5 mg/0.5 mL\n- 15 mg/0.5 mL\nZepbound KwikPen (single-patient-use) or multi-dose vial, each containing 4 doses, are approved by the FDA in the following strengths:\n- 10 mg/2.4 mL (4.17 mg/mL) for four 2.5 mg /0.6 mL doses\n- 20 mg/2.4 mL (8.33 mg/mL) for four 5 mg /0.6 mL doses\n- 30 mg/2.4 mL (12.5 mg/mL) for four 7.5 mg /0.6 mL doses\n- 40 mg/2.4 mL (16.7 mg/mL) for four 10 mg /0.6 mL doses\n- 50 mg/2.4 mL (20.8 mg/mL) for four 12.5 mg /0.6 mL doses\n- 60 mg/2.4 mL (25 mg/mL) for four 15 mg /0.6 mL doses"
+  },
+  {
+   "id": "what-strengths-are-mounjaro-pens",
+   "page": "main",
+   "heading": "What strengths are Mounjaro pens?",
+   "lines": [
+    "Mounjaro is available as a single-dose autoinjector pen or single-dose vial in the following strengths:",
+    "- 2.5 mg/0.5 mL",
+    "- 5 mg/0.5 mL",
+    "- 7.5 mg/0.5 mL",
+    "- 10 mg/0.5 mL",
+    "- 12.5 mg/0.5 mL",
+    "- 15 mg/0.5 mL.",
+    "Mounjaro is also available as the",
+    "Mounjaro KwikPen",
+    ", a multi-dose prefilled pen for subcutaneous use.",
+    "- Each pen contains 4 fixed doses, and one dose is injected weekly.",
+    "The single-patient use Mounjaro KwikPen and multi-dose vial are available in the following strengths:",
+    "- 10 mg/2.4 mL (4.17 mg/mL) for 4 x 2.5 mg/0.6 mL doses",
+    "- 20 mg/2.4 mL (8.33 mg/mL) for 4 x 5 mg/0.6 mL doses",
+    "- 30 mg/2.4 mL (12.5 mg/mL) for 4 x 7.5 mg/0.6 mL doses",
+    "- 40 mg/2.4 mL (16.7 mg/mL) for 4 x 10 mg/0.6 mL doses",
+    "- 50 mg/2.4 mL (20.8 mg/mL) for 4 x 12.5 mg/0.6 mL doses",
+    "- 60 mg/2.4 mL (25 mg/mL) for 4 x 15 mg/0.6 mL doses."
+   ],
+   "text": "Mounjaro is available as a single-dose autoinjector pen or single-dose vial in the following strengths:\n- 2.5 mg/0.5 mL\n- 5 mg/0.5 mL\n- 7.5 mg/0.5 mL\n- 10 mg/0.5 mL\n- 12.5 mg/0.5 mL\n- 15 mg/0.5 mL.\nMounjaro is also available as the\nMounjaro KwikPen\n, a multi-dose prefilled pen for subcutaneous use.\n- Each pen contains 4 fixed doses, and one dose is injected weekly.\nThe single-patient use Mounjaro KwikPen and multi-dose vial are available in the following strengths:\n- 10 mg/2.4 mL (4.17 mg/mL) for 4 x 2.5 mg/0.6 mL doses\n- 20 mg/2.4 mL (8.33 mg/mL) for 4 x 5 mg/0.6 mL doses\n- 30 mg/2.4 mL (12.5 mg/mL) for 4 x 7.5 mg/0.6 mL doses\n- 40 mg/2.4 mL (16.7 mg/mL) for 4 x 10 mg/0.6 mL doses\n- 50 mg/2.4 mL (20.8 mg/mL) for 4 x 12.5 mg/0.6 mL doses\n- 60 mg/2.4 mL (25 mg/mL) for 4 x 15 mg/0.6 mL doses."
+  },
+  {
+   "id": "manufacturer",
+   "page": "main",
+   "heading": "Company",
+   "lines": [
+    "Zepbound and Mounjaro",
+    "Eli Lilly and Company.",
+    "Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA."
+   ],
+   "text": "Zepbound and Mounjaro\nEli Lilly and Company.\nMarketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: Zepbound vs Mounjaro: Comparison Guide for Weight Loss and Diabetes Treatment A: Zepbound and Mounjaro contain tirzepatide and are made by Eli Lilly. They are both administered as a once-weekly subcutaneous injection, but they have different FDA-approved indications and insurance coverage.",
+    "Q: Which GLP-1 drug is best for weight loss? A: The most effective GLP-1 drug for weight loss currently (as of early 2026) is tirzepatide, marketed under the names Zepbound (for weight loss) and Mounjaro (for diabetes). Clinical trials and recent meta-analyses consistently show tirzepatide delivers the most substantial weight reduction among GLP-1 medications, with average losses of up to 22.5% of body weight.",
+    "Q: How long does it take for Mounjaro (tirzepatide) to start working? A: Mounjaro (generic name: tirzepatide) will start to lower your blood sugar levels right away but it can take 8 to 12 weeks to reach your target A1C goal. When compared to some other diabetes treatments, studies have shown that it can take 8 weeks to reach an A1C target of ≤7% and 12 weeks to reach an A1C ≤6.5% with Mounjaro. Significant weight loss can occur as early as 28-weeks.",
+    "Q: Tirzepatide vs semaglutide: How do they compare? A: Semaglutide and tirzepatide are prescription medicines used for type 2 diabetes and long-term weight management. Semaglutide products include Ozempic, Rybelsus, Wegovy, and Wegovy HD, while tirzepatide products include Mounjaro and Zepbound. These medicines differ in dosing, approved uses, side effects, and cost, so discuss options with your healthcare provider.",
+    "Q: How does retatrutide compare to tirzepatide? A: Retatrutide is an investigational triple hormone agonist (GLP-1, GIP, glucagon) showing promising early results for obesity and type 2 diabetes, while tirzepatide is an FDA-approved dual agonist (GLP-1, GIP) available for use today.",
+    "Q: How much is Zepbound with or without insurance? A: Zepbound may cost $25 for a 1-month or 3-month pen prescription if you have insurance and are eligible for the Savings Card, but without insurance, Zepbound costs start at $299 for a 2.5mg vial or 2.5mg KwikPen, $399 per month for a 5mg dose, and $449 for the higher doses per month.",
+    "Q: Can you get tirzepatide from a compounding pharmacy? A: Tirzepatide cannot be legally compounded in a U.S. pharmacy at this time because it was removed from the FDA drug shortage list as of October 2, 2024. When drugs are in short supply, the FDA can allow temporary compounding of some medicines so that patients can access their treatments. Tirzepatide is now widely available as a prescription medicine made by Eli Lilly under the brands names Mounjaro (for type 2 diabetes) and Zepbound (for weight loss and sleep apnea).",
+    "Q: How much weight can I lose on Zepbound? A: The specific amount of weight you might lose from Zepbound is uncertain, but significant weight loss ranging from 35.5 lb (16.1 kg) to 52.0 lb (23.6 kg) was observed in the 72-week SURMOUNT-1 clinical trial, which compared different Zepbound (tirzepatide) doses to a placebo (inactive treatment).",
+    "Q: Is Zepbound covered by insurance? A: Most major insurance plans cover Zepbound, but your doctor may need to submit prior authorization before approval. Check your plan for deductibles, copays, and coinsurance. Eligible Medicare Part D beneficiaries may receive Zepbound KwikPen through the temporary Medicare GLP-1 Bridge program for $50 per monthly supply."
+   ],
+   "text": "Q: Zepbound vs Mounjaro: Comparison Guide for Weight Loss and Diabetes Treatment A: Zepbound and Mounjaro contain tirzepatide and are made by Eli Lilly. They are both administered as a once-weekly subcutaneous injection, but they have different FDA-approved indications and insurance coverage.\nQ: Which GLP-1 drug is best for weight loss? A: The most effective GLP-1 drug for weight loss currently (as of early 2026) is tirzepatide, marketed under the names Zepbound (for weight loss) and Mounjaro (for diabetes). Clinical trials and recent meta-analyses consistently show tirzepatide delivers the most substantial weight reduction among GLP-1 medications, with average losses of up to 22.5% of body weight.\nQ: How long does it take for Mounjaro (tirzepatide) to start working? A: Mounjaro (generic name: tirzepatide) will start to lower your blood sugar levels right away but it can take 8 to 12 weeks to reach your target A1C goal. When compared to some other diabetes treatments, studies have shown that it can take 8 weeks to reach an A1C target of ≤7% and 12 weeks to reach an A1C ≤6.5% with Mounjaro. Significant weight loss can occur as early as 28-weeks.\nQ: Tirzepatide vs semaglutide: How do they compare? A: Semaglutide and tirzepatide are prescription medicines used for type 2 diabetes and long-term weight management. Semaglutide products include Ozempic, Rybelsus, Wegovy, and Wegovy HD, while tirzepatide products include Mounjaro and Zepbound. These medicines differ in dosing, approved uses, side effects, and cost, so discuss options with your healthcare provider.\nQ: How does retatrutide compare to tirzepatide? A: Retatrutide is an investigational triple hormone agonist (GLP-1, GIP, glucagon) showing promising early results for obesity and type 2 diabetes, while tirzepatide is an FDA-approved dual agonist (GLP-1, GIP) available for use today.\nQ: How much is Zepbound with or without insurance? A: Zepbound may cost $25 for a 1-month or 3-month pen prescription if you have insurance and are eligible for the Savings Card, but without insurance, Zepbound costs start at $299 for a 2.5mg vial or 2.5mg KwikPen, $399 per month for a 5mg dose, and $449 for the higher doses per month.\nQ: Can you get tirzepatide from a compounding pharmacy? A: Tirzepatide cannot be legally compounded in a U.S. pharmacy at this time because it was removed from the FDA drug shortage list as of October 2, 2024. When drugs are in short supply, the FDA can allow temporary compounding of some medicines so that patients can access their treatments. Tirzepatide is now widely available as a prescription medicine made by Eli Lilly under the brands names Mounjaro (for type 2 diabetes) and Zepbound (for weight loss and sleep apnea).\nQ: How much weight can I lose on Zepbound? A: The specific amount of weight you might lose from Zepbound is uncertain, but significant weight loss ranging from 35.5 lb (16.1 kg) to 52.0 lb (23.6 kg) was observed in the 72-week SURMOUNT-1 clinical trial, which compared different Zepbound (tirzepatide) doses to a placebo (inactive treatment).\nQ: Is Zepbound covered by insurance? A: Most major insurance plans cover Zepbound, but your doctor may need to submit prior authorization before approval. Check your plan for deductibles, copays, and coinsurance. Eligible Medicare Part D beneficiaries may receive Zepbound KwikPen through the temporary Medicare GLP-1 Bridge program for $50 per monthly supply."
+  }
+ ],
+ "rank": 32
+}

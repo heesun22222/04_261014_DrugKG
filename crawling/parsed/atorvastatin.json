@@ -1,0 +1,341 @@
+{
+ "name": "Atorvastatin",
+ "slug": "atorvastatin",
+ "url": "https://www.drugs.com/atorvastatin.html",
+ "title": "Atorvastatin",
+ "page_title": "Atorvastatin Uses, Dosage, Side Effects - Drugs.com",
+ "generic_name": "atorvastatin",
+ "pronunciation": "a-TOR-va-sta-tin",
+ "brand_names": [
+  "Atorvaliq",
+  "Lipitor"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "oral tablet",
+   "strengths": [
+    "10 mg",
+    "20 mg",
+    "40 mg",
+    "80 mg"
+   ]
+  },
+  {
+   "form": "oral suspension",
+   "strengths": [
+    "20 mg/5 mL"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Statins",
+   "slug": "hmg-coa-reductase-inhibitors"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Aug 26, 2026.",
+ "faq": [
+  {
+   "q": "Best time to take atorvastatin: Morning or Night?",
+   "a": "Atorvastatin can generally be taken either in the morning or at night, because it is a long‑acting statin that stays active in the body around the clock. The most important factor is taking it at the same time every day so your cholesterol levels and cardiovascular protection remain stable over time."
+  },
+  {
+   "q": "Rosuvastatin or Atorvastatin: What’s the better choice for you?",
+   "a": "Rosuvastatin (Crestor) and atorvastatin (Lipitor) are both statins that lower “bad” LDL cholesterol and reduce the risk of heart attack and stroke in people at increased cardiovascular risk. The better choice for you depends on factors such as how much LDL reduction you need, your medical history, and cost and insurance coverage."
+  },
+  {
+   "q": "Do I need to eat food when taking atorvastatin?",
+   "a": "Atorvastatin (also known as Lipitor) can be taken any time of the day, with or without food. An oral dose of atorvastatin will be absorbed rapidly, with maximum plasma concentrations occurring within 1 to 2 hours after you take it. While you may or may not eat food when taking atorvastatin, there are certain foods you should avoid when taking the drug."
+  },
+  {
+   "q": "How long does atorvastatin stay in the system after stopping the drug?",
+   "a": "It takes about 77 hours (3 days) for atorvastatin to be out of your system. The elimination half life of atorvastatin is approximately 14 hours. This is the time it takes for your body to reduce plasma drug levels by half. It takes approximately 5.5 x elimination half lives for a medicine to be out of ones system."
+  },
+  {
+   "q": "Does atorvastatin cause weight gain?",
+   "a": "Atorvastatin itself does not consistently cause weight gain in clinical trials, but some studies suggest a small association between statin use (including atorvastatin) and modest weight gain and higher diabetes risk over time. For most people, the heart‑protective benefits of atorvastatin outweigh these potential metabolic effects, especially when combined with lifestyle measures that support a healthy weight."
+  },
+  {
+   "q": "Can you use limes or lime juice while taking statin drugs (i.e. atorvastatin)?",
+   "a": "Limes, pomegranates, pomelos, and Seville oranges can also interact with some medications, including statins such as atorvastatin. There just hasn't been as much research published regarding how other types of citrus (apart from grapefruit) interact with statins. Large quantities of lime or lime peel should be avoided, although small amounts (such as a twist of lime in a drink) are unlikely to cause a significant interaction."
+  }
+ ],
+ "description": "Atorvastatin: dosage, side effects, interactions, and how it lowers cholesterol. Get trusted, up-to-date information from Drugs.com.",
+ "date_modified": "2026-08-26",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Lipitor",
+   "slug": "lipitor",
+   "blurb": "Lipitor is used to treat high cholesterol. Learn about side effects, interactions and indications."
+  },
+  {
+   "name": "Crestor",
+   "slug": "crestor",
+   "blurb": "Crestor (rosuvastatin) is used to treat high cholesterol and high triglycerides in the blood..."
+  },
+  {
+   "name": "Skyrizi",
+   "slug": "skyrizi",
+   "blurb": "Skyrizi (risankizumab) is an injection used to treat plaque psoriasis, psoriatic arthritis..."
+  },
+  {
+   "name": "Zetia",
+   "slug": "zetia",
+   "blurb": "Zetia (ezetimibe) is used to treat high cholesterol. Includes Zetia side effects, interactions and..."
+  },
+  {
+   "name": "Zocor",
+   "slug": "zocor",
+   "blurb": "Zocor (simvastatin) reduces low-density lipoprotein cholesterol and total cholesterol in the blood..."
+  },
+  {
+   "name": "Mevacor",
+   "slug": "cons/mevacor",
+   "blurb": "Mevacor is used for high cholesterol, high cholesterol - familial heterozygous..."
+  },
+  {
+   "name": "Colesevelam",
+   "slug": "mtm/colesevelam",
+   "blurb": "Colesevelam is used for diarrhea, chronic, high cholesterol, hyperlipoproteinemia..."
+  },
+  {
+   "name": "Niacin",
+   "slug": "niacin",
+   "blurb": "Niacin is used to lower cholesterol and triglycerides. Learn about side effects, interactions and..."
+  },
+  {
+   "name": "Lovastatin",
+   "slug": "mtm/lovastatin",
+   "blurb": "Lovastatin is used for high cholesterol, high cholesterol - familial heterozygous..."
+  },
+  {
+   "name": "Simvastatin",
+   "slug": "simvastatin",
+   "blurb": "Simvastatin (Zocor) is a cholesterol-lowering medication that blocks the production of cholesterol..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is atorvastatin?",
+   "lines": [
+    "Atorvastatin is a prescription medicine used to treat high cholesterol and to reduce the risk of heart attack, stroke, angina, and to decrease the chance that heart surgery will be needed in people who have heart disease or who are at risk of developing heart disease.",
+    "Atorvastatin helps lower LDL cholesterol ('bad cholesterol') and triglyceride levels, and increases HDL cholesterol ('good cholesterol') levels, to improve your overall lipid profile.",
+    "Atorvastatin calcium belongs to a class of medications called HMG-CoA reductase inhibitors, commonly referred to as statins.",
+    "Atrovastatin tablets are taken once daily with or without food."
+   ],
+   "text": "Atorvastatin is a prescription medicine used to treat high cholesterol and to reduce the risk of heart attack, stroke, angina, and to decrease the chance that heart surgery will be needed in people who have heart disease or who are at risk of developing heart disease.\nAtorvastatin helps lower LDL cholesterol ('bad cholesterol') and triglyceride levels, and increases HDL cholesterol ('good cholesterol') levels, to improve your overall lipid profile.\nAtorvastatin calcium belongs to a class of medications called HMG-CoA reductase inhibitors, commonly referred to as statins.\nAtrovastatin tablets are taken once daily with or without food."
+  },
+  {
+   "id": "overview",
+   "page": "main",
+   "heading": "How does atorvastatin work?",
+   "lines": [
+    "Atorvastatin works by selectively blocking HMG-CoA reductase, the key enzyme the liver uses to produce cholesterol. By slowing this process, it reduces cholesterol production in the liver and increases the number of LDL receptors on liver cells, which helps remove more LDL (“bad”) cholesterol from the bloodstream.",
+    "As a result, it lowers overall LDL levels, decreases the number of LDL particles, and improves the body’s ability to clear cholesterol."
+   ],
+   "text": "Atorvastatin works by selectively blocking HMG-CoA reductase, the key enzyme the liver uses to produce cholesterol. By slowing this process, it reduces cholesterol production in the liver and increases the number of LDL receptors on liver cells, which helps remove more LDL (“bad”) cholesterol from the bloodstream.\nAs a result, it lowers overall LDL levels, decreases the number of LDL particles, and improves the body’s ability to clear cholesterol."
+  },
+  {
+   "id": "what-is-atrovastatin-used-for",
+   "page": "main",
+   "heading": "What is atrovastatin used for?",
+   "lines": [
+    "Atorvastatin FDA-approved uses:",
+    "To reduce the risk of cardiovascular events in adults with:",
+    "- Multiple risk factors for coronary heart disease (CHD), but without established CHD. Use: to reduce the risk of myocardial infarction (MI), stroke, revascularization procedures, and angina.",
+    "- Type 2 diabetes and multiple risk factors for CHD, without established CHD Use: to help reduce the risk of MI and stroke.",
+    "- Adults with clinically evident CHD: Use: To reduce the risk of non-fatal MI, fatal and non-fatal stroke, revascularization procedures, hospitalization for congestive heart failure, and angina.",
+    "As an adjunct to diet to lower LDL-C:",
+    "- Adults with primary hyperlipidemia.",
+    "- Adults and pediatric patients (10 years and older) with heterozygous familial hypercholesterolemia (HeFH).",
+    "As an adjunct to other LDL-lowering therapies:",
+    "- For adults and pediatric patients (10 years and older) with homozygous familial hypercholesterolemia.",
+    "As an adjunct to diet for additional lipid disorders in adults:",
+    "- Primary dysbetalipoproteinemia.",
+    "- Hypertriglyceridemia."
+   ],
+   "text": "Atorvastatin FDA-approved uses:\nTo reduce the risk of cardiovascular events in adults with:\n- Multiple risk factors for coronary heart disease (CHD), but without established CHD. Use: to reduce the risk of myocardial infarction (MI), stroke, revascularization procedures, and angina.\n- Type 2 diabetes and multiple risk factors for CHD, without established CHD Use: to help reduce the risk of MI and stroke.\n- Adults with clinically evident CHD: Use: To reduce the risk of non-fatal MI, fatal and non-fatal stroke, revascularization procedures, hospitalization for congestive heart failure, and angina.\nAs an adjunct to diet to lower LDL-C:\n- Adults with primary hyperlipidemia.\n- Adults and pediatric patients (10 years and older) with heterozygous familial hypercholesterolemia (HeFH).\nAs an adjunct to other LDL-lowering therapies:\n- For adults and pediatric patients (10 years and older) with homozygous familial hypercholesterolemia.\nAs an adjunct to diet for additional lipid disorders in adults:\n- Primary dysbetalipoproteinemia.\n- Hypertriglyceridemia."
+  },
+  {
+   "id": "how-atorvastatin-improves-cholesterol-and-heart-health",
+   "page": "main",
+   "heading": "How atorvastatin improves cholesterol and heart health",
+   "lines": [
+    "When cholesterol and fats build up along your artery walls, in a process called atherosclerosis, they narrow the blood vessels and reduce blood and oxygen flow to your heart, brain, and other parts of your body. By slowing cholesterol production, atorvastatin helps prevent this buildup to keep blood flowing more freely to vital organs.",
+    "Lowering your blood level of cholesterol and fats with atorvastatin may help prevent heart disease, angina (chest pain), strokes, and heart attacks.",
+    "Your healthcare provider will check your blood lipid levels regularly to assess how well your treatment is working. These measurements include:",
+    "- LDL-C: Low-density lipoprotein (“bad” cholesterol)",
+    "- HDL-C: High-density lipoprotein (“good” cholesterol)",
+    "- TG: Triglycerides (a type of blood fat)",
+    "- Total-C: Total cholesterol"
+   ],
+   "text": "When cholesterol and fats build up along your artery walls, in a process called atherosclerosis, they narrow the blood vessels and reduce blood and oxygen flow to your heart, brain, and other parts of your body. By slowing cholesterol production, atorvastatin helps prevent this buildup to keep blood flowing more freely to vital organs.\nLowering your blood level of cholesterol and fats with atorvastatin may help prevent heart disease, angina (chest pain), strokes, and heart attacks.\nYour healthcare provider will check your blood lipid levels regularly to assess how well your treatment is working. These measurements include:\n- LDL-C: Low-density lipoprotein (“bad” cholesterol)\n- HDL-C: High-density lipoprotein (“good” cholesterol)\n- TG: Triglycerides (a type of blood fat)\n- Total-C: Total cholesterol"
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "You should not take atrovastatin calcium if you have liver disease or cirrhosis.",
+    "Atorvastatin calcium can cause the breakdown of muscle tissue, which can lead to kidney failure. Call your doctor right away if you have unexplained muscle pain, tenderness, or weakness, especially if you also have fever, unusual tiredness, or dark urine.",
+    "Serious drug interactions can occur when certain medicines are used together with atrovastatin calcium. Tell each of your healthcare providers about all medicines you use now, and any medicine you start or stop using.",
+    "Avoid drinking more than 1.2 liters of grapefruit juice each day.",
+    "Avoid eating foods that are high in fat or cholesterol. Atrovastatin is often used in conjunction with a cholesterol-lowering diet."
+   ],
+   "text": "You should not take atrovastatin calcium if you have liver disease or cirrhosis.\nAtorvastatin calcium can cause the breakdown of muscle tissue, which can lead to kidney failure. Call your doctor right away if you have unexplained muscle pain, tenderness, or weakness, especially if you also have fever, unusual tiredness, or dark urine.\nSerious drug interactions can occur when certain medicines are used together with atrovastatin calcium. Tell each of your healthcare providers about all medicines you use now, and any medicine you start or stop using.\nAvoid drinking more than 1.2 liters of grapefruit juice each day.\nAvoid eating foods that are high in fat or cholesterol. Atrovastatin is often used in conjunction with a cholesterol-lowering diet."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Atorvastatin side effects",
+   "lines": [
+    "Common atorvastatin side effects:",
+    "Common atorvastatin side effects may include pain in your bones, spine, joints, or muscles, muscle spasms, upset stomach, trouble sleeping, stuffy nose, runny nose, sore throat, diarrhea, nausea, or pain in your arms or legs, urinary tract infection with pain and burning when you urinate, painful urination.",
+    "Some people taking statins have reported memory loss, forgetfulness, or confusion. These symptoms are usually not serious and go away after stopping the medication.",
+    "Serious atorvastatin side effects",
+    "Allergic reactions: Get emergency medical help if you have signs of an allergic reaction to atorvastatin (hives, difficult breathing, swelling in your face or throat) or a severe skin reaction (fever, sore throat, burning eyes, skin pain, red or purple skin rash with blistering and peeling).",
+    "Myopathy and Rhabdomyolysis: Atorvastatin calcium can cause the breakdown of muscle tissue, which can lead to kidney failure. Call your doctor right away if you have unexplained muscle pain, tenderness, or weakness, especially if you also have fever, unusual tiredness, or dark urine. This serious side effect is more likely in older adults and those who have kidney problems, thyroid problems, or take certain other medicines.",
+    "Other serious side effects may occur. Call your doctor at once if you have:",
+    "- muscle weakness in your hips, shoulders, neck, and back;",
+    "- trouble lifting your arms, trouble climbing, or standing;",
+    "- liver problems - loss of appetite, stomach pain (upper right side), tiredness, itching, dark urine, clay-colored stools, jaundice (yellowing of the skin or eyes);",
+    "- kidney problems - swelling, urinating less, feeling tired or short of breath;",
+    "- high blood sugar - increased thirst, increased urination, dry mouth, fruity breath odor;",
+    "- new or worsening symptoms of myasthenia gravis (such as muscle weakness, drooping eyelids, double vision, or trouble swallowing, chewing, or breathing).",
+    "This is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+   ],
+   "text": "Common atorvastatin side effects:\nCommon atorvastatin side effects may include pain in your bones, spine, joints, or muscles, muscle spasms, upset stomach, trouble sleeping, stuffy nose, runny nose, sore throat, diarrhea, nausea, or pain in your arms or legs, urinary tract infection with pain and burning when you urinate, painful urination.\nSome people taking statins have reported memory loss, forgetfulness, or confusion. These symptoms are usually not serious and go away after stopping the medication.\nSerious atorvastatin side effects\nAllergic reactions: Get emergency medical help if you have signs of an allergic reaction to atorvastatin (hives, difficult breathing, swelling in your face or throat) or a severe skin reaction (fever, sore throat, burning eyes, skin pain, red or purple skin rash with blistering and peeling).\nMyopathy and Rhabdomyolysis: Atorvastatin calcium can cause the breakdown of muscle tissue, which can lead to kidney failure. Call your doctor right away if you have unexplained muscle pain, tenderness, or weakness, especially if you also have fever, unusual tiredness, or dark urine. This serious side effect is more likely in older adults and those who have kidney problems, thyroid problems, or take certain other medicines.\nOther serious side effects may occur. Call your doctor at once if you have:\n- muscle weakness in your hips, shoulders, neck, and back;\n- trouble lifting your arms, trouble climbing, or standing;\n- liver problems - loss of appetite, stomach pain (upper right side), tiredness, itching, dark urine, clay-colored stools, jaundice (yellowing of the skin or eyes);\n- kidney problems - swelling, urinating less, feeling tired or short of breath;\n- high blood sugar - increased thirst, increased urination, dry mouth, fruity breath odor;\n- new or worsening symptoms of myasthenia gravis (such as muscle weakness, drooping eyelids, double vision, or trouble swallowing, chewing, or breathing).\nThis is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "You should not take atorvastatin if you have liver disease or cirrhosis.",
+    "Atorvastatin can cause the breakdown of muscle tissue, which can lead to kidney failure. Call your doctor right away if you have unexplained muscle pain, tenderness, or weakness, especially if you also have fever, unusual tiredness, or dark urine.",
+    "Serious drug interactions can occur when certain medicines are used together with atorvastatin. Tell each of your healthcare providers about all medicines you use now, and any medicine you start or stop using.",
+    "Avoid eating foods that are high in fat or cholesterol. Atorvastatin will not be as effective in lowering your cholesterol if you do not follow a cholesterol-lowering diet plan.",
+    "Atorvastatin is only part of a complete program of treatment that also includes diet, exercise, and weight control. Follow your diet, medication, and exercise routines very closely."
+   ],
+   "text": "You should not take atorvastatin if you have liver disease or cirrhosis.\nAtorvastatin can cause the breakdown of muscle tissue, which can lead to kidney failure. Call your doctor right away if you have unexplained muscle pain, tenderness, or weakness, especially if you also have fever, unusual tiredness, or dark urine.\nSerious drug interactions can occur when certain medicines are used together with atorvastatin. Tell each of your healthcare providers about all medicines you use now, and any medicine you start or stop using.\nAvoid eating foods that are high in fat or cholesterol. Atorvastatin will not be as effective in lowering your cholesterol if you do not follow a cholesterol-lowering diet plan.\nAtorvastatin is only part of a complete program of treatment that also includes diet, exercise, and weight control. Follow your diet, medication, and exercise routines very closely."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not use atorvastatin if you are allergic to it, or if you have liver failure or cirrhosis.",
+    "To make sure atorvastatin is safe for you, tell your doctor if you have ever had:",
+    "- muscle pain or weakness;",
+    "- diabetes;",
+    "- stroke;",
+    "- a thyroid disorder;",
+    "- a habit of drinking more than 2 alcoholic beverages per day; or",
+    "- kidney disease.",
+    "Atorvastatin can cause the breakdown of muscle tissue, which can lead to kidney failure. This happens more often in women, in older adults, or people who have kidney disease or poorly controlled hypothyroidism (underactive thyroid).",
+    "Pregnancy:",
+    "Tell your healthcare professional if you are pregnant, or plan to become pregnant, or become pregnant. Atorvastatin may harm your unborn baby. If you become pregnant, stop taking atorvastatin and call your healthcare provider right away.",
+    "Breastfeeding:",
+    "Tell your healthcare professional if you are breastfeeding or plan to breastfeed. You and your healthcare provider should decide if you will take this medicine or breastfeed. You should not take atorvastatin if you breastfeed. Talk to your healthcare provider about the best way to feed your baby if you take LIPITOR."
+   ],
+   "text": "You should not use atorvastatin if you are allergic to it, or if you have liver failure or cirrhosis.\nTo make sure atorvastatin is safe for you, tell your doctor if you have ever had:\n- muscle pain or weakness;\n- diabetes;\n- stroke;\n- a thyroid disorder;\n- a habit of drinking more than 2 alcoholic beverages per day; or\n- kidney disease.\nAtorvastatin can cause the breakdown of muscle tissue, which can lead to kidney failure. This happens more often in women, in older adults, or people who have kidney disease or poorly controlled hypothyroidism (underactive thyroid).\nPregnancy:\nTell your healthcare professional if you are pregnant, or plan to become pregnant, or become pregnant. Atorvastatin may harm your unborn baby. If you become pregnant, stop taking atorvastatin and call your healthcare provider right away.\nBreastfeeding:\nTell your healthcare professional if you are breastfeeding or plan to breastfeed. You and your healthcare provider should decide if you will take this medicine or breastfeed. You should not take atorvastatin if you breastfeed. Talk to your healthcare provider about the best way to feed your baby if you take LIPITOR."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take atorvastatin?",
+   "lines": [
+    "Take atorvastatin tablet once daily with or without food. Many people ask when to take atorvastatin morning or night? It can be taken any time of the day, but try and take it at the same time each day.",
+    "Take the liquid medicine on an empty stomach, at least 1 hour before a meal or 2 hours after a meal. Shake the oral suspension (liquid). Measure a dose with the supplied measuring device (not a kitchen spoon).",
+    "Take atorvastatin exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.",
+    "Do not change your dose or stop taking any of your medications without your doctor's advice.",
+    "It may take up to 2 weeks before your cholesterol levels improve, and you may need frequent blood tests. Even if you have no symptoms, tests can help your doctor determine if this medicine is effective.",
+    "Your treatment may also include diet, exercise, weight control, and blood tests.",
+    "Store at room temperature away from moisture, heat, and light.",
+    "Throw away in the trash any unused liquid 60 days after opening the bottle."
+   ],
+   "text": "Take atorvastatin tablet once daily with or without food. Many people ask when to take atorvastatin morning or night? It can be taken any time of the day, but try and take it at the same time each day.\nTake the liquid medicine on an empty stomach, at least 1 hour before a meal or 2 hours after a meal. Shake the oral suspension (liquid). Measure a dose with the supplied measuring device (not a kitchen spoon).\nTake atorvastatin exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.\nDo not change your dose or stop taking any of your medications without your doctor's advice.\nIt may take up to 2 weeks before your cholesterol levels improve, and you may need frequent blood tests. Even if you have no symptoms, tests can help your doctor determine if this medicine is effective.\nYour treatment may also include diet, exercise, weight control, and blood tests.\nStore at room temperature away from moisture, heat, and light.\nThrow away in the trash any unused liquid 60 days after opening the bottle."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Atorvastatin Dosing Information",
+   "lines": [
+    "Recommended Dosage in Adult Patients The recommended starting dosage of Lipitor is 10 mg to 20 mg once daily. The dosage range is 10 mg to 80 mg once daily. Patients who require a reduction in LDL-C greater than 45% may be started at 40 mg once daily.",
+    "Recommended Dosage in Pediatric Patients 10 Years of Age and Older with HeFH The recommended starting dosage of Lipitor is 10 mg once daily. The dosage range is 10 mg to 20 mg once daily.",
+    "Recommended Dosage in Pediatric Patients 10 Years of Age and Older with HoFH The recommended starting dosage of Lipitor is 10 mg to 20 mg once daily. The dosage range is 10 mg to 80 mg once daily.",
+    "Comments: Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating Lipitor, and adjust the dosage if necessary.",
+    "This medicine is available as: atorvastatin 10 mg tablets, atorvastatin 20 mg tablets, atorvastatin 40 mg tablet, 80 mg tablets.",
+    "The original brand name of atorvastatin was Lipitor, and now it is also available as a generic. Atorvastatin calcium oral suspension is also available as the brand Aorvaliq 20mg/5ml."
+   ],
+   "text": "Recommended Dosage in Adult Patients The recommended starting dosage of Lipitor is 10 mg to 20 mg once daily. The dosage range is 10 mg to 80 mg once daily. Patients who require a reduction in LDL-C greater than 45% may be started at 40 mg once daily.\nRecommended Dosage in Pediatric Patients 10 Years of Age and Older with HeFH The recommended starting dosage of Lipitor is 10 mg once daily. The dosage range is 10 mg to 20 mg once daily.\nRecommended Dosage in Pediatric Patients 10 Years of Age and Older with HoFH The recommended starting dosage of Lipitor is 10 mg to 20 mg once daily. The dosage range is 10 mg to 80 mg once daily.\nComments: Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating Lipitor, and adjust the dosage if necessary.\nThis medicine is available as: atorvastatin 10 mg tablets, atorvastatin 20 mg tablets, atorvastatin 40 mg tablet, 80 mg tablets.\nThe original brand name of atorvastatin was Lipitor, and now it is also available as a generic. Atorvastatin calcium oral suspension is also available as the brand Aorvaliq 20mg/5ml."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "If you miss a dose of the oral suspension, take it as soon as you remember, but skip the missed dose if you are more than 12 hours late. If you miss a dose of the tablets, do not take the missed dose and wait until your next scheduled dose. Do not take two doses at one time."
+   ],
+   "text": "If you miss a dose of the oral suspension, take it as soon as you remember, but skip the missed dose if you are more than 12 hours late. If you miss a dose of the tablets, do not take the missed dose and wait until your next scheduled dose. Do not take two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking atorvastatin?",
+   "lines": [
+    "Avoid eating foods high in fat or cholesterol, or atorvastatin will not be as effective.",
+    "Drinking alcohol may increase your risk of liver damage.",
+    "Grapefruit may interact with atorvastatin and cause side effects. Avoid consuming grapefruit products and drinking more than 1.2 liters of grapefruit juice each day."
+   ],
+   "text": "Avoid eating foods high in fat or cholesterol, or atorvastatin will not be as effective.\nDrinking alcohol may increase your risk of liver damage.\nGrapefruit may interact with atorvastatin and cause side effects. Avoid consuming grapefruit products and drinking more than 1.2 liters of grapefruit juice each day."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect atorvastatin?",
+   "lines": [
+    "Sometimes it is not safe to use certain medicines at the same time. Some drugs can affect your blood levels of other drugs you use, which can increase the risk of serious muscle problems or make the medicines less effective.",
+    "Tell your doctor about all your current medicines. Many drugs can interact with atorvastatin, especially:",
+    "- other cholesterol-lowering medicines - gemfibrozil, niacin, fenofibrate, fenofibric acid, and others;",
+    "- colchicine;",
+    "- antibiotic or antifungal medicine - rifampin, erythromycin, clarithromycin, itraconazole, ketoconazole, posaconazole, and voriconazole;",
+    "- birth control pills;",
+    "- medicine to prevent organ transplant rejection; or",
+    "- antiviral medicine to treat hepatitis C, HIV, or cytomegalovirus (such as letermovir).",
+    "This list is not complete, and many other drugs may interact with atorvastatin. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+   ],
+   "text": "Sometimes it is not safe to use certain medicines at the same time. Some drugs can affect your blood levels of other drugs you use, which can increase the risk of serious muscle problems or make the medicines less effective.\nTell your doctor about all your current medicines. Many drugs can interact with atorvastatin, especially:\n- other cholesterol-lowering medicines - gemfibrozil, niacin, fenofibrate, fenofibric acid, and others;\n- colchicine;\n- antibiotic or antifungal medicine - rifampin, erythromycin, clarithromycin, itraconazole, ketoconazole, posaconazole, and voriconazole;\n- birth control pills;\n- medicine to prevent organ transplant rejection; or\n- antiviral medicine to treat hepatitis C, HIV, or cytomegalovirus (such as letermovir).\nThis list is not complete, and many other drugs may interact with atorvastatin. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: Best time to take atorvastatin: Morning or Night? A: Atorvastatin can generally be taken either in the morning or at night, because it is a long‑acting statin that stays active in the body around the clock. The most important factor is taking it at the same time every day so your cholesterol levels and cardiovascular protection remain stable over time.",
+    "Q: Rosuvastatin or Atorvastatin: What’s the better choice for you? A: Rosuvastatin (Crestor) and atorvastatin (Lipitor) are both statins that lower “bad” LDL cholesterol and reduce the risk of heart attack and stroke in people at increased cardiovascular risk. The better choice for you depends on factors such as how much LDL reduction you need, your medical history, and cost and insurance coverage.",
+    "Q: Do I need to eat food when taking atorvastatin? A: Atorvastatin (also known as Lipitor) can be taken any time of the day, with or without food. An oral dose of atorvastatin will be absorbed rapidly, with maximum plasma concentrations occurring within 1 to 2 hours after you take it. While you may or may not eat food when taking atorvastatin, there are certain foods you should avoid when taking the drug.",
+    "Q: How long does atorvastatin stay in the system after stopping the drug? A: It takes about 77 hours (3 days) for atorvastatin to be out of your system. The elimination half life of atorvastatin is approximately 14 hours. This is the time it takes for your body to reduce plasma drug levels by half. It takes approximately 5.5 x elimination half lives for a medicine to be out of ones system.",
+    "Q: Does atorvastatin cause weight gain? A: Atorvastatin itself does not consistently cause weight gain in clinical trials, but some studies suggest a small association between statin use (including atorvastatin) and modest weight gain and higher diabetes risk over time. For most people, the heart‑protective benefits of atorvastatin outweigh these potential metabolic effects, especially when combined with lifestyle measures that support a healthy weight.",
+    "Q: Can you use limes or lime juice while taking statin drugs (i.e. atorvastatin)? A: Limes, pomegranates, pomelos, and Seville oranges can also interact with some medications, including statins such as atorvastatin. There just hasn't been as much research published regarding how other types of citrus (apart from grapefruit) interact with statins. Large quantities of lime or lime peel should be avoided, although small amounts (such as a twist of lime in a drink) are unlikely to cause a significant interaction."
+   ],
+   "text": "Q: Best time to take atorvastatin: Morning or Night? A: Atorvastatin can generally be taken either in the morning or at night, because it is a long‑acting statin that stays active in the body around the clock. The most important factor is taking it at the same time every day so your cholesterol levels and cardiovascular protection remain stable over time.\nQ: Rosuvastatin or Atorvastatin: What’s the better choice for you? A: Rosuvastatin (Crestor) and atorvastatin (Lipitor) are both statins that lower “bad” LDL cholesterol and reduce the risk of heart attack and stroke in people at increased cardiovascular risk. The better choice for you depends on factors such as how much LDL reduction you need, your medical history, and cost and insurance coverage.\nQ: Do I need to eat food when taking atorvastatin? A: Atorvastatin (also known as Lipitor) can be taken any time of the day, with or without food. An oral dose of atorvastatin will be absorbed rapidly, with maximum plasma concentrations occurring within 1 to 2 hours after you take it. While you may or may not eat food when taking atorvastatin, there are certain foods you should avoid when taking the drug.\nQ: How long does atorvastatin stay in the system after stopping the drug? A: It takes about 77 hours (3 days) for atorvastatin to be out of your system. The elimination half life of atorvastatin is approximately 14 hours. This is the time it takes for your body to reduce plasma drug levels by half. It takes approximately 5.5 x elimination half lives for a medicine to be out of ones system.\nQ: Does atorvastatin cause weight gain? A: Atorvastatin itself does not consistently cause weight gain in clinical trials, but some studies suggest a small association between statin use (including atorvastatin) and modest weight gain and higher diabetes risk over time. For most people, the heart‑protective benefits of atorvastatin outweigh these potential metabolic effects, especially when combined with lifestyle measures that support a healthy weight.\nQ: Can you use limes or lime juice while taking statin drugs (i.e. atorvastatin)? A: Limes, pomegranates, pomelos, and Seville oranges can also interact with some medications, including statins such as atorvastatin. There just hasn't been as much research published regarding how other types of citrus (apart from grapefruit) interact with statins. Large quantities of lime or lime peel should be avoided, although small amounts (such as a twist of lime in a drink) are unlikely to cause a significant interaction."
+  }
+ ],
+ "rank": 1
+}

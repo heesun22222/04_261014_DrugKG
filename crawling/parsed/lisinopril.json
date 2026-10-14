@@ -1,0 +1,297 @@
+{
+ "name": "Lisinopril",
+ "slug": "lisinopril",
+ "url": "https://www.drugs.com/lisinopril.html",
+ "title": "Lisinopril",
+ "page_title": "Lisinopril Uses, Dosage, Side Effects & Warnings - Drugs.com",
+ "generic_name": "lisinopril",
+ "pronunciation": "lyse-IN-oh-pril",
+ "brand_names": [
+  "Prinivil",
+  "Qbrelis",
+  "Zestril"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "oral solution",
+   "strengths": [
+    "1 mg/mL"
+   ]
+  },
+  {
+   "form": "oral tablet",
+   "strengths": [
+    "10 mg",
+    "2.5 mg",
+    "20 mg",
+    "30 mg",
+    "40 mg",
+    "5 mg"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Angiotensin Converting Enzyme Inhibitors",
+   "slug": "angiotensin-converting-enzyme-inhibitors"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Aug 26, 2026.",
+ "faq": [
+  {
+   "q": "Which blood pressure medications cause coughing?",
+   "a": "Angiotensin-converting enzyme (ACE) inhibitors are a class of prescription blood pressure medications that commonly cause coughing as a side effect. Available medications in this class include..."
+  },
+  {
+   "q": "Why does lisinopril cause a dry cough and how to fix it?",
+   "a": "A dry, tickly cough is one of the most common side effects of lisinopril and other ACE inhibitors. It is usually not dangerous, but can be very annoying. In most people, the cough improves or disappears after the medication is changed, and there are safe alternatives such as ARBs that your clinician can use instead."
+  },
+  {
+   "q": "When is the best time to take lisinopril?",
+   "a": "Lisinopril is usually taken once a day, and for most people it can be taken in the morning or evening as long as it is taken at the same time every day. Morning dosing is common because it fits daily routines and aligns with how blood pressure naturally rises after waking."
+  },
+  {
+   "q": "Does Green Tea interact with any drugs?",
+   "a": "Drug interactions with green tea can include certain blood pressure medicines, statin cholesterol-lowering treatments, and warfarin, an anticoagulant (blood thinner) used to help prevent blood clots and medicines used to treat hot flashes and night sweats in women due to menopause."
+  },
+  {
+   "q": "Can I just stop taking lisinopril?",
+   "a": "Lisinopril is a commonly prescribed medication for high blood pressure and heart conditions, but stopping it suddenly without medical advice can be dangerous and is not recommended in most situations."
+  },
+  {
+   "q": "Does lisinopril cause weight gain?",
+   "a": "No, lisinopril does not cause weight gain. Weight gain was not reported as a side effect in the clinical studies used to approve the drug, and research reviews describe lisinopril as \"weight neutral.\" If you notice the scale going up after starting lisinopril, the cause is usually something else such as fluid buildup, another medicine, or a health condition."
+  },
+  {
+   "q": "What is the strength of Qbrelis (lisinopril) oral solution?",
+   "a": "Qbrelis (lisinopril) Qbrelis (lisinopril) oral solution comes in one strength: 1 milligram per milliliter (1 mg/mL). This means every 1 mL of the liquid contains 1 mg of lisinopril, a widely used blood pressure medicine. Qbrelis is sold as a ready-to-use liquid in a 150 mL bottle."
+  }
+ ],
+ "description": "Lisinopril is an ACE inhibitor. It is used to treat high blood pressure, congestive heart failure in adults, or to improve survival after a heart attack.",
+ "date_modified": "2026-08-26",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Plavix",
+   "slug": "plavix",
+   "blurb": "Plavix (clopidogrel) is used to prevent blood clots after a recent heart attack or stroke. Includes..."
+  },
+  {
+   "name": "Brilinta",
+   "slug": "brilinta",
+   "blurb": "Brilinta (ticagrelor) is used to lower your risk of having a stroke or serious heart problems after..."
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Nitroglycerin",
+   "slug": "mtm/nitroglycerin-oral-sublingual",
+   "blurb": "Nitroglycerin is used for anal fissure and fistula, angina, angina pectoris prophylaxis, heart..."
+  },
+  {
+   "name": "Warfarin",
+   "slug": "warfarin",
+   "blurb": "Warfarin is an anticoagulant used to prevent heart attacks, strokes, and blood clots. Learn about..."
+  },
+  {
+   "name": "Valsartan",
+   "slug": "valsartan",
+   "blurb": "Valsartan is an angiotensin II receptor blocker (ARB) that may be used to treat high blood pressure..."
+  },
+  {
+   "name": "Atenolol",
+   "slug": "atenolol",
+   "blurb": "Atenolol is used to treat angina (chest pain) and hypertension (high blood pressure). Learn about..."
+  },
+  {
+   "name": "Propranolol",
+   "slug": "propranolol",
+   "blurb": "Propranolol is a beta-blocker that is used to treat tremors, chest pain, high blood pressure, heart..."
+  },
+  {
+   "name": "Clopidogrel",
+   "slug": "mtm/clopidogrel",
+   "blurb": "Clopidogrel is used for acute coronary syndrome, acute coronary syndrome, prophylaxis, heart..."
+  },
+  {
+   "name": "Metoprolol",
+   "slug": "metoprolol",
+   "blurb": "Metoprolol is used to treat angina (chest pain) and hypertension (high blood pressure). Learn about..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is lisinopril?",
+   "lines": [
+    "Lisinopril is used alone or in combination with other medications to treat high blood pressure in adults and children 6 years of age and older.",
+    "Lisinopril is also used in adults to treat congestive heart failure and to improve survival after a heart attack.",
+    "Lisinopril belongs to a class of medications called angiotensin-converting enzyme (ACE) inhibitors. It works by decreasing certain chemicals that tighten the blood vessels, so blood flows more smoothly and the heart can pump blood more efficiently.",
+    "High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation."
+   ],
+   "text": "Lisinopril is used alone or in combination with other medications to treat high blood pressure in adults and children 6 years of age and older.\nLisinopril is also used in adults to treat congestive heart failure and to improve survival after a heart attack.\nLisinopril belongs to a class of medications called angiotensin-converting enzyme (ACE) inhibitors. It works by decreasing certain chemicals that tighten the blood vessels, so blood flows more smoothly and the heart can pump blood more efficiently.\nHigh blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Do not use lisinopril if you are pregnant. It could harm the unborn baby. Stop using this medicine and tell your doctor right away if you become pregnant.",
+    "You should not use this medicine if you have ever had angioedema. Do not take lisinopril within 36 hours before or after taking medicine that contains sacubitril (such as Entresto).",
+    "If you have diabetes, do not use lisinopril together with any medication that contains aliskiren (such as Amturnide, Tekturna, Tekamlo).",
+    "You may also need to avoid taking lisinopril with aliskiren if you have kidney disease."
+   ],
+   "text": "Do not use lisinopril if you are pregnant. It could harm the unborn baby. Stop using this medicine and tell your doctor right away if you become pregnant.\nYou should not use this medicine if you have ever had angioedema. Do not take lisinopril within 36 hours before or after taking medicine that contains sacubitril (such as Entresto).\nIf you have diabetes, do not use lisinopril together with any medication that contains aliskiren (such as Amturnide, Tekturna, Tekamlo).\nYou may also need to avoid taking lisinopril with aliskiren if you have kidney disease."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not use lisinopril if you are allergic to it or to any other ACE (angiotensin converting enzyme) inhibitor such as captopril, fosinopril, enalapril, benazepril, moexipril, perindopril, quinapril, ramipril, or trandolapril.",
+    "Do not take lisinopril within 36 hours before or after taking medicine that contains sacubitril (such as Entresto).",
+    "If you have diabetes, do not take lisinopril with any medication that contains aliskiren (a blood pressure medicine).",
+    "Do not take lisinopril if you have a history of angioedema (severe allergic reaction).",
+    "To make sure this medicine is safe for you, tell your doctor if you have ever had:",
+    "- heart disease, heart problems such as a recent heart attack;",
+    "- low blood pressure;",
+    "- low white blood cell count;",
+    "- stomach pain;",
+    "- if you are on a low-salt diet;",
+    "- diabetes;",
+    "- liver disease; or",
+    "- kidney disease (or if you are on dialysis).",
+    "You may also need to avoid taking lisinopril with aliskiren if you have kidney disease.",
+    "Stop using this medicine and tell your doctor right away if you become pregnant. Lisinopril can cause injury or death to the unborn baby if you use the medicine during your second or third trimester.",
+    "Do not breastfeed."
+   ],
+   "text": "You should not use lisinopril if you are allergic to it or to any other ACE (angiotensin converting enzyme) inhibitor such as captopril, fosinopril, enalapril, benazepril, moexipril, perindopril, quinapril, ramipril, or trandolapril.\nDo not take lisinopril within 36 hours before or after taking medicine that contains sacubitril (such as Entresto).\nIf you have diabetes, do not take lisinopril with any medication that contains aliskiren (a blood pressure medicine).\nDo not take lisinopril if you have a history of angioedema (severe allergic reaction).\nTo make sure this medicine is safe for you, tell your doctor if you have ever had:\n- heart disease, heart problems such as a recent heart attack;\n- low blood pressure;\n- low white blood cell count;\n- stomach pain;\n- if you are on a low-salt diet;\n- diabetes;\n- liver disease; or\n- kidney disease (or if you are on dialysis).\nYou may also need to avoid taking lisinopril with aliskiren if you have kidney disease.\nStop using this medicine and tell your doctor right away if you become pregnant. Lisinopril can cause injury or death to the unborn baby if you use the medicine during your second or third trimester.\nDo not breastfeed."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take lisinopril?",
+   "lines": [
+    "Take lisinopril exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose..",
+    "You may take lisinopril with or without food.",
+    "Measure liquid medicine with the supplied measuring device (not a kitchen spoon).",
+    "Your blood pressure will need to be checked often and you may need frequent blood tests.",
+    "Tell your doctor if you have a planned surgery.",
+    "Call your doctor if you have ongoing vomiting or diarrhea, or if you are sweating more than usual. You can easily become dehydrated while taking lisinopril. This can lead to very low blood pressure, an electrolyte imbalance, or kidney failure.",
+    "If you have high blood pressure, keep using lisinopril even if you feel well. High blood pressure often has no symptoms.",
+    "Store tightly closed at room temperature, away from moisture and heat. Do not freeze."
+   ],
+   "text": "Take lisinopril exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose..\nYou may take lisinopril with or without food.\nMeasure liquid medicine with the supplied measuring device (not a kitchen spoon).\nYour blood pressure will need to be checked often and you may need frequent blood tests.\nTell your doctor if you have a planned surgery.\nCall your doctor if you have ongoing vomiting or diarrhea, or if you are sweating more than usual. You can easily become dehydrated while taking lisinopril. This can lead to very low blood pressure, an electrolyte imbalance, or kidney failure.\nIf you have high blood pressure, keep using lisinopril even if you feel well. High blood pressure often has no symptoms.\nStore tightly closed at room temperature, away from moisture and heat. Do not freeze."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Dosing information",
+   "lines": [
+    "Usual Adult Dose for Hypertension:",
+    "Initial dose: 10 mg orally once a day; 5 mg orally once a day Maintenance dose: 20 to 40 mg orally once a day Maximum dose: 80 mg orally once a day Comments: -The initial dose is 5 mg orally once a day in patients receiving a diuretic. -The 80 mg dose is used but does not appear to give greater effect. -If blood pressure is not controlled with lisinopril alone, a low dose of a diuretic may be added (e.g., hydrochlorothiazide, 12.5 mg). After the addition of a diuretic, it may be possible to reduce the dose of lisinopril.",
+    "Usual Adult Dose for Congestive Heart Failure:",
+    "Initial dose: 2.5 to 5 mg orally once a day Maintenance dose: Dosage should be increased as tolerated Maximum dose: 40 mg orally once a day Comments: -The diuretic dose may need to be adjusted to help minimize hypovolemia, which may contribute to hypotension. The appearance of hypotension after the initial dose of lisinopril does not preclude subsequent careful dose titration with the drug.",
+    "Usual Adult Dose for Myocardial Infarction:",
+    "Initial dose: 5 mg orally (within 24 hours of the onset of acute myocardial infarction) Subsequent doses: 5 mg orally after 24 hours, then 10 mg orally after 48 hours. Maintenance dose: 10 mg orally once a day. Dosing should continue for at least 6 weeks. Comments: -Therapy should be initiated at 2.5 mg in patients with a low systolic blood pressure (less than or equal to 120 mm Hg and greater than 100 mmHg) during the first 3 days after the infarct. If prolonged hypotension occurs (systolic blood pressure less than 90 mmHg for more than 1 hour) therapy should be withdrawn. Uses: Reduction of mortality in acute myocardial infarction",
+    "Usual Adult Dose for Diabetic Nephropathy:",
+    "Initial dose: 10 to 20 mg orally once a day Maintenance dose: 20 to 40 mg orally once a day Dosage may be titrated upward every 3 days Comments: -Not an approved indication.",
+    "Usual Geriatric Dose for Hypertension:",
+    "Initial dose: 2.5 to 5 mg orally once a day Maintenance dose: Dosages should be increased at 2.5 mg to 5 mg per day at 1 to 2 week intervals. Maximum dose: 40 mg orally once a day",
+    "Usual Pediatric Dose for Hypertension:",
+    "Pediatric patients greater than or equal to 6 years of age: Initial dose: 0.07 mg/kg orally once a day (Maximum initial dose is 5 mg once a day) Maintenance dose: Dosage should be adjusted according to blood pressure response at 1 to 2 week intervals. Maximum dose: Doses above 0.61 mg/kg or greater than 40 mg have not been studied in pediatric patients Comments: -This drug is not recommended in pediatric patients less than 6 years old or in pediatric patients with glomerular filtration rate less than 30 mL/min."
+   ],
+   "text": "Usual Adult Dose for Hypertension:\nInitial dose: 10 mg orally once a day; 5 mg orally once a day Maintenance dose: 20 to 40 mg orally once a day Maximum dose: 80 mg orally once a day Comments: -The initial dose is 5 mg orally once a day in patients receiving a diuretic. -The 80 mg dose is used but does not appear to give greater effect. -If blood pressure is not controlled with lisinopril alone, a low dose of a diuretic may be added (e.g., hydrochlorothiazide, 12.5 mg). After the addition of a diuretic, it may be possible to reduce the dose of lisinopril.\nUsual Adult Dose for Congestive Heart Failure:\nInitial dose: 2.5 to 5 mg orally once a day Maintenance dose: Dosage should be increased as tolerated Maximum dose: 40 mg orally once a day Comments: -The diuretic dose may need to be adjusted to help minimize hypovolemia, which may contribute to hypotension. The appearance of hypotension after the initial dose of lisinopril does not preclude subsequent careful dose titration with the drug.\nUsual Adult Dose for Myocardial Infarction:\nInitial dose: 5 mg orally (within 24 hours of the onset of acute myocardial infarction) Subsequent doses: 5 mg orally after 24 hours, then 10 mg orally after 48 hours. Maintenance dose: 10 mg orally once a day. Dosing should continue for at least 6 weeks. Comments: -Therapy should be initiated at 2.5 mg in patients with a low systolic blood pressure (less than or equal to 120 mm Hg and greater than 100 mmHg) during the first 3 days after the infarct. If prolonged hypotension occurs (systolic blood pressure less than 90 mmHg for more than 1 hour) therapy should be withdrawn. Uses: Reduction of mortality in acute myocardial infarction\nUsual Adult Dose for Diabetic Nephropathy:\nInitial dose: 10 to 20 mg orally once a day Maintenance dose: 20 to 40 mg orally once a day Dosage may be titrated upward every 3 days Comments: -Not an approved indication.\nUsual Geriatric Dose for Hypertension:\nInitial dose: 2.5 to 5 mg orally once a day Maintenance dose: Dosages should be increased at 2.5 mg to 5 mg per day at 1 to 2 week intervals. Maximum dose: 40 mg orally once a day\nUsual Pediatric Dose for Hypertension:\nPediatric patients greater than or equal to 6 years of age: Initial dose: 0.07 mg/kg orally once a day (Maximum initial dose is 5 mg once a day) Maintenance dose: Dosage should be adjusted according to blood pressure response at 1 to 2 week intervals. Maximum dose: Doses above 0.61 mg/kg or greater than 40 mg have not been studied in pediatric patients Comments: -This drug is not recommended in pediatric patients less than 6 years old or in pediatric patients with glomerular filtration rate less than 30 mL/min."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+   ],
+   "text": "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking lisinopril?",
+   "lines": [
+    "Avoid getting up too fast from a sitting or lying position, or you may feel dizzy.",
+    "Do not use potassium supplements or salt substitutes, unless your doctor has told you to.",
+    "Avoid becoming overheated or dehydrated during exercise, in hot weather, or by not drinking enough fluids. Follow your doctor's instructions about the type and amount of liquids you should drink. In some cases, drinking too much liquid can be as unsafe as not drinking enough."
+   ],
+   "text": "Avoid getting up too fast from a sitting or lying position, or you may feel dizzy.\nDo not use potassium supplements or salt substitutes, unless your doctor has told you to.\nAvoid becoming overheated or dehydrated during exercise, in hot weather, or by not drinking enough fluids. Follow your doctor's instructions about the type and amount of liquids you should drink. In some cases, drinking too much liquid can be as unsafe as not drinking enough."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Lisinopril side effects",
+   "lines": [
+    "Get emergency medical help if you have signs of an allergic reaction to lisinopril: severe stomach pain, hives, difficult breathing, swelling of your face, lips, tongue, or throat.",
+    "Lisinopril may cause serious side effects. Call your doctor at once if you have:",
+    "- a light-headed feeling, like you might pass out;",
+    "- high blood potassium - nausea, weakness, tingly feeling, chest pain, irregular heartbeats, loss of movement;",
+    "- low white blood cell counts - fever, mouth sores, skin sores, sore throat, cough;",
+    "- kidney problems - swelling, urinating less, feeling tired or short of breath; or",
+    "- liver problems - loss of appetite, stomach pain (upper right side), tiredness, itching, dark urine, clay-colored stools, jaundice (yellowing of the skin or eyes).",
+    "Common lisinopril side effects may include:",
+    "- headache, dizziness;",
+    "- low blood pressure, cough; or",
+    "- chest pain.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have signs of an allergic reaction to lisinopril: severe stomach pain, hives, difficult breathing, swelling of your face, lips, tongue, or throat.\nLisinopril may cause serious side effects. Call your doctor at once if you have:\n- a light-headed feeling, like you might pass out;\n- high blood potassium - nausea, weakness, tingly feeling, chest pain, irregular heartbeats, loss of movement;\n- low white blood cell counts - fever, mouth sores, skin sores, sore throat, cough;\n- kidney problems - swelling, urinating less, feeling tired or short of breath; or\n- liver problems - loss of appetite, stomach pain (upper right side), tiredness, itching, dark urine, clay-colored stools, jaundice (yellowing of the skin or eyes).\nCommon lisinopril side effects may include:\n- headache, dizziness;\n- low blood pressure, cough; or\n- chest pain.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect lisinopril?",
+   "lines": [
+    "Lisinopril can harm your kidneys, especially if you also use certain medicines for infections, cancer, or osteoporosis.",
+    "Tell your doctor about all your other medicines, especially:",
+    "- a diuretic or \"water pill\" that may increase blood potassium such as spironolactone, triamterene, or amiloride;",
+    "- NSAIDs (nonsteroidal anti-inflammatory drugs) - aspirin, ibuprofen (Advil, Motrin), naproxen (Aleve), celecoxib, diclofenac, indomethacin, meloxicam, and others;",
+    "- insulin or diabetes medications;",
+    "- medicine to prevent organ transplant rejection such as temsirolimus, sirolimus, or everolimus; or",
+    "- heart or blood pressure medication",
+    "- lithium",
+    "- gold injections.",
+    "This list is not complete. Other drugs may interact with lisinopril, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+   ],
+   "text": "Lisinopril can harm your kidneys, especially if you also use certain medicines for infections, cancer, or osteoporosis.\nTell your doctor about all your other medicines, especially:\n- a diuretic or \"water pill\" that may increase blood potassium such as spironolactone, triamterene, or amiloride;\n- NSAIDs (nonsteroidal anti-inflammatory drugs) - aspirin, ibuprofen (Advil, Motrin), naproxen (Aleve), celecoxib, diclofenac, indomethacin, meloxicam, and others;\n- insulin or diabetes medications;\n- medicine to prevent organ transplant rejection such as temsirolimus, sirolimus, or everolimus; or\n- heart or blood pressure medication\n- lithium\n- gold injections.\nThis list is not complete. Other drugs may interact with lisinopril, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: Which blood pressure medications cause coughing? A: Angiotensin-converting enzyme (ACE) inhibitors are a class of prescription blood pressure medications that commonly cause coughing as a side effect. Available medications in this class include...",
+    "Q: Why does lisinopril cause a dry cough and how to fix it? A: A dry, tickly cough is one of the most common side effects of lisinopril and other ACE inhibitors. It is usually not dangerous, but can be very annoying. In most people, the cough improves or disappears after the medication is changed, and there are safe alternatives such as ARBs that your clinician can use instead.",
+    "Q: When is the best time to take lisinopril? A: Lisinopril is usually taken once a day, and for most people it can be taken in the morning or evening as long as it is taken at the same time every day. Morning dosing is common because it fits daily routines and aligns with how blood pressure naturally rises after waking.",
+    "Q: Does Green Tea interact with any drugs? A: Drug interactions with green tea can include certain blood pressure medicines, statin cholesterol-lowering treatments, and warfarin, an anticoagulant (blood thinner) used to help prevent blood clots and medicines used to treat hot flashes and night sweats in women due to menopause.",
+    "Q: Can I just stop taking lisinopril? A: Lisinopril is a commonly prescribed medication for high blood pressure and heart conditions, but stopping it suddenly without medical advice can be dangerous and is not recommended in most situations.",
+    "Q: Does lisinopril cause weight gain? A: No, lisinopril does not cause weight gain. Weight gain was not reported as a side effect in the clinical studies used to approve the drug, and research reviews describe lisinopril as \"weight neutral.\" If you notice the scale going up after starting lisinopril, the cause is usually something else such as fluid buildup, another medicine, or a health condition.",
+    "Q: What is the strength of Qbrelis (lisinopril) oral solution? A: Qbrelis (lisinopril) Qbrelis (lisinopril) oral solution comes in one strength: 1 milligram per milliliter (1 mg/mL). This means every 1 mL of the liquid contains 1 mg of lisinopril, a widely used blood pressure medicine. Qbrelis is sold as a ready-to-use liquid in a 150 mL bottle."
+   ],
+   "text": "Q: Which blood pressure medications cause coughing? A: Angiotensin-converting enzyme (ACE) inhibitors are a class of prescription blood pressure medications that commonly cause coughing as a side effect. Available medications in this class include...\nQ: Why does lisinopril cause a dry cough and how to fix it? A: A dry, tickly cough is one of the most common side effects of lisinopril and other ACE inhibitors. It is usually not dangerous, but can be very annoying. In most people, the cough improves or disappears after the medication is changed, and there are safe alternatives such as ARBs that your clinician can use instead.\nQ: When is the best time to take lisinopril? A: Lisinopril is usually taken once a day, and for most people it can be taken in the morning or evening as long as it is taken at the same time every day. Morning dosing is common because it fits daily routines and aligns with how blood pressure naturally rises after waking.\nQ: Does Green Tea interact with any drugs? A: Drug interactions with green tea can include certain blood pressure medicines, statin cholesterol-lowering treatments, and warfarin, an anticoagulant (blood thinner) used to help prevent blood clots and medicines used to treat hot flashes and night sweats in women due to menopause.\nQ: Can I just stop taking lisinopril? A: Lisinopril is a commonly prescribed medication for high blood pressure and heart conditions, but stopping it suddenly without medical advice can be dangerous and is not recommended in most situations.\nQ: Does lisinopril cause weight gain? A: No, lisinopril does not cause weight gain. Weight gain was not reported as a side effect in the clinical studies used to approve the drug, and research reviews describe lisinopril as \"weight neutral.\" If you notice the scale going up after starting lisinopril, the cause is usually something else such as fluid buildup, another medicine, or a health condition.\nQ: What is the strength of Qbrelis (lisinopril) oral solution? A: Qbrelis (lisinopril) Qbrelis (lisinopril) oral solution comes in one strength: 1 milligram per milliliter (1 mg/mL). This means every 1 mL of the liquid contains 1 mg of lisinopril, a widely used blood pressure medicine. Qbrelis is sold as a ready-to-use liquid in a 150 mL bottle."
+  }
+ ],
+ "rank": 5
+}

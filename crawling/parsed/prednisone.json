@@ -1,0 +1,374 @@
+{
+ "name": "Prednisone",
+ "slug": "prednisone",
+ "url": "https://www.drugs.com/prednisone.html",
+ "title": "Prednisone",
+ "page_title": "Prednisone: Uses, Side Effects, Dosage & Warnings",
+ "brand_names": [
+  "Rayos",
+  "Prednisone Intensol",
+  "Sterapred",
+  "Deltasone"
+ ],
+ "discontinued_brands": [
+  "Sterapred",
+  "Deltasone"
+ ],
+ "dosage_forms": [
+  {
+   "form": "tablets",
+   "strengths": [
+    "1 mg, 2.5 mg, 5 mg, 10 mg, 20 mg, and 50 mg"
+   ]
+  },
+  {
+   "form": "oral solution",
+   "strengths": [
+    "5 mg/5 mL, 5 mg/mL"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Glucocorticoids",
+   "slug": "glucocorticoids"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Sep 3, 2026.",
+ "faq": [
+  {
+   "q": "What is considered a high dose of prednisone?",
+   "a": "The starting dose of prednisone may be between 5 mg to 60 mg per day. A dose above 40 mg per day may be considered a high dose. However, everybody responds differently to prednisone, so what might be a high dose depends on the person and the condition."
+  },
+  {
+   "q": "Can you take prednisone with Keytruda?",
+   "a": "Use prednisone with Keytruda or Keytruda Qlex only if your healthcare provider prescribes it. Prednisone is a corticosteroid that lowers immune system activity. It may reduce how well Keytruda works or increase your risk of infection. However, your doctor may prescribe prednisone to treat certain immune-related side effects caused by Keytruda."
+  },
+  {
+   "q": "What's a good prednisone taper schedule?",
+   "a": "A prednisone taper depends on your dose, how long you have taken it, and the condition being treated. If prednisone has been taken for less than 3 to 4 weeks, a taper is usually not needed, regardless of the dose. The risk of adrenal insufficiency increases with longer treatment and higher doses. Treatment for 3 to 4 weeks or longer at doses above about 4 to 6 mg of prednisone per day may suppress the body's normal cortisol production and may require a gradual taper."
+  },
+  {
+   "q": "Is it OK to drink alcohol with Prednisone?",
+   "a": "Although there is no direct drug interaction between prednisone and alcohol, mixing them together is not a good idea because some of the effects of alcohol and the side effects of prednisone are similar, so taking both at the same time can increase the risk of these side effects occurring."
+  },
+  {
+   "q": "How long can you take prednisone safely?",
+   "a": "There is no set limit on how long you can safely take prednisone. It depends on the dose of prednisone and the condition being treated. It may be prescribed short term or long term. The dosage will be adjusted or stopped based on your response or lack of response to the medication."
+  },
+  {
+   "q": "How long does it take for prednisone to work?",
+   "a": "Prednisone usually works very quickly, within a few hours to days of taking the first dose depending on the condition you are treating. If the prescribed dose of prednisone is effective at reducing your inflammation, then you may notice an effect within hours."
+  },
+  {
+   "q": "Prednisone: What are 12 Things You Should Know?",
+   "a": "Prednisone has been on the market for more than 70 years but is still one of the most commonly prescribed anti-inflammatory or immunosuppressive medications. Prednisone is used to treat dozens of different conditions such as skin disorders, breathing disorders, allergies, arthritis, and ulcerative colitis. But did you know it also has some pretty serious side effects as well?"
+  },
+  {
+   "q": "Do I take all 6 prednisone pills at once on the first day?",
+   "a": "It's best to take prednisone as a single dose once a day straight after breakfast. For example if your dose is 30mg daily, it's usual to take 6 tablets (6 x 5mg) all at the same time after breakfast."
+  },
+  {
+   "q": "How long does prednisone stay in your system?",
+   "a": "In general, you could expect a dose or prednisone to stay in your system for 16.5 to 22 hours based on a half life of 3 to 4 hours. It usually takes around 5.5 half lives for a drug to be completely eliminated from your system."
+  }
+ ],
+ "description": "Prednisone is a steroid medication used for inflammation, autoimmune conditions, and more. Pharmacist-reviewed guide to doses, side effects, interactions and  FAQ",
+ "date_modified": "2026-09-03",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Ebglyss",
+   "slug": "ebglyss",
+   "blurb": "Ebglyss (lebrikizumab) is a treatment for moderate-to-severe atopic dermatitis given as a monthly..."
+  },
+  {
+   "name": "Kesimpta",
+   "slug": "kesimpta",
+   "blurb": "Kesimpta is used to treat relapsing forms of multiple sclerosis (MS), including clinically isolated..."
+  },
+  {
+   "name": "Dupixent",
+   "slug": "dupixent",
+   "blurb": "Dupixent is used to treat multiple inflammatory conditions, including moderate-to-severe eczema..."
+  },
+  {
+   "name": "Nplate",
+   "slug": "nplate",
+   "blurb": "Nplate is used to prevent bleeding episodes in people with chronic immune thrombocytopenic purpura..."
+  },
+  {
+   "name": "Ohtuvayre",
+   "slug": "ohtuvayre",
+   "blurb": "Ohtuvayre is an inhaled, steroid-free suspension, that may be used as maintenance treatment for..."
+  },
+  {
+   "name": "Skyrizi",
+   "slug": "skyrizi",
+   "blurb": "Skyrizi (risankizumab) is an injection used to treat plaque psoriasis, psoriatic arthritis..."
+  },
+  {
+   "name": "Tremfya",
+   "slug": "tremfya",
+   "blurb": "Tremfya (guselkumab) injection is used to treat plaque psoriasis, psoriatic arthritis, ulcerative..."
+  },
+  {
+   "name": "Plaquenil",
+   "slug": "plaquenil",
+   "blurb": "Plaquenil is used to treat or prevent malaria and to treat the symptoms of rheumatoid arthritis..."
+  },
+  {
+   "name": "Hydroxychloroquine",
+   "slug": "hydroxychloroquine",
+   "blurb": "Hydroxychloroquine is a quinoline drug used to treat or prevent malaria. It's also used to treat..."
+  },
+  {
+   "name": "Humira",
+   "slug": "humira",
+   "blurb": "Humira is a tumor necrosis factor blocker used to treat many inflammatory conditions in adults..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is prednisone?",
+   "lines": [
+    "Prednisone is a prescription corticosteroid (steroid) used to reduce inflammation, suppress an overactive immune system, and treat endocrine and metabolic disorders. Prednisone is used for a wide range of conditions, including severe allergies, asthma and COPD flare-ups, rheumatoid arthritis and other forms of arthritis, lupus, psoriasis and other skin conditions, ulcerative colitis, Crohn's disease, eye inflammation, some blood disorders, and low adrenal hormone levels.",
+    "Prednisone works by mimicking the effects of glucocorticoid hormones secreted naturally by our adrenal glands. Prednisone is a man-made (synthetic) version of these hormones. Prednisone is different from steroids taken to build muscle (anabolic steroids).",
+    "Prednisone belongs to the drug class called glucocorticoids, which are a type of corticosteroid.",
+    "Prednisone tablets come in 1 mg, 2.5 mg, 5 mg, 10 mg, 20 mg, and 50 mg strengths. Prednisone 20 mg and prednisone 10 mg tablets are the strengths most often used for short courses in adults. Prednisone also comes as a delayed-release tablet (Rayos), as an oral liquid, and as a concentrated oral solution (Prednisone Intensol) that is measured with a special dropper.",
+    "Many of the original brands are discontinued; however, generic prednisone is available."
+   ],
+   "text": "Prednisone is a prescription corticosteroid (steroid) used to reduce inflammation, suppress an overactive immune system, and treat endocrine and metabolic disorders. Prednisone is used for a wide range of conditions, including severe allergies, asthma and COPD flare-ups, rheumatoid arthritis and other forms of arthritis, lupus, psoriasis and other skin conditions, ulcerative colitis, Crohn's disease, eye inflammation, some blood disorders, and low adrenal hormone levels.\nPrednisone works by mimicking the effects of glucocorticoid hormones secreted naturally by our adrenal glands. Prednisone is a man-made (synthetic) version of these hormones. Prednisone is different from steroids taken to build muscle (anabolic steroids).\nPrednisone belongs to the drug class called glucocorticoids, which are a type of corticosteroid.\nPrednisone tablets come in 1 mg, 2.5 mg, 5 mg, 10 mg, 20 mg, and 50 mg strengths. Prednisone 20 mg and prednisone 10 mg tablets are the strengths most often used for short courses in adults. Prednisone also comes as a delayed-release tablet (Rayos), as an oral liquid, and as a concentrated oral solution (Prednisone Intensol) that is measured with a special dropper.\nMany of the original brands are discontinued; however, generic prednisone is available."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Prednisone side effects",
+   "lines": [
+    "Common prednisone side effects:",
+    "The most common prednisone side effects are trouble sleeping, mood changes, increased appetite and weight gain, fluid retention and swelling, increased sweating, acne, thinning skin that bruises easily, slow wound healing, higher blood sugar, indigestion and stomach upset.",
+    "Many of these effects are dose related. They are more likely on higher doses and on longer courses, and most settle after the medicine is stopped.",
+    "Serious prednisone side effects:",
+    "Get emergency medical help if you have signs of an allergic reaction to prednisone: hives, difficult breathing, or swelling of your face, lips, tongue, or throat.",
+    "Call your doctor at once if you have:",
+    "- signs of infection, such as fever, chills, sore throat, cough or a wound that is not healing, since prednisone can hide the usual warning signs;",
+    "- blurred vision, eye pain or seeing halos around lights, which can be signs of glaucoma (raised pressure in the eye) or cataracts;",
+    "- severe pain in your upper stomach that spreads to your back, with nausea and vomiting, which can be a sign of pancreatitis (inflamed pancreas);",
+    "- bloody or black, tarry stools, or vomit that looks like coffee grounds, which can be signs of a bleeding stomach ulcer;",
+    "- severe depression, unusual excitement, confusion, changes in personality or behavior, or a seizure;",
+    "- swelling, rapid weight gain or shortness of breath, which can be signs of fluid retention or heart failure;",
+    "- signs of low potassium, such as confusion, an uneven heartbeat, extreme thirst, passing more urine than usual, leg discomfort, or muscle weakness;",
+    "- a very high blood pressure reading with severe headache, blurred vision, ringing in your ears, chest pain or shortness of breath;",
+    "- sudden pain, swelling or bruising in a tendon, especially at the back of the ankle, since prednisone can weaken tendons and cause the Achilles tendon to rupture;",
+    "- new bone pain, especially in a hip, shoulder or knee, which can be a sign of aseptic necrosis (bone tissue that has lost its blood supply); or",
+    "- flat, painless spots that are red or purple on light skin, or bluish, brown or black on dark skin, which can be a sign of Kaposi's sarcoma.",
+    "Prednisone side effects in women:",
+    "Women taking prednisone may notice irregular or missed periods, unwanted facial hair growth, acne and changes in body fat, such as a rounder face and more fat around the neck and waist. Long courses of prednisone also raise the risk of osteoporosis (thinning of the bones), and postmenopausal women are already at higher risk. Ask your doctor whether you need a bone density scan or a calcium and vitamin D supplement.",
+    "Long-term prednisone side effects:",
+    "Taking prednisone for months or years raises the risk of osteoporosis and broken bones, muscle weakness and muscle loss, cataracts and glaucoma, diabetes, high blood pressure, Cushing's syndrome (a set of changes caused by too much steroid, including a rounded face and fat around the trunk), and adrenal suppression, where your body stops making enough of its own steroid hormones.",
+    "Children who take prednisone for a long time may grow more slowly. Your child's doctor should check their growth at regular visits.",
+    "This is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+   ],
+   "text": "Common prednisone side effects:\nThe most common prednisone side effects are trouble sleeping, mood changes, increased appetite and weight gain, fluid retention and swelling, increased sweating, acne, thinning skin that bruises easily, slow wound healing, higher blood sugar, indigestion and stomach upset.\nMany of these effects are dose related. They are more likely on higher doses and on longer courses, and most settle after the medicine is stopped.\nSerious prednisone side effects:\nGet emergency medical help if you have signs of an allergic reaction to prednisone: hives, difficult breathing, or swelling of your face, lips, tongue, or throat.\nCall your doctor at once if you have:\n- signs of infection, such as fever, chills, sore throat, cough or a wound that is not healing, since prednisone can hide the usual warning signs;\n- blurred vision, eye pain or seeing halos around lights, which can be signs of glaucoma (raised pressure in the eye) or cataracts;\n- severe pain in your upper stomach that spreads to your back, with nausea and vomiting, which can be a sign of pancreatitis (inflamed pancreas);\n- bloody or black, tarry stools, or vomit that looks like coffee grounds, which can be signs of a bleeding stomach ulcer;\n- severe depression, unusual excitement, confusion, changes in personality or behavior, or a seizure;\n- swelling, rapid weight gain or shortness of breath, which can be signs of fluid retention or heart failure;\n- signs of low potassium, such as confusion, an uneven heartbeat, extreme thirst, passing more urine than usual, leg discomfort, or muscle weakness;\n- a very high blood pressure reading with severe headache, blurred vision, ringing in your ears, chest pain or shortness of breath;\n- sudden pain, swelling or bruising in a tendon, especially at the back of the ankle, since prednisone can weaken tendons and cause the Achilles tendon to rupture;\n- new bone pain, especially in a hip, shoulder or knee, which can be a sign of aseptic necrosis (bone tissue that has lost its blood supply); or\n- flat, painless spots that are red or purple on light skin, or bluish, brown or black on dark skin, which can be a sign of Kaposi's sarcoma.\nPrednisone side effects in women:\nWomen taking prednisone may notice irregular or missed periods, unwanted facial hair growth, acne and changes in body fat, such as a rounder face and more fat around the neck and waist. Long courses of prednisone also raise the risk of osteoporosis (thinning of the bones), and postmenopausal women are already at higher risk. Ask your doctor whether you need a bone density scan or a calcium and vitamin D supplement.\nLong-term prednisone side effects:\nTaking prednisone for months or years raises the risk of osteoporosis and broken bones, muscle weakness and muscle loss, cataracts and glaucoma, diabetes, high blood pressure, Cushing's syndrome (a set of changes caused by too much steroid, including a rounded face and fat around the trunk), and adrenal suppression, where your body stops making enough of its own steroid hormones.\nChildren who take prednisone for a long time may grow more slowly. Your child's doctor should check their growth at regular visits.\nThis is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Do not take prednisone if you have a systemic fungal infection, which is a fungal infection that has spread through your body.",
+    "Prednisone weakens your immune system. This makes it easier to get an infection; an existing infection may become worse and can reactivate an old infection, such as tuberculosis or hepatitis B. It can also hide the usual signs of infection, so an infection may be advanced before you notice it. Tell your doctor about any illness or infection you have had in the past few weeks.",
+    "Stay away from people who are sick. Chickenpox and measles can be serious or even fatal in someone taking a steroid. Call your doctor straight away if you are exposed to either one.",
+    "Do not have a live vaccine while you are taking prednisone unless your doctor says it is safe.",
+    "Do not stop taking prednisone suddenly after more than a few days of treatment. Your body needs time to start making its own steroid hormones again. Your doctor will lower your dose in steps.",
+    "Call your doctor at once if you have shortness of breath, severe pain in your upper stomach, bloody or black stools, severe depression, changes in personality or behavior, vision problems, or eye pain."
+   ],
+   "text": "Do not take prednisone if you have a systemic fungal infection, which is a fungal infection that has spread through your body.\nPrednisone weakens your immune system. This makes it easier to get an infection; an existing infection may become worse and can reactivate an old infection, such as tuberculosis or hepatitis B. It can also hide the usual signs of infection, so an infection may be advanced before you notice it. Tell your doctor about any illness or infection you have had in the past few weeks.\nStay away from people who are sick. Chickenpox and measles can be serious or even fatal in someone taking a steroid. Call your doctor straight away if you are exposed to either one.\nDo not have a live vaccine while you are taking prednisone unless your doctor says it is safe.\nDo not stop taking prednisone suddenly after more than a few days of treatment. Your body needs time to start making its own steroid hormones again. Your doctor will lower your dose in steps.\nCall your doctor at once if you have shortness of breath, severe pain in your upper stomach, bloody or black stools, severe depression, changes in personality or behavior, vision problems, or eye pain."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not use prednisone if you are allergic to it, or if you have a systemic fungal infection.",
+    "To make sure prednisone is safe for you, tell your doctor if you have or have ever had:",
+    "- an infection of any kind, including tuberculosis, hepatitis B, herpes infection of the eye, or a fungal infection;",
+    "- diarrhea that has no clear cause, or time spent in the tropics, since prednisone can wake up a parasite infection such as amebiasis or threadworm;",
+    "- malaria, especially cerebral malaria (malaria affecting the brain);",
+    "- liver disease, such as cirrhosis;",
+    "- kidney disease;",
+    "- heart disease, heart failure, high blood pressure or low potassium levels;",
+    "- an underactive thyroid;",
+    "- diabetes;",
+    "- osteoporosis;",
+    "- glaucoma or cataracts;",
+    "- stomach ulcers, ulcerative colitis, diverticulitis, or a history of bleeding in the stomach or bowel;",
+    "- myasthenia gravis (a condition that causes muscle weakness); or",
+    "- depression, mood swings or another mental health condition.",
+    "Long-term steroid use can cause bone loss. Your risk is higher if you smoke, if you do not exercise, if you do not get enough calcium or vitamin D, or if osteoporosis runs in your family. Talk with your doctor about protecting your bones.",
+    "Pregnancy:",
+    "Prednisone crosses the placenta. Taking it in the first trimester may raise the risk of birth defects, and taking higher doses later in pregnancy may affect the baby's growth and their adrenal glands. Tell your doctor if you are pregnant or plan to become pregnant. Some conditions still need steroid treatment during pregnancy, so this is a decision to make with your doctor rather than stopping on your own.",
+    "Breastfeeding:",
+    "Prednisone passes into breast milk in small amounts. Tell your doctor if you are breastfeeding so you can talk through the dose and the timing of feeds.",
+    "Children:",
+    "Prednisone is used in children, but long courses can slow growth and affect bone development. The dose should not be higher than prescribed, and your child should be monitored during treatment.",
+    "Older adults:",
+    "Older adults are more likely to have liver, kidney, or heart problems that affect how prednisone is handled, and are more likely to already have osteoporosis, diabetes, or high blood pressure. A lower dose may be needed."
+   ],
+   "text": "You should not use prednisone if you are allergic to it, or if you have a systemic fungal infection.\nTo make sure prednisone is safe for you, tell your doctor if you have or have ever had:\n- an infection of any kind, including tuberculosis, hepatitis B, herpes infection of the eye, or a fungal infection;\n- diarrhea that has no clear cause, or time spent in the tropics, since prednisone can wake up a parasite infection such as amebiasis or threadworm;\n- malaria, especially cerebral malaria (malaria affecting the brain);\n- liver disease, such as cirrhosis;\n- kidney disease;\n- heart disease, heart failure, high blood pressure or low potassium levels;\n- an underactive thyroid;\n- diabetes;\n- osteoporosis;\n- glaucoma or cataracts;\n- stomach ulcers, ulcerative colitis, diverticulitis, or a history of bleeding in the stomach or bowel;\n- myasthenia gravis (a condition that causes muscle weakness); or\n- depression, mood swings or another mental health condition.\nLong-term steroid use can cause bone loss. Your risk is higher if you smoke, if you do not exercise, if you do not get enough calcium or vitamin D, or if osteoporosis runs in your family. Talk with your doctor about protecting your bones.\nPregnancy:\nPrednisone crosses the placenta. Taking it in the first trimester may raise the risk of birth defects, and taking higher doses later in pregnancy may affect the baby's growth and their adrenal glands. Tell your doctor if you are pregnant or plan to become pregnant. Some conditions still need steroid treatment during pregnancy, so this is a decision to make with your doctor rather than stopping on your own.\nBreastfeeding:\nPrednisone passes into breast milk in small amounts. Tell your doctor if you are breastfeeding so you can talk through the dose and the timing of feeds.\nChildren:\nPrednisone is used in children, but long courses can slow growth and affect bone development. The dose should not be higher than prescribed, and your child should be monitored during treatment.\nOlder adults:\nOlder adults are more likely to have liver, kidney, or heart problems that affect how prednisone is handled, and are more likely to already have osteoporosis, diabetes, or high blood pressure. A lower dose may be needed."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take prednisone?",
+   "lines": [
+    "Take prednisone exactly as prescribed, with food or milk to protect your stomach. Your doctor will often start you on a higher dose and then lower it. Do not change your dose or stop the medicine without advice.",
+    "- Take your dose in the morning if your doctor tells you to. Your adrenal glands are most active between 2 am and 8 am, and taking a steroid at that time interferes with them the least. A morning dose may also help you sleep better, though that is a separate benefit.",
+    "- Swallow delayed-release tablets whole. Do not crush, break, or chew them.",
+    "- Measure liquid prednisone with a marked oral syringe, dosing spoon or medicine cup, not a kitchen spoon. Use the dropper that comes with the concentrated solution.",
+    "- You may mix the concentrated solution with juice or a soft food such as applesauce.",
+    "- Tell your doctor if you have a serious illness, a fever, an infection, surgery, or a medical emergency. You may need a higher dose for a short time.",
+    "- You may need regular blood tests, blood pressure checks and eye checks during long-term treatment.",
+    "- Wear a medical alert tag or carry a card saying you take a steroid.",
+    "- Store prednisone at room temperature, away from moisture and heat. Throw away any unused concentrated solution 90 days after you first open the bottle."
+   ],
+   "text": "Take prednisone exactly as prescribed, with food or milk to protect your stomach. Your doctor will often start you on a higher dose and then lower it. Do not change your dose or stop the medicine without advice.\n- Take your dose in the morning if your doctor tells you to. Your adrenal glands are most active between 2 am and 8 am, and taking a steroid at that time interferes with them the least. A morning dose may also help you sleep better, though that is a separate benefit.\n- Swallow delayed-release tablets whole. Do not crush, break, or chew them.\n- Measure liquid prednisone with a marked oral syringe, dosing spoon or medicine cup, not a kitchen spoon. Use the dropper that comes with the concentrated solution.\n- You may mix the concentrated solution with juice or a soft food such as applesauce.\n- Tell your doctor if you have a serious illness, a fever, an infection, surgery, or a medical emergency. You may need a higher dose for a short time.\n- You may need regular blood tests, blood pressure checks and eye checks during long-term treatment.\n- Wear a medical alert tag or carry a card saying you take a steroid.\n- Store prednisone at room temperature, away from moisture and heat. Throw away any unused concentrated solution 90 days after you first open the bottle."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "What is the usual prednisone dosage?",
+   "lines": [
+    "The usual starting dose of prednisone for adults is 5 mg to 60 mg per day, depending on the condition being treated and how severe it is.",
+    "- There is no single standard dose. Your doctor will decide on a starting dose, then lower it in small steps to the smallest dose that still controls your condition.",
+    "- Doses for children are based on the condition rather than strictly on age or weight, and must be set by a doctor.",
+    "Short courses of prednisone for problems such as an asthma flare, gout, or a bad allergic reaction are often given as a short fixed-dose course for a few days. A dose pack steps the dose down day by day over about six days. Follow the instructions on your pack exactly, since the number of tablets changes each day.",
+    "Prednisone treatment takes one of two shapes. Some people take it for a few days or weeks for a problem that will settle, such as an asthma flare or a severe allergic reaction. Others take it every day for months or years for an ongoing condition such as rheumatoid arthritis or ulcerative colitis.",
+    "If you take prednisone long term, your doctor will settle you on a maintenance dose. This is the lowest daily dose that still keeps your condition under control, and it is reached by lowering the dose in small steps rather than all at once. Your maintenance dose is not fixed. It may need to go up for a time if your condition flares, or if you have surgery, a fever, an infection, or another serious illness, and it may come down again afterwards. Do not adjust it yourself.",
+    "How do you stop taking prednisone safely?:",
+    "If you have taken prednisone for more than a few days, your doctor will taper the dose rather than stopping it all at once. While you are taking a steroid, your adrenal glands slow down their own hormone production, and they need time to start up again. Stopping suddenly can cause extreme tiredness, weakness, body aches, upset stomach, weight loss, a craving for salt, and changes in skin color. Call your doctor if you feel unwell while your dose is being lowered or after you finish.",
+    "Prednisone formulations:",
+    "- Prednisone 1 mg tablets",
+    "- Prednisone 2.5 mg tablets",
+    "- Prednisone 5 mg tablets",
+    "- Prednisone 10 mg tablets",
+    "- Prednisone 20 mg tablets",
+    "- Prednisone 50 mg tablets",
+    "- Prednisone Oral Solution 5 mg per 5 mL",
+    "- Prednisone Intensol™ Oral Solution (Concentrate) 5 mg per mL",
+    "- Prednisone delayed-release tablets (Rayos) 1 mg, 2 mg, and 5 mg"
+   ],
+   "text": "The usual starting dose of prednisone for adults is 5 mg to 60 mg per day, depending on the condition being treated and how severe it is.\n- There is no single standard dose. Your doctor will decide on a starting dose, then lower it in small steps to the smallest dose that still controls your condition.\n- Doses for children are based on the condition rather than strictly on age or weight, and must be set by a doctor.\nShort courses of prednisone for problems such as an asthma flare, gout, or a bad allergic reaction are often given as a short fixed-dose course for a few days. A dose pack steps the dose down day by day over about six days. Follow the instructions on your pack exactly, since the number of tablets changes each day.\nPrednisone treatment takes one of two shapes. Some people take it for a few days or weeks for a problem that will settle, such as an asthma flare or a severe allergic reaction. Others take it every day for months or years for an ongoing condition such as rheumatoid arthritis or ulcerative colitis.\nIf you take prednisone long term, your doctor will settle you on a maintenance dose. This is the lowest daily dose that still keeps your condition under control, and it is reached by lowering the dose in small steps rather than all at once. Your maintenance dose is not fixed. It may need to go up for a time if your condition flares, or if you have surgery, a fever, an infection, or another serious illness, and it may come down again afterwards. Do not adjust it yourself.\nHow do you stop taking prednisone safely?:\nIf you have taken prednisone for more than a few days, your doctor will taper the dose rather than stopping it all at once. While you are taking a steroid, your adrenal glands slow down their own hormone production, and they need time to start up again. Stopping suddenly can cause extreme tiredness, weakness, body aches, upset stomach, weight loss, a craving for salt, and changes in skin color. Call your doctor if you feel unwell while your dose is being lowered or after you finish.\nPrednisone formulations:\n- Prednisone 1 mg tablets\n- Prednisone 2.5 mg tablets\n- Prednisone 5 mg tablets\n- Prednisone 10 mg tablets\n- Prednisone 20 mg tablets\n- Prednisone 50 mg tablets\n- Prednisone Oral Solution 5 mg per 5 mL\n- Prednisone Intensol™ Oral Solution (Concentrate) 5 mg per mL\n- Prednisone delayed-release tablets (Rayos) 1 mg, 2 mg, and 5 mg"
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the missed dose as soon as you remember. Skip it if it is almost time for your next dose. Do not take extra medicine to make up a missed dose. If you take prednisone once every other day, or you are following a taper, call your doctor or pharmacist for advice rather than guessing."
+   ],
+   "text": "Take the missed dose as soon as you remember. Skip it if it is almost time for your next dose. Do not take extra medicine to make up a missed dose. If you take prednisone once every other day, or you are following a taper, call your doctor or pharmacist for advice rather than guessing."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.",
+    "A single large dose of prednisone is not likely to cause life-threatening symptoms. The bigger risk comes from taking high doses over a long time, which can cause thinning skin, easy bruising, changes in the shape or location of body fat, acne, extra facial hair, irregular periods, and loss of interest in sex."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.\nA single large dose of prednisone is not likely to cause life-threatening symptoms. The bigger risk comes from taking high doses over a long time, which can cause thinning skin, easy bruising, changes in the shape or location of body fat, acne, extra facial hair, irregular periods, and loss of interest in sex."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking prednisone?",
+   "lines": [
+    "- Avoid being near people who are sick or have an infection. Call your doctor if you are exposed to chickenpox or measles.",
+    "- Do not have a live vaccine, such as MMR, chickenpox, rotavirus, yellow fever, oral typhoid, or the nasal flu vaccine, without your doctor's approval. Avoid close contact with someone who has just had an oral or nasal live vaccine.",
+    "- Limit alcohol. Both alcohol and prednisone irritate the stomach lining, so together they raise the risk of stomach bleeding.",
+    "- Be careful with NSAIDs such as ibuprofen, naproxen, and aspirin, since taking them with prednisone raises the risk of stomach bleeding.",
+    "- Your doctor may ask you to cut back on salt, since prednisone makes your body hold onto fluid."
+   ],
+   "text": "- Avoid being near people who are sick or have an infection. Call your doctor if you are exposed to chickenpox or measles.\n- Do not have a live vaccine, such as MMR, chickenpox, rotavirus, yellow fever, oral typhoid, or the nasal flu vaccine, without your doctor's approval. Avoid close contact with someone who has just had an oral or nasal live vaccine.\n- Limit alcohol. Both alcohol and prednisone irritate the stomach lining, so together they raise the risk of stomach bleeding.\n- Be careful with NSAIDs such as ibuprofen, naproxen, and aspirin, since taking them with prednisone raises the risk of stomach bleeding.\n- Your doctor may ask you to cut back on salt, since prednisone makes your body hold onto fluid."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect prednisone?",
+   "lines": [
+    "Many medicines interact with prednisone. Some change how much prednisone is in your body, and others add to its side effects. Tell your doctor about every medicine you take, including anything you start or stop during treatment. Be especially careful with:",
+    "- medicines that raise prednisone levels, such as ketoconazole, itraconazole, posaconazole, voriconazole, clarithromycin, and some HIV and hepatitis C medicines;",
+    "- medicines that lower prednisone levels and can make it work less well, such as rifampin, rifabutin, rifapentine, carbamazepine, phenytoin, phenobarbital, primidone and St. John's wort;",
+    "- NSAIDs and aspirin, which raise the risk of stomach ulcers and bleeding;",
+    "- blood thinners such as warfarin, since prednisone can change how your blood clots and you may need extra monitoring;",
+    "- insulin and diabetes tablets, since prednisone raises blood sugar and your doses may need to go up;",
+    "- diuretics (water pills) and amphotericin B, which can lower potassium further;",
+    "- digoxin, which is more likely to cause problems if your potassium is low;",
+    "- live vaccines, which should usually be avoided;",
+    "- cyclosporine, which interacts in both directions and raises the risk of seizures; and",
+    "- birth control pills and hormone therapy.",
+    "This list is not complete. Many other prescription medicines, over-the-counter products, vitamins and herbal products can interact with prednisone. Give a list of all your medicines to any healthcare provider who treats you."
+   ],
+   "text": "Many medicines interact with prednisone. Some change how much prednisone is in your body, and others add to its side effects. Tell your doctor about every medicine you take, including anything you start or stop during treatment. Be especially careful with:\n- medicines that raise prednisone levels, such as ketoconazole, itraconazole, posaconazole, voriconazole, clarithromycin, and some HIV and hepatitis C medicines;\n- medicines that lower prednisone levels and can make it work less well, such as rifampin, rifabutin, rifapentine, carbamazepine, phenytoin, phenobarbital, primidone and St. John's wort;\n- NSAIDs and aspirin, which raise the risk of stomach ulcers and bleeding;\n- blood thinners such as warfarin, since prednisone can change how your blood clots and you may need extra monitoring;\n- insulin and diabetes tablets, since prednisone raises blood sugar and your doses may need to go up;\n- diuretics (water pills) and amphotericin B, which can lower potassium further;\n- digoxin, which is more likely to cause problems if your potassium is low;\n- live vaccines, which should usually be avoided;\n- cyclosporine, which interacts in both directions and raises the risk of seizures; and\n- birth control pills and hormone therapy.\nThis list is not complete. Many other prescription medicines, over-the-counter products, vitamins and herbal products can interact with prednisone. Give a list of all your medicines to any healthcare provider who treats you."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Prednisone FAQs",
+   "lines": [
+    "Is prednisone a steroid?:",
+    "Yes. Prednisone is a corticosteroid, also called a glucocorticoid. Corticosteroids are copies of hormones your adrenal glands make naturally, and they work by lowering inflammation and immune activity. They are not the same as the anabolic steroids some athletes misuse to build muscle.",
+    "How long does it take for prednisone to work?:",
+    "Prednisone starts to be absorbed within about an hour, and many people notice a difference in symptoms such as swelling, pain, or wheezing within a few hours to a day. Some conditions take several days or longer to respond. Delayed-release tablets are designed to release the medicine about four hours after you take them, so the timing of your dose matters.",
+    "How long does prednisone stay in your system?:",
+    "Prednisone and prednisolone have a half-life of about 2 to 3 hours, which means half of a dose leaves your blood in that time. Most of a single dose is out of your bloodstream within about a day.",
+    "The effect lasts longer than the drug itself. A single dose of prednisone quiets your own adrenal glands for about one and a quarter to one and a half days, which is why prednisone is described as short-acting compared with steroids such as dexamethasone. This is also why a course of prednisone can affect your blood sugar, your sleep, and your energy for longer than the drug is measurable in your blood.",
+    "Why has my doctor prescribed prednisone every other day?:",
+    "Alternate day dosing means taking twice your usual daily dose every other morning instead of a dose every day. It is used for people who need steroid treatment for a long time. Giving your body a day off from the steroid lets your adrenal glands recover between doses, which reduces the risk of adrenal suppression, Cushing's syndrome, withdrawal symptoms, and slowed growth in children.",
+    "The trade-off is that your symptoms may flare a little late in the day you do not take it. Tell your doctor if this happens, since other treatment can often be added for that gap. Do not switch yourself to an every other day schedule, and do not double up on a day you were not meant to take a dose.",
+    "What is the difference between prednisone and prednisolone?:",
+    "Prednisone has to be converted by your liver into prednisolone before it can work, while prednisolone is already in the active form. For most people the two work in a very similar way at equivalent doses. Prednisolone is often chosen for people with significant liver disease, and for children, because it comes in liquid forms that are easier to dose.",
+    "Does prednisone cause weight gain?:",
+    "Weight gain is a common side effect of prednisone. It happens for two reasons. Prednisone makes your body hold onto salt and water, which adds weight quickly in the first days or weeks, and it increases appetite, which adds body fat over longer courses. It also moves fat toward the face, neck, upper back and waist. Weight from fluid usually goes once you stop, but weight from extra eating takes longer to shift.",
+    "Can you drink alcohol while taking prednisone?:",
+    "There is no direct interaction between alcohol and prednisone, but drinking is best kept to a minimum. Both irritate the stomach lining, so together they raise the risk of stomach ulcers and bleeding. Alcohol also raises blood sugar and weakens bones, and prednisone does both of these too. Ask your doctor what is reasonable for you, especially if you are on a long course.",
+    "Can you take ibuprofen with prednisone?:",
+    "It is usually best to avoid ibuprofen while you are taking prednisone. Ibuprofen is an NSAID, and taking an NSAID with a steroid raises the risk of stomach ulcers and bleeding. The same applies to naproxen, diclofenac, and regular doses of aspirin. If you need a painkiller, ask your doctor or pharmacist first.",
+    "Can you take Tylenol with prednisone?:",
+    "Acetaminophen (Tylenol) does not interact with prednisone and does not irritate the stomach, so it is generally the preferred choice for pain or fever while you are taking prednisone. Stay within the recommended daily limit on the packet and check whether any other product you take already contains acetaminophen.",
+    "Why does prednisone keep me awake?:",
+    "Prednisone acts like your body's stress hormone, which naturally peaks in the morning to help you wake up. Taking it, especially later in the day, can leave you feeling wired, restless or unable to sleep. Taking your dose in the morning often helps. Talk to your doctor before changing when you take it.",
+    "Does prednisone raise blood pressure?:",
+    "It can. Prednisone makes your body hold onto salt and water, which raises blood pressure in some people, particularly at higher doses or on longer courses. Your blood pressure should be checked during treatment, and your doctor may ask you to reduce salt in your diet.",
+    "What is considered a high dose of prednisone?:",
+    "There is no official cutoff, but doctors generally treat doses under 7.5 mg a day as low, 7.5 mg to 40 mg a day as moderate, and more than 40 mg a day as high. A dose of 20 mg a day sits in the moderate range. What matters as much as the number is how long you take it, because side effects build up over time.",
+    "Can prednisone make you tired?:",
+    "Yes. Some people feel energized on prednisone while others feel drained. Poor sleep, mood changes and muscle weakness all contribute. Tiredness that starts as your dose is being lowered, or after you stop, can be a sign that your adrenal glands have not caught up yet, so tell your doctor if it is severe or comes with dizziness, nausea, or body aches."
+   ],
+   "text": "Is prednisone a steroid?:\nYes. Prednisone is a corticosteroid, also called a glucocorticoid. Corticosteroids are copies of hormones your adrenal glands make naturally, and they work by lowering inflammation and immune activity. They are not the same as the anabolic steroids some athletes misuse to build muscle.\nHow long does it take for prednisone to work?:\nPrednisone starts to be absorbed within about an hour, and many people notice a difference in symptoms such as swelling, pain, or wheezing within a few hours to a day. Some conditions take several days or longer to respond. Delayed-release tablets are designed to release the medicine about four hours after you take them, so the timing of your dose matters.\nHow long does prednisone stay in your system?:\nPrednisone and prednisolone have a half-life of about 2 to 3 hours, which means half of a dose leaves your blood in that time. Most of a single dose is out of your bloodstream within about a day.\nThe effect lasts longer than the drug itself. A single dose of prednisone quiets your own adrenal glands for about one and a quarter to one and a half days, which is why prednisone is described as short-acting compared with steroids such as dexamethasone. This is also why a course of prednisone can affect your blood sugar, your sleep, and your energy for longer than the drug is measurable in your blood.\nWhy has my doctor prescribed prednisone every other day?:\nAlternate day dosing means taking twice your usual daily dose every other morning instead of a dose every day. It is used for people who need steroid treatment for a long time. Giving your body a day off from the steroid lets your adrenal glands recover between doses, which reduces the risk of adrenal suppression, Cushing's syndrome, withdrawal symptoms, and slowed growth in children.\nThe trade-off is that your symptoms may flare a little late in the day you do not take it. Tell your doctor if this happens, since other treatment can often be added for that gap. Do not switch yourself to an every other day schedule, and do not double up on a day you were not meant to take a dose.\nWhat is the difference between prednisone and prednisolone?:\nPrednisone has to be converted by your liver into prednisolone before it can work, while prednisolone is already in the active form. For most people the two work in a very similar way at equivalent doses. Prednisolone is often chosen for people with significant liver disease, and for children, because it comes in liquid forms that are easier to dose.\nDoes prednisone cause weight gain?:\nWeight gain is a common side effect of prednisone. It happens for two reasons. Prednisone makes your body hold onto salt and water, which adds weight quickly in the first days or weeks, and it increases appetite, which adds body fat over longer courses. It also moves fat toward the face, neck, upper back and waist. Weight from fluid usually goes once you stop, but weight from extra eating takes longer to shift.\nCan you drink alcohol while taking prednisone?:\nThere is no direct interaction between alcohol and prednisone, but drinking is best kept to a minimum. Both irritate the stomach lining, so together they raise the risk of stomach ulcers and bleeding. Alcohol also raises blood sugar and weakens bones, and prednisone does both of these too. Ask your doctor what is reasonable for you, especially if you are on a long course.\nCan you take ibuprofen with prednisone?:\nIt is usually best to avoid ibuprofen while you are taking prednisone. Ibuprofen is an NSAID, and taking an NSAID with a steroid raises the risk of stomach ulcers and bleeding. The same applies to naproxen, diclofenac, and regular doses of aspirin. If you need a painkiller, ask your doctor or pharmacist first.\nCan you take Tylenol with prednisone?:\nAcetaminophen (Tylenol) does not interact with prednisone and does not irritate the stomach, so it is generally the preferred choice for pain or fever while you are taking prednisone. Stay within the recommended daily limit on the packet and check whether any other product you take already contains acetaminophen.\nWhy does prednisone keep me awake?:\nPrednisone acts like your body's stress hormone, which naturally peaks in the morning to help you wake up. Taking it, especially later in the day, can leave you feeling wired, restless or unable to sleep. Taking your dose in the morning often helps. Talk to your doctor before changing when you take it.\nDoes prednisone raise blood pressure?:\nIt can. Prednisone makes your body hold onto salt and water, which raises blood pressure in some people, particularly at higher doses or on longer courses. Your blood pressure should be checked during treatment, and your doctor may ask you to reduce salt in your diet.\nWhat is considered a high dose of prednisone?:\nThere is no official cutoff, but doctors generally treat doses under 7.5 mg a day as low, 7.5 mg to 40 mg a day as moderate, and more than 40 mg a day as high. A dose of 20 mg a day sits in the moderate range. What matters as much as the number is how long you take it, because side effects build up over time.\nCan prednisone make you tired?:\nYes. Some people feel energized on prednisone while others feel drained. Poor sleep, mood changes and muscle weakness all contribute. Tiredness that starts as your dose is being lowered, or after you stop, can be a sign that your adrenal glands have not caught up yet, so tell your doctor if it is severe or comes with dizziness, nausea, or body aches."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: What is considered a high dose of prednisone? A: The starting dose of prednisone may be between 5 mg to 60 mg per day. A dose above 40 mg per day may be considered a high dose. However, everybody responds differently to prednisone, so what might be a high dose depends on the person and the condition.",
+    "Q: Can you take prednisone with Keytruda? A: Use prednisone with Keytruda or Keytruda Qlex only if your healthcare provider prescribes it. Prednisone is a corticosteroid that lowers immune system activity. It may reduce how well Keytruda works or increase your risk of infection. However, your doctor may prescribe prednisone to treat certain immune-related side effects caused by Keytruda.",
+    "Q: What's a good prednisone taper schedule? A: A prednisone taper depends on your dose, how long you have taken it, and the condition being treated. If prednisone has been taken for less than 3 to 4 weeks, a taper is usually not needed, regardless of the dose. The risk of adrenal insufficiency increases with longer treatment and higher doses. Treatment for 3 to 4 weeks or longer at doses above about 4 to 6 mg of prednisone per day may suppress the body's normal cortisol production and may require a gradual taper.",
+    "Q: Is it OK to drink alcohol with Prednisone? A: Although there is no direct drug interaction between prednisone and alcohol, mixing them together is not a good idea because some of the effects of alcohol and the side effects of prednisone are similar, so taking both at the same time can increase the risk of these side effects occurring.",
+    "Q: How long can you take prednisone safely? A: There is no set limit on how long you can safely take prednisone. It depends on the dose of prednisone and the condition being treated. It may be prescribed short term or long term. The dosage will be adjusted or stopped based on your response or lack of response to the medication.",
+    "Q: How long does it take for prednisone to work? A: Prednisone usually works very quickly, within a few hours to days of taking the first dose depending on the condition you are treating. If the prescribed dose of prednisone is effective at reducing your inflammation, then you may notice an effect within hours.",
+    "Q: Prednisone: What are 12 Things You Should Know? A: Prednisone has been on the market for more than 70 years but is still one of the most commonly prescribed anti-inflammatory or immunosuppressive medications. Prednisone is used to treat dozens of different conditions such as skin disorders, breathing disorders, allergies, arthritis, and ulcerative colitis. But did you know it also has some pretty serious side effects as well?",
+    "Q: Do I take all 6 prednisone pills at once on the first day? A: It's best to take prednisone as a single dose once a day straight after breakfast. For example if your dose is 30mg daily, it's usual to take 6 tablets (6 x 5mg) all at the same time after breakfast.",
+    "Q: How long does prednisone stay in your system? A: In general, you could expect a dose or prednisone to stay in your system for 16.5 to 22 hours based on a half life of 3 to 4 hours. It usually takes around 5.5 half lives for a drug to be completely eliminated from your system."
+   ],
+   "text": "Q: What is considered a high dose of prednisone? A: The starting dose of prednisone may be between 5 mg to 60 mg per day. A dose above 40 mg per day may be considered a high dose. However, everybody responds differently to prednisone, so what might be a high dose depends on the person and the condition.\nQ: Can you take prednisone with Keytruda? A: Use prednisone with Keytruda or Keytruda Qlex only if your healthcare provider prescribes it. Prednisone is a corticosteroid that lowers immune system activity. It may reduce how well Keytruda works or increase your risk of infection. However, your doctor may prescribe prednisone to treat certain immune-related side effects caused by Keytruda.\nQ: What's a good prednisone taper schedule? A: A prednisone taper depends on your dose, how long you have taken it, and the condition being treated. If prednisone has been taken for less than 3 to 4 weeks, a taper is usually not needed, regardless of the dose. The risk of adrenal insufficiency increases with longer treatment and higher doses. Treatment for 3 to 4 weeks or longer at doses above about 4 to 6 mg of prednisone per day may suppress the body's normal cortisol production and may require a gradual taper.\nQ: Is it OK to drink alcohol with Prednisone? A: Although there is no direct drug interaction between prednisone and alcohol, mixing them together is not a good idea because some of the effects of alcohol and the side effects of prednisone are similar, so taking both at the same time can increase the risk of these side effects occurring.\nQ: How long can you take prednisone safely? A: There is no set limit on how long you can safely take prednisone. It depends on the dose of prednisone and the condition being treated. It may be prescribed short term or long term. The dosage will be adjusted or stopped based on your response or lack of response to the medication.\nQ: How long does it take for prednisone to work? A: Prednisone usually works very quickly, within a few hours to days of taking the first dose depending on the condition you are treating. If the prescribed dose of prednisone is effective at reducing your inflammation, then you may notice an effect within hours.\nQ: Prednisone: What are 12 Things You Should Know? A: Prednisone has been on the market for more than 70 years but is still one of the most commonly prescribed anti-inflammatory or immunosuppressive medications. Prednisone is used to treat dozens of different conditions such as skin disorders, breathing disorders, allergies, arthritis, and ulcerative colitis. But did you know it also has some pretty serious side effects as well?\nQ: Do I take all 6 prednisone pills at once on the first day? A: It's best to take prednisone as a single dose once a day straight after breakfast. For example if your dose is 30mg daily, it's usual to take 6 tablets (6 x 5mg) all at the same time after breakfast.\nQ: How long does prednisone stay in your system? A: In general, you could expect a dose or prednisone to stay in your system for 16.5 to 22 hours based on a half life of 3 to 4 hours. It usually takes around 5.5 half lives for a drug to be completely eliminated from your system."
+  }
+ ],
+ "rank": 35
+}

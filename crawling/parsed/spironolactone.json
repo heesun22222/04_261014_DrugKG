@@ -1,0 +1,346 @@
+{
+ "name": "Spironolactone",
+ "slug": "spironolactone",
+ "url": "https://www.drugs.com/spironolactone.html",
+ "title": "Spironolactone",
+ "page_title": "Spironolactone: Uses, Dosage, Side Effects - Drugs.com",
+ "brand_names": [
+  "Aldactone",
+  "CaroSpir"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "tablets",
+   "strengths": [
+    "25 mg, 50 mg, and 100 mg"
+   ]
+  },
+  {
+   "form": "oral suspension",
+   "strengths": [
+    "25 mg/5 mL"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Aldosterone receptor antagonists",
+   "slug": "aldosterone-receptor-antagonists"
+  },
+  {
+   "name": "Potassium-sparing diuretics",
+   "slug": "potassium-sparing-diuretics"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Sep 9, 2026.",
+ "faq": [
+  {
+   "q": "Winlevi vs Spironolactone: How do they compare?",
+   "a": "Winlevi (clascoterone) and spironolactone are both prescribed to treat acne. Winlevi is a topical cream, while spironolactone is available in an oral tablet and oral suspension."
+  }
+ ],
+ "description": "Spironolactone is a potassium-sparing diuretic for heart failure, high blood pressure and fluid retention. Pharmacist-reviewed doses, side effects and FAQ",
+ "date_modified": "2026-09-09",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Lasix",
+   "slug": "lasix",
+   "blurb": "Lasix is a loop diuretic used to treat fluid retention from heart, liver, or kidney conditions, and..."
+  },
+  {
+   "name": "Bumex",
+   "slug": "mtm/bumex-oral-injection",
+   "blurb": "Bumex is used for ascites, edema, pulmonary edema"
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Aldactone",
+   "slug": "aldactone",
+   "blurb": "Aldactone (spironolactone) is used to diagnose or treat a condition in which you have too much..."
+  },
+  {
+   "name": "Metolazone",
+   "slug": "mtm/metolazone",
+   "blurb": "Metolazone is used for edema, high blood pressure"
+  },
+  {
+   "name": "Triamterene",
+   "slug": "triamterene",
+   "blurb": "Triamterene (Dyrenium) is used to treat fluid retention in people with congestive heart failure..."
+  },
+  {
+   "name": "Acetazolamide",
+   "slug": "mtm/acetazolamide",
+   "blurb": "Acetazolamide is used for edema, epilepsy, glaucoma, hydrocephalus, hypokalemic periodic paralysis..."
+  },
+  {
+   "name": "Torsemide",
+   "slug": "mtm/torsemide",
+   "blurb": "Torsemide is used for ascites, edema, heart failure, high blood pressure, nonobstructive oliguria..."
+  },
+  {
+   "name": "Bumetanide",
+   "slug": "mtm/bumetanide-oral-injection",
+   "blurb": "Bumetanide is used for ascites, autism, edema, pulmonary edema"
+  },
+  {
+   "name": "Chlorthalidone",
+   "slug": "mtm/chlorthalidone",
+   "blurb": "Chlorthalidone is used for edema, high blood pressure"
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is spironolactone?",
+   "lines": [
+    "Spironolactone is a potassium-sparing diuretic (water pill) used for heart failure, high blood pressure, fluid build-up (edema) caused by liver or kidney disease, and a hormone condition called primary hyperaldosteronism. Spironolactone is sometimes prescribed off-label for women with acne or excessive facial hair growth (hirsutism).",
+    "Spironolactone works by blocking a hormone called aldosterone, which causes your body to pass more salt and water in your urine while keeping potassium in. This is why it is called potassium-sparing, and it is what makes spironolactone different from most other water pills, which flush potassium out.",
+    "Spironolactone also blocks androgens such as testosterone from binding to the androgen receptor, which explains several of its side effects, including breast tenderness and breast growth.",
+    "Spironolactone is FDA-approved to treat adults with:",
+    "- Heart failure (NYHA Class III-IV) with a reduced ejection fraction to help live longer, reduce swelling, and reduce the need for hospital stays. It is taken alongside other heart failure medicines rather than on its own.",
+    "- High blood pressure as an add-on treatment for people whose blood pressure is not controlled well enough by other medicines. Lowering blood pressure reduces the risk of stroke and heart attack.",
+    "- Fluid build-up (edema) caused by cirrhosis of the liver when cutting back on fluid and salt has not been enough, and also for swelling caused by nephrotic syndrome (a kidney disorder) when treating the underlying disease and using other water pills have not worked well enough.",
+    "- Primary hyperaldosteronism, which is a condition where the adrenal glands make too much aldosterone. Spironolactone is used short-term to prepare for surgery, and long-term for people who are not suitable for surgery.",
+    "Spironolactone tablets come in 25 mg, 50 mg, and 100 mg strengths. Spironolactone 25 mg is the strength most often used to start treatment. There is also a banana-flavored oral liquid for people who cannot swallow tablets. The liquid and the tablets are not interchangeable, so never switch between them without your doctor changing your dose."
+   ],
+   "text": "Spironolactone is a potassium-sparing diuretic (water pill) used for heart failure, high blood pressure, fluid build-up (edema) caused by liver or kidney disease, and a hormone condition called primary hyperaldosteronism. Spironolactone is sometimes prescribed off-label for women with acne or excessive facial hair growth (hirsutism).\nSpironolactone works by blocking a hormone called aldosterone, which causes your body to pass more salt and water in your urine while keeping potassium in. This is why it is called potassium-sparing, and it is what makes spironolactone different from most other water pills, which flush potassium out.\nSpironolactone also blocks androgens such as testosterone from binding to the androgen receptor, which explains several of its side effects, including breast tenderness and breast growth.\nSpironolactone is FDA-approved to treat adults with:\n- Heart failure (NYHA Class III-IV) with a reduced ejection fraction to help live longer, reduce swelling, and reduce the need for hospital stays. It is taken alongside other heart failure medicines rather than on its own.\n- High blood pressure as an add-on treatment for people whose blood pressure is not controlled well enough by other medicines. Lowering blood pressure reduces the risk of stroke and heart attack.\n- Fluid build-up (edema) caused by cirrhosis of the liver when cutting back on fluid and salt has not been enough, and also for swelling caused by nephrotic syndrome (a kidney disorder) when treating the underlying disease and using other water pills have not worked well enough.\n- Primary hyperaldosteronism, which is a condition where the adrenal glands make too much aldosterone. Spironolactone is used short-term to prepare for surgery, and long-term for people who are not suitable for surgery.\nSpironolactone tablets come in 25 mg, 50 mg, and 100 mg strengths. Spironolactone 25 mg is the strength most often used to start treatment. There is also a banana-flavored oral liquid for people who cannot swallow tablets. The liquid and the tablets are not interchangeable, so never switch between them without your doctor changing your dose."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Spironolactone side effects",
+   "lines": [
+    "Reported spironolactone side effects:",
+    "Reported spironolactone side effects include breast and nipple pain in both men and women, a lower sex drive, trouble getting or keeping an erection, irregular or missed periods, bleeding after menopause, dizziness, headache, drowsiness, feeling sluggish, leg cramps, nausea, vomiting, diarrhea, stomach cramps, indigestion, hair thinning, and itching.",
+    "The most common side effect of spironolactone is breast growth in men, known as gynecomastia. In the main heart failure study, about 9 in 100 men taking an average of 26 mg a day developed it. The chance goes up on higher doses. It can start anywhere from one or two months into treatment to more than a year later, and it usually goes away after the medicine is stopped.",
+    "Several of these effects are dose-related, so they are more likely on higher doses, and many settle after the dose is lowered or the medicine is stopped. How often most of them happen is not known, because they come from reports gathered after the medicine was approved rather than from counted numbers in trials.",
+    "Serious spironolactone side effects:",
+    "Get emergency medical help if you have signs of an allergic reaction to spironolactone: hives, difficulty breathing, or swelling of your face, lips, tongue, or throat.",
+    "Call your doctor at once if you have:",
+    "- signs of a high potassium level (hyperkalemia), such as muscle weakness or a heavy feeling in your legs, a slow or uneven heartbeat, numbness or tingling in your hands, feet, or lips, nausea, or feeling restless and on edge;",
+    "- a light-headed feeling like you might pass out, which can be a sign you have low blood pressure (hypotension)",
+    "- little or no urination, or swelling in your ankles, hands, or feet, which can be signs your kidneys are struggling (worsening renal function);",
+    "- signs of a low sodium level, such as confusion, severe weakness, muscle pain or cramps, feeling unsteady, or slurred speech;",
+    "- severe or ongoing vomiting or diarrhea, since losing too much fluid and salt can send your blood pressure and kidney function the wrong way;",
+    "- a skin rash that spreads or blisters, peeling skin, sores in your mouth, or a rash with a fever and swollen glands, which can be signs of a rare but serious skin reaction;",
+    "- yellowing of your eyes or skin, dark urine, or pain in your upper stomach, which can be signs of a liver problem;",
+    "- a fever, sore throat, or unusual bruising or bleeding, which can be signs of a problem with your blood cells; or",
+    "- new confusion, unsteadiness, or extreme drowsiness if you have liver disease, since spironolactone can make brain function worse in people with cirrhosis.",
+    "Spironolactone side effects in men:",
+    "Men are most likely to notice effects linked to spironolactone blocking male hormones. These include breast growth and breast tenderness, a lower sex drive, and difficulty getting or keeping an erection. Breast growth is dose related, so tell your doctor early rather than waiting, since a lower dose or a different medicine may be an option.",
+    "Spironolactone side effects in women:",
+    "Women may notice irregular periods, missed periods, breast tenderness, or bleeding after menopause. Some women also notice patchy darkening of the skin on the face. Report any unexpected bleeding after menopause to your doctor so it can be checked properly rather than assumed to be a side effect.",
+    "Long-term spironolactone side effects:",
+    "The main long-term concerns with spironolactone are chemical rather than something you would feel. Over time it can push your potassium too high, and it can also lower your sodium, magnesium, and calcium, raise your blood sugar, and raise your uric acid, which occasionally brings on gout. This is why you need regular blood tests for as long as you take it, not just at the start.",
+    "In animal studies, spironolactone given at high doses over long periods caused tumors in rats, mainly in hormone-producing glands and the liver. No increase in tumors was seen at the lower doses tested, which were still around five times the highest recommended human dose when adjusted for body size. Whether this happens in people is not known.",
+    "This is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+   ],
+   "text": "Reported spironolactone side effects:\nReported spironolactone side effects include breast and nipple pain in both men and women, a lower sex drive, trouble getting or keeping an erection, irregular or missed periods, bleeding after menopause, dizziness, headache, drowsiness, feeling sluggish, leg cramps, nausea, vomiting, diarrhea, stomach cramps, indigestion, hair thinning, and itching.\nThe most common side effect of spironolactone is breast growth in men, known as gynecomastia. In the main heart failure study, about 9 in 100 men taking an average of 26 mg a day developed it. The chance goes up on higher doses. It can start anywhere from one or two months into treatment to more than a year later, and it usually goes away after the medicine is stopped.\nSeveral of these effects are dose-related, so they are more likely on higher doses, and many settle after the dose is lowered or the medicine is stopped. How often most of them happen is not known, because they come from reports gathered after the medicine was approved rather than from counted numbers in trials.\nSerious spironolactone side effects:\nGet emergency medical help if you have signs of an allergic reaction to spironolactone: hives, difficulty breathing, or swelling of your face, lips, tongue, or throat.\nCall your doctor at once if you have:\n- signs of a high potassium level (hyperkalemia), such as muscle weakness or a heavy feeling in your legs, a slow or uneven heartbeat, numbness or tingling in your hands, feet, or lips, nausea, or feeling restless and on edge;\n- a light-headed feeling like you might pass out, which can be a sign you have low blood pressure (hypotension)\n- little or no urination, or swelling in your ankles, hands, or feet, which can be signs your kidneys are struggling (worsening renal function);\n- signs of a low sodium level, such as confusion, severe weakness, muscle pain or cramps, feeling unsteady, or slurred speech;\n- severe or ongoing vomiting or diarrhea, since losing too much fluid and salt can send your blood pressure and kidney function the wrong way;\n- a skin rash that spreads or blisters, peeling skin, sores in your mouth, or a rash with a fever and swollen glands, which can be signs of a rare but serious skin reaction;\n- yellowing of your eyes or skin, dark urine, or pain in your upper stomach, which can be signs of a liver problem;\n- a fever, sore throat, or unusual bruising or bleeding, which can be signs of a problem with your blood cells; or\n- new confusion, unsteadiness, or extreme drowsiness if you have liver disease, since spironolactone can make brain function worse in people with cirrhosis.\nSpironolactone side effects in men:\nMen are most likely to notice effects linked to spironolactone blocking male hormones. These include breast growth and breast tenderness, a lower sex drive, and difficulty getting or keeping an erection. Breast growth is dose related, so tell your doctor early rather than waiting, since a lower dose or a different medicine may be an option.\nSpironolactone side effects in women:\nWomen may notice irregular periods, missed periods, breast tenderness, or bleeding after menopause. Some women also notice patchy darkening of the skin on the face. Report any unexpected bleeding after menopause to your doctor so it can be checked properly rather than assumed to be a side effect.\nLong-term spironolactone side effects:\nThe main long-term concerns with spironolactone are chemical rather than something you would feel. Over time it can push your potassium too high, and it can also lower your sodium, magnesium, and calcium, raise your blood sugar, and raise your uric acid, which occasionally brings on gout. This is why you need regular blood tests for as long as you take it, not just at the start.\nIn animal studies, spironolactone given at high doses over long periods caused tumors in rats, mainly in hormone-producing glands and the liver. No increase in tumors was seen at the lower doses tested, which were still around five times the highest recommended human dose when adjusted for body size. Whether this happens in people is not known.\nThis is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Do not take spironolactone if you have a high potassium level in your blood, if you have Addison's disease (an adrenal gland disorder), or if you are taking eplerenone (Inspra), another medicine of the same type.",
+    "Spironolactone can raise your potassium to a dangerous level. A high potassium level can cause a life-threatening change in your heart rhythm, and it often causes no symptoms until it is already high. Your doctor should check your potassium with a blood test within a week of you starting spironolactone or having your dose changed, and regularly after that.",
+    "Your risk of high potassium is greater if your kidneys do not work well, if you take potassium supplements or a salt substitute containing potassium, or if you take an ACE inhibitor, an ARB, an NSAID, heparin, or trimethoprim.",
+    "Do not use potassium supplements or salt substitutes containing potassium unless your doctor has specifically told you to.",
+    "Passing too much fluid can drop your blood pressure and make your kidney function worse, especially if you are also taking an ACE inhibitor or an ARB. Tell your doctor if you feel faint, or if you become unwell with vomiting or diarrhea.",
+    "If you have cirrhosis with fluid in your abdomen, spironolactone is usually started in hospital, because sudden shifts in fluid and salt can affect how your brain works.",
+    "Spironolactone should be avoided in pregnancy where possible, because it blocks male hormones and may affect how a male baby develops."
+   ],
+   "text": "Do not take spironolactone if you have a high potassium level in your blood, if you have Addison's disease (an adrenal gland disorder), or if you are taking eplerenone (Inspra), another medicine of the same type.\nSpironolactone can raise your potassium to a dangerous level. A high potassium level can cause a life-threatening change in your heart rhythm, and it often causes no symptoms until it is already high. Your doctor should check your potassium with a blood test within a week of you starting spironolactone or having your dose changed, and regularly after that.\nYour risk of high potassium is greater if your kidneys do not work well, if you take potassium supplements or a salt substitute containing potassium, or if you take an ACE inhibitor, an ARB, an NSAID, heparin, or trimethoprim.\nDo not use potassium supplements or salt substitutes containing potassium unless your doctor has specifically told you to.\nPassing too much fluid can drop your blood pressure and make your kidney function worse, especially if you are also taking an ACE inhibitor or an ARB. Tell your doctor if you feel faint, or if you become unwell with vomiting or diarrhea.\nIf you have cirrhosis with fluid in your abdomen, spironolactone is usually started in hospital, because sudden shifts in fluid and salt can affect how your brain works.\nSpironolactone should be avoided in pregnancy where possible, because it blocks male hormones and may affect how a male baby develops."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not use spironolactone if you are allergic to it, or if you have:",
+    "- a high level of potassium in your blood (hyperkalemia);",
+    "- Addison's disease (an adrenal gland disorder); or",
+    "- if you are taking eplerenone.",
+    "To make sure spironolactone is safe for you, tell your doctor if you have or have ever had:",
+    "- kidney disease, or reduced kidney function;",
+    "- liver disease, especially cirrhosis or fluid in the abdomen (ascites);",
+    "- an electrolyte imbalance, such as a low sodium, magnesium, or calcium level;",
+    "- dehydration, or any illness causing vomiting or diarrhea;",
+    "- diabetes, since spironolactone can raise blood sugar;",
+    "- gout or a high uric acid level; or",
+    "- prostate cancer treated with abiraterone.",
+    "Pregnancy:",
+    "Spironolactone blocks the effect of male hormones, and male hormones are needed for a male baby to develop normally. In animal studies, male offspring exposed in the womb showed feminized development. The limited information available in humans has not shown a clear increase in birth defects, but the concern remains. Your doctor will usually avoid spironolactone in pregnancy, or talk through the possible risk to a male baby with you. Untreated heart failure, cirrhosis, and high blood pressure also carry real risks in pregnancy, so this is a decision to make with your doctor rather than by stopping on your own.",
+    "Breastfeeding:",
+    "Spironolactone itself does not pass into breast milk. Its active breakdown product, canrenone, has been found in breast milk in very small amounts that are not expected to affect a breastfed baby. No side effects were reported in the one infant studied over a short period, and the long-term picture is not known. Talk to your doctor so you can weigh this up together.",
+    "Children:",
+    "Spironolactone has not been shown to be safe and effective in children. The oral liquid is specifically not recommended for treating high blood pressure in children, because of the hormonal effects of the medicine. Any use in a child must be decided and monitored by a specialist.",
+    "Older adults:",
+    "Spironolactone is cleared by the kidneys, and kidney function tends to fall with age. Older adults are therefore more likely to build up a high potassium level, so kidney function and potassium need monitoring."
+   ],
+   "text": "You should not use spironolactone if you are allergic to it, or if you have:\n- a high level of potassium in your blood (hyperkalemia);\n- Addison's disease (an adrenal gland disorder); or\n- if you are taking eplerenone.\nTo make sure spironolactone is safe for you, tell your doctor if you have or have ever had:\n- kidney disease, or reduced kidney function;\n- liver disease, especially cirrhosis or fluid in the abdomen (ascites);\n- an electrolyte imbalance, such as a low sodium, magnesium, or calcium level;\n- dehydration, or any illness causing vomiting or diarrhea;\n- diabetes, since spironolactone can raise blood sugar;\n- gout or a high uric acid level; or\n- prostate cancer treated with abiraterone.\nPregnancy:\nSpironolactone blocks the effect of male hormones, and male hormones are needed for a male baby to develop normally. In animal studies, male offspring exposed in the womb showed feminized development. The limited information available in humans has not shown a clear increase in birth defects, but the concern remains. Your doctor will usually avoid spironolactone in pregnancy, or talk through the possible risk to a male baby with you. Untreated heart failure, cirrhosis, and high blood pressure also carry real risks in pregnancy, so this is a decision to make with your doctor rather than by stopping on your own.\nBreastfeeding:\nSpironolactone itself does not pass into breast milk. Its active breakdown product, canrenone, has been found in breast milk in very small amounts that are not expected to affect a breastfed baby. No side effects were reported in the one infant studied over a short period, and the long-term picture is not known. Talk to your doctor so you can weigh this up together.\nChildren:\nSpironolactone has not been shown to be safe and effective in children. The oral liquid is specifically not recommended for treating high blood pressure in children, because of the hormonal effects of the medicine. Any use in a child must be decided and monitored by a specialist.\nOlder adults:\nSpironolactone is cleared by the kidneys, and kidney function tends to fall with age. Older adults are therefore more likely to build up a high potassium level, so kidney function and potassium need monitoring."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take spironolactone?",
+   "lines": [
+    "Take spironolactone exactly as prescribed. Follow all directions on your prescription label and read all medication guides.",
+    "- Take it the same way each day, either always with food or always without. Food increases how much spironolactone your body absorbs, roughly doubling it, so switching back and forth changes how much medicine you actually get.",
+    "- Shake the oral liquid well before every dose, and measure it with the marked oral syringe, dosing spoon, or medicine cup that comes with it, not a kitchen spoon.",
+    "- Do not switch between tablets and the oral liquid without your doctor changing the dose. They are not interchangeable, and the liquid gives a higher level of medicine in your blood for the same number of milligrams.",
+    "- You will need regular blood tests to check your potassium, sodium, kidney function, uric acid, and blood sugar. Keep these appointments even if you feel completely well.",
+    "- If you are being treated for high blood pressure, keep taking spironolactone even when you feel fine. High blood pressure usually has no symptoms.",
+    "- Tell any doctor or dentist treating you that you take spironolactone, and tell your surgeon before any operation.",
+    "- Spironolactone can interfere with one type of blood test used to measure digoxin, so mention it if you take digoxin.",
+    "- Do not share this medicine with anyone else.",
+    "- Store tablets at room temperature, 68°F to 77°F (20°C to 25°C), and protect them from light. Store the oral liquid at room temperature and keep it in a tightly closed bottle."
+   ],
+   "text": "Take spironolactone exactly as prescribed. Follow all directions on your prescription label and read all medication guides.\n- Take it the same way each day, either always with food or always without. Food increases how much spironolactone your body absorbs, roughly doubling it, so switching back and forth changes how much medicine you actually get.\n- Shake the oral liquid well before every dose, and measure it with the marked oral syringe, dosing spoon, or medicine cup that comes with it, not a kitchen spoon.\n- Do not switch between tablets and the oral liquid without your doctor changing the dose. They are not interchangeable, and the liquid gives a higher level of medicine in your blood for the same number of milligrams.\n- You will need regular blood tests to check your potassium, sodium, kidney function, uric acid, and blood sugar. Keep these appointments even if you feel completely well.\n- If you are being treated for high blood pressure, keep taking spironolactone even when you feel fine. High blood pressure usually has no symptoms.\n- Tell any doctor or dentist treating you that you take spironolactone, and tell your surgeon before any operation.\n- Spironolactone can interfere with one type of blood test used to measure digoxin, so mention it if you take digoxin.\n- Do not share this medicine with anyone else.\n- Store tablets at room temperature, 68°F to 77°F (20°C to 25°C), and protect them from light. Store the oral liquid at room temperature and keep it in a tightly closed bottle."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "What is the usual spironolactone dosage?",
+   "lines": [
+    "The usual starting dose of spironolactone tablets for adults is 25 mg to 100 mg a day, depending on the condition being treated. Your doctor will pick a starting dose and then adjust it based on your blood tests and how you respond.",
+    "Spironolactone dosage for heart failure:",
+    "Treatment starts at spironolactone 25 mg once a day, provided your potassium level is 5.0 mEq/L or lower and your kidney function (eGFR) is above 50. If you tolerate that, the dose may go up to 50 mg once a day. If your potassium rises too high, the dose may drop to 25 mg every other day. If your eGFR is between 30 and 50, your doctor may start you at 25 mg every other day because of the higher risk of high potassium.",
+    "Spironolactone dosage for high blood pressure:",
+    "The usual starting dose is spironolactone 25 mg to 100 mg a day, taken as one dose or split into two. The dose can be adjusted every two weeks. Doses above 100 mg a day do not generally lower blood pressure any further.",
+    "Spironolactone dosage for fluid build-up (edema):",
+    "The usual starting dose is 100 mg a day, taken as one dose or split into two, and the dose can range from 25 mg to 200 mg a day. If you have cirrhosis, treatment is started in hospital and increased slowly. When spironolactone is the only water pill being used, it is given for at least five days before the dose is increased.",
+    "Spironolactone dosage for primary hyperaldosteronism:",
+    "The dose is 100 mg to 400 mg a day when preparing for surger y. For people who are not suitable for surgery, the lowest dose that works is used long term.",
+    "Spironolactone oral liquid doses:",
+    "The oral liquid has its own separate doses because it is absorbed differently. Heart failure starts at 20 mg (4 mL) once a day. High blood pressure starts at 20 mg (4 mL) to 75 mg (15 mL) a day. Swelling from cirrhosis starts at 75 mg (15 mL) a day, begun in hospital. If more than 100 mg a day is needed, a different form of the medicine should be used instead.",
+    "Spironolactone formulations:",
+    "- Spironolactone 25 mg tablets",
+    "- Spironolactone 50 mg tablets",
+    "- Spironolactone 100 mg tablets",
+    "- Spironolactone oral suspension 25 mg per 5 mL"
+   ],
+   "text": "The usual starting dose of spironolactone tablets for adults is 25 mg to 100 mg a day, depending on the condition being treated. Your doctor will pick a starting dose and then adjust it based on your blood tests and how you respond.\nSpironolactone dosage for heart failure:\nTreatment starts at spironolactone 25 mg once a day, provided your potassium level is 5.0 mEq/L or lower and your kidney function (eGFR) is above 50. If you tolerate that, the dose may go up to 50 mg once a day. If your potassium rises too high, the dose may drop to 25 mg every other day. If your eGFR is between 30 and 50, your doctor may start you at 25 mg every other day because of the higher risk of high potassium.\nSpironolactone dosage for high blood pressure:\nThe usual starting dose is spironolactone 25 mg to 100 mg a day, taken as one dose or split into two. The dose can be adjusted every two weeks. Doses above 100 mg a day do not generally lower blood pressure any further.\nSpironolactone dosage for fluid build-up (edema):\nThe usual starting dose is 100 mg a day, taken as one dose or split into two, and the dose can range from 25 mg to 200 mg a day. If you have cirrhosis, treatment is started in hospital and increased slowly. When spironolactone is the only water pill being used, it is given for at least five days before the dose is increased.\nSpironolactone dosage for primary hyperaldosteronism:\nThe dose is 100 mg to 400 mg a day when preparing for surger y. For people who are not suitable for surgery, the lowest dose that works is used long term.\nSpironolactone oral liquid doses:\nThe oral liquid has its own separate doses because it is absorbed differently. Heart failure starts at 20 mg (4 mL) once a day. High blood pressure starts at 20 mg (4 mL) to 75 mg (15 mL) a day. Swelling from cirrhosis starts at 75 mg (15 mL) a day, begun in hospital. If more than 100 mg a day is needed, a different form of the medicine should be used instead.\nSpironolactone formulations:\n- Spironolactone 25 mg tablets\n- Spironolactone 50 mg tablets\n- Spironolactone 100 mg tablets\n- Spironolactone oral suspension 25 mg per 5 mL"
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the missed dose as soon as you remember. Skip it if it is almost time for your next dose. Do not take two doses at once to make up for a missed one."
+   ],
+   "text": "Take the missed dose as soon as you remember. Skip it if it is almost time for your next dose. Do not take two doses at once to make up for a missed one."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.",
+    "Taking too much spironolactone can cause drowsiness, confusion, a rash, nausea, vomiting, dizziness, or diarrhea. A dangerously high potassium level is the main serious risk, particularly if your kidneys do not work well."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.\nTaking too much spironolactone can cause drowsiness, confusion, a rash, nausea, vomiting, dizziness, or diarrhea. A dangerously high potassium level is the main serious risk, particularly if your kidneys do not work well."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking spironolactone?",
+   "lines": [
+    "- Avoid potassium supplements, salt substitutes containing potassium, and low-sodium products that use potassium instead of salt. Check labels, since potassium chloride is a common salt replacement.",
+    "- Go easy on foods very high in potassium if your doctor has told you to. This is worth asking about specifically, because most people are told to eat more potassium, not less.",
+    "- Be careful with NSAIDs such as ibuprofen and naproxen. They can push your potassium up, make spironolactone work less well, and strain your kidneys.",
+    "- Limit alcohol. It can add to the dizziness and light-headedness, especially when you first start.",
+    "- Avoid getting up quickly from sitting or lying down, and avoid driving or anything hazardous until you know how spironolactone affects you.",
+    "- Do not take another medicine containing spironolactone at the same time, such as Aldactazide, and do not take eplerenone."
+   ],
+   "text": "- Avoid potassium supplements, salt substitutes containing potassium, and low-sodium products that use potassium instead of salt. Check labels, since potassium chloride is a common salt replacement.\n- Go easy on foods very high in potassium if your doctor has told you to. This is worth asking about specifically, because most people are told to eat more potassium, not less.\n- Be careful with NSAIDs such as ibuprofen and naproxen. They can push your potassium up, make spironolactone work less well, and strain your kidneys.\n- Limit alcohol. It can add to the dizziness and light-headedness, especially when you first start.\n- Avoid getting up quickly from sitting or lying down, and avoid driving or anything hazardous until you know how spironolactone affects you.\n- Do not take another medicine containing spironolactone at the same time, such as Aldactazide, and do not take eplerenone."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect spironolactone?",
+   "lines": [
+    "The most important interactions with spironolactone are medicines that also raise potassium, because the combined effect can push your level dangerously high. Tell your doctor about every medicine you take, including anything you start or stop during treatment. Be especially careful with:",
+    "- eplerenone, which should not be taken with spironolactone at all;",
+    "- medicines that raise potassium, including ACE inhibitors such as lisinopril and ramipril, ARBs such as losartan and valsartan, NSAIDs, heparin and low molecular weight heparin, and trimethoprim;",
+    "- potassium supplements and potassium-containing salt substitutes, which are usually stopped when spironolactone is started for heart failure;",
+    "- lithium, since spironolactone slows how fast your kidneys clear it and can cause lithium toxicity, so lithium levels need monitoring;",
+    "- digoxin, which needs care for two separate reasons: spironolactone interferes with one type of blood test used to measure digoxin, and it can also raise the actual amount of digoxin in your body;",
+    "- NSAIDs, which can also make spironolactone less effective as a water pill and as a blood pressure medicine;",
+    "- aspirin, which can reduce how well spironolactone works, so your dose may need adjusting;",
+    "- cholestyramine, which together with spironolactone has caused a high potassium level with too much acid in the blood;",
+    "- abiraterone, used in prostate cancer, which should not be combined with spironolactone because spironolactone attaches to the androgen receptor and can raise PSA readings;",
+    "- mitotane, which should be avoided because spironolactone lowers its level in the blood; and",
+    "- other blood pressure medicines and water pills, which add to the blood pressure lowering effect.",
+    "This list is not complete. Other prescription and over-the-counter medicines, vitamins, and herbal products can interact with spironolactone. Give a list of all your medicines to any healthcare provider who treats you."
+   ],
+   "text": "The most important interactions with spironolactone are medicines that also raise potassium, because the combined effect can push your level dangerously high. Tell your doctor about every medicine you take, including anything you start or stop during treatment. Be especially careful with:\n- eplerenone, which should not be taken with spironolactone at all;\n- medicines that raise potassium, including ACE inhibitors such as lisinopril and ramipril, ARBs such as losartan and valsartan, NSAIDs, heparin and low molecular weight heparin, and trimethoprim;\n- potassium supplements and potassium-containing salt substitutes, which are usually stopped when spironolactone is started for heart failure;\n- lithium, since spironolactone slows how fast your kidneys clear it and can cause lithium toxicity, so lithium levels need monitoring;\n- digoxin, which needs care for two separate reasons: spironolactone interferes with one type of blood test used to measure digoxin, and it can also raise the actual amount of digoxin in your body;\n- NSAIDs, which can also make spironolactone less effective as a water pill and as a blood pressure medicine;\n- aspirin, which can reduce how well spironolactone works, so your dose may need adjusting;\n- cholestyramine, which together with spironolactone has caused a high potassium level with too much acid in the blood;\n- abiraterone, used in prostate cancer, which should not be combined with spironolactone because spironolactone attaches to the androgen receptor and can raise PSA readings;\n- mitotane, which should be avoided because spironolactone lowers its level in the blood; and\n- other blood pressure medicines and water pills, which add to the blood pressure lowering effect.\nThis list is not complete. Other prescription and over-the-counter medicines, vitamins, and herbal products can interact with spironolactone. Give a list of all your medicines to any healthcare provider who treats you."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Spironolactone FAQs",
+   "lines": [
+    "Is spironolactone a diuretic?:",
+    "Yes. Spironolactone is a diuretic, or water pill, and it belongs to the group called potassium-sparing diuretics. It works by blocking aldosterone, a hormone that makes your kidneys hold onto salt and water. Unlike most water pills, which make you lose potassium, spironolactone makes your body keep potassium in. It is a weaker diuretic than medicines such as furosemide, which is one reason it is often given alongside another water pill rather than instead of one.",
+    "Is spironolactone used for acne?:",
+    "Spironolactone is not approved by the FDA for treating acne, but doctors sometimes prescribe it off-label for hormonal acne in women. Off-label means a doctor is prescribing a medicine for something other than its approved uses, which is legal and common, but it means the FDA has not reviewed the medicine for that purpose.",
+    "The reason it is used this way relates to how spironolactone works. As well as blocking aldosterone, spironolactone attaches to the androgen receptor, the docking point for male hormones such as testosterone. Male hormones increase how much oil the skin produces, and oil production is one factor in acne.",
+    "Because acne is not an approved use, there is no FDA-approved dose for it. Any dose is chosen by the prescriber. Spironolactone is generally avoided in pregnancy because it may affect how a male baby develops, which is an important consideration for anyone taking it for a skin condition rather than a heart or kidney condition.",
+    "If you are considering spironolactone for acne, this is a conversation to have with a doctor or dermatologist who can review your full medical history, since spironolactone still carries the same risk of raising your potassium level, whatever it is prescribed for.",
+    "Does spironolactone cause weight gain?:",
+    "Weight gain is not a recognized side effect of spironolactone, and it is not listed in the medicine's official prescribing information. Spironolactone is a diuretic, so it usually causes a small drop in weight in the first week or two as your body sheds extra fluid.",
+    "If you are gaining weight while taking it, it is worth telling your doctor rather than assuming the medicine is to blame. Rapid weight gain with swelling in your ankles or legs or shortness of breath can be a sign of fluid building up, which may mean the condition being treated needs a closer look. Slower weight gain is more often down to appetite, activity, or another medicine.",
+    "Does spironolactone cause hair loss?:",
+    "Hair thinning, known as alopecia, is listed as a possible side effect of spironolactone, though how often it happens is not known. It is reported far less often than breast tenderness or breast growth.",
+    "The picture is complicated because spironolactone is also prescribed off label for hair loss in women, on the basis that blocking male hormones may help with hormone-related thinning. Spironolactone is not approved by the FDA for treating hair loss. If your hair is thinning while you take it, speak to your doctor, since there are several possible causes worth ruling out.",
+    "How long does it take for spironolactone to work?:",
+    "It depends what you are taking it for. Spironolactone reaches its highest level in your blood in about 2 to 3 hours, and its active breakdown product peaks at around 4 hours, so it starts having an effect on your kidneys the same day.",
+    "The results you notice take longer. For fluid build-up, spironolactone is given for at least five days before the dose is increased, because that is how long the full effect takes to show. For high blood pressure, the dose is adjusted at two-week intervals, so give it a couple of weeks before judging it. For heart failure, the benefit is a lower risk of being admitted to hospital and living longer, which is not something you feel week to week.",
+    "How long does spironolactone stay in your system?:",
+    "Spironolactone itself leaves your blood very quickly, with a half-life of about 1.4 hours, meaning half of it is gone in that time. Its active breakdown products last much longer, with half-lives of roughly 14 to 17 hours. Because of those, the effect of a dose carries on well after the spironolactone itself has gone, and it takes a few days for the medicine to clear fully after you stop. Clearance is slower if you have cirrhosis.",
+    "Is spironolactone a blood thinner?:",
+    "No. Spironolactone is not a blood thinner. It does not affect blood clotting and it is not used to prevent clots or strokes in the way that warfarin, apixaban, or aspirin are. It is a diuretic that lowers blood pressure and reduces fluid build-up.",
+    "Spironolactone does interact with some blood thinners indirectly. Heparin and low molecular weight heparin can raise potassium, so taking them with spironolactone increases the risk of a high potassium level.",
+    "Can I stop taking spironolactone suddenly?:",
+    "Spironolactone does not cause withdrawal symptoms and does not need to be tapered the way a steroid does. Even so, do not stop it without speaking to your doctor. Stopping it can allow fluid to build up again, your blood pressure to rise, or your heart failure to worsen, and if you are taking it for heart failure it is one of the medicines shown to help people live longer. If side effects are the reason you want to stop, a dose change or a different medicine may be an option.",
+    "Can you take spironolactone at night?:",
+    "There is no fixed time of day for spironolactone. What matters more is that you take it at the same time each day and always the same way with regard to food, since food changes how much you absorb. Many people prefer the morning because spironolactone makes you pass more urine, and a late dose can mean getting up in the night. If a nighttime dose suits you better, check with your doctor or pharmacist first.",
+    "Can you drink alcohol while taking spironolactone?:",
+    "There is no direct interaction between alcohol and spironolactone, but drinking is best kept modest. Both can lower your blood pressure and make you light-headed, so together they raise the chance of feeling dizzy or faint, particularly when you stand up. Alcohol is also a problem in its own right if you are taking spironolactone for liver disease. Ask your doctor what is reasonable for your situation.",
+    "Can you take spironolactone while pregnant?:",
+    "Spironolactone is generally avoided in pregnancy. It blocks the action of male hormones, and in animal studies male offspring exposed before birth developed abnormally. Human data are limited and have not shown a clear increase in birth defects, but the concern is enough that the manufacturer advises avoiding it or discussing the potential risk to a male baby.",
+    "Do not stop spironolactone on your own if you find out you are pregnant. Tell your doctor straight away, because untreated heart failure, cirrhosis, and high blood pressure also carry serious risks in pregnancy and your treatment will need to be changed carefully.",
+    "Does spironolactone cause constipation?:",
+    "Constipation is not a listed side effect of spironolactone. The digestive side effects that have been reported are the opposite, including diarrhea and stomach cramping, along with nausea, vomiting, and indigestion. If you are constipated while taking spironolactone, another cause is more likely, and it is worth mentioning to your pharmacist, who can check the rest of your medicines.",
+    "Is 200 mg of spironolactone too much?:",
+    "It depends on the reason you are taking it. For fluid build-up, the approved dose range goes up to 200 mg a day, and for primary hyperaldosteronism it goes up to 400 mg a day, so 200 mg is within the licensed range for both.",
+    "For high blood pressure it would be above the usual range, since doses over 100 mg a day do not lower blood pressure any further. For heart failure the usual dose is 25 mg to 50 mg a day, so 200 mg would be well above what is normally used. Higher doses also carry a greater risk of high potassium and of breast growth in men. If your dose seems high for your condition, ask your prescriber rather than adjusting it yourself.",
+    "Why is spironolactone described as a high-risk medicine?:",
+    "The main reason is the risk of a high potassium level, which can cause a dangerous change in your heart rhythm and often gives no warning symptoms. The risk rises if your kidneys do not work well or if you take other medicines that raise potassium, and several very common medicines do, including ibuprofen and some blood pressure tablets.",
+    "This risk is manageable, which is why blood tests are built into treatment. Your potassium should be checked within a week of starting spironolactone or changing your dose, and regularly after that. Spironolactone also needs care in pregnancy and in people with liver disease."
+   ],
+   "text": "Is spironolactone a diuretic?:\nYes. Spironolactone is a diuretic, or water pill, and it belongs to the group called potassium-sparing diuretics. It works by blocking aldosterone, a hormone that makes your kidneys hold onto salt and water. Unlike most water pills, which make you lose potassium, spironolactone makes your body keep potassium in. It is a weaker diuretic than medicines such as furosemide, which is one reason it is often given alongside another water pill rather than instead of one.\nIs spironolactone used for acne?:\nSpironolactone is not approved by the FDA for treating acne, but doctors sometimes prescribe it off-label for hormonal acne in women. Off-label means a doctor is prescribing a medicine for something other than its approved uses, which is legal and common, but it means the FDA has not reviewed the medicine for that purpose.\nThe reason it is used this way relates to how spironolactone works. As well as blocking aldosterone, spironolactone attaches to the androgen receptor, the docking point for male hormones such as testosterone. Male hormones increase how much oil the skin produces, and oil production is one factor in acne.\nBecause acne is not an approved use, there is no FDA-approved dose for it. Any dose is chosen by the prescriber. Spironolactone is generally avoided in pregnancy because it may affect how a male baby develops, which is an important consideration for anyone taking it for a skin condition rather than a heart or kidney condition.\nIf you are considering spironolactone for acne, this is a conversation to have with a doctor or dermatologist who can review your full medical history, since spironolactone still carries the same risk of raising your potassium level, whatever it is prescribed for.\nDoes spironolactone cause weight gain?:\nWeight gain is not a recognized side effect of spironolactone, and it is not listed in the medicine's official prescribing information. Spironolactone is a diuretic, so it usually causes a small drop in weight in the first week or two as your body sheds extra fluid.\nIf you are gaining weight while taking it, it is worth telling your doctor rather than assuming the medicine is to blame. Rapid weight gain with swelling in your ankles or legs or shortness of breath can be a sign of fluid building up, which may mean the condition being treated needs a closer look. Slower weight gain is more often down to appetite, activity, or another medicine.\nDoes spironolactone cause hair loss?:\nHair thinning, known as alopecia, is listed as a possible side effect of spironolactone, though how often it happens is not known. It is reported far less often than breast tenderness or breast growth.\nThe picture is complicated because spironolactone is also prescribed off label for hair loss in women, on the basis that blocking male hormones may help with hormone-related thinning. Spironolactone is not approved by the FDA for treating hair loss. If your hair is thinning while you take it, speak to your doctor, since there are several possible causes worth ruling out.\nHow long does it take for spironolactone to work?:\nIt depends what you are taking it for. Spironolactone reaches its highest level in your blood in about 2 to 3 hours, and its active breakdown product peaks at around 4 hours, so it starts having an effect on your kidneys the same day.\nThe results you notice take longer. For fluid build-up, spironolactone is given for at least five days before the dose is increased, because that is how long the full effect takes to show. For high blood pressure, the dose is adjusted at two-week intervals, so give it a couple of weeks before judging it. For heart failure, the benefit is a lower risk of being admitted to hospital and living longer, which is not something you feel week to week.\nHow long does spironolactone stay in your system?:\nSpironolactone itself leaves your blood very quickly, with a half-life of about 1.4 hours, meaning half of it is gone in that time. Its active breakdown products last much longer, with half-lives of roughly 14 to 17 hours. Because of those, the effect of a dose carries on well after the spironolactone itself has gone, and it takes a few days for the medicine to clear fully after you stop. Clearance is slower if you have cirrhosis.\nIs spironolactone a blood thinner?:\nNo. Spironolactone is not a blood thinner. It does not affect blood clotting and it is not used to prevent clots or strokes in the way that warfarin, apixaban, or aspirin are. It is a diuretic that lowers blood pressure and reduces fluid build-up.\nSpironolactone does interact with some blood thinners indirectly. Heparin and low molecular weight heparin can raise potassium, so taking them with spironolactone increases the risk of a high potassium level.\nCan I stop taking spironolactone suddenly?:\nSpironolactone does not cause withdrawal symptoms and does not need to be tapered the way a steroid does. Even so, do not stop it without speaking to your doctor. Stopping it can allow fluid to build up again, your blood pressure to rise, or your heart failure to worsen, and if you are taking it for heart failure it is one of the medicines shown to help people live longer. If side effects are the reason you want to stop, a dose change or a different medicine may be an option.\nCan you take spironolactone at night?:\nThere is no fixed time of day for spironolactone. What matters more is that you take it at the same time each day and always the same way with regard to food, since food changes how much you absorb. Many people prefer the morning because spironolactone makes you pass more urine, and a late dose can mean getting up in the night. If a nighttime dose suits you better, check with your doctor or pharmacist first.\nCan you drink alcohol while taking spironolactone?:\nThere is no direct interaction between alcohol and spironolactone, but drinking is best kept modest. Both can lower your blood pressure and make you light-headed, so together they raise the chance of feeling dizzy or faint, particularly when you stand up. Alcohol is also a problem in its own right if you are taking spironolactone for liver disease. Ask your doctor what is reasonable for your situation.\nCan you take spironolactone while pregnant?:\nSpironolactone is generally avoided in pregnancy. It blocks the action of male hormones, and in animal studies male offspring exposed before birth developed abnormally. Human data are limited and have not shown a clear increase in birth defects, but the concern is enough that the manufacturer advises avoiding it or discussing the potential risk to a male baby.\nDo not stop spironolactone on your own if you find out you are pregnant. Tell your doctor straight away, because untreated heart failure, cirrhosis, and high blood pressure also carry serious risks in pregnancy and your treatment will need to be changed carefully.\nDoes spironolactone cause constipation?:\nConstipation is not a listed side effect of spironolactone. The digestive side effects that have been reported are the opposite, including diarrhea and stomach cramping, along with nausea, vomiting, and indigestion. If you are constipated while taking spironolactone, another cause is more likely, and it is worth mentioning to your pharmacist, who can check the rest of your medicines.\nIs 200 mg of spironolactone too much?:\nIt depends on the reason you are taking it. For fluid build-up, the approved dose range goes up to 200 mg a day, and for primary hyperaldosteronism it goes up to 400 mg a day, so 200 mg is within the licensed range for both.\nFor high blood pressure it would be above the usual range, since doses over 100 mg a day do not lower blood pressure any further. For heart failure the usual dose is 25 mg to 50 mg a day, so 200 mg would be well above what is normally used. Higher doses also carry a greater risk of high potassium and of breast growth in men. If your dose seems high for your condition, ask your prescriber rather than adjusting it yourself.\nWhy is spironolactone described as a high-risk medicine?:\nThe main reason is the risk of a high potassium level, which can cause a dangerous change in your heart rhythm and often gives no warning symptoms. The risk rises if your kidneys do not work well or if you take other medicines that raise potassium, and several very common medicines do, including ibuprofen and some blood pressure tablets.\nThis risk is manageable, which is why blood tests are built into treatment. Your potassium should be checked within a week of starting spironolactone or changing your dose, and regularly after that. Spironolactone also needs care in pregnancy and in people with liver disease."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: Winlevi vs Spironolactone: How do they compare? A: Winlevi (clascoterone) and spironolactone are both prescribed to treat acne. Winlevi is a topical cream, while spironolactone is available in an oral tablet and oral suspension."
+   ],
+   "text": "Q: Winlevi vs Spironolactone: How do they compare? A: Winlevi (clascoterone) and spironolactone are both prescribed to treat acne. Winlevi is a topical cream, while spironolactone is available in an oral tablet and oral suspension."
+  }
+ ],
+ "rank": 50
+}

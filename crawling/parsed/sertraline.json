@@ -1,0 +1,444 @@
+{
+ "name": "Sertraline",
+ "slug": "sertraline",
+ "url": "https://www.drugs.com/sertraline.html",
+ "title": "Sertraline",
+ "page_title": "Sertraline: Side Effects, Uses, Dosage and Reviews - Drugs.com",
+ "generic_name": "sertraline",
+ "pronunciation": "SER-tra-leen",
+ "brand_names": [
+  "Zoloft"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "tablet",
+   "strengths": [
+    "100 mg",
+    "25 mg",
+    "50 mg"
+   ]
+  },
+  {
+   "form": "capsules",
+   "strengths": [
+    "150 mg",
+    "200 mg"
+   ]
+  },
+  {
+   "form": "oral solution",
+   "strengths": [
+    "20 mg/mL"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Selective serotonin reuptake inhibitors",
+   "slug": "ssri-antidepressants"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Sep 25, 2026.",
+ "faq": [
+  {
+   "q": "How long does Zoloft (sertraline) withdrawal last?",
+   "a": "Sertraline (Zoloft) withdrawal symptoms typically last up to 1 to 2 weeks, but may last even longer in some people. You should avoid abruptly stopping sertraline treatment unless otherwise directed by your healthcare provider. Gradually reducing the dose over 2 to 4 weeks can help to prevent severe withdrawal symptoms in most people, and should be directed by your doctor."
+  },
+  {
+   "q": "How long does Zoloft (sertraline) take to work?",
+   "a": "Zoloft (sertraline), a common SSRI antidepressant, can take about 4 to 6 weeks of regular dosing to reach its full therapeutic effect for depression. For other uses, such as obsessive compulsive disorder (OCD) or posttraumatic stress disorder (PTSD), a full effect may take up to 12 weeks of treatment. When prescribed for premenstrual dysphoric disorder (PMDD), benefits may seen in the first menstrual cycle after starting treatment."
+  },
+  {
+   "q": "Why does does sertraline make you sleepy?",
+   "a": "Sertraline can make some people feel sleepy due to its effects on chemicals in the brain, especially in the first days to weeks of treatment. Others experience the opposite problem and develop insomnia instead. Clinical trials suggest that drowsiness, fatigue, and other sleep-related side effects are common, but they are usually mild and often improve as the body adapts to the medication over time."
+  },
+  {
+   "q": "Does Zoloft (sertraline) cause weight gain?",
+   "a": "Yes, Zoloft (sertraline) can cause weight gain, but for most people the amount is small. In a large 2024 U.S. study, adults who started sertraline gained about half a pound on average after 6 months and about 3 pounds after 2 years. Many people gain no weight at all, and some people, especially children, lose weight."
+  },
+  {
+   "q": "Prozac vs Zoloft: Understanding the Differences Between Two Popular Antidepressants",
+   "a": "Prozac and Zoloft represent two of the most widely prescribed antidepressant medications in the United States. Both medications belong to a class of drugs known as selective serotonin reuptake inhibitors (SSRIs), which have revolutionized depression treatment since their introduction in the late 1980s and early 1990s."
+  },
+  {
+   "q": "Is Zoloft (sertraline) a controlled substance?",
+   "a": "No, Zoloft (sertraline) is not a controlled substance. It is in an antidepressant drug class known as selective serotonin reuptake inhibitors (SSRIs). Zoloft is commonly used to treat depression, anxiety, panic attacks and other mood disorders. Doses should be stopped slowly to help prevent withdrawal symptoms. Zoloft can be used for long-term treatment if needed."
+  }
+ ],
+ "description": "Sertraline is an SSRI used for depression, OCD, panic disorder, PTSD and PMDD. See usual doses, side effects, interactions and 4,600+ patient reviews.",
+ "date_modified": "2026-09-25",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Vraylar",
+   "slug": "vraylar",
+   "blurb": "Vraylar is a once a day antipsychotic medication used to treat mental health or mood disorders..."
+  },
+  {
+   "name": "Lexapro",
+   "slug": "lexapro",
+   "blurb": "Lexapro is used to treat anxiety and major depressive disorder. Learn about side effects..."
+  },
+  {
+   "name": "Rexulti",
+   "slug": "rexulti",
+   "blurb": "Rexulti is an antipsychotic used to treat major depressive disorder, schizophrenia, or agitation..."
+  },
+  {
+   "name": "Zoloft",
+   "slug": "zoloft",
+   "blurb": "Zoloft is an antidepressant used to treat major depression, obsessive-compulsive disorder, panic..."
+  },
+  {
+   "name": "Seroquel",
+   "slug": "seroquel",
+   "blurb": "Seroquel is used to treat the symptoms of schizophrenia, bipolar disorder and major depressive..."
+  },
+  {
+   "name": "Wellbutrin",
+   "slug": "wellbutrin",
+   "blurb": "Wellbutrin (bupropion) is used to treat major depressive disorder and seasonal affective disorder..."
+  },
+  {
+   "name": "Cymbalta",
+   "slug": "cymbalta",
+   "blurb": "Cymbalta (duloxetine) is used to treat major depressive disorder, general anxiety disorder and..."
+  },
+  {
+   "name": "Prozac",
+   "slug": "prozac",
+   "blurb": "Prozac (fluoxetine) is an SSRI antidepressant used to treat depression, OCD, panic disorder..."
+  },
+  {
+   "name": "Escitalopram",
+   "slug": "escitalopram",
+   "blurb": "Escitalopram is an SSRI antidepressant used to treat major depressive disorder in adults and teens..."
+  },
+  {
+   "name": "Fluoxetine",
+   "slug": "fluoxetine",
+   "blurb": "Fluoxetine is used to treat depression or obsessive-compulsive disorder in adults. Learn about side..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is sertraline?",
+   "lines": [
+    "Sertraline is a prescription medicine used to treat depression, obsessive-compulsive disorder (OCD), panic disorders, posttraumatic stress disorder (PTSD), social anxiety disorder, and premenstrual dysphoric disorder (PMDD). It is sold under the brand name Zoloft, and generic sertraline is widely available.",
+    "Sertraline belongs to a group of medicines called selective serotonin reuptake inhibitors, or SSRIs. It increases serotonin activity in the brain by blocking the reuptake of serotonin (a chemical messenger that nerve cells use to communicate) back into nerve cells, so more of it stays available. Sertraline has only very weak effects on the reuptake of norepinephrine and dopamine, and it does not block monoamine oxidase.",
+    "Sertraline is available as tablets (25 mg, 50 mg, and 100 mg), oral solution (20 mg/mL), and capsules (150 mg and 200 mg).",
+    "Sertraline is not a controlled substance."
+   ],
+   "text": "Sertraline is a prescription medicine used to treat depression, obsessive-compulsive disorder (OCD), panic disorders, posttraumatic stress disorder (PTSD), social anxiety disorder, and premenstrual dysphoric disorder (PMDD). It is sold under the brand name Zoloft, and generic sertraline is widely available.\nSertraline belongs to a group of medicines called selective serotonin reuptake inhibitors, or SSRIs. It increases serotonin activity in the brain by blocking the reuptake of serotonin (a chemical messenger that nerve cells use to communicate) back into nerve cells, so more of it stays available. Sertraline has only very weak effects on the reuptake of norepinephrine and dopamine, and it does not block monoamine oxidase.\nSertraline is available as tablets (25 mg, 50 mg, and 100 mg), oral solution (20 mg/mL), and capsules (150 mg and 200 mg).\nSertraline is not a controlled substance."
+  },
+  {
+   "id": "what-is-sertraline-used-for",
+   "page": "main",
+   "heading": "What is sertraline used for?",
+   "lines": [
+    "Sertraline is FDA-approved to treat six conditions in adults:",
+    "- Major depressive disorder (MDD), the clinical term for depression.",
+    "- Obsessive-compulsive disorder (OCD), where unwanted thoughts drive repeated behaviors.",
+    "- Panic disorder, which causes sudden attacks of intense fear along with physical symptoms.",
+    "- Posttraumatic stress disorder (PTSD), which can follow a frightening or traumatic event.",
+    "- Social anxiety disorder (SAD), also called social phobia.",
+    "- Premenstrual dysphoric disorder (PMDD), a severe form of premenstrual symptoms.",
+    "In children and teenagers, sertraline is approved only for OCD, from age 6 upward. Its safety and effectiveness have not been established in children under 6 years of age, or in children and teenagers for any condition other than OCD.",
+    "Not every sertraline product is approved for all six conditions:",
+    "- Sertraline tablets and oral solution are approved for all of them.",
+    "- Sertraline 150 mg and 200 mg capsules are approved only for depression in adults and for OCD in adults and children aged 6 and over."
+   ],
+   "text": "Sertraline is FDA-approved to treat six conditions in adults:\n- Major depressive disorder (MDD), the clinical term for depression.\n- Obsessive-compulsive disorder (OCD), where unwanted thoughts drive repeated behaviors.\n- Panic disorder, which causes sudden attacks of intense fear along with physical symptoms.\n- Posttraumatic stress disorder (PTSD), which can follow a frightening or traumatic event.\n- Social anxiety disorder (SAD), also called social phobia.\n- Premenstrual dysphoric disorder (PMDD), a severe form of premenstrual symptoms.\nIn children and teenagers, sertraline is approved only for OCD, from age 6 upward. Its safety and effectiveness have not been established in children under 6 years of age, or in children and teenagers for any condition other than OCD.\nNot every sertraline product is approved for all six conditions:\n- Sertraline tablets and oral solution are approved for all of them.\n- Sertraline 150 mg and 200 mg capsules are approved only for depression in adults and for OCD in adults and children aged 6 and over."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Boxed warning: suicidal thoughts and behaviors",
+   "lines": [
+    "Sertraline carries a boxed warning, the FDA's most serious type of warning. Antidepressants increased the risk of suicidal thoughts and behavior in children, teenagers, and young adults in short-term studies.",
+    "In pooled analyses of placebo-controlled antidepressant trials covering about 77,000 adults and more than 4,500 children and teenagers, the risk of suicidal thoughts and behaviors in people aged 24 and under was higher with an antidepressant than with placebo. The risk varied considerably between different antidepressants, and it also varied by condition, with the highest rate in people being treated for depression. The difference between antidepressant and placebo, per 1,000 patients treated, was:",
+    "Age (years) | Difference compared with placebo",
+    "Under 18 | 14 more patients with suicidal thoughts or behaviors",
+    "18 to 24 | 5 more patients",
+    "25 to 64 | 1 fewer patient",
+    "65 and over | 6 fewer patients",
+    "It is not known whether this risk continues beyond about four months of treatment. There is good evidence that antidepressants delay depression coming back in adults, and depression itself raises the risk of suicidal thoughts and behaviors.",
+    "Anyone taking sertraline should be watched closely for worsening symptoms and for new or sudden changes in mood, behavior, thoughts, or feelings, especially in the first few months of treatment and whenever the dose is changed. Call your healthcare provider right away, or call 911 in an emergency, if you notice:",
+    "- thoughts about suicide or dying, or attempts to harm yourself",
+    "- new or worse depression, anxiety, or panic attacks",
+    "- feeling agitated, restless, angry, or irritable",
+    "- acting aggressive or violent, or acting on dangerous impulses",
+    "- trouble sleeping",
+    "- a big increase in activity or talking more than is normal for you",
+    "- any other unusual change in behavior or mood",
+    "Tell family members or caregivers which symptoms to watch for, so they can call your provider if you are not able to."
+   ],
+   "text": "Sertraline carries a boxed warning, the FDA's most serious type of warning. Antidepressants increased the risk of suicidal thoughts and behavior in children, teenagers, and young adults in short-term studies.\nIn pooled analyses of placebo-controlled antidepressant trials covering about 77,000 adults and more than 4,500 children and teenagers, the risk of suicidal thoughts and behaviors in people aged 24 and under was higher with an antidepressant than with placebo. The risk varied considerably between different antidepressants, and it also varied by condition, with the highest rate in people being treated for depression. The difference between antidepressant and placebo, per 1,000 patients treated, was:\nAge (years) | Difference compared with placebo\nUnder 18 | 14 more patients with suicidal thoughts or behaviors\n18 to 24 | 5 more patients\n25 to 64 | 1 fewer patient\n65 and over | 6 fewer patients\nIt is not known whether this risk continues beyond about four months of treatment. There is good evidence that antidepressants delay depression coming back in adults, and depression itself raises the risk of suicidal thoughts and behaviors.\nAnyone taking sertraline should be watched closely for worsening symptoms and for new or sudden changes in mood, behavior, thoughts, or feelings, especially in the first few months of treatment and whenever the dose is changed. Call your healthcare provider right away, or call 911 in an emergency, if you notice:\n- thoughts about suicide or dying, or attempts to harm yourself\n- new or worse depression, anxiety, or panic attacks\n- feeling agitated, restless, angry, or irritable\n- acting aggressive or violent, or acting on dangerous impulses\n- trouble sleeping\n- a big increase in activity or talking more than is normal for you\n- any other unusual change in behavior or mood\nTell family members or caregivers which symptoms to watch for, so they can call your provider if you are not able to."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Sertraline side effects",
+   "lines": [
+    "Common sertraline side effects:",
+    "The most common sertraline side effects are nausea, diarrhea or loose stools, trouble sleeping, dry mouth, tiredness, dizziness, sleepiness, tremor, indigestion, agitation, reduced appetite, increased sweating, and sexual problems.",
+    "The table below shows how often each side effect was reported in pooled placebo-controlled trials in 3,066 adults, compared with 2,293 people taking placebo.",
+    "Side effect | Sertraline | Placebo",
+    "Nausea | 26% | 12%",
+    "Diarrhea or loose stools | 20% | 10%",
+    "Insomnia (trouble sleeping) | 20% | 13%",
+    "Dry mouth | 14% | 9%",
+    "Fatigue (tiredness) | 12% | 8%",
+    "Dizziness | 12% | 8%",
+    "Somnolence (sleepiness) | 11% | 6%",
+    "Tremor (shaking) | 9% | 2%",
+    "Dyspepsia (indigestion) | 8% | 4%",
+    "Agitation | 8% | 5%",
+    "Decreased appetite | 7% | 2%",
+    "Hyperhidrosis (heavy sweating) | 7% | 3%",
+    "Constipation | 6% | 4%",
+    "Decreased libido (lower sex drive) | 6% | 2%",
+    "Palpitations | 4% | 2%",
+    "Visual impairment | 4% | 2%",
+    "Vomiting | 4% | 1%",
+    "Some side effects were more common with particular conditions. Sleepiness was more common in depression trials, insomnia and agitation in OCD trials, constipation and agitation in panic disorder trials, tiredness in PTSD trials, and insomnia, dizziness, tiredness, dry mouth, and a general feeling of being unwell in social anxiety disorder trials. In PMDD trials, sleepiness, dry mouth, dizziness, tiredness, and stomach pain were more common.",
+    "In these trials, 12% of people taking sertraline stopped treatment because of a side effect, compared with 4% of people taking placebo. The most common reasons for stopping were nausea (3%), diarrhea (2%), agitation (2%), and insomnia (2%).",
+    "Sexual side effects of sertraline:",
+    "SSRIs including sertraline can cause sexual problems. In men, this can mean delayed ejaculation or being unable to ejaculate, lower sex drive, and difficulty getting or keeping an erection. In women, it can mean lower sex drive and delayed orgasm or being unable to have an orgasm.",
+    "Sexual side effect | Sertraline | Placebo",
+    "Ejaculation failure (men) | 8% | 1%",
+    "Decreased libido (men) | 7% | 2%",
+    "Erectile dysfunction (men) | 4% | 1%",
+    "Ejaculation disorder (men) | 3% | 0%",
+    "Male sexual dysfunction | 2% | 0%",
+    "Decreased libido (women) | 4% | 2%",
+    "Changes in sex drive and sexual function can also be part of depression and anxiety themselves, so the timing of when symptoms started matters. These numbers may underestimate how often sexual side effects happen, because people and their providers do not always raise the subject. Tell your provider about any change in sexual function, since there may be ways to manage it.",
+    "Serious sertraline side effects:",
+    "Get emergency medical help if you have signs of an allergic reaction to sertraline: rash, hives, swelling of the face, lips, tongue, or throat, or difficulty breathing.",
+    "Call your doctor at once if you have:",
+    "- signs of serotonin syndrome, which can be life threatening: agitation, hallucinations, confusion, coma or other changes in mental state, a racing heartbeat, high or low blood pressure, dizziness, heavy sweating, fever, muscle stiffness, twitching or overactive reflexes, loss of coordination, seizures, nausea, vomiting, or diarrhea;",
+    "- unusual bleeding or bruising, including nosebleeds, bleeding gums, blood in vomit or stools, or black tarry stools;",
+    "- signs of a manic episode: greatly increased energy, severe trouble sleeping, racing thoughts, reckless behavior, unusually grand ideas, excessive happiness or irritability, or talking more or faster than usual;",
+    "- seizures or convulsions;",
+    "- eye pain, changes in vision, or swelling or redness in or around the eye, which can be signs of angle-closure glaucoma (a sudden rise in pressure inside the eye);",
+    "- signs of low sodium in the blood (hyponatremia): headache, trouble concentrating or thinking, memory problems, confusion, weakness, or feeling unsteady, which can lead to falls. Severe cases have caused hallucinations, fainting, seizures, coma, and death;",
+    "- fainting, chest discomfort, or an irregular heartbeat, which can be signs of a heart rhythm problem called QTc prolongation.",
+    "Sertraline side effects in children and teenagers:",
+    "The overall pattern of side effects in 281 children and teenagers treated with sertraline was generally similar to that seen in adults. Side effects reported in at least 2% of children and teenagers, and at least twice as often as with placebo, that were not common in adults were fever, hyperkinesia (abnormally increased movement), urinary incontinence, aggression, nosebleeds, purpura (purple spots under the skin), joint pain, weight loss, muscle twitching, and anxiety.",
+    "Reduced appetite and weight loss have been seen with SSRIs, so height and weight should be monitored during treatment.",
+    "Other reported side effects:",
+    "Less common side effects reported during studies include tachycardia (fast heartbeat), tinnitus (ringing in the ears), underactive thyroid, enlarged pupils, blurred vision, blood in the stools, swelling, unsteady walking, irritability, fever, raised liver enzymes, anaphylaxis, diabetes, high cholesterol, low blood sugar, increased appetite, joint pain, muscle spasms, poor coordination, coma, convulsions, reduced alertness, numbness, lethargy, restlessness, fainting, aggression, teeth grinding, confusion, euphoric mood, hallucination, blood in the urine, milk production from the breasts, priapism (a long-lasting erection), vaginal bleeding, wheezing, yawning, hair loss, cold sweats, skin inflammation, blistering, itching, rash, hives, bleeding, high blood pressure, and flushing.",
+    "Side effects reported after sertraline came onto the market include increased clotting times, AV block, slow heartbeat, atrial arrhythmias, QTc prolongation, ventricular tachycardia including Torsade de Pointes, breast enlargement in men, raised prolactin, irregular periods, SIADH, blindness, optic neuritis, cataract, severe liver problems including hepatitis, jaundice, and liver failure with some fatal outcomes, pancreatitis, several blood disorders, angioedema, low sodium, high blood sugar, rhabdomyolysis (muscle breakdown), lockjaw, serotonin syndrome, movement disorders including akathisia and dystonia, psychosis, bedwetting, nightmares, sudden kidney failure, pulmonary hypertension, eosinophilic pneumonia, loss of smell, photosensitivity, severe skin reactions such as Stevens-Johnson syndrome and toxic epidermal necrolysis, spasm of blood vessels in the brain, and vasculitis.",
+    "This is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+   ],
+   "text": "Common sertraline side effects:\nThe most common sertraline side effects are nausea, diarrhea or loose stools, trouble sleeping, dry mouth, tiredness, dizziness, sleepiness, tremor, indigestion, agitation, reduced appetite, increased sweating, and sexual problems.\nThe table below shows how often each side effect was reported in pooled placebo-controlled trials in 3,066 adults, compared with 2,293 people taking placebo.\nSide effect | Sertraline | Placebo\nNausea | 26% | 12%\nDiarrhea or loose stools | 20% | 10%\nInsomnia (trouble sleeping) | 20% | 13%\nDry mouth | 14% | 9%\nFatigue (tiredness) | 12% | 8%\nDizziness | 12% | 8%\nSomnolence (sleepiness) | 11% | 6%\nTremor (shaking) | 9% | 2%\nDyspepsia (indigestion) | 8% | 4%\nAgitation | 8% | 5%\nDecreased appetite | 7% | 2%\nHyperhidrosis (heavy sweating) | 7% | 3%\nConstipation | 6% | 4%\nDecreased libido (lower sex drive) | 6% | 2%\nPalpitations | 4% | 2%\nVisual impairment | 4% | 2%\nVomiting | 4% | 1%\nSome side effects were more common with particular conditions. Sleepiness was more common in depression trials, insomnia and agitation in OCD trials, constipation and agitation in panic disorder trials, tiredness in PTSD trials, and insomnia, dizziness, tiredness, dry mouth, and a general feeling of being unwell in social anxiety disorder trials. In PMDD trials, sleepiness, dry mouth, dizziness, tiredness, and stomach pain were more common.\nIn these trials, 12% of people taking sertraline stopped treatment because of a side effect, compared with 4% of people taking placebo. The most common reasons for stopping were nausea (3%), diarrhea (2%), agitation (2%), and insomnia (2%).\nSexual side effects of sertraline:\nSSRIs including sertraline can cause sexual problems. In men, this can mean delayed ejaculation or being unable to ejaculate, lower sex drive, and difficulty getting or keeping an erection. In women, it can mean lower sex drive and delayed orgasm or being unable to have an orgasm.\nSexual side effect | Sertraline | Placebo\nEjaculation failure (men) | 8% | 1%\nDecreased libido (men) | 7% | 2%\nErectile dysfunction (men) | 4% | 1%\nEjaculation disorder (men) | 3% | 0%\nMale sexual dysfunction | 2% | 0%\nDecreased libido (women) | 4% | 2%\nChanges in sex drive and sexual function can also be part of depression and anxiety themselves, so the timing of when symptoms started matters. These numbers may underestimate how often sexual side effects happen, because people and their providers do not always raise the subject. Tell your provider about any change in sexual function, since there may be ways to manage it.\nSerious sertraline side effects:\nGet emergency medical help if you have signs of an allergic reaction to sertraline: rash, hives, swelling of the face, lips, tongue, or throat, or difficulty breathing.\nCall your doctor at once if you have:\n- signs of serotonin syndrome, which can be life threatening: agitation, hallucinations, confusion, coma or other changes in mental state, a racing heartbeat, high or low blood pressure, dizziness, heavy sweating, fever, muscle stiffness, twitching or overactive reflexes, loss of coordination, seizures, nausea, vomiting, or diarrhea;\n- unusual bleeding or bruising, including nosebleeds, bleeding gums, blood in vomit or stools, or black tarry stools;\n- signs of a manic episode: greatly increased energy, severe trouble sleeping, racing thoughts, reckless behavior, unusually grand ideas, excessive happiness or irritability, or talking more or faster than usual;\n- seizures or convulsions;\n- eye pain, changes in vision, or swelling or redness in or around the eye, which can be signs of angle-closure glaucoma (a sudden rise in pressure inside the eye);\n- signs of low sodium in the blood (hyponatremia): headache, trouble concentrating or thinking, memory problems, confusion, weakness, or feeling unsteady, which can lead to falls. Severe cases have caused hallucinations, fainting, seizures, coma, and death;\n- fainting, chest discomfort, or an irregular heartbeat, which can be signs of a heart rhythm problem called QTc prolongation.\nSertraline side effects in children and teenagers:\nThe overall pattern of side effects in 281 children and teenagers treated with sertraline was generally similar to that seen in adults. Side effects reported in at least 2% of children and teenagers, and at least twice as often as with placebo, that were not common in adults were fever, hyperkinesia (abnormally increased movement), urinary incontinence, aggression, nosebleeds, purpura (purple spots under the skin), joint pain, weight loss, muscle twitching, and anxiety.\nReduced appetite and weight loss have been seen with SSRIs, so height and weight should be monitored during treatment.\nOther reported side effects:\nLess common side effects reported during studies include tachycardia (fast heartbeat), tinnitus (ringing in the ears), underactive thyroid, enlarged pupils, blurred vision, blood in the stools, swelling, unsteady walking, irritability, fever, raised liver enzymes, anaphylaxis, diabetes, high cholesterol, low blood sugar, increased appetite, joint pain, muscle spasms, poor coordination, coma, convulsions, reduced alertness, numbness, lethargy, restlessness, fainting, aggression, teeth grinding, confusion, euphoric mood, hallucination, blood in the urine, milk production from the breasts, priapism (a long-lasting erection), vaginal bleeding, wheezing, yawning, hair loss, cold sweats, skin inflammation, blistering, itching, rash, hives, bleeding, high blood pressure, and flushing.\nSide effects reported after sertraline came onto the market include increased clotting times, AV block, slow heartbeat, atrial arrhythmias, QTc prolongation, ventricular tachycardia including Torsade de Pointes, breast enlargement in men, raised prolactin, irregular periods, SIADH, blindness, optic neuritis, cataract, severe liver problems including hepatitis, jaundice, and liver failure with some fatal outcomes, pancreatitis, several blood disorders, angioedema, low sodium, high blood sugar, rhabdomyolysis (muscle breakdown), lockjaw, serotonin syndrome, movement disorders including akathisia and dystonia, psychosis, bedwetting, nightmares, sudden kidney failure, pulmonary hypertension, eosinophilic pneumonia, loss of smell, photosensitivity, severe skin reactions such as Stevens-Johnson syndrome and toxic epidermal necrolysis, spasm of blood vessels in the brain, and vasculitis.\nThis is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Do not take sertraline with a monoamine oxidase inhibitor (MAOI), or within 14 days of stopping one, because of the risk of serotonin syndrome. This includes the antibiotic linezolid and intravenous methylene blue. You also need to wait at least 14 days after stopping sertraline before starting an MAOI.",
+    "Do not take sertraline with pimozide, an antipsychotic medicine. Do not take sertraline oral solution if you take disulfiram (Antabuse), because the solution contains alcohol.",
+    "Sertraline can raise the risk of bleeding, particularly if you also take aspirin, NSAIDs such as ibuprofen or naproxen, other antiplatelet medicines, warfarin, or other anticoagulants.",
+    "Screening for a personal or family history of bipolar disorder, mania, or hypomania is recommended before starting sertraline, since treating a depressive episode with an antidepressant can trigger a manic episode in someone with bipolar disorder.",
+    "Do not stop taking sertraline suddenly. Adverse reactions can occur when it is stopped, especially when it is stopped abruptly, so the dose should be lowered gradually where possible."
+   ],
+   "text": "Do not take sertraline with a monoamine oxidase inhibitor (MAOI), or within 14 days of stopping one, because of the risk of serotonin syndrome. This includes the antibiotic linezolid and intravenous methylene blue. You also need to wait at least 14 days after stopping sertraline before starting an MAOI.\nDo not take sertraline with pimozide, an antipsychotic medicine. Do not take sertraline oral solution if you take disulfiram (Antabuse), because the solution contains alcohol.\nSertraline can raise the risk of bleeding, particularly if you also take aspirin, NSAIDs such as ibuprofen or naproxen, other antiplatelet medicines, warfarin, or other anticoagulants.\nScreening for a personal or family history of bipolar disorder, mania, or hypomania is recommended before starting sertraline, since treating a depressive episode with an antidepressant can trigger a manic episode in someone with bipolar disorder.\nDo not stop taking sertraline suddenly. Adverse reactions can occur when it is stopped, especially when it is stopped abruptly, so the dose should be lowered gradually where possible."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking sertraline",
+   "lines": [
+    "You should not take sertraline if you are allergic to sertraline or any of the ingredients in it, if you take an MAOI or have taken one in the past 14 days, or if you take pimozide. Do not take the oral solution if you take disulfiram.",
+    "To make sure sertraline is safe for you, tell your doctor if you have or have ever had:",
+    "- liver problems",
+    "- kidney problems",
+    "- heart problems, or risk factors for a heart rhythm problem called QTc prolongation",
+    "- bipolar disorder or mania",
+    "- seizures or convulsions",
+    "- low sodium levels in your blood",
+    "- bleeding problems, or you take a medicine that thins the blood",
+    "- narrow angles in the eye or glaucoma",
+    "- a stroke or high blood pressure",
+    "Pregnancy:",
+    "Tell your doctor if you are pregnant, plan to become pregnant, or become pregnant while taking sertraline. Studies of women exposed to sertraline in the first trimester suggest no overall difference in the risk of major birth defects compared with the background rate. Some studies have reported increases in specific defects, but those results are inconclusive.",
+    "Taking sertraline late in pregnancy may raise the risk of newborn problems that need longer hospital stays, breathing support, and tube feeding, and of persistent pulmonary hypertension of the newborn (PPHN), a serious lung problem. Use in the month before delivery has been linked with a less than two-fold increase in the risk of postpartum hemorrhage (heavy bleeding after birth).",
+    "Stopping treatment is not automatically the safer choice. In one study of 201 pregnant women with a history of major depression, those who stopped their antidepressant during pregnancy were more likely to relapse than those who continued. This is a decision to make with your doctor.",
+    "Sertraline oral solution contains 12% alcohol and is not recommended during pregnancy, because there is no known safe level of alcohol exposure in pregnancy.",
+    "There is a pregnancy registry that collects information on antidepressant use in pregnancy. You can join by calling 1-866-961-2388.",
+    "Breastfeeding:",
+    "Low levels of sertraline and its breakdown products pass into breast milk. In a pooled analysis of 53 mother and infant pairs, exclusively breastfed infants had an average of 2% of the sertraline levels measured in their mothers' blood, ranging from 0% to 15%. No side effects were seen in those infants. There is no information on whether sertraline affects milk production. Talk with your doctor about the benefits of breastfeeding alongside your need for treatment.",
+    "Children:",
+    "Sertraline is approved for OCD in children aged 6 to 17 years. It is not known to be safe and effective in children under 6, or for any other condition in this age group. Children and teenagers taking sertraline should be monitored for worsening symptoms and suicidal thoughts, especially early in treatment and when the dose changes, and their weight and growth should be checked.",
+    "Older adults:",
+    "Older adults clear sertraline more slowly. In one study, plasma clearance in people aged 65 and over was about 40% lower than in adults aged 25 to 32, so it took 2 to 3 weeks to reach steady levels rather than about 1 week. Doctors usually start older adults at the low end of the dose range. Older adults are also at greater risk of low sodium levels in the blood, particularly if they take diuretics (water pills) or are dehydrated."
+   ],
+   "text": "You should not take sertraline if you are allergic to sertraline or any of the ingredients in it, if you take an MAOI or have taken one in the past 14 days, or if you take pimozide. Do not take the oral solution if you take disulfiram.\nTo make sure sertraline is safe for you, tell your doctor if you have or have ever had:\n- liver problems\n- kidney problems\n- heart problems, or risk factors for a heart rhythm problem called QTc prolongation\n- bipolar disorder or mania\n- seizures or convulsions\n- low sodium levels in your blood\n- bleeding problems, or you take a medicine that thins the blood\n- narrow angles in the eye or glaucoma\n- a stroke or high blood pressure\nPregnancy:\nTell your doctor if you are pregnant, plan to become pregnant, or become pregnant while taking sertraline. Studies of women exposed to sertraline in the first trimester suggest no overall difference in the risk of major birth defects compared with the background rate. Some studies have reported increases in specific defects, but those results are inconclusive.\nTaking sertraline late in pregnancy may raise the risk of newborn problems that need longer hospital stays, breathing support, and tube feeding, and of persistent pulmonary hypertension of the newborn (PPHN), a serious lung problem. Use in the month before delivery has been linked with a less than two-fold increase in the risk of postpartum hemorrhage (heavy bleeding after birth).\nStopping treatment is not automatically the safer choice. In one study of 201 pregnant women with a history of major depression, those who stopped their antidepressant during pregnancy were more likely to relapse than those who continued. This is a decision to make with your doctor.\nSertraline oral solution contains 12% alcohol and is not recommended during pregnancy, because there is no known safe level of alcohol exposure in pregnancy.\nThere is a pregnancy registry that collects information on antidepressant use in pregnancy. You can join by calling 1-866-961-2388.\nBreastfeeding:\nLow levels of sertraline and its breakdown products pass into breast milk. In a pooled analysis of 53 mother and infant pairs, exclusively breastfed infants had an average of 2% of the sertraline levels measured in their mothers' blood, ranging from 0% to 15%. No side effects were seen in those infants. There is no information on whether sertraline affects milk production. Talk with your doctor about the benefits of breastfeeding alongside your need for treatment.\nChildren:\nSertraline is approved for OCD in children aged 6 to 17 years. It is not known to be safe and effective in children under 6, or for any other condition in this age group. Children and teenagers taking sertraline should be monitored for worsening symptoms and suicidal thoughts, especially early in treatment and when the dose changes, and their weight and growth should be checked.\nOlder adults:\nOlder adults clear sertraline more slowly. In one study, plasma clearance in people aged 65 and over was about 40% lower than in adults aged 25 to 32, so it took 2 to 3 weeks to reach steady levels rather than about 1 week. Doctors usually start older adults at the low end of the dose range. Older adults are also at greater risk of low sodium levels in the blood, particularly if they take diuretics (water pills) or are dehydrated."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take sertraline?",
+   "lines": [
+    "Take sertraline exactly as prescribed, once a day, in either the morning or the evening. Take it at around the same time each day.",
+    "- Tablets and capsules can be taken with or without food. Taking sertraline with food causes only a small increase in the amount absorbed.",
+    "- Swallow capsules whole. Do not open, crush, or chew them.",
+    "- Your doctor may start you on a low dose and raise it gradually, usually no more often than once a week.",
+    "- Keep taking sertraline even if you feel well, and do not stop without talking to your doctor first.",
+    "- Tell any doctor or lab that you take sertraline before you have tests. Sertraline can cause a false-positive result on urine screening tests for benzodiazepines, and this can continue for several days after you stop taking it. A confirmatory test will tell the difference.",
+    "- Store sertraline at room temperature, 68°F to 77°F (20°C to 25°C).",
+    "How to take sertraline oral solution:",
+    "Sertraline oral solution must be diluted before you take it. Do not mix it in advance.",
+    "- Use the dropper supplied with the bottle. The dropper has graduation marks for 25 mg and 50 mg only.",
+    "- Mix your dose with 4 ounces (half a cup) of water, ginger ale, lemon or lime soda, lemonade, or orange juice only. Do not mix it with any other liquid.",
+    "- Drink it straight away. A slight haze may appear after mixing, and this is normal.",
+    "The dropper dispenser contains dry natural rubber, a form of latex. Tell your doctor or pharmacist if you have a latex allergy."
+   ],
+   "text": "Take sertraline exactly as prescribed, once a day, in either the morning or the evening. Take it at around the same time each day.\n- Tablets and capsules can be taken with or without food. Taking sertraline with food causes only a small increase in the amount absorbed.\n- Swallow capsules whole. Do not open, crush, or chew them.\n- Your doctor may start you on a low dose and raise it gradually, usually no more often than once a week.\n- Keep taking sertraline even if you feel well, and do not stop without talking to your doctor first.\n- Tell any doctor or lab that you take sertraline before you have tests. Sertraline can cause a false-positive result on urine screening tests for benzodiazepines, and this can continue for several days after you stop taking it. A confirmatory test will tell the difference.\n- Store sertraline at room temperature, 68°F to 77°F (20°C to 25°C).\nHow to take sertraline oral solution:\nSertraline oral solution must be diluted before you take it. Do not mix it in advance.\n- Use the dropper supplied with the bottle. The dropper has graduation marks for 25 mg and 50 mg only.\n- Mix your dose with 4 ounces (half a cup) of water, ginger ale, lemon or lime soda, lemonade, or orange juice only. Do not mix it with any other liquid.\n- Drink it straight away. A slight haze may appear after mixing, and this is normal.\nThe dropper dispenser contains dry natural rubber, a form of latex. Tell your doctor or pharmacist if you have a latex allergy."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "What is the usual sertraline dosage?",
+   "lines": [
+    "The usual starting dose of sertraline is 25 mg or 50 mg once a day, depending on the condition being treated, and the usual treatment range is 50 mg to 200 mg a day. The maximum dose for most conditions is 200 mg a day.",
+    "Condition | Starting dose | Usual range or maximum",
+    "Depression (MDD), adults | 50 mg a day | 50 mg to 200 mg a day",
+    "OCD, adults | 50 mg a day | 50 mg to 200 mg a day",
+    "OCD, ages 6 to 12 | 25 mg a day | 50 mg to 200 mg a day",
+    "OCD, ages 13 to 17 | 50 mg a day | 50 mg to 200 mg a day",
+    "Panic disorder, PTSD, social anxiety disorder | 25 mg a day | 50 mg to 200 mg a day",
+    "PMDD, taken every day | 50 mg a day | Up to 150 mg a day",
+    "PMDD, taken in the luteal phase only | 50 mg a day | Up to 100 mg a day",
+    "If the starting dose is not enough, the dose can be raised in steps of 25 mg to 50 mg a day. Because sertraline stays in the body for about 24 hours, doses are usually changed no more often than once a week.",
+    "Dosing for PMDD. Sertraline can be taken every day of the menstrual cycle, or only during the luteal phase, meaning you start 14 days before your period is due and continue until it starts, then repeat with each cycle. On daily dosing, the dose can go up by 50 mg per cycle to a maximum of 150 mg a day. On luteal phase dosing, the maximum is 100 mg a day, taken as 50 mg for the first 3 days of the dosing cycle and 100 mg for the rest of it.",
+    "Sertraline 150 mg and 200 mg capsules. These are not used to start treatment or to titrate a dose, because there are no lower capsule strengths. They can be started in someone who has been taking 100 mg or 125 mg of another sertraline product for at least a week. The recommended capsule dose is 150 mg or 200 mg once a day, and the maximum is 200 mg a day. Because the dose cannot be lowered in steps using capsules alone, coming off treatment requires switching back to another sertraline product.",
+    "Liver problems. With sertraline tablets and oral solution, mild liver impairment (Child-Pugh score 5 or 6) means both the starting dose and the usual range are halved, and use is not recommended in moderate or severe liver impairment (Child-Pugh score 7 to 15). Sertraline capsules are not recommended in mild, moderate, or severe liver impairment, because the dose cannot be adjusted with the strengths available.",
+    "Kidney problems. No dose change is needed for mild, moderate, or severe kidney impairment, including in people on dialysis."
+   ],
+   "text": "The usual starting dose of sertraline is 25 mg or 50 mg once a day, depending on the condition being treated, and the usual treatment range is 50 mg to 200 mg a day. The maximum dose for most conditions is 200 mg a day.\nCondition | Starting dose | Usual range or maximum\nDepression (MDD), adults | 50 mg a day | 50 mg to 200 mg a day\nOCD, adults | 50 mg a day | 50 mg to 200 mg a day\nOCD, ages 6 to 12 | 25 mg a day | 50 mg to 200 mg a day\nOCD, ages 13 to 17 | 50 mg a day | 50 mg to 200 mg a day\nPanic disorder, PTSD, social anxiety disorder | 25 mg a day | 50 mg to 200 mg a day\nPMDD, taken every day | 50 mg a day | Up to 150 mg a day\nPMDD, taken in the luteal phase only | 50 mg a day | Up to 100 mg a day\nIf the starting dose is not enough, the dose can be raised in steps of 25 mg to 50 mg a day. Because sertraline stays in the body for about 24 hours, doses are usually changed no more often than once a week.\nDosing for PMDD. Sertraline can be taken every day of the menstrual cycle, or only during the luteal phase, meaning you start 14 days before your period is due and continue until it starts, then repeat with each cycle. On daily dosing, the dose can go up by 50 mg per cycle to a maximum of 150 mg a day. On luteal phase dosing, the maximum is 100 mg a day, taken as 50 mg for the first 3 days of the dosing cycle and 100 mg for the rest of it.\nSertraline 150 mg and 200 mg capsules. These are not used to start treatment or to titrate a dose, because there are no lower capsule strengths. They can be started in someone who has been taking 100 mg or 125 mg of another sertraline product for at least a week. The recommended capsule dose is 150 mg or 200 mg once a day, and the maximum is 200 mg a day. Because the dose cannot be lowered in steps using capsules alone, coming off treatment requires switching back to another sertraline product.\nLiver problems. With sertraline tablets and oral solution, mild liver impairment (Child-Pugh score 5 or 6) means both the starting dose and the usual range are halved, and use is not recommended in moderate or severe liver impairment (Child-Pugh score 7 to 15). Sertraline capsules are not recommended in mild, moderate, or severe liver impairment, because the dose cannot be adjusted with the strengths available.\nKidney problems. No dose change is needed for mild, moderate, or severe kidney impairment, including in people on dialysis."
+  },
+  {
+   "id": "sertraline-formulations-and-strengths",
+   "page": "main",
+   "heading": "Sertraline formulations and strengths",
+   "lines": [
+    "- Sertraline 25 mg tablets",
+    "- Sertraline 50 mg tablets",
+    "- Sertraline 100 mg tablets",
+    "- Sertraline oral solution, 20 mg per mL",
+    "- Sertraline 150 mg capsules",
+    "- Sertraline 200 mg capsules",
+    "Capsule strengths are based on sertraline itself. A 150 mg capsule contains 168 mg of sertraline hydrochloride, and a 200 mg capsule contains 224 mg. Capsule appearance and imprints differ between manufacturers."
+   ],
+   "text": "- Sertraline 25 mg tablets\n- Sertraline 50 mg tablets\n- Sertraline 100 mg tablets\n- Sertraline oral solution, 20 mg per mL\n- Sertraline 150 mg capsules\n- Sertraline 200 mg capsules\nCapsule strengths are based on sertraline itself. A 150 mg capsule contains 168 mg of sertraline hydrochloride, and a 200 mg capsule contains 224 mg. Capsule appearance and imprints differ between manufacturers."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the missed dose as soon as you remember. If it is almost time for your next dose, skip the one you missed and take the next dose at the usual time. Do not take two doses at once."
+   ],
+   "text": "Take the missed dose as soon as you remember. If it is almost time for your next dose, skip the one you missed and take the next dose at the usual time. Do not take two doses at once."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.",
+    "Effects reported after a sertraline tablet overdose include seizures, which may be delayed, and changes in mental state including coma. Heart effects can also be delayed and include changes in the electrical activity of the heart (QRS and QTc prolongation). High blood pressure is seen most often, and low blood pressure is rare, though it can happen when other substances including alcohol have also been taken. Serotonin syndrome can occur, and the risk is higher when several drugs that raise serotonin have been taken together."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.\nEffects reported after a sertraline tablet overdose include seizures, which may be delayed, and changes in mental state including coma. Heart effects can also be delayed and include changes in the electrical activity of the heart (QRS and QTc prolongation). High blood pressure is seen most often, and low blood pressure is rare, though it can happen when other substances including alcohol have also been taken. Serotonin syndrome can occur, and the risk is higher when several drugs that raise serotonin have been taken together."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking sertraline?",
+   "lines": [
+    "- Do not drink alcohol while you take sertraline. In healthy volunteers, sertraline did not add to the immediate effects of alcohol on thinking and coordination, but drinking is still not recommended during treatment.",
+    "- Do not drive or operate machinery until you know how sertraline affects you. It can cause sleepiness and can affect your ability to think clearly, make decisions, or react quickly.",
+    "- Do not start or stop any other medicine without checking first, including over-the-counter products, vitamins, and herbal supplements."
+   ],
+   "text": "- Do not drink alcohol while you take sertraline. In healthy volunteers, sertraline did not add to the immediate effects of alcohol on thinking and coordination, but drinking is still not recommended during treatment.\n- Do not drive or operate machinery until you know how sertraline affects you. It can cause sleepiness and can affect your ability to think clearly, make decisions, or react quickly.\n- Do not start or stop any other medicine without checking first, including over-the-counter products, vitamins, and herbal supplements."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect sertraline?",
+   "lines": [
+    "Several medicines interact with sertraline. Give a full list of everything you take to any provider who treats you. The most important interactions are:",
+    "- MAOIs. Taking sertraline with an MAOI raises the risk of serotonin syndrome, and the combination is contraindicated. Examples include selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, and methylene blue.",
+    "- Pimozide. Sertraline raises pimozide levels, which can lead to QTc prolongation and irregular heartbeats. The combination is contraindicated.",
+    "- Other medicines that raise serotonin. These add to the risk of serotonin syndrome. Examples include other SSRIs and SNRIs, triptans for migraine, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John's wort.",
+    "- Blood thinners and antiplatelet medicines. Aspirin, clopidogrel, heparin, and warfarin can add to the bleeding risk. If you take warfarin, your INR should be monitored carefully.",
+    "- Medicines broken down by CYP2D6. Sertraline blocks this liver enzyme, so levels of these drugs can rise and doses may need to be lowered. Examples include propafenone, flecainide, atomoxetine, desipramine, dextromethorphan, metoprolol, nebivolol, perphenazine, thioridazine, tolterodine, and venlafaxine.",
+    "- Phenytoin and fosphenytoin. Sertraline can raise phenytoin levels, so levels should be checked when sertraline is started or the dose is changed.",
+    "- Medicines that prolong the QTc interval. These should generally be avoided. Examples include certain antipsychotics (ziprasidone, iloperidone, chlorpromazine, mesoridazine, droperidol), certain antibiotics (erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (quinidine, procainamide), Class III antiarrhythmics (amiodarone, sotalol), and others including pentamidine, methadone, halofantrine, mefloquine, dolasetron, probucol, and tacrolimus.",
+    "- Disulfiram, with the oral solution only, because of its alcohol content.",
+    "No dose adjustment is needed when sertraline is taken with cimetidine, diazepam, lithium, atenolol, tolbutamide, digoxin, or medicines broken down by CYP3A4.",
+    "This list is not complete. Many other prescription medicines, over-the-counter products, vitamins, and herbal products can interact with sertraline."
+   ],
+   "text": "Several medicines interact with sertraline. Give a full list of everything you take to any provider who treats you. The most important interactions are:\n- MAOIs. Taking sertraline with an MAOI raises the risk of serotonin syndrome, and the combination is contraindicated. Examples include selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, and methylene blue.\n- Pimozide. Sertraline raises pimozide levels, which can lead to QTc prolongation and irregular heartbeats. The combination is contraindicated.\n- Other medicines that raise serotonin. These add to the risk of serotonin syndrome. Examples include other SSRIs and SNRIs, triptans for migraine, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John's wort.\n- Blood thinners and antiplatelet medicines. Aspirin, clopidogrel, heparin, and warfarin can add to the bleeding risk. If you take warfarin, your INR should be monitored carefully.\n- Medicines broken down by CYP2D6. Sertraline blocks this liver enzyme, so levels of these drugs can rise and doses may need to be lowered. Examples include propafenone, flecainide, atomoxetine, desipramine, dextromethorphan, metoprolol, nebivolol, perphenazine, thioridazine, tolterodine, and venlafaxine.\n- Phenytoin and fosphenytoin. Sertraline can raise phenytoin levels, so levels should be checked when sertraline is started or the dose is changed.\n- Medicines that prolong the QTc interval. These should generally be avoided. Examples include certain antipsychotics (ziprasidone, iloperidone, chlorpromazine, mesoridazine, droperidol), certain antibiotics (erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (quinidine, procainamide), Class III antiarrhythmics (amiodarone, sotalol), and others including pentamidine, methadone, halofantrine, mefloquine, dolasetron, probucol, and tacrolimus.\n- Disulfiram, with the oral solution only, because of its alcohol content.\nNo dose adjustment is needed when sertraline is taken with cimetidine, diazepam, lithium, atenolol, tolbutamide, digoxin, or medicines broken down by CYP3A4.\nThis list is not complete. Many other prescription medicines, over-the-counter products, vitamins, and herbal products can interact with sertraline."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Sertraline FAQs",
+   "lines": [
+    "Is sertraline the same as Zoloft?:",
+    "Yes. Sertraline is the active ingredient, and Zoloft is the brand name it is sold under in the United States. Sertraline is the generic version of Zoloft, and the two contain the same medicine, sertraline hydrochloride. You may also see it written as sertraline HCl.",
+    "Is sertraline an SSRI, and how does it work?:",
+    "Yes, sertraline is an SSRI, which stands for selective serotonin reuptake inhibitor. Nerve cells in the brain release serotonin to send signals, then reabsorb it. Sertraline blocks that reabsorption, so more serotonin stays available between nerve cells. Sertraline has very little effect on norepinephrine and dopamine, and it has no meaningful effect on adrenergic, cholinergic, GABA, dopamine, histamine, or benzodiazepine receptors, which is part of why it is described as selective.",
+    "How long does sertraline take to work?:",
+    "Sertraline levels in the blood become steady after about a week of once daily dosing, but the effect on symptoms takes longer. The trials that established sertraline ran for 6 to 12 weeks for depression, OCD, panic disorder, PTSD, and social anxiety disorder, and over three menstrual cycles for PMDD, which gives a sense of the time frame over which the benefit was measured. Because it takes time, doses are usually raised no more often than once a week, and you should keep taking sertraline even if you do not feel a change yet.",
+    "How long does sertraline stay in your system?:",
+    "Sertraline has a half-life of about 26 hours, meaning half of what is in your blood is cleared in roughly a day. At that rate, most of a dose has left your bloodstream within about 5 to 6 days. Its main breakdown product, N-desmethylsertraline, lasts longer, with a half-life of 62 to 104 hours, though it is much less active than sertraline itself. Sertraline can also cause false-positive urine screening tests for benzodiazepines for several days after you stop taking it.",
+    "Should I take sertraline in the morning or at night?:",
+    "Either is fine. Sertraline is taken once a day, in the morning or the evening, and the label does not favor one over the other. What matters more is taking it at around the same time each day. Insomnia was reported by 20% of people taking sertraline in trials, compared with 13% on placebo, and sleepiness by 11% compared with 6%, so some people find one timing suits them better than the other. Talk to your doctor before changing when you take it.",
+    "Does sertraline cause weight gain or weight loss?:",
+    "Reduced appetite is a common sertraline side effect, reported by 7% of adults in trials compared with 2% on placebo. Increased appetite was reported less often, in fewer than 2% of people. In children and teenagers taking sertraline for depression, there was a difference in weight change of roughly 1 kg compared with placebo over 10 weeks, representing slight weight loss on sertraline and slight gain on placebo. Around 7% of children lost more than 7% of their body weight, compared with none on placebo. In a longer 34 week extension study, weight gain was similar to what would be expected for their age. Height and weight should be monitored in younger patients. Tell your doctor about any weight change that concerns you.",
+    "Does sertraline make you tired or sleepy?:",
+    "It can. Sleepiness was reported by 11% of adults taking sertraline in trials, compared with 6% on placebo, and tiredness by 12% compared with 8%. Sertraline can also affect how clearly you think and how quickly you react, so do not drive or use machinery until you know how it affects you.",
+    "Is sertraline a controlled substance?:",
+    "No. Sertraline is not a controlled substance. In a study comparing sertraline with alprazolam and d-amphetamine, sertraline did not produce the effects associated with a potential for misuse, such as euphoria or drug liking, that were seen with the other two medicines.",
+    "Can sertraline cause diarrhea or nausea?:",
+    "Yes, these are the two most common sertraline side effects. Nausea was reported by 26% of people taking sertraline in trials, compared with 12% on placebo, and diarrhea or loose stools by 20% compared with 10%. Nausea was also the most common reason people stopped treatment. Tell your doctor if these do not settle.",
+    "How do you stop taking sertraline safely?:",
+    "Lower the dose gradually rather than stopping all at once, and only under your doctor's guidance. Symptoms reported after stopping a serotonergic antidepressant, especially when it is stopped abruptly, include nausea, sweating, low or unstable mood, irritability, agitation, dizziness, unusual sensations such as electric shock feelings, tremor, anxiety, confusion, headache, lethargy, insomnia, hypomania, ringing in the ears, and seizures.",
+    "Can you drink alcohol while taking sertraline?:",
+    "Drinking alcohol is not recommended while you take sertraline. In healthy volunteers, sertraline did not increase the immediate effects of alcohol on thinking and coordination, but the advice for patients is still to avoid it. Separately, do not take sertraline oral solution with disulfiram, because the solution contains 12% alcohol.",
+    "Can you take sertraline while pregnant?:",
+    "That depends on your situation, and it is a decision to make with your doctor rather than on your own. Studies of first trimester use suggest no overall difference in the risk of major birth defects, but use late in pregnancy has been linked with newborn breathing problems and with persistent pulmonary hypertension of the newborn. At the same time, stopping an antidepressant during pregnancy raises the risk of depression coming back. The oral solution specifically is not recommended in pregnancy because it contains alcohol.",
+    "What are sertraline 150 mg and 200 mg capsules for?:",
+    "Sertraline capsules come in 150 mg and 200 mg only, and they are not used to start treatment. They are for people who have already been taking 100 mg or 125 mg of another sertraline product for at least a week and need a higher dose. The maximum is 200 mg a day, the same as for tablets. Capsules should be swallowed whole and not opened, crushed, or chewed. If you need to come off sertraline, the dose has to be lowered gradually using another sertraline product, because there is no capsule strength below 150 mg. Capsules are approved for depression in adults and OCD from age 6, not for panic disorder, PTSD, social anxiety disorder, or PMDD.",
+    "Does sertraline interact with warfarin?:",
+    "Yes, in two ways. Sertraline can add to warfarin's effect on bleeding risk, and both medicines bind tightly to proteins in the blood, so taking them together can raise the free level of one or both. If you take warfarin with sertraline, your INR should be monitored carefully."
+   ],
+   "text": "Is sertraline the same as Zoloft?:\nYes. Sertraline is the active ingredient, and Zoloft is the brand name it is sold under in the United States. Sertraline is the generic version of Zoloft, and the two contain the same medicine, sertraline hydrochloride. You may also see it written as sertraline HCl.\nIs sertraline an SSRI, and how does it work?:\nYes, sertraline is an SSRI, which stands for selective serotonin reuptake inhibitor. Nerve cells in the brain release serotonin to send signals, then reabsorb it. Sertraline blocks that reabsorption, so more serotonin stays available between nerve cells. Sertraline has very little effect on norepinephrine and dopamine, and it has no meaningful effect on adrenergic, cholinergic, GABA, dopamine, histamine, or benzodiazepine receptors, which is part of why it is described as selective.\nHow long does sertraline take to work?:\nSertraline levels in the blood become steady after about a week of once daily dosing, but the effect on symptoms takes longer. The trials that established sertraline ran for 6 to 12 weeks for depression, OCD, panic disorder, PTSD, and social anxiety disorder, and over three menstrual cycles for PMDD, which gives a sense of the time frame over which the benefit was measured. Because it takes time, doses are usually raised no more often than once a week, and you should keep taking sertraline even if you do not feel a change yet.\nHow long does sertraline stay in your system?:\nSertraline has a half-life of about 26 hours, meaning half of what is in your blood is cleared in roughly a day. At that rate, most of a dose has left your bloodstream within about 5 to 6 days. Its main breakdown product, N-desmethylsertraline, lasts longer, with a half-life of 62 to 104 hours, though it is much less active than sertraline itself. Sertraline can also cause false-positive urine screening tests for benzodiazepines for several days after you stop taking it.\nShould I take sertraline in the morning or at night?:\nEither is fine. Sertraline is taken once a day, in the morning or the evening, and the label does not favor one over the other. What matters more is taking it at around the same time each day. Insomnia was reported by 20% of people taking sertraline in trials, compared with 13% on placebo, and sleepiness by 11% compared with 6%, so some people find one timing suits them better than the other. Talk to your doctor before changing when you take it.\nDoes sertraline cause weight gain or weight loss?:\nReduced appetite is a common sertraline side effect, reported by 7% of adults in trials compared with 2% on placebo. Increased appetite was reported less often, in fewer than 2% of people. In children and teenagers taking sertraline for depression, there was a difference in weight change of roughly 1 kg compared with placebo over 10 weeks, representing slight weight loss on sertraline and slight gain on placebo. Around 7% of children lost more than 7% of their body weight, compared with none on placebo. In a longer 34 week extension study, weight gain was similar to what would be expected for their age. Height and weight should be monitored in younger patients. Tell your doctor about any weight change that concerns you.\nDoes sertraline make you tired or sleepy?:\nIt can. Sleepiness was reported by 11% of adults taking sertraline in trials, compared with 6% on placebo, and tiredness by 12% compared with 8%. Sertraline can also affect how clearly you think and how quickly you react, so do not drive or use machinery until you know how it affects you.\nIs sertraline a controlled substance?:\nNo. Sertraline is not a controlled substance. In a study comparing sertraline with alprazolam and d-amphetamine, sertraline did not produce the effects associated with a potential for misuse, such as euphoria or drug liking, that were seen with the other two medicines.\nCan sertraline cause diarrhea or nausea?:\nYes, these are the two most common sertraline side effects. Nausea was reported by 26% of people taking sertraline in trials, compared with 12% on placebo, and diarrhea or loose stools by 20% compared with 10%. Nausea was also the most common reason people stopped treatment. Tell your doctor if these do not settle.\nHow do you stop taking sertraline safely?:\nLower the dose gradually rather than stopping all at once, and only under your doctor's guidance. Symptoms reported after stopping a serotonergic antidepressant, especially when it is stopped abruptly, include nausea, sweating, low or unstable mood, irritability, agitation, dizziness, unusual sensations such as electric shock feelings, tremor, anxiety, confusion, headache, lethargy, insomnia, hypomania, ringing in the ears, and seizures.\nCan you drink alcohol while taking sertraline?:\nDrinking alcohol is not recommended while you take sertraline. In healthy volunteers, sertraline did not increase the immediate effects of alcohol on thinking and coordination, but the advice for patients is still to avoid it. Separately, do not take sertraline oral solution with disulfiram, because the solution contains 12% alcohol.\nCan you take sertraline while pregnant?:\nThat depends on your situation, and it is a decision to make with your doctor rather than on your own. Studies of first trimester use suggest no overall difference in the risk of major birth defects, but use late in pregnancy has been linked with newborn breathing problems and with persistent pulmonary hypertension of the newborn. At the same time, stopping an antidepressant during pregnancy raises the risk of depression coming back. The oral solution specifically is not recommended in pregnancy because it contains alcohol.\nWhat are sertraline 150 mg and 200 mg capsules for?:\nSertraline capsules come in 150 mg and 200 mg only, and they are not used to start treatment. They are for people who have already been taking 100 mg or 125 mg of another sertraline product for at least a week and need a higher dose. The maximum is 200 mg a day, the same as for tablets. Capsules should be swallowed whole and not opened, crushed, or chewed. If you need to come off sertraline, the dose has to be lowered gradually using another sertraline product, because there is no capsule strength below 150 mg. Capsules are approved for depression in adults and OCD from age 6, not for panic disorder, PTSD, social anxiety disorder, or PMDD.\nDoes sertraline interact with warfarin?:\nYes, in two ways. Sertraline can add to warfarin's effect on bleeding risk, and both medicines bind tightly to proteins in the blood, so taking them together can raise the free level of one or both. If you take warfarin with sertraline, your INR should be monitored carefully."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: How long does Zoloft (sertraline) withdrawal last? A: Sertraline (Zoloft) withdrawal symptoms typically last up to 1 to 2 weeks, but may last even longer in some people. You should avoid abruptly stopping sertraline treatment unless otherwise directed by your healthcare provider. Gradually reducing the dose over 2 to 4 weeks can help to prevent severe withdrawal symptoms in most people, and should be directed by your doctor.",
+    "Q: How long does Zoloft (sertraline) take to work? A: Zoloft (sertraline), a common SSRI antidepressant, can take about 4 to 6 weeks of regular dosing to reach its full therapeutic effect for depression. For other uses, such as obsessive compulsive disorder (OCD) or posttraumatic stress disorder (PTSD), a full effect may take up to 12 weeks of treatment. When prescribed for premenstrual dysphoric disorder (PMDD), benefits may seen in the first menstrual cycle after starting treatment.",
+    "Q: Why does does sertraline make you sleepy? A: Sertraline can make some people feel sleepy due to its effects on chemicals in the brain, especially in the first days to weeks of treatment. Others experience the opposite problem and develop insomnia instead. Clinical trials suggest that drowsiness, fatigue, and other sleep-related side effects are common, but they are usually mild and often improve as the body adapts to the medication over time.",
+    "Q: Does Zoloft (sertraline) cause weight gain? A: Yes, Zoloft (sertraline) can cause weight gain, but for most people the amount is small. In a large 2024 U.S. study, adults who started sertraline gained about half a pound on average after 6 months and about 3 pounds after 2 years. Many people gain no weight at all, and some people, especially children, lose weight.",
+    "Q: Prozac vs Zoloft: Understanding the Differences Between Two Popular Antidepressants A: Prozac and Zoloft represent two of the most widely prescribed antidepressant medications in the United States. Both medications belong to a class of drugs known as selective serotonin reuptake inhibitors (SSRIs), which have revolutionized depression treatment since their introduction in the late 1980s and early 1990s.",
+    "Q: Is Zoloft (sertraline) a controlled substance? A: No, Zoloft (sertraline) is not a controlled substance. It is in an antidepressant drug class known as selective serotonin reuptake inhibitors (SSRIs). Zoloft is commonly used to treat depression, anxiety, panic attacks and other mood disorders. Doses should be stopped slowly to help prevent withdrawal symptoms. Zoloft can be used for long-term treatment if needed."
+   ],
+   "text": "Q: How long does Zoloft (sertraline) withdrawal last? A: Sertraline (Zoloft) withdrawal symptoms typically last up to 1 to 2 weeks, but may last even longer in some people. You should avoid abruptly stopping sertraline treatment unless otherwise directed by your healthcare provider. Gradually reducing the dose over 2 to 4 weeks can help to prevent severe withdrawal symptoms in most people, and should be directed by your doctor.\nQ: How long does Zoloft (sertraline) take to work? A: Zoloft (sertraline), a common SSRI antidepressant, can take about 4 to 6 weeks of regular dosing to reach its full therapeutic effect for depression. For other uses, such as obsessive compulsive disorder (OCD) or posttraumatic stress disorder (PTSD), a full effect may take up to 12 weeks of treatment. When prescribed for premenstrual dysphoric disorder (PMDD), benefits may seen in the first menstrual cycle after starting treatment.\nQ: Why does does sertraline make you sleepy? A: Sertraline can make some people feel sleepy due to its effects on chemicals in the brain, especially in the first days to weeks of treatment. Others experience the opposite problem and develop insomnia instead. Clinical trials suggest that drowsiness, fatigue, and other sleep-related side effects are common, but they are usually mild and often improve as the body adapts to the medication over time.\nQ: Does Zoloft (sertraline) cause weight gain? A: Yes, Zoloft (sertraline) can cause weight gain, but for most people the amount is small. In a large 2024 U.S. study, adults who started sertraline gained about half a pound on average after 6 months and about 3 pounds after 2 years. Many people gain no weight at all, and some people, especially children, lose weight.\nQ: Prozac vs Zoloft: Understanding the Differences Between Two Popular Antidepressants A: Prozac and Zoloft represent two of the most widely prescribed antidepressant medications in the United States. Both medications belong to a class of drugs known as selective serotonin reuptake inhibitors (SSRIs), which have revolutionized depression treatment since their introduction in the late 1980s and early 1990s.\nQ: Is Zoloft (sertraline) a controlled substance? A: No, Zoloft (sertraline) is not a controlled substance. It is in an antidepressant drug class known as selective serotonin reuptake inhibitors (SSRIs). Zoloft is commonly used to treat depression, anxiety, panic attacks and other mood disorders. Doses should be stopped slowly to help prevent withdrawal symptoms. Zoloft can be used for long-term treatment if needed."
+  }
+ ],
+ "rank": 12
+}

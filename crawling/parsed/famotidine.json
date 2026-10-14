@@ -1,0 +1,241 @@
+{
+ "name": "Famotidine",
+ "slug": "famotidine",
+ "url": "https://www.drugs.com/famotidine.html",
+ "title": "Famotidine",
+ "page_title": "Famotidine Uses, How to Take, Side Effects, Warnings - Drugs.com",
+ "generic_name": "famotidine",
+ "pronunciation": "fam-OH-ti-deen",
+ "brand_names": [
+  "Pepcid",
+  "Zantac 360"
+ ],
+ "discontinued_brands": [],
+ "drug_classes": [
+  {
+   "name": "H2 antagonists",
+   "slug": "h2-antagonists"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Sep 10, 2026.",
+ "faq": [
+  {
+   "q": "How long does it take for famotidine to work?",
+   "a": "Famotidine starts to block stomach acid within 15 minutes to 1 hour of taking the medicine. The maximum effect usually occurs within 1 to 3 hours, and lasts for 10 to 12 hours after a single dose. It will also work to prevent heartburn if taken 10 to 60 minutes before a meal. Do not take more than 2 tablets in 24 hours."
+  },
+  {
+   "q": "Is it better to take famotidine in the morning or at night?",
+   "a": "In general, you can take over-the-counter (OTC) famotidine (Pepcid AC, Zantac 360) at any time of the day or night to help treat heartburn symptoms. Studies have shown it is best to take OTC famotidine 1 hour before an evening meal to help prevent heartburn and indigestion in the evening and during bedtime which may interfere with your sleep. Talk to your healthcare provider if your symptoms are severe or ongoing after 14 days."
+  },
+  {
+   "q": "How much famotidine can I take in one day?",
+   "a": "The maximum daily dose of over-the-counter (OTC) famotidine (Pepcid AC, Zantac 360) in adults and children over 12 years of age is 40 mg per day unless your doctor prescribes it otherwise. If your symptoms persist more than 2 weeks, contact your doctor. Higher doses may be used for other conditions such as erosive esophagitis or Zollinger-Ellison Syndrome."
+  },
+  {
+   "q": "Is famotidine safer than omeprazole for heartburn?",
+   "a": "For most people with mild, occasional heartburn, famotidine is usually the safer first choice because it works quickly, can be taken as needed, and has fewer long‑term safety concerns than omeprazole. Omeprazole, a stronger acid reducer, may be a better option if you have frequent heartburn two or more days per week or confirmed GERD, but it is linked with more potential risks when used for many months or at high doses."
+  },
+  {
+   "q": "Can you take famotidine long term?",
+   "a": "Famotidine (brand name: Pepcid AC, Zantac 360) should not be used for longer than 14 days if you are treating heartburn symptoms. Famotidine may be used for a longer period under the direction of your healthcare provider for treatment of intestinal or stomach ulcers, gastroesophageal reflux (GERD), erosive esophagitis, or other acid-related conditions."
+  },
+  {
+   "q": "Can I take omeprazole in the morning and famotidine at night?",
+   "a": "Yes, you could take omeprazole in the morning and famotidine at night but there are not many studies investigating this approach. Preliminary results suggest that taking your medication this way may provide superior control of gastric acid secretion at night without compromising the effectiveness of omeprazole in the morning. More research is needed."
+  }
+ ],
+ "description": "Famotidine is used to treat and prevent ulcers in the stomach and intestines. Learn about side effects, interactions and indications.",
+ "date_modified": "2026-09-10",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Rx and/or OTC",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Protonix",
+   "slug": "protonix",
+   "blurb": "Protonix (pantoprazole) is used to treat erosive esophagitis and other conditions involving excess..."
+  },
+  {
+   "name": "Pepcid",
+   "slug": "pepcid",
+   "blurb": "Pepcid is used to treat ulcers in the stomach and for conditions where the stomach produces too..."
+  },
+  {
+   "name": "Skyrizi",
+   "slug": "skyrizi",
+   "blurb": "Skyrizi (risankizumab) is an injection used to treat plaque psoriasis, psoriatic arthritis..."
+  },
+  {
+   "name": "Nexium",
+   "slug": "nexium",
+   "blurb": "Nexium is used to treat GERD and other conditions involving excessive stomach acid. Learn about..."
+  },
+  {
+   "name": "Prilosec",
+   "slug": "prilosec",
+   "blurb": "Prilosec (omeprazole) is used to treat symptoms of GERD and other conditions caused by excess..."
+  },
+  {
+   "name": "Voquezna",
+   "slug": "voquezna",
+   "blurb": "Voquezna (vonoprazan) for acid reduction is an oral potassium-competitive acid blocker that reduces..."
+  },
+  {
+   "name": "Calcium carbonate",
+   "slug": "mtm/calcium-carbonate",
+   "blurb": "Calcium carbonate is used for duodenal ulcer, erosive esophagitis, GERD, hypocalcemia, indigestion..."
+  },
+  {
+   "name": "Lansoprazole",
+   "slug": "lansoprazole",
+   "blurb": "Lansoprazole is used to treat stomach and intestinal ulcers, erosive esophagitis and..."
+  },
+  {
+   "name": "Ranitidine",
+   "slug": "ranitidine",
+   "blurb": "Ranitidine is used to treat and prevent ulcers in the stomach and intestines. Includes ranitidine..."
+  },
+  {
+   "name": "Esomeprazole",
+   "slug": "mtm/esomeprazole",
+   "blurb": "Esomeprazole is used for barrett's esophagus, duodenal ulcer prophylaxis, erosive esophagitis..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is famotidine?",
+   "lines": [
+    "Famotidine is a histamine-2 blocker that works by decreasing the amount of acid the stomach produces.",
+    "Famotidine is used to treat and prevent ulcers in the stomach and intestines. It also treats conditions in which the stomach produces too much acid, such as Zollinger-Ellison syndrome.",
+    "Famotidine also treats gastroesophageal reflux disease (GERD) and other conditions in which acid backs up from the stomach into the esophagus, causing heartburn.",
+    "The Zantac 360 brand of this medicine does not contain ranitidine, a medicine that was withdrawn from market in the United States."
+   ],
+   "text": "Famotidine is a histamine-2 blocker that works by decreasing the amount of acid the stomach produces.\nFamotidine is used to treat and prevent ulcers in the stomach and intestines. It also treats conditions in which the stomach produces too much acid, such as Zollinger-Ellison syndrome.\nFamotidine also treats gastroesophageal reflux disease (GERD) and other conditions in which acid backs up from the stomach into the esophagus, causing heartburn.\nThe Zantac 360 brand of this medicine does not contain ranitidine, a medicine that was withdrawn from market in the United States."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Before taking famotidine, tell your doctor if you have kidney or liver disease, a history of Long QT syndrome, stomach cancer or other problems, or asthma, COPD, or other breathing problems.",
+    "Famotidine may be only part of a complete program of treatment that also includes changes in diet or lifestyle habits. Follow your doctor's instructions very closely.",
+    "Heartburn is often confused with the first symptoms of a heart attack. Seek emergency medical attention if you have chest pain or heavy feeling, pain spreading to the jaw, arm or shoulder, nausea, sweating, anxiety, light-headedness and a general ill feeling.",
+    "Do not use over-the-counter famotidine without a doctor's advice if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition."
+   ],
+   "text": "Before taking famotidine, tell your doctor if you have kidney or liver disease, a history of Long QT syndrome, stomach cancer or other problems, or asthma, COPD, or other breathing problems.\nFamotidine may be only part of a complete program of treatment that also includes changes in diet or lifestyle habits. Follow your doctor's instructions very closely.\nHeartburn is often confused with the first symptoms of a heart attack. Seek emergency medical attention if you have chest pain or heavy feeling, pain spreading to the jaw, arm or shoulder, nausea, sweating, anxiety, light-headedness and a general ill feeling.\nDo not use over-the-counter famotidine without a doctor's advice if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not use this medicine if you are allergic to famotidine or similar medicines such as ranitidine (Zantac), cimetidine (Tagamet), or nizatidine (Axid).",
+    "To make sure this medicine is safe for you, tell your doctor or pharmacist if you have ever had:",
+    "- kidney disease;",
+    "- liver disease;",
+    "- cancer stomach; or",
+    "- long QT syndrome (in you or a family member).",
+    "Ask a doctor before using famotidine if you are pregnant or breastfeeding.",
+    "Famotidine injection may contain an ingredient that can cause serious side effects or death in very young or premature babies. Do not give this injection to a newborn or premature baby."
+   ],
+   "text": "You should not use this medicine if you are allergic to famotidine or similar medicines such as ranitidine (Zantac), cimetidine (Tagamet), or nizatidine (Axid).\nTo make sure this medicine is safe for you, tell your doctor or pharmacist if you have ever had:\n- kidney disease;\n- liver disease;\n- cancer stomach; or\n- long QT syndrome (in you or a family member).\nAsk a doctor before using famotidine if you are pregnant or breastfeeding.\nFamotidine injection may contain an ingredient that can cause serious side effects or death in very young or premature babies. Do not give this injection to a newborn or premature baby."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "How should I take famotidine?",
+   "lines": [
+    "Use famotidine exactly as directed on the label, or as prescribed by your doctor.",
+    "Famotidine oral is taken by mouth.",
+    "Famotidine injection is given as an infusion into a vein. A healthcare provider will give you this injection if you are unable to take the medicine by mouth.",
+    "You may take famotidine oral with or without food.",
+    "Shake the bottle of Pepcid suspension (liquid) vigorously for 5 to 10 seconds prior to each use. Measure the liquid medicine carefully. Use the dosing syringe provided, or use a medicine dose-measuring device (not a kitchen spoon).",
+    "Most ulcers heal within 4 weeks of treatment, but it may take up to 8 weeks of using this medicine before your ulcer heals. Keep using the medication as directed.",
+    "Call your doctor if the condition you are treating with this medicine does not improve, or if it gets worse while using this medicine.",
+    "Famotidine may be only part of a complete program of treatment that also includes changes in diet or lifestyle habits. Follow all instructions of your doctor or dietitian.",
+    "Store at room temperature away from moisture, heat, and light. Do not allow the liquid medicine to freeze.",
+    "Throw away any unused liquid that is older than 30 days."
+   ],
+   "text": "Use famotidine exactly as directed on the label, or as prescribed by your doctor.\nFamotidine oral is taken by mouth.\nFamotidine injection is given as an infusion into a vein. A healthcare provider will give you this injection if you are unable to take the medicine by mouth.\nYou may take famotidine oral with or without food.\nShake the bottle of Pepcid suspension (liquid) vigorously for 5 to 10 seconds prior to each use. Measure the liquid medicine carefully. Use the dosing syringe provided, or use a medicine dose-measuring device (not a kitchen spoon).\nMost ulcers heal within 4 weeks of treatment, but it may take up to 8 weeks of using this medicine before your ulcer heals. Keep using the medication as directed.\nCall your doctor if the condition you are treating with this medicine does not improve, or if it gets worse while using this medicine.\nFamotidine may be only part of a complete program of treatment that also includes changes in diet or lifestyle habits. Follow all instructions of your doctor or dietitian.\nStore at room temperature away from moisture, heat, and light. Do not allow the liquid medicine to freeze.\nThrow away any unused liquid that is older than 30 days."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+   ],
+   "text": "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What to avoid",
+   "lines": [
+    "Avoid drinking alcohol. It can increase the risk of damage to your stomach.",
+    "Avoid taking other stomach acid reducers unless your doctor has told you to. However, you may take an antacid (such as Maalox, Mylanta, Gaviscon, Milk of Magnesia, Rolaids, or Tums) with famotidine."
+   ],
+   "text": "Avoid drinking alcohol. It can increase the risk of damage to your stomach.\nAvoid taking other stomach acid reducers unless your doctor has told you to. However, you may take an antacid (such as Maalox, Mylanta, Gaviscon, Milk of Magnesia, Rolaids, or Tums) with famotidine."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Famotidine side effects",
+   "lines": [
+    "Get emergency medical help if you have any signs of an allergic reaction to famotidine: hives; difficult breathing; swelling of your face, lips, tongue, or throat.",
+    "Stop using this medicine and call your doctor at once if you have:",
+    "- confusion, hallucinations, agitation, lack of energy;",
+    "- a seizure;",
+    "- fast or pounding heartbeats, sudden dizziness (like you might pass out).",
+    "Some side effects may be more likely in older adults and in people who have severe kidney disease.",
+    "Common famotidine side effects may include:",
+    "- headache;",
+    "- dizziness; or",
+    "- constipation or diarrhea.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have any signs of an allergic reaction to famotidine: hives; difficult breathing; swelling of your face, lips, tongue, or throat.\nStop using this medicine and call your doctor at once if you have:\n- confusion, hallucinations, agitation, lack of energy;\n- a seizure;\n- fast or pounding heartbeats, sudden dizziness (like you might pass out).\nSome side effects may be more likely in older adults and in people who have severe kidney disease.\nCommon famotidine side effects may include:\n- headache;\n- dizziness; or\n- constipation or diarrhea.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "what-other-drugs-will-interact-with-famotidine",
+   "page": "main",
+   "heading": "What other drugs will interact with famotidine?",
+   "lines": [
+    "Famotidine oral can make it harder for your body to absorb other medicines you take by mouth. Tell your doctor if you are taking:",
+    "- cefditoren;",
+    "- dasatinib;",
+    "- delavirdine;",
+    "- fosamprenavir; or",
+    "- tizanidine.",
+    "This list is not complete. Other drugs may interact with famotidine, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+   ],
+   "text": "Famotidine oral can make it harder for your body to absorb other medicines you take by mouth. Tell your doctor if you are taking:\n- cefditoren;\n- dasatinib;\n- delavirdine;\n- fosamprenavir; or\n- tizanidine.\nThis list is not complete. Other drugs may interact with famotidine, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: How long does it take for famotidine to work? A: Famotidine starts to block stomach acid within 15 minutes to 1 hour of taking the medicine. The maximum effect usually occurs within 1 to 3 hours, and lasts for 10 to 12 hours after a single dose. It will also work to prevent heartburn if taken 10 to 60 minutes before a meal. Do not take more than 2 tablets in 24 hours.",
+    "Q: Is it better to take famotidine in the morning or at night? A: In general, you can take over-the-counter (OTC) famotidine (Pepcid AC, Zantac 360) at any time of the day or night to help treat heartburn symptoms. Studies have shown it is best to take OTC famotidine 1 hour before an evening meal to help prevent heartburn and indigestion in the evening and during bedtime which may interfere with your sleep. Talk to your healthcare provider if your symptoms are severe or ongoing after 14 days.",
+    "Q: How much famotidine can I take in one day? A: The maximum daily dose of over-the-counter (OTC) famotidine (Pepcid AC, Zantac 360) in adults and children over 12 years of age is 40 mg per day unless your doctor prescribes it otherwise. If your symptoms persist more than 2 weeks, contact your doctor. Higher doses may be used for other conditions such as erosive esophagitis or Zollinger-Ellison Syndrome.",
+    "Q: Is famotidine safer than omeprazole for heartburn? A: For most people with mild, occasional heartburn, famotidine is usually the safer first choice because it works quickly, can be taken as needed, and has fewer long‑term safety concerns than omeprazole. Omeprazole, a stronger acid reducer, may be a better option if you have frequent heartburn two or more days per week or confirmed GERD, but it is linked with more potential risks when used for many months or at high doses.",
+    "Q: Can you take famotidine long term? A: Famotidine (brand name: Pepcid AC, Zantac 360) should not be used for longer than 14 days if you are treating heartburn symptoms. Famotidine may be used for a longer period under the direction of your healthcare provider for treatment of intestinal or stomach ulcers, gastroesophageal reflux (GERD), erosive esophagitis, or other acid-related conditions.",
+    "Q: Can I take omeprazole in the morning and famotidine at night? A: Yes, you could take omeprazole in the morning and famotidine at night but there are not many studies investigating this approach. Preliminary results suggest that taking your medication this way may provide superior control of gastric acid secretion at night without compromising the effectiveness of omeprazole in the morning. More research is needed."
+   ],
+   "text": "Q: How long does it take for famotidine to work? A: Famotidine starts to block stomach acid within 15 minutes to 1 hour of taking the medicine. The maximum effect usually occurs within 1 to 3 hours, and lasts for 10 to 12 hours after a single dose. It will also work to prevent heartburn if taken 10 to 60 minutes before a meal. Do not take more than 2 tablets in 24 hours.\nQ: Is it better to take famotidine in the morning or at night? A: In general, you can take over-the-counter (OTC) famotidine (Pepcid AC, Zantac 360) at any time of the day or night to help treat heartburn symptoms. Studies have shown it is best to take OTC famotidine 1 hour before an evening meal to help prevent heartburn and indigestion in the evening and during bedtime which may interfere with your sleep. Talk to your healthcare provider if your symptoms are severe or ongoing after 14 days.\nQ: How much famotidine can I take in one day? A: The maximum daily dose of over-the-counter (OTC) famotidine (Pepcid AC, Zantac 360) in adults and children over 12 years of age is 40 mg per day unless your doctor prescribes it otherwise. If your symptoms persist more than 2 weeks, contact your doctor. Higher doses may be used for other conditions such as erosive esophagitis or Zollinger-Ellison Syndrome.\nQ: Is famotidine safer than omeprazole for heartburn? A: For most people with mild, occasional heartburn, famotidine is usually the safer first choice because it works quickly, can be taken as needed, and has fewer long‑term safety concerns than omeprazole. Omeprazole, a stronger acid reducer, may be a better option if you have frequent heartburn two or more days per week or confirmed GERD, but it is linked with more potential risks when used for many months or at high doses.\nQ: Can you take famotidine long term? A: Famotidine (brand name: Pepcid AC, Zantac 360) should not be used for longer than 14 days if you are treating heartburn symptoms. Famotidine may be used for a longer period under the direction of your healthcare provider for treatment of intestinal or stomach ulcers, gastroesophageal reflux (GERD), erosive esophagitis, or other acid-related conditions.\nQ: Can I take omeprazole in the morning and famotidine at night? A: Yes, you could take omeprazole in the morning and famotidine at night but there are not many studies investigating this approach. Preliminary results suggest that taking your medication this way may provide superior control of gastric acid secretion at night without compromising the effectiveness of omeprazole in the morning. More research is needed."
+  }
+ ],
+ "rank": 37
+}

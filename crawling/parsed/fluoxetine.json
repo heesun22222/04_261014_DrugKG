@@ -1,0 +1,410 @@
+{
+ "name": "Fluoxetine",
+ "slug": "fluoxetine",
+ "url": "https://www.drugs.com/fluoxetine.html",
+ "title": "Fluoxetine",
+ "page_title": "Fluoxetine (Prozac): Uses, Side Effects, Dosage & Warnings",
+ "brand_names": [
+  "Prozac",
+  "Sarafem",
+  "Rapiflux",
+  "Selfemra"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "capsules",
+   "strengths": []
+  },
+  {
+   "form": "delayed-release capsules",
+   "strengths": []
+  },
+  {
+   "form": "tablets",
+   "strengths": []
+  },
+  {
+   "form": "oral solution",
+   "strengths": []
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Selective serotonin reuptake inhibitors",
+   "slug": "ssri-antidepressants"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Aug 20, 2026.",
+ "faq": [
+  {
+   "q": "What does Prozac feel like when it starts working?",
+   "a": "Most people feel lower levels of anxiety, restlessness and tiredness when Prozac first starts to work. Your sleep, energy and appetite may improve over the first month and you may have a better focus on daily tasks. However, a depressed mood can take 6 to 8 weeks to fully respond to treatment."
+  },
+  {
+   "q": "What drugs can cause serotonin syndrome?",
+   "a": "Common drug classes that can cause serotonin syndrome include selective serotonin reuptake inhibitors (SSRIs), monoamine oxidase inhibitors (MAOIs), and opioids like tramadol."
+  },
+  {
+   "q": "Prozac vs Zoloft: Understanding the Differences Between Two Popular Antidepressants",
+   "a": "Prozac and Zoloft represent two of the most widely prescribed antidepressant medications in the United States. Both medications belong to a class of drugs known as selective serotonin reuptake inhibitors (SSRIs), which have revolutionized depression treatment since their introduction in the late 1980s and early 1990s."
+  },
+  {
+   "q": "Is Prozac (fluoxetine) safe for dogs?",
+   "a": "Studies have shown fluoxetine (Prozac, Reconcile), when prescribed by your veterinarian, is usually a safe and effective medicine for dogs for the treatment of behavioral disorders like separation anxiety. It is most effective when used in conjunction with a behavior modification plan for your pet. Do not give your dog Prozac or fluoxetine unless it has been prescribed by your veterinarian."
+  }
+ ],
+ "description": "Fluoxetine (Prozac) is a prescription antidepressant used to treat depression, OCD, bulimia, panic disorder, and PMDD. Learn about uses, dosage, side effects, and warnings.",
+ "date_modified": "2026-08-20",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Vraylar",
+   "slug": "vraylar",
+   "blurb": "Vraylar is a once a day antipsychotic medication used to treat mental health or mood disorders..."
+  },
+  {
+   "name": "Prozac",
+   "slug": "prozac",
+   "blurb": "Prozac (fluoxetine) is an SSRI antidepressant used to treat depression, OCD, panic disorder..."
+  },
+  {
+   "name": "Rexulti",
+   "slug": "rexulti",
+   "blurb": "Rexulti is an antipsychotic used to treat major depressive disorder, schizophrenia, or agitation..."
+  },
+  {
+   "name": "Celexa",
+   "slug": "celexa",
+   "blurb": "Celexa (citalopram) is an antidepressant in a group of drugs called selective serotonin reuptake..."
+  },
+  {
+   "name": "Paxil",
+   "slug": "paxil",
+   "blurb": "Paxil is used to treat depression, obsessive-compulsive disorder and anxiety. Learn about side..."
+  },
+  {
+   "name": "Luvox",
+   "slug": "cons/luvox",
+   "blurb": "Luvox is used for anxiety and stress, obsessive compulsive disorder"
+  },
+  {
+   "name": "Paxil CR",
+   "slug": "mtm/paxil-cr",
+   "blurb": "Paxil CR is used for anxiety, depression, dysautonomia, generalized anxiety disorder, major..."
+  },
+  {
+   "name": "Luvox CR",
+   "slug": "cons/luvox-cr",
+   "blurb": "Luvox CR is used for anxiety and stress, obsessive compulsive disorder, social anxiety disorder"
+  },
+  {
+   "name": "Sarafem",
+   "slug": "cons/sarafem",
+   "blurb": "Sarafem is used for premenstrual dysphoric disorder"
+  },
+  {
+   "name": "Fluvoxamine",
+   "slug": "mtm/fluvoxamine",
+   "blurb": "Fluvoxamine is used for anorexia/feeding problems, anxiety and stress, body dysmorphic disorder..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is Fluoxetine?",
+   "lines": [
+    "Fluoxetine is a prescription antidepressant used to treat major depressive disorder, obsessive-compulsive disorder (OCD), bulimia nervosa, and panic disorder. When used together with olanzapine (Zyprexa), it is also used to treat depressive episodes associated with bipolar I disorder and treatment-resistant depression.",
+    "Fluoxetine belongs to a class of antidepressants called selective serotonin reuptake inhibitors (SSRIs).",
+    "The original brand name of fluoxetine is Prozac, and it's now available as a generic."
+   ],
+   "text": "Fluoxetine is a prescription antidepressant used to treat major depressive disorder, obsessive-compulsive disorder (OCD), bulimia nervosa, and panic disorder. When used together with olanzapine (Zyprexa), it is also used to treat depressive episodes associated with bipolar I disorder and treatment-resistant depression.\nFluoxetine belongs to a class of antidepressants called selective serotonin reuptake inhibitors (SSRIs).\nThe original brand name of fluoxetine is Prozac, and it's now available as a generic."
+  },
+  {
+   "id": "what-is-fluoxetine-used-for",
+   "page": "main",
+   "heading": "What Is Fluoxetine Used For?",
+   "lines": [
+    "Fluoxetine is FDA-approved to treat the following conditions:",
+    "- Major depressive disorder (MDD) for acute and maintenance treatment in adults and children aged 8 years and older",
+    "- Obsessive-compulsive disorder (OCD) for acute and maintenance treatment in adults and children aged 7 years and older",
+    "- Bulimia nervosa for acute and maintenance treatment of binge-eating and purging in adults with moderate to severe bulimia",
+    "- Panic disorder for the treatment of panic attacks in adults",
+    "When used in combination with olanzapine, fluoxetine is also FDA-approved for:",
+    "- Acute treatment of depressive episodes associated with Bipolar I disorder (depressive episodes) in adults and children aged 10 years and older",
+    "- Treatment-resistant depression for adults who have not responded to at least two adequate antidepressant trials",
+    "Fluoxetine alone is not approved for bipolar I depressive episodes or treatment-resistant depression - olanzapine must be used in combination for these indications."
+   ],
+   "text": "Fluoxetine is FDA-approved to treat the following conditions:\n- Major depressive disorder (MDD) for acute and maintenance treatment in adults and children aged 8 years and older\n- Obsessive-compulsive disorder (OCD) for acute and maintenance treatment in adults and children aged 7 years and older\n- Bulimia nervosa for acute and maintenance treatment of binge-eating and purging in adults with moderate to severe bulimia\n- Panic disorder for the treatment of panic attacks in adults\nWhen used in combination with olanzapine, fluoxetine is also FDA-approved for:\n- Acute treatment of depressive episodes associated with Bipolar I disorder (depressive episodes) in adults and children aged 10 years and older\n- Treatment-resistant depression for adults who have not responded to at least two adequate antidepressant trials\nFluoxetine alone is not approved for bipolar I depressive episodes or treatment-resistant depression - olanzapine must be used in combination for these indications."
+  },
+  {
+   "id": "overview",
+   "page": "main",
+   "heading": "How does fluoxetine (Prozac) work?",
+   "lines": [
+    "Fluoxetine works by blocking the reabsorption (reuptake) of serotonin in the brain, leaving more of it active between nerve cells. Serotonin is a neurotransmitter that helps regulate mood, emotions, and sleep. By increasing the availability of serotonin, fluoxetine can relieve symptoms of depression, anxiety, and OCD.",
+    "Fluoxetine belongs to a class of antidepressants called selective serotonin reuptake inhibitors (SSRIs). SSRIs are one of the most commonly prescribed antidepressant classes because they are generally well-tolerated and effective across a range of conditions.",
+    "Most people need to take fluoxetine for 4 to 6 weeks before feeling the full effects."
+   ],
+   "text": "Fluoxetine works by blocking the reabsorption (reuptake) of serotonin in the brain, leaving more of it active between nerve cells. Serotonin is a neurotransmitter that helps regulate mood, emotions, and sleep. By increasing the availability of serotonin, fluoxetine can relieve symptoms of depression, anxiety, and OCD.\nFluoxetine belongs to a class of antidepressants called selective serotonin reuptake inhibitors (SSRIs). SSRIs are one of the most commonly prescribed antidepressant classes because they are generally well-tolerated and effective across a range of conditions.\nMost people need to take fluoxetine for 4 to 6 weeks before feeling the full effects."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Fluoxetine Side Effects",
+   "lines": [
+    "Like all medications, Prozac can cause side effects. Not everyone experiences them, and many improve after the first few weeks as your body adjusts to the medication. Tell your doctor if any side effects bother you or do not go away.",
+    "Common Fluoxetine Side Effects:",
+    "The most commonly reported side effects of fluoxetine (Prozac) include:",
+    "- Nausea",
+    "- Trouble sleeping (insomnia)",
+    "- Drowsiness or sleepiness",
+    "- Anxiety or feeling nervous or on edge",
+    "- Trembling or shaking (tremor)",
+    "- Excessive sweating",
+    "- Loss of appetite",
+    "- Diarrhea",
+    "- Dry mouth",
+    "- Indigestion or upset stomach",
+    "- Weakness or fatigue",
+    "- Sore throat",
+    "- Sinus congestion or infection",
+    "- Flu-like symptoms",
+    "- Skin rash",
+    "- Flushing or feeling of warmth",
+    "- Yawning",
+    "- Unusual or vivid dreams",
+    "- Decreased sex drive",
+    "- Difficulty getting or keeping an erection",
+    "- Delayed or abnormal ejaculation",
+    "Serious side effects:",
+    "Get emergency medical help if you have signs of an allergic reaction to this medicine (hives, difficult breathing, swelling in your face or throat) or a severe skin reaction (fever, sore throat, burning eyes, skin pain, red or purple skin rash with blistering and peeling).",
+    "Report any new or worsening symptoms to your doctor, such as mood or behavior changes, anxiety, panic attacks, trouble sleeping, or if you feel impulsive, irritable, agitated, hostile, aggressive, restless, hyperactive (mentally or physically), more depressed, or have thoughts about suicide or hurting yourself.",
+    "This medicine may cause serious side effects. Call your doctor at once if you have:",
+    "- blurred vision, tunnel vision, eye pain or swelling, or seeing halos around lights;",
+    "- fast or pounding heartbeats, fluttering in your chest, shortness of breath, and sudden dizziness (like you might pass out);",
+    "- low levels of sodium in the body - headache, confusion, slurred speech, severe weakness, vomiting, loss of coordination, feeling unsteady; or",
+    "- severe nervous system reaction - very stiff (rigid) muscles, high fever, sweating, confusion, fast or uneven heartbeats, tremors, feeling like you might pass out.",
+    "Seek medical attention right away if you have symptoms of serotonin syndrome, such as: agitation, hallucinations, fever, sweating, shivering, fast heart rate, muscle stiffness, twitching, loss of coordination, nausea, vomiting, or diarrhea.",
+    "This is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+   ],
+   "text": "Like all medications, Prozac can cause side effects. Not everyone experiences them, and many improve after the first few weeks as your body adjusts to the medication. Tell your doctor if any side effects bother you or do not go away.\nCommon Fluoxetine Side Effects:\nThe most commonly reported side effects of fluoxetine (Prozac) include:\n- Nausea\n- Trouble sleeping (insomnia)\n- Drowsiness or sleepiness\n- Anxiety or feeling nervous or on edge\n- Trembling or shaking (tremor)\n- Excessive sweating\n- Loss of appetite\n- Diarrhea\n- Dry mouth\n- Indigestion or upset stomach\n- Weakness or fatigue\n- Sore throat\n- Sinus congestion or infection\n- Flu-like symptoms\n- Skin rash\n- Flushing or feeling of warmth\n- Yawning\n- Unusual or vivid dreams\n- Decreased sex drive\n- Difficulty getting or keeping an erection\n- Delayed or abnormal ejaculation\nSerious side effects:\nGet emergency medical help if you have signs of an allergic reaction to this medicine (hives, difficult breathing, swelling in your face or throat) or a severe skin reaction (fever, sore throat, burning eyes, skin pain, red or purple skin rash with blistering and peeling).\nReport any new or worsening symptoms to your doctor, such as mood or behavior changes, anxiety, panic attacks, trouble sleeping, or if you feel impulsive, irritable, agitated, hostile, aggressive, restless, hyperactive (mentally or physically), more depressed, or have thoughts about suicide or hurting yourself.\nThis medicine may cause serious side effects. Call your doctor at once if you have:\n- blurred vision, tunnel vision, eye pain or swelling, or seeing halos around lights;\n- fast or pounding heartbeats, fluttering in your chest, shortness of breath, and sudden dizziness (like you might pass out);\n- low levels of sodium in the body - headache, confusion, slurred speech, severe weakness, vomiting, loss of coordination, feeling unsteady; or\n- severe nervous system reaction - very stiff (rigid) muscles, high fever, sweating, confusion, fast or uneven heartbeats, tremors, feeling like you might pass out.\nSeek medical attention right away if you have symptoms of serotonin syndrome, such as: agitation, hallucinations, fever, sweating, shivering, fast heart rate, muscle stiffness, twitching, loss of coordination, nausea, vomiting, or diarrhea.\nThis is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Who Should Not Take This Medicine?",
+   "lines": [
+    "Do not take fluoxetine if any of the following apply to you. Tell your doctor or pharmacist about all medications you currently take or have recently stopped taking.",
+    "Do not take fluoxetine if you:",
+    "- Are allergic to fluoxetine or any of its ingredients",
+    "- Currently take a monoamine oxidase inhibitor (MAOI), including the antibiotic linezolid. If you are unsure whether your medication is an MAOI, ask your doctor or pharmacist",
+    "- Stopped taking an MAOI in the last 2 weeks",
+    "- Currently take pimozide (Orap) as this combination can cause a serious, potentially life-threatening irregular heart rhythm",
+    "- Currently taking thioridazine (Mellaril) as this combination can cause a dangerous irregular heart rhythm",
+    "Important timing rules with MAOIs and thioridazine:",
+    "- Wait at least 2 weeks after stopping an MAOI before starting fluoxetine",
+    "- Wait at least 5 weeks after stopping fluoxetine before starting an MAOI or thioridazine"
+   ],
+   "text": "Do not take fluoxetine if any of the following apply to you. Tell your doctor or pharmacist about all medications you currently take or have recently stopped taking.\nDo not take fluoxetine if you:\n- Are allergic to fluoxetine or any of its ingredients\n- Currently take a monoamine oxidase inhibitor (MAOI), including the antibiotic linezolid. If you are unsure whether your medication is an MAOI, ask your doctor or pharmacist\n- Stopped taking an MAOI in the last 2 weeks\n- Currently take pimozide (Orap) as this combination can cause a serious, potentially life-threatening irregular heart rhythm\n- Currently taking thioridazine (Mellaril) as this combination can cause a dangerous irregular heart rhythm\nImportant timing rules with MAOIs and thioridazine:\n- Wait at least 2 weeks after stopping an MAOI before starting fluoxetine\n- Wait at least 5 weeks after stopping fluoxetine before starting an MAOI or thioridazine"
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Like all medications, Prozac carries some important warnings you should be aware of before and during treatment. Contact your doctor right away if you experience any of the following.",
+    "Boxed warning:",
+    "Fluoxetine carries a boxed warning, the FDA's most serious warning, regarding suicidal thoughts and behavior. Antidepressants, including fluoxetine, may increase the risk of suicidal thoughts in children, adolescents, and young adult s, particularly in the first few months of treatment or when your dose is changed. This risk was not seen in adults over 24, and adults 65 and older actually showed a reduced risk.",
+    "Anyone starting this medicine should be closely monitored for worsening mood or new or worsening suicidal thoughts, and families and caregivers should stay in regular contact with the prescriber.",
+    "Other warnings:",
+    "- Serotonin syndrome: A potentially life-threatening condition that can occur when serotonin builds up to dangerous levels. This can occur when taken alone, but is more likely when taken with other serotonergic medications. Seek emergency care immediately if you experience agitation, hallucinations, rapid heartbeat, high fever, muscle rigidity, tremor, or seizures.",
+    "- Severe allergic reactions: Stop taking this medicine and seek emergency help if you develop trouble breathing, facial swelling, hives, or blistering rash.",
+    "- Abnormal bleeding: This medicine may increase the risk of bleeding or bruising, particularly if taken with blood thinners (such as warfarin), NSAIDs (such as ibuprofen or naproxen), or aspirin.",
+    "- Eye problems (angle-closure glaucoma): This medicine can cause angle-closure glaucoma with symptoms of eye pain, vision changes, or swelling around the eye in some people. An eye exam before starting treatment may be recommended for some people to assess their risk.",
+    "- Seizures: Tell your doctor if you have a history of seizures before starting this medicine, or have conditions that potentially increase your risk of seizures",
+    "- Manic episodes Fluoxetine may trigger mania, including racing thoughts, reckless behavior, drastically reduced need for sleep, and unusual bursts of energy or irritability.",
+    "- Changes in appetite or weight: Weight and appetite changes can occur, with some patients having significant weight loss. Children and adolescents should have their height and weight monitored regularly during treatment.",
+    "- Low sodium (hyponatremia): Low blood sodium levels can occur, particularly in older adults. Symptoms include headache, weakness, confusion, and difficulty concentrating.",
+    "- Heart rhythm changes (QT prolongation): Fluoxetine can affect the heart's electrical activity, potentially causing a serious and life-threatening irregular heartbeat. Seek medical attention if you experience a fast, slow, or irregular heartbeat, shortness of breath, or fainting.",
+    "- Sexual dysfunction: SSRIs, including fluoxetine, commonly affect sexual function. In men, this may include delayed or absent ejaculation or erectile problems. In women, it may include decreased libido or difficulty reaching orgasm. Talk to your doctor if this occurs, as treatment options are available.",
+    "- Drowsiness and impaired concentration: This medicine may affect your ability to think clearly, make decisions, or react quickly. Use caution when driving or operating machinery until you know how this medication affects you.",
+    "- Anxiety and Insomnia: May occur in some patients while taking this medicine.",
+    "- Blood sugar changes: People with diabetes may experience low blood sugar while taking this medicine, and high blood sugar when it is stopped. Your doctor may need to adjust your diabetes medications."
+   ],
+   "text": "Like all medications, Prozac carries some important warnings you should be aware of before and during treatment. Contact your doctor right away if you experience any of the following.\nBoxed warning:\nFluoxetine carries a boxed warning, the FDA's most serious warning, regarding suicidal thoughts and behavior. Antidepressants, including fluoxetine, may increase the risk of suicidal thoughts in children, adolescents, and young adult s, particularly in the first few months of treatment or when your dose is changed. This risk was not seen in adults over 24, and adults 65 and older actually showed a reduced risk.\nAnyone starting this medicine should be closely monitored for worsening mood or new or worsening suicidal thoughts, and families and caregivers should stay in regular contact with the prescriber.\nOther warnings:\n- Serotonin syndrome: A potentially life-threatening condition that can occur when serotonin builds up to dangerous levels. This can occur when taken alone, but is more likely when taken with other serotonergic medications. Seek emergency care immediately if you experience agitation, hallucinations, rapid heartbeat, high fever, muscle rigidity, tremor, or seizures.\n- Severe allergic reactions: Stop taking this medicine and seek emergency help if you develop trouble breathing, facial swelling, hives, or blistering rash.\n- Abnormal bleeding: This medicine may increase the risk of bleeding or bruising, particularly if taken with blood thinners (such as warfarin), NSAIDs (such as ibuprofen or naproxen), or aspirin.\n- Eye problems (angle-closure glaucoma): This medicine can cause angle-closure glaucoma with symptoms of eye pain, vision changes, or swelling around the eye in some people. An eye exam before starting treatment may be recommended for some people to assess their risk.\n- Seizures: Tell your doctor if you have a history of seizures before starting this medicine, or have conditions that potentially increase your risk of seizures\n- Manic episodes Fluoxetine may trigger mania, including racing thoughts, reckless behavior, drastically reduced need for sleep, and unusual bursts of energy or irritability.\n- Changes in appetite or weight: Weight and appetite changes can occur, with some patients having significant weight loss. Children and adolescents should have their height and weight monitored regularly during treatment.\n- Low sodium (hyponatremia): Low blood sodium levels can occur, particularly in older adults. Symptoms include headache, weakness, confusion, and difficulty concentrating.\n- Heart rhythm changes (QT prolongation): Fluoxetine can affect the heart's electrical activity, potentially causing a serious and life-threatening irregular heartbeat. Seek medical attention if you experience a fast, slow, or irregular heartbeat, shortness of breath, or fainting.\n- Sexual dysfunction: SSRIs, including fluoxetine, commonly affect sexual function. In men, this may include delayed or absent ejaculation or erectile problems. In women, it may include decreased libido or difficulty reaching orgasm. Talk to your doctor if this occurs, as treatment options are available.\n- Drowsiness and impaired concentration: This medicine may affect your ability to think clearly, make decisions, or react quickly. Use caution when driving or operating machinery until you know how this medication affects you.\n- Anxiety and Insomnia: May occur in some patients while taking this medicine.\n- Blood sugar changes: People with diabetes may experience low blood sugar while taking this medicine, and high blood sugar when it is stopped. Your doctor may need to adjust your diabetes medications."
+  },
+  {
+   "id": "before-taking-this-medicine",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "Tell your doctor about all your medical conditions and medications before starting fluoxetine (Prozac), as some may interact with it or affect whether it is safe for you.",
+    "Tell your doctor if you take any of the following medications or supplements:",
+    "- Triptans (for migraine)",
+    "- Antidepressants or mood stabilizers, including SSRIs, SNRIs, tricyclics, MAOIs, lithium, buspirone, or antipsychotics",
+    "- Amphetamines",
+    "- Opioid pain medications, including tramadol, fentanyl, meperidine, or methadone",
+    "- Over-the-counter supplements such as St. John's Wort or tryptophan",
+    "- Electroconvulsive therapy (ECT)",
+    "Many of these combinations can increase the risk of serotonin syndrome, a potentially serious condition.",
+    "Tell your doctor if you have or have had any of the following:",
+    "- Liver, kidney, or heart problems",
+    "- Seizures or epilepsy",
+    "- Bipolar disorder or mania",
+    "- Low sodium levels in the blood",
+    "- A stroke or high blood pressure",
+    "- Bleeding problems",
+    "Pregnancy",
+    "Tell your healthcare provider if you are pregnant, become pregnant, or plan to become pregnant while taking fluoxetine tablets. Using fluoxetine later in pregnancy may increase the risk of complications in the newborn, including problems that need a longer hospital stay, breathing support, or tube feeding, and a serious lung condition called persistent pulmonary hypertension of the newborn (PPHN). Untreated depression also carries risks in pregnancy, so discuss the benefits and risks of treatment with your healthcare provider rather than stopping on your own.",
+    "If you become pregnant while taking fluoxetine tablets, ask your healthcare provider about joining the National Pregnancy Registry for Antidepressants, which tracks pregnancy outcomes in women who take these medicines. You can enroll by calling 1-866-961-2388 or visiting womensmentalhealth.org.",
+    "Breastfeeding:",
+    "Fluoxetine passes into breast milk. Tell your healthcare provider if you are breastfeeding or plan to breastfeed, and discuss the best way to feed your baby while you are taking fluoxetine tablets. If you do breastfeed, watch your baby for agitation, irritability, poor feeding, or poor weight gain, and seek medical advice if you notice any of these."
+   ],
+   "text": "Tell your doctor about all your medical conditions and medications before starting fluoxetine (Prozac), as some may interact with it or affect whether it is safe for you.\nTell your doctor if you take any of the following medications or supplements:\n- Triptans (for migraine)\n- Antidepressants or mood stabilizers, including SSRIs, SNRIs, tricyclics, MAOIs, lithium, buspirone, or antipsychotics\n- Amphetamines\n- Opioid pain medications, including tramadol, fentanyl, meperidine, or methadone\n- Over-the-counter supplements such as St. John's Wort or tryptophan\n- Electroconvulsive therapy (ECT)\nMany of these combinations can increase the risk of serotonin syndrome, a potentially serious condition.\nTell your doctor if you have or have had any of the following:\n- Liver, kidney, or heart problems\n- Seizures or epilepsy\n- Bipolar disorder or mania\n- Low sodium levels in the blood\n- A stroke or high blood pressure\n- Bleeding problems\nPregnancy\nTell your healthcare provider if you are pregnant, become pregnant, or plan to become pregnant while taking fluoxetine tablets. Using fluoxetine later in pregnancy may increase the risk of complications in the newborn, including problems that need a longer hospital stay, breathing support, or tube feeding, and a serious lung condition called persistent pulmonary hypertension of the newborn (PPHN). Untreated depression also carries risks in pregnancy, so discuss the benefits and risks of treatment with your healthcare provider rather than stopping on your own.\nIf you become pregnant while taking fluoxetine tablets, ask your healthcare provider about joining the National Pregnancy Registry for Antidepressants, which tracks pregnancy outcomes in women who take these medicines. You can enroll by calling 1-866-961-2388 or visiting womensmentalhealth.org.\nBreastfeeding:\nFluoxetine passes into breast milk. Tell your healthcare provider if you are breastfeeding or plan to breastfeed, and discuss the best way to feed your baby while you are taking fluoxetine tablets. If you do breastfeed, watch your baby for agitation, irritability, poor feeding, or poor weight gain, and seek medical advice if you notice any of these."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take fluoxetine?",
+   "lines": [
+    "Take fluoxetine exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.",
+    "Swallow the delayed-release capsule whole and do not crush, chew, break, or open it.",
+    "Measure liquid medicine carefully. Use the dosing syringe provided, or use a medicine dose-measuring device (not a kitchen spoon).",
+    "It may take up to 4 weeks before your symptoms improve. Keep using the medication as directed and tell your doctor if your symptoms do not improve.",
+    "Tell your doctor if you have any changes in sexual function, such as loss of interest in sex, trouble having an orgasm, or (in men) problems with erections or ejaculation. Some sexual problems can be treated.",
+    "Do not stop using fluoxetine suddenly, or you could have unpleasant withdrawal symptoms. Ask your doctor how to safely stop using fluoxetine.",
+    "Store at room temperature away from moisture and heat."
+   ],
+   "text": "Take fluoxetine exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.\nSwallow the delayed-release capsule whole and do not crush, chew, break, or open it.\nMeasure liquid medicine carefully. Use the dosing syringe provided, or use a medicine dose-measuring device (not a kitchen spoon).\nIt may take up to 4 weeks before your symptoms improve. Keep using the medication as directed and tell your doctor if your symptoms do not improve.\nTell your doctor if you have any changes in sexual function, such as loss of interest in sex, trouble having an orgasm, or (in men) problems with erections or ejaculation. Some sexual problems can be treated.\nDo not stop using fluoxetine suddenly, or you could have unpleasant withdrawal symptoms. Ask your doctor how to safely stop using fluoxetine.\nStore at room temperature away from moisture and heat."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Fluoxetine Dosing Information",
+   "lines": [
+    "Fluoxetine (Prozac) is taken orally, and your doctor will determine the right dose for you based on your condition, age, and response to treatment. Always follow your doctor's instructions, do not change your dose or stop taking this medicine without speaking to them first.",
+    "Major Depressive Disorder (MDD):",
+    "Adults: Treatment typically starts at 20 mg once daily in the morning. Your doctor may increase the dose after several weeks if needed. The maximum dose is 80 mg/day.",
+    "Children and adolescents (aged 8 and older): Treatment starts at 10 mg or 20 mg per day. In lower-weight children, the starting dose and target dose may remain at 10 mg/day.",
+    "With all patients, the full effect of fluoxetine for depression may take 4 weeks or longer.",
+    "Obsessive Compulsive Disorder (OCD):",
+    "Adult dose: Treatment starts at 20 mg once daily in the morning and may be increased after several weeks if there is a lack of clinical improvement. The recommended dose range is 20 mg to 60 mg per day. Full therapeutic effect may take 5 weeks or longer.",
+    "Adolescents and higher-weight children (aged 7 and older): Treatment starts at 10 mg/day, increasing to 20 mg/day after 2 weeks. Additional dose increases may be considered after several more weeks if insufficient clinical improvement is observed. The recommended dose range is 20 mg to 60 mg per day.",
+    "Lower-weight children: Treatment starts at 10 mg/day with dose increases after several more weeks if there is a lack of clinical improvement. The recommended dose range of 20 mg to 30 mg per day, although experience with daily doses greater than 20 mg is very minimal,",
+    "Bulimia Nervosa:",
+    "Adult dose: The recommended dose is 60 mg once daily in the morning. Your doctor may gradually increase your dose to this level over several days. Clinical trials showed that the 60 mg dose was effective in reducing binge-eating and purging behaviors.",
+    "Panic Disorder:",
+    "Adult dose: Treatment starts at 10 mg/day, increasing to 20 mg/day after one week. Your doctor may adjust the dose after several weeks if needed. Clinical trials used a dose range of 10 mg/day to 60 mg/day, but the most commonly used dose in clinical trials was 20 mg/day.",
+    "General Dosing Notes:",
+    "- Fluoxetine is usually taken in the morning to minimize the risk of sleep disturbances",
+    "- It may take several weeks to feel the full benefit of fluoxetine, do not stop taking it without talking to your doctor first",
+    "- Your doctor will periodically reassess whether you need to continue treatment",
+    "- Older adults may need a lower dose or may take fluoxetine less frequently than younger adults",
+    "- People with liver problems may also require a lower or less frequent dose",
+    "- If you have other medical conditions or take multiple medications, your doctor may need to adjust your fluoxetine dose accordingly"
+   ],
+   "text": "Fluoxetine (Prozac) is taken orally, and your doctor will determine the right dose for you based on your condition, age, and response to treatment. Always follow your doctor's instructions, do not change your dose or stop taking this medicine without speaking to them first.\nMajor Depressive Disorder (MDD):\nAdults: Treatment typically starts at 20 mg once daily in the morning. Your doctor may increase the dose after several weeks if needed. The maximum dose is 80 mg/day.\nChildren and adolescents (aged 8 and older): Treatment starts at 10 mg or 20 mg per day. In lower-weight children, the starting dose and target dose may remain at 10 mg/day.\nWith all patients, the full effect of fluoxetine for depression may take 4 weeks or longer.\nObsessive Compulsive Disorder (OCD):\nAdult dose: Treatment starts at 20 mg once daily in the morning and may be increased after several weeks if there is a lack of clinical improvement. The recommended dose range is 20 mg to 60 mg per day. Full therapeutic effect may take 5 weeks or longer.\nAdolescents and higher-weight children (aged 7 and older): Treatment starts at 10 mg/day, increasing to 20 mg/day after 2 weeks. Additional dose increases may be considered after several more weeks if insufficient clinical improvement is observed. The recommended dose range is 20 mg to 60 mg per day.\nLower-weight children: Treatment starts at 10 mg/day with dose increases after several more weeks if there is a lack of clinical improvement. The recommended dose range of 20 mg to 30 mg per day, although experience with daily doses greater than 20 mg is very minimal,\nBulimia Nervosa:\nAdult dose: The recommended dose is 60 mg once daily in the morning. Your doctor may gradually increase your dose to this level over several days. Clinical trials showed that the 60 mg dose was effective in reducing binge-eating and purging behaviors.\nPanic Disorder:\nAdult dose: Treatment starts at 10 mg/day, increasing to 20 mg/day after one week. Your doctor may adjust the dose after several weeks if needed. Clinical trials used a dose range of 10 mg/day to 60 mg/day, but the most commonly used dose in clinical trials was 20 mg/day.\nGeneral Dosing Notes:\n- Fluoxetine is usually taken in the morning to minimize the risk of sleep disturbances\n- It may take several weeks to feel the full benefit of fluoxetine, do not stop taking it without talking to your doctor first\n- Your doctor will periodically reassess whether you need to continue treatment\n- Older adults may need a lower dose or may take fluoxetine less frequently than younger adults\n- People with liver problems may also require a lower or less frequent dose\n- If you have other medical conditions or take multiple medications, your doctor may need to adjust your fluoxetine dose accordingly"
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+   ],
+   "text": "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What to avoid",
+   "lines": [
+    "Drinking alcohol can increase certain side effects of fluoxetine.",
+    "Avoid driving or hazardous activity until you know how fluoxetine will affect you. Your reactions could be impaired."
+   ],
+   "text": "Drinking alcohol can increase certain side effects of fluoxetine.\nAvoid driving or hazardous activity until you know how fluoxetine will affect you. Your reactions could be impaired."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect fluoxetine?",
+   "lines": [
+    "Using fluoxetine with other drugs that make you drowsy can worsen this effect. Ask your doctor before using opioid medication, a sleeping pill, a muscle relaxer, or medicine for anxiety or seizures.",
+    "Ask your doctor before taking a nonsteroidal anti-inflammatory drug (NSAID) such as aspirin, ibuprofen (Advil, Motrin), naproxen (Aleve), celecoxib (Celebrex), diclofenac, indomethacin, meloxicam, and others. Using an NSAID with fluoxetine may cause you to bruise or bleed easily.",
+    "Fluoxetine can cause a serious heart problem, and your risk may be higher if you also use certain other medicines for infections, asthma, heart problems, high blood pressure, depression, mental illness, cancer, malaria, or HIV.",
+    "Tell your doctor about all your current medicines. Many drugs can affect fluoxetine, especially:",
+    "- any other antidepressant;",
+    "- St. John's Wort;",
+    "- tryptophan (sometimes called L-tryptophan);",
+    "- a blood thinner - warfarin, Coumadin, Jantoven;",
+    "- medicine to treat anxiety, mood disorders, thought disorders, or mental illness - amitriptyline, buspirone, desipramine, lithium, nortriptyline, and many others;",
+    "- medicine to treat ADHD or narcolepsy - Adderall, Concerta, Ritalin, Vyvanse, Zenzedi, and others;",
+    "- migraine headache medicine - rizatriptan, sumatriptan, zolmitriptan, and others; or",
+    "- narcotic pain medicine - fentanyl, tramadol.",
+    "This list is not complete and many other drugs may affect fluoxetine. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+   ],
+   "text": "Using fluoxetine with other drugs that make you drowsy can worsen this effect. Ask your doctor before using opioid medication, a sleeping pill, a muscle relaxer, or medicine for anxiety or seizures.\nAsk your doctor before taking a nonsteroidal anti-inflammatory drug (NSAID) such as aspirin, ibuprofen (Advil, Motrin), naproxen (Aleve), celecoxib (Celebrex), diclofenac, indomethacin, meloxicam, and others. Using an NSAID with fluoxetine may cause you to bruise or bleed easily.\nFluoxetine can cause a serious heart problem, and your risk may be higher if you also use certain other medicines for infections, asthma, heart problems, high blood pressure, depression, mental illness, cancer, malaria, or HIV.\nTell your doctor about all your current medicines. Many drugs can affect fluoxetine, especially:\n- any other antidepressant;\n- St. John's Wort;\n- tryptophan (sometimes called L-tryptophan);\n- a blood thinner - warfarin, Coumadin, Jantoven;\n- medicine to treat anxiety, mood disorders, thought disorders, or mental illness - amitriptyline, buspirone, desipramine, lithium, nortriptyline, and many others;\n- medicine to treat ADHD or narcolepsy - Adderall, Concerta, Ritalin, Vyvanse, Zenzedi, and others;\n- migraine headache medicine - rizatriptan, sumatriptan, zolmitriptan, and others; or\n- narcotic pain medicine - fentanyl, tramadol.\nThis list is not complete and many other drugs may affect fluoxetine. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Fluoxetine FAQ",
+   "lines": [
+    "Is 40mg of fluoxetine a high dose?",
+    "40mg of fluoxetine is considered a moderate maintenance dose in adults for major depressive disorder (MDD) and OCD. The standard starting dose for most conditions is 20mg per day, except for panic disorder, which starts at 10mg. If symptoms have not improved after several weeks, the dose may be increased, up to 40mg for MDD and OCD, or 20mg for panic disorder. The recommended dose for bulimia is 60mg per day. Your doctor will determine the right dose for you based on your condition and response to treatment.",
+    "Does fluoxetine cause weight gain?:",
+    "Fluoxetine is less likely to cause weight gain than many other antidepressants. In the short term, it can actually cause mild weight loss due to reduced appetite, which is one of its common side effects. However, some people do experience weight changes over longer-term use. If you notice significant weight changes while taking this medicine, speak to your doctor, as dose adjustments or alternative treatments may be available.",
+    "How long does fluoxetine take to work?:",
+    "Most people need to take fluoxetine for 4 to 6 weeks before feeling the full effects. Some improvement in sleep, appetite, or energy levels may be noticeable within the first 1 to 2 weeks, but mood and motivation typically take longer to improve. For obsessive-compulsive disorder (OCD), it may take 5 weeks or longer to see the full benefit. It is important to keep taking this medicine as prescribed, even if you do not feel immediate improvement. Do not stop without speaking to your doctor first.",
+    "Is fluoxetine a controlled substance?:",
+    "No, fluoxetine is not a controlled substance. It is not classified under the DEA Controlled Substances Act, meaning it does not have recognized potential for dependence or abuse in the way that drugs like opioids or benzodiazepines do. It is, however, a prescription-only medicine, so it still requires a valid prescription from a licensed healthcare provider.",
+    "Is fluoxetine an SSRI?:",
+    "Yes, fluoxetine is a selective serotonin reuptake inhibitor (SSRI). SSRIs work by blocking the reabsorption (reuptake) of serotonin in the brain, increasing the amount of serotonin available between nerve cells. Serotonin is a neurotransmitter that helps regulate mood, emotions, and sleep. Prozac was one of the first SSRIs approved and remains one of the most widely prescribed antidepressants worldwide.",
+    "What are the side effects of fluoxetine in females?:",
+    "Females may experience all of the common fluoxetine side effects, but some side effects are particularly relevant to women:",
+    "- Sexual side effects are common, including decreased sex drive (libido) and difficulty reaching orgasm. These can affect quality of life and should be discussed with your doctor, as treatment options are available.",
+    "- Weight changes - it may cause mild weight loss initially, though longer-term weight changes can occur.",
+    "- Menstrual changes - some women report changes to their menstrual cycle, though this is not among the most commonly reported side effects.",
+    "- Pregnancy - taking this medicine in late pregnancy may increase the risk of certain complications in newborns. Women who are pregnant, planning to become pregnant, or breastfeeding should discuss the risks and benefits with their doctor before continuing or starting this medicine.",
+    "Does fluoxetine (Prozac) help with anxiety?:",
+    "Fluoxetine is not FDA-approved specifically for generalized anxiety disorder, but it is FDA-approved to treat panic disorder, which is a type of anxiety disorder. It is also approved for obsessive-compulsive disorder (OCD), which has a significant anxiety component.",
+    "Although not FDA-approved for generalized anxiety disorder, it is sometimes prescribed off-label by doctors for anxiety symptoms, as SSRIs are a well-established treatment class for anxiety conditions. Off-label means the drug is being used in a way not specifically approved by the FDA, but supported by clinical evidence.",
+    "If you experience anxiety alongside depression, fluoxetine may help both, as it is FDA-approved for major depressive disorder and depression and anxiety commonly occur together.",
+    "Talk to your doctor about whether fluoxetine is appropriate for your anxiety symptoms.",
+    "How long does fluoxetine stay in your system?:",
+    "Fluoxetine stays in your system longer than most other antidepressants. After stopping this medicine, it takes approximately 1 to 4 days for the drug itself to be reduced by half, but fluoxetine also converts in the body to an active metabolite called norfluoxetine, which has a much longer half-life of 4 to 16 days. This means this medicine and its active metabolite can remain detectable in your system for up to 5 weeks after your last dose.",
+    "This is clinically important for two reasons:",
+    "- Switching medications: If you are switching from fluoxetine to certain other antidepressants, particularly MAOIs, your doctor will require a washout period of at least 5 weeks to allow fluoxetine to fully clear your system and avoid dangerous drug interactions.",
+    "- Stopping fluoxetine: The long half-life means withdrawal symptoms are generally milder with this medicine than with shorter-acting antidepressants, as the drug tapers itself out of your system gradually.",
+    "Always talk to your doctor before stopping fluoxetine or switching to another medication."
+   ],
+   "text": "Is 40mg of fluoxetine a high dose?\n40mg of fluoxetine is considered a moderate maintenance dose in adults for major depressive disorder (MDD) and OCD. The standard starting dose for most conditions is 20mg per day, except for panic disorder, which starts at 10mg. If symptoms have not improved after several weeks, the dose may be increased, up to 40mg for MDD and OCD, or 20mg for panic disorder. The recommended dose for bulimia is 60mg per day. Your doctor will determine the right dose for you based on your condition and response to treatment.\nDoes fluoxetine cause weight gain?:\nFluoxetine is less likely to cause weight gain than many other antidepressants. In the short term, it can actually cause mild weight loss due to reduced appetite, which is one of its common side effects. However, some people do experience weight changes over longer-term use. If you notice significant weight changes while taking this medicine, speak to your doctor, as dose adjustments or alternative treatments may be available.\nHow long does fluoxetine take to work?:\nMost people need to take fluoxetine for 4 to 6 weeks before feeling the full effects. Some improvement in sleep, appetite, or energy levels may be noticeable within the first 1 to 2 weeks, but mood and motivation typically take longer to improve. For obsessive-compulsive disorder (OCD), it may take 5 weeks or longer to see the full benefit. It is important to keep taking this medicine as prescribed, even if you do not feel immediate improvement. Do not stop without speaking to your doctor first.\nIs fluoxetine a controlled substance?:\nNo, fluoxetine is not a controlled substance. It is not classified under the DEA Controlled Substances Act, meaning it does not have recognized potential for dependence or abuse in the way that drugs like opioids or benzodiazepines do. It is, however, a prescription-only medicine, so it still requires a valid prescription from a licensed healthcare provider.\nIs fluoxetine an SSRI?:\nYes, fluoxetine is a selective serotonin reuptake inhibitor (SSRI). SSRIs work by blocking the reabsorption (reuptake) of serotonin in the brain, increasing the amount of serotonin available between nerve cells. Serotonin is a neurotransmitter that helps regulate mood, emotions, and sleep. Prozac was one of the first SSRIs approved and remains one of the most widely prescribed antidepressants worldwide.\nWhat are the side effects of fluoxetine in females?:\nFemales may experience all of the common fluoxetine side effects, but some side effects are particularly relevant to women:\n- Sexual side effects are common, including decreased sex drive (libido) and difficulty reaching orgasm. These can affect quality of life and should be discussed with your doctor, as treatment options are available.\n- Weight changes - it may cause mild weight loss initially, though longer-term weight changes can occur.\n- Menstrual changes - some women report changes to their menstrual cycle, though this is not among the most commonly reported side effects.\n- Pregnancy - taking this medicine in late pregnancy may increase the risk of certain complications in newborns. Women who are pregnant, planning to become pregnant, or breastfeeding should discuss the risks and benefits with their doctor before continuing or starting this medicine.\nDoes fluoxetine (Prozac) help with anxiety?:\nFluoxetine is not FDA-approved specifically for generalized anxiety disorder, but it is FDA-approved to treat panic disorder, which is a type of anxiety disorder. It is also approved for obsessive-compulsive disorder (OCD), which has a significant anxiety component.\nAlthough not FDA-approved for generalized anxiety disorder, it is sometimes prescribed off-label by doctors for anxiety symptoms, as SSRIs are a well-established treatment class for anxiety conditions. Off-label means the drug is being used in a way not specifically approved by the FDA, but supported by clinical evidence.\nIf you experience anxiety alongside depression, fluoxetine may help both, as it is FDA-approved for major depressive disorder and depression and anxiety commonly occur together.\nTalk to your doctor about whether fluoxetine is appropriate for your anxiety symptoms.\nHow long does fluoxetine stay in your system?:\nFluoxetine stays in your system longer than most other antidepressants. After stopping this medicine, it takes approximately 1 to 4 days for the drug itself to be reduced by half, but fluoxetine also converts in the body to an active metabolite called norfluoxetine, which has a much longer half-life of 4 to 16 days. This means this medicine and its active metabolite can remain detectable in your system for up to 5 weeks after your last dose.\nThis is clinically important for two reasons:\n- Switching medications: If you are switching from fluoxetine to certain other antidepressants, particularly MAOIs, your doctor will require a washout period of at least 5 weeks to allow fluoxetine to fully clear your system and avoid dangerous drug interactions.\n- Stopping fluoxetine: The long half-life means withdrawal symptoms are generally milder with this medicine than with shorter-acting antidepressants, as the drug tapers itself out of your system gradually.\nAlways talk to your doctor before stopping fluoxetine or switching to another medication."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: What does Prozac feel like when it starts working? A: Most people feel lower levels of anxiety, restlessness and tiredness when Prozac first starts to work. Your sleep, energy and appetite may improve over the first month and you may have a better focus on daily tasks. However, a depressed mood can take 6 to 8 weeks to fully respond to treatment.",
+    "Q: What drugs can cause serotonin syndrome? A: Common drug classes that can cause serotonin syndrome include selective serotonin reuptake inhibitors (SSRIs), monoamine oxidase inhibitors (MAOIs), and opioids like tramadol.",
+    "Q: Prozac vs Zoloft: Understanding the Differences Between Two Popular Antidepressants A: Prozac and Zoloft represent two of the most widely prescribed antidepressant medications in the United States. Both medications belong to a class of drugs known as selective serotonin reuptake inhibitors (SSRIs), which have revolutionized depression treatment since their introduction in the late 1980s and early 1990s.",
+    "Q: Is Prozac (fluoxetine) safe for dogs? A: Studies have shown fluoxetine (Prozac, Reconcile), when prescribed by your veterinarian, is usually a safe and effective medicine for dogs for the treatment of behavioral disorders like separation anxiety. It is most effective when used in conjunction with a behavior modification plan for your pet. Do not give your dog Prozac or fluoxetine unless it has been prescribed by your veterinarian."
+   ],
+   "text": "Q: What does Prozac feel like when it starts working? A: Most people feel lower levels of anxiety, restlessness and tiredness when Prozac first starts to work. Your sleep, energy and appetite may improve over the first month and you may have a better focus on daily tasks. However, a depressed mood can take 6 to 8 weeks to fully respond to treatment.\nQ: What drugs can cause serotonin syndrome? A: Common drug classes that can cause serotonin syndrome include selective serotonin reuptake inhibitors (SSRIs), monoamine oxidase inhibitors (MAOIs), and opioids like tramadol.\nQ: Prozac vs Zoloft: Understanding the Differences Between Two Popular Antidepressants A: Prozac and Zoloft represent two of the most widely prescribed antidepressant medications in the United States. Both medications belong to a class of drugs known as selective serotonin reuptake inhibitors (SSRIs), which have revolutionized depression treatment since their introduction in the late 1980s and early 1990s.\nQ: Is Prozac (fluoxetine) safe for dogs? A: Studies have shown fluoxetine (Prozac, Reconcile), when prescribed by your veterinarian, is usually a safe and effective medicine for dogs for the treatment of behavioral disorders like separation anxiety. It is most effective when used in conjunction with a behavior modification plan for your pet. Do not give your dog Prozac or fluoxetine unless it has been prescribed by your veterinarian."
+  }
+ ],
+ "rank": 19
+}

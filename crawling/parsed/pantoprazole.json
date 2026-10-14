@@ -1,0 +1,281 @@
+{
+ "name": "Pantoprazole",
+ "slug": "pantoprazole",
+ "url": "https://www.drugs.com/pantoprazole.html",
+ "title": "Pantoprazole",
+ "page_title": "Pantoprazole Uses, Dosage & Side Effects - Drugs.com",
+ "generic_name": "pantoprazole (oral/injection)",
+ "pronunciation": "pan-TOE-pra-zole",
+ "brand_names": [
+  "Protonix"
+ ],
+ "discontinued_brands": [],
+ "drug_classes": [
+  {
+   "name": "Proton pump inhibitors",
+   "slug": "proton-pump-inhibitors"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Philip Thornton, DipPharm. Last updated on Aug 25, 2026.",
+ "faq": [
+  {
+   "q": "How long does pantoprazole take to work?",
+   "a": "Pantoprazole starts to work within 2 and a half (2.5) hours – this is the time it takes for it to block the secretion of acid in the stomach - and lasts for 24 hours. Pantoprazole does not provide fast-acting relief from indigestion, acid reflux, or dyspepsia symptoms like antacids such as Tums or Maalox do, and will not treat current symptoms. It may take up to 4 weeks for pantoprazole to work properly so you may still have some symptoms during this time."
+  },
+  {
+   "q": "Pantoprazole vs. omeprazole: What's the difference between them?",
+   "a": "Pantoprazole and omeprazole are both proton pump inhibitors (PPIs) that reduce stomach acid and show similar effectiveness for healing acid‑related conditions such as erosive esophagitis. Their main differences relate to FDA‑approved uses, availability (omeprazole is OTC; pantoprazole is prescription), timing with food, and the option for intravenous (IV) pantoprazole in the hospital setting."
+  },
+  {
+   "q": "Can you take pantoprazole 40 mg twice a day?",
+   "a": "The usual dosage for pantoprazole 40mg is 40mg once a day if you are buying it without a prescription or a physician's evaluation of your symptoms. The only conditions that pantoprazole 40mg twice a day is recommended for are those characterized by excessively high gastric acid secretion such as Zollinger Ellison syndrome, and if you have these conditions then you should be under the care of a physician. Studies have shown that for reflux, dyspepsia, or GERD, dosages higher than 40mg did not offer any further significant lowering of stomach acid than 40mg dosages."
+  },
+  {
+   "q": "How long can I take pantoprazole?",
+   "a": "You should only take pantoprazole for up to 8 weeks if you are buying it without a prescription or a physician evaluation of your symptoms. This is because certain stomach symptoms that persist for more than 4 to 8 weeks should be investigated by a doctor, as they may be a sign of something more serious, such as cancer. Pantoprazole is very good at relieving and hiding serious stomach symptoms, which may make you think you don’t need to see a physician. Long-term use of pantoprazole has also been associated with vitamin B12 deficiency; low magnesium, calcium, iron, or vitamin C levels; and an increased risk of fractures of the hip, wrist, or spine. Elderly, the malnourished, or those on dialysis are more at risk."
+  },
+  {
+   "q": "Does pantoprazole cause bloating?",
+   "a": "Bloating has been reported as a side effect of regular pantoprazole use. One study reported bloating in 43% of patients taking a similar proton pump inhibitor to pantoprazole (called esomeprazole) after 8 weeks. By 6 months, over 50% reporting bloating. Other similar side effects reported with pantoprazole that also can have bloating as a side effect include flatulence, abdominal pain, and diarrhea. Symptoms of bloating include tightness, fullness, or swelling of your stomach area."
+  },
+  {
+   "q": "When should you take pantoprazole?",
+   "a": "Pantoprazole is usually taken once daily, 30 minutes before a meal. It is most often taken before breakfast to control acid and relieve GERD or heartburn symptoms. It may be taken with or without food, but taking it on an empty stomach before eating helps it work more effectively."
+  },
+  {
+   "q": "Can pantoprazole cause anxiety?",
+   "a": "Pantoprazole is not known to commonly cause anxiety, and most people take it without experiencing mood or anxiety symptoms. However, anxiety can be a symptom of low vitamin B12 levels which is a long-term complication of pantoprazole treatment."
+  }
+ ],
+ "description": "Pantoprazole is a proton pump inhibitor used to treat GERD, erosive esophagitis, and Zollinger-Ellison syndrome by reducing stomach acid production.",
+ "date_modified": "2026-08-25",
+ "reviewed_by": "Philip Thornton",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Protonix",
+   "slug": "protonix",
+   "blurb": "Protonix (pantoprazole) is used to treat erosive esophagitis and other conditions involving excess..."
+  },
+  {
+   "name": "Nexium",
+   "slug": "nexium",
+   "blurb": "Nexium is used to treat GERD and other conditions involving excessive stomach acid. Learn about..."
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Prilosec",
+   "slug": "prilosec",
+   "blurb": "Prilosec (omeprazole) is used to treat symptoms of GERD and other conditions caused by excess..."
+  },
+  {
+   "name": "Dexilant",
+   "slug": "mtm/dexilant",
+   "blurb": "Dexilant is used for barrett's esophagus, erosive esophagitis, GERD"
+  },
+  {
+   "name": "Aciphex",
+   "slug": "aciphex",
+   "blurb": "Aciphex is used to treat gastroesophageal reflux disease (GERD) and other conditions involving..."
+  },
+  {
+   "name": "Prevacid",
+   "slug": "prevacid",
+   "blurb": "Prevacid is used to treat and prevent stomach and intestinal ulcers. Learn about side effects..."
+  },
+  {
+   "name": "Dexlansoprazole",
+   "slug": "mtm/dexlansoprazole",
+   "blurb": "Dexlansoprazole is used for barrett's esophagus, erosive esophagitis, GERD"
+  },
+  {
+   "name": "Rabeprazole",
+   "slug": "mtm/rabeprazole",
+   "blurb": "Rabeprazole is used for barrett's esophagus, duodenal ulcer, duodenal ulcer prophylaxis, erosive..."
+  },
+  {
+   "name": "Lansoprazole",
+   "slug": "lansoprazole",
+   "blurb": "Lansoprazole is used to treat stomach and intestinal ulcers, erosive esophagitis and..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is pantoprazole?",
+   "lines": [
+    "Pantoprazole is a proton pump inhibitor that decreases the amount of acid produced in the stomach.",
+    "Pantoprazole is used to treat erosive esophagitis (damage to the esophagus from stomach acid caused by gastroesophageal reflux disease, or GERD) in adults and children who are at least 5 years old. Pantoprazole is usually given for up to 8 weeks at a time while your esophagus heals.",
+    "Pantoprazole is also used to treat Zollinger-Ellison syndrome and other conditions involving excess stomach acid."
+   ],
+   "text": "Pantoprazole is a proton pump inhibitor that decreases the amount of acid produced in the stomach.\nPantoprazole is used to treat erosive esophagitis (damage to the esophagus from stomach acid caused by gastroesophageal reflux disease, or GERD) in adults and children who are at least 5 years old. Pantoprazole is usually given for up to 8 weeks at a time while your esophagus heals.\nPantoprazole is also used to treat Zollinger-Ellison syndrome and other conditions involving excess stomach acid."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Pantoprazole is not for the immediate relief of heartburn symptoms.",
+    "Heartburn is often confused with the first symptoms of a heart attack. Seek emergency medical attention if you have chest pain or heavy feeling, pain spreading to the arm or shoulder, nausea, sweating, and a general ill feeling.",
+    "Long-term treatment with pantoprazole may also make it harder for your body to absorb vitamin B-12, resulting in a deficiency of this vitamin. Talk with your doctor if you need long-term pantoprazole treatment and you have concerns about vitamin B-12 deficiency.",
+    "Pantoprazole can cause kidney problems. Tell your doctor if you are urinating less than usual, or if you have blood in your urine.",
+    "Diarrhea may be a sign of a new infection. Call your doctor if you have diarrhea that is watery or has blood in it.",
+    "Pantoprazole may cause new or worsening symptoms of lupus. Tell your doctor if you have joint pain and a skin rash on your cheeks or arms that worsens in sunlight.",
+    "You may be more likely to have a broken bone while taking this medicine long term or more than once per day."
+   ],
+   "text": "Pantoprazole is not for the immediate relief of heartburn symptoms.\nHeartburn is often confused with the first symptoms of a heart attack. Seek emergency medical attention if you have chest pain or heavy feeling, pain spreading to the arm or shoulder, nausea, sweating, and a general ill feeling.\nLong-term treatment with pantoprazole may also make it harder for your body to absorb vitamin B-12, resulting in a deficiency of this vitamin. Talk with your doctor if you need long-term pantoprazole treatment and you have concerns about vitamin B-12 deficiency.\nPantoprazole can cause kidney problems. Tell your doctor if you are urinating less than usual, or if you have blood in your urine.\nDiarrhea may be a sign of a new infection. Call your doctor if you have diarrhea that is watery or has blood in it.\nPantoprazole may cause new or worsening symptoms of lupus. Tell your doctor if you have joint pain and a skin rash on your cheeks or arms that worsens in sunlight.\nYou may be more likely to have a broken bone while taking this medicine long term or more than once per day."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "Heartburn can mimic early symptoms of a heart attack. Get emergency medical help if you have chest pain that spreads to your jaw or shoulder and you feel anxious or light-headed.",
+    "You should not use this medicine if:",
+    "- you also take medicine that contains rilpivirine (Edurant, Complera, Juluca, Odefsey);",
+    "- if you had breathing problems, kidney problems, or a severe allergic reaction after taking pantoprazole in the past; or",
+    "- you are allergic to pantoprazole or similar medicines (lansoprazole, omeprazole, Nexium, Prevacid, Prilosec, and others).",
+    "Tell your doctor if you have ever had:",
+    "- low levels of magnesium, calcium, or potassium in your blood;",
+    "- lupus; or",
+    "- osteoporosis or low bone mineral density.",
+    "You may be more likely to have a broken bone while using pantoprazole long-term or more than once per day. Talk with your doctor about ways to keep your bones healthy, especially if you are an adult over 50.",
+    "This medicine may harm an unborn baby. Tell your doctor if you are pregnant or plan to become pregnant.",
+    "Pantoprazole can pass into breast milk. Talk with your doctor about the best way to feed your baby if you take this medicine.",
+    "Pantoprazole is not approved for use by anyone younger than 5 years old."
+   ],
+   "text": "Heartburn can mimic early symptoms of a heart attack. Get emergency medical help if you have chest pain that spreads to your jaw or shoulder and you feel anxious or light-headed.\nYou should not use this medicine if:\n- you also take medicine that contains rilpivirine (Edurant, Complera, Juluca, Odefsey);\n- if you had breathing problems, kidney problems, or a severe allergic reaction after taking pantoprazole in the past; or\n- you are allergic to pantoprazole or similar medicines (lansoprazole, omeprazole, Nexium, Prevacid, Prilosec, and others).\nTell your doctor if you have ever had:\n- low levels of magnesium, calcium, or potassium in your blood;\n- lupus; or\n- osteoporosis or low bone mineral density.\nYou may be more likely to have a broken bone while using pantoprazole long-term or more than once per day. Talk with your doctor about ways to keep your bones healthy, especially if you are an adult over 50.\nThis medicine may harm an unborn baby. Tell your doctor if you are pregnant or plan to become pregnant.\nPantoprazole can pass into breast milk. Talk with your doctor about the best way to feed your baby if you take this medicine.\nPantoprazole is not approved for use by anyone younger than 5 years old."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I use pantoprazole?",
+   "lines": [
+    "Take pantoprazole exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Use the medicine exactly as directed.",
+    "Use the lowest dose for the shortest amount of time needed to treat your condition.",
+    "Pantoprazole is taken by mouth (oral) or given as an infusion into a vein (injection). A healthcare provider may teach you how to properly use the injection by yourself.",
+    "Pantoprazole tablets are taken by mouth, with or without food. The oral granules should be taken 30 minutes before a meal.",
+    "Do not crush, chew, or break the tablet or oral granules. Swallow the tablet whole.",
+    "The oral granules should be mixed with applesauce or apple juice when taken by mouth. If giving through a nasogastric (NG) or gastrostomy tube, mix only with apple juice.",
+    "Read and carefully follow any Instructions for Use provided with your medicine. Ask your doctor or pharmacist if you have any questions.",
+    "Use this medicine for the full prescribed length of time, even if your symptoms quickly improve.",
+    "Call your doctor if your symptoms do not improve or if they get worse while you are using this medicine.",
+    "Pantoprazole can cause false results with certain medical tests. Tell the doctor or laboratory staff that you are using this medicine.",
+    "Pantoprazole may also affect a drug-screening urine test and you may have false results. Tell the laboratory staff that you use this medicine.",
+    "Store this medicine at room temperature away from moisture, heat, and light."
+   ],
+   "text": "Take pantoprazole exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Use the medicine exactly as directed.\nUse the lowest dose for the shortest amount of time needed to treat your condition.\nPantoprazole is taken by mouth (oral) or given as an infusion into a vein (injection). A healthcare provider may teach you how to properly use the injection by yourself.\nPantoprazole tablets are taken by mouth, with or without food. The oral granules should be taken 30 minutes before a meal.\nDo not crush, chew, or break the tablet or oral granules. Swallow the tablet whole.\nThe oral granules should be mixed with applesauce or apple juice when taken by mouth. If giving through a nasogastric (NG) or gastrostomy tube, mix only with apple juice.\nRead and carefully follow any Instructions for Use provided with your medicine. Ask your doctor or pharmacist if you have any questions.\nUse this medicine for the full prescribed length of time, even if your symptoms quickly improve.\nCall your doctor if your symptoms do not improve or if they get worse while you are using this medicine.\nPantoprazole can cause false results with certain medical tests. Tell the doctor or laboratory staff that you are using this medicine.\nPantoprazole may also affect a drug-screening urine test and you may have false results. Tell the laboratory staff that you use this medicine.\nStore this medicine at room temperature away from moisture, heat, and light."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Dosing information",
+   "lines": [
+    "Usual Adult Dose for Erosive Esophagitis:",
+    "Treatment of Erosive Esophagitis: 40 mg orally once a day for up to 8 weeks; however an additional 8 weeks may be considered for patients who have not healed after the initial treatment. Safety and efficacy beyond 16 weeks of therapy have not been established. Maintenance of Healing of Erosive Esophagitis: 40 mg orally once a day. Controlled studies have been limited to 12 months of pantoprazole therapy.",
+    "Usual Adult Dose for Gastroesophageal Reflux Disease:",
+    "Parenteral: 40 mg once a day for 7 to 10 days, administered via intravenous infusion over a period of 15 minutes. Intravenous therapy should be discontinued as soon as the patient is able to resume oral therapy. Oral: 40 mg orally once a day, for short-term administration (up to 8 weeks); however an additional 8 weeks may be considered for patients who have not healed after the initial treatment. Safety and efficacy beyond 16 weeks of therapy have not been established.",
+    "Usual Adult Dose for Duodenal Ulcer:",
+    "Study (n=54) 40 mg orally once a day, dose was increased every 12 weeks by 40 mg increments to a maximum of 120 mg per day, for 28 weeks. Data have revealed that monotherapy with daily doses of 40 mg have been associated with complete duodenal ulcer healing in up to 87% and 94% of patients after 4 weeks and 8 weeks respectively.",
+    "Usual Adult Dose for Gastric Ulcer:",
+    "40 mg orally once a day. Data have revealed that monotherapy with daily doses of 40 mg have been associated with complete gastric ulcer healing in up to 87% and 97% of patients after 4 weeks and 8 weeks respectively.",
+    "Usual Adult Dose for Helicobacter pylori Infection:",
+    "Study (n=242) - Triple therapy: 40 mg orally twice daily for 7 days, commonly in conjunction with clarithromycin and either amoxicillin or metronidazole to eradicate Helicobacter pylori, followed with 40 mg pantoprazole orally once daily until day 28. Triple therapy has resulted in eradication rates of greater than 95%. The QUADRATE Study (n=405) - Quadruple therapy: 40 mg orally twice daily for 7 days, concomitantly with bismuth subcitrate and tetracycline, both four times daily, and metronidazole 200 mg three times daily and 400 mg at bedtime. Helicobacter Pylori eradication was achieved in 82% of patients.",
+    "Usual Adult Dose for Zollinger-Ellison Syndrome:",
+    "Parenteral: 80 mg every 12 hours, administered by 15-minute infusion. Daily doses higher than 240 mg administered in equally divided doses by 15-minute infusion, or administered for more than 6 days have not been studied. Oral: 40 mg twice daily, to a maximum of 240 mg per day. Some patients have received treatment with pantoprazole for more than 2 years.",
+    "Usual Adult Dose for Stress Ulcer Prophylaxis:",
+    "Study (n=21) - Stress Ulcer bleeding prophylaxis in the Critical Care Setting: 80 mg twice daily, as a bolus infusion over a period of 15 minutes, to a maximum daily dose of 240 mg, divided into three equal doses. Study (n=20) - Peptic Ulcer rebleeding prophylaxis after hemostasis in the Critical Care Setting: 80 mg IV bolus, followed by continuous infusion of 8 mg/hr for 3 days, after which therapy may be continued with an oral PPI.",
+    "Usual Adult Dose for Peptic Ulcer:",
+    "Study (n=21) - Stress Ulcer bleeding prophylaxis in the Critical Care Setting: 80 mg twice daily, as a bolus infusion over a period of 15 minutes, to a maximum daily dose of 240 mg, divided into three equal doses. Study (n=20) - Peptic Ulcer rebleeding prophylaxis after hemostasis in the Critical Care Setting: 80 mg IV bolus, followed by continuous infusion of 8 mg/hr for 3 days, after which therapy may be continued with an oral PPI."
+   ],
+   "text": "Usual Adult Dose for Erosive Esophagitis:\nTreatment of Erosive Esophagitis: 40 mg orally once a day for up to 8 weeks; however an additional 8 weeks may be considered for patients who have not healed after the initial treatment. Safety and efficacy beyond 16 weeks of therapy have not been established. Maintenance of Healing of Erosive Esophagitis: 40 mg orally once a day. Controlled studies have been limited to 12 months of pantoprazole therapy.\nUsual Adult Dose for Gastroesophageal Reflux Disease:\nParenteral: 40 mg once a day for 7 to 10 days, administered via intravenous infusion over a period of 15 minutes. Intravenous therapy should be discontinued as soon as the patient is able to resume oral therapy. Oral: 40 mg orally once a day, for short-term administration (up to 8 weeks); however an additional 8 weeks may be considered for patients who have not healed after the initial treatment. Safety and efficacy beyond 16 weeks of therapy have not been established.\nUsual Adult Dose for Duodenal Ulcer:\nStudy (n=54) 40 mg orally once a day, dose was increased every 12 weeks by 40 mg increments to a maximum of 120 mg per day, for 28 weeks. Data have revealed that monotherapy with daily doses of 40 mg have been associated with complete duodenal ulcer healing in up to 87% and 94% of patients after 4 weeks and 8 weeks respectively.\nUsual Adult Dose for Gastric Ulcer:\n40 mg orally once a day. Data have revealed that monotherapy with daily doses of 40 mg have been associated with complete gastric ulcer healing in up to 87% and 97% of patients after 4 weeks and 8 weeks respectively.\nUsual Adult Dose for Helicobacter pylori Infection:\nStudy (n=242) - Triple therapy: 40 mg orally twice daily for 7 days, commonly in conjunction with clarithromycin and either amoxicillin or metronidazole to eradicate Helicobacter pylori, followed with 40 mg pantoprazole orally once daily until day 28. Triple therapy has resulted in eradication rates of greater than 95%. The QUADRATE Study (n=405) - Quadruple therapy: 40 mg orally twice daily for 7 days, concomitantly with bismuth subcitrate and tetracycline, both four times daily, and metronidazole 200 mg three times daily and 400 mg at bedtime. Helicobacter Pylori eradication was achieved in 82% of patients.\nUsual Adult Dose for Zollinger-Ellison Syndrome:\nParenteral: 80 mg every 12 hours, administered by 15-minute infusion. Daily doses higher than 240 mg administered in equally divided doses by 15-minute infusion, or administered for more than 6 days have not been studied. Oral: 40 mg twice daily, to a maximum of 240 mg per day. Some patients have received treatment with pantoprazole for more than 2 years.\nUsual Adult Dose for Stress Ulcer Prophylaxis:\nStudy (n=21) - Stress Ulcer bleeding prophylaxis in the Critical Care Setting: 80 mg twice daily, as a bolus infusion over a period of 15 minutes, to a maximum daily dose of 240 mg, divided into three equal doses. Study (n=20) - Peptic Ulcer rebleeding prophylaxis after hemostasis in the Critical Care Setting: 80 mg IV bolus, followed by continuous infusion of 8 mg/hr for 3 days, after which therapy may be continued with an oral PPI.\nUsual Adult Dose for Peptic Ulcer:\nStudy (n=21) - Stress Ulcer bleeding prophylaxis in the Critical Care Setting: 80 mg twice daily, as a bolus infusion over a period of 15 minutes, to a maximum daily dose of 240 mg, divided into three equal doses. Study (n=20) - Peptic Ulcer rebleeding prophylaxis after hemostasis in the Critical Care Setting: 80 mg IV bolus, followed by continuous infusion of 8 mg/hr for 3 days, after which therapy may be continued with an oral PPI."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Use the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not use two doses at one time."
+   ],
+   "text": "Use the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not use two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while using pantoprazole?",
+   "lines": [
+    "This medicine can cause diarrhea, which may be a sign of a new infection. If you have diarrhea that is watery or bloody, call your doctor. Do not use anti-diarrhea medicine unless your doctor tells you to."
+   ],
+   "text": "This medicine can cause diarrhea, which may be a sign of a new infection. If you have diarrhea that is watery or bloody, call your doctor. Do not use anti-diarrhea medicine unless your doctor tells you to."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Pantoprazole side effects",
+   "lines": [
+    "Get emergency medical help if you have signs of an allergic reaction to pantoprazole: hives; difficulty breathing; swelling of your face, lips, tongue, or throat.",
+    "Call your doctor at once if you have:",
+    "- severe stomach pain, diarrhea that is watery or bloody;",
+    "- sudden pain or trouble moving your hip, wrist, or back;",
+    "- bruising or swelling where intravenous pantoprazole was injected;",
+    "- kidney problems - fever, rash, nausea, loss of appetite, joint pain, urinating less than usual, blood in your urine, weight gain;",
+    "- low magnesium - dizziness, fast or irregular heart rate, tremors (shaking) or jerking muscle movements, feeling jittery, muscle cramps, muscle spasms in your hands and feet, cough or choking feeling; or",
+    "- new or worsening symptoms of lupus - joint pain, and a skin rash on your cheeks or arms that worsens in sunlight.",
+    "- severe skin reactions - fever, chills, body aches, shortness of breath, enlarged lymph nodes, or a skin rash that blisters, peels, or bleeds;",
+    "Taking pantoprazole long-term may cause you to develop stomach growths called fundic gland polyps. Talk with your doctor about this risk.",
+    "If you use pantoprazole for longer than 3 years, you could develop a vitamin B-12 deficiency. Talk to your doctor about how to manage this condition if you develop it.",
+    "Common pantoprazole side effects may include:",
+    "- headache, dizziness;",
+    "- stomach pain, gas, nausea, vomiting, diarrhea;",
+    "- joint pain; or",
+    "- fever, rash, or cold symptoms (most common in children).",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have signs of an allergic reaction to pantoprazole: hives; difficulty breathing; swelling of your face, lips, tongue, or throat.\nCall your doctor at once if you have:\n- severe stomach pain, diarrhea that is watery or bloody;\n- sudden pain or trouble moving your hip, wrist, or back;\n- bruising or swelling where intravenous pantoprazole was injected;\n- kidney problems - fever, rash, nausea, loss of appetite, joint pain, urinating less than usual, blood in your urine, weight gain;\n- low magnesium - dizziness, fast or irregular heart rate, tremors (shaking) or jerking muscle movements, feeling jittery, muscle cramps, muscle spasms in your hands and feet, cough or choking feeling; or\n- new or worsening symptoms of lupus - joint pain, and a skin rash on your cheeks or arms that worsens in sunlight.\n- severe skin reactions - fever, chills, body aches, shortness of breath, enlarged lymph nodes, or a skin rash that blisters, peels, or bleeds;\nTaking pantoprazole long-term may cause you to develop stomach growths called fundic gland polyps. Talk with your doctor about this risk.\nIf you use pantoprazole for longer than 3 years, you could develop a vitamin B-12 deficiency. Talk to your doctor about how to manage this condition if you develop it.\nCommon pantoprazole side effects may include:\n- headache, dizziness;\n- stomach pain, gas, nausea, vomiting, diarrhea;\n- joint pain; or\n- fever, rash, or cold symptoms (most common in children).\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect pantoprazole?",
+   "lines": [
+    "Tell your doctor about all your other medicines. Some may interact with pantoprazole, especially:",
+    "- digoxin;",
+    "- methotrexate; or",
+    "- a diuretic or \"water pill.\"",
+    "This list is not complete. Other drugs may affect pantoprazole, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+   ],
+   "text": "Tell your doctor about all your other medicines. Some may interact with pantoprazole, especially:\n- digoxin;\n- methotrexate; or\n- a diuretic or \"water pill.\"\nThis list is not complete. Other drugs may affect pantoprazole, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: How long does pantoprazole take to work? A: Pantoprazole starts to work within 2 and a half (2.5) hours – this is the time it takes for it to block the secretion of acid in the stomach - and lasts for 24 hours. Pantoprazole does not provide fast-acting relief from indigestion, acid reflux, or dyspepsia symptoms like antacids such as Tums or Maalox do, and will not treat current symptoms. It may take up to 4 weeks for pantoprazole to work properly so you may still have some symptoms during this time.",
+    "Q: Pantoprazole vs. omeprazole: What's the difference between them? A: Pantoprazole and omeprazole are both proton pump inhibitors (PPIs) that reduce stomach acid and show similar effectiveness for healing acid‑related conditions such as erosive esophagitis. Their main differences relate to FDA‑approved uses, availability (omeprazole is OTC; pantoprazole is prescription), timing with food, and the option for intravenous (IV) pantoprazole in the hospital setting.",
+    "Q: Can you take pantoprazole 40 mg twice a day? A: The usual dosage for pantoprazole 40mg is 40mg once a day if you are buying it without a prescription or a physician's evaluation of your symptoms. The only conditions that pantoprazole 40mg twice a day is recommended for are those characterized by excessively high gastric acid secretion such as Zollinger Ellison syndrome, and if you have these conditions then you should be under the care of a physician. Studies have shown that for reflux, dyspepsia, or GERD, dosages higher than 40mg did not offer any further significant lowering of stomach acid than 40mg dosages.",
+    "Q: How long can I take pantoprazole? A: You should only take pantoprazole for up to 8 weeks if you are buying it without a prescription or a physician evaluation of your symptoms. This is because certain stomach symptoms that persist for more than 4 to 8 weeks should be investigated by a doctor, as they may be a sign of something more serious, such as cancer. Pantoprazole is very good at relieving and hiding serious stomach symptoms, which may make you think you don’t need to see a physician. Long-term use of pantoprazole has also been associated with vitamin B12 deficiency; low magnesium, calcium, iron, or vitamin C levels; and an increased risk of fractures of the hip, wrist, or spine. Elderly, the malnourished, or those on dialysis are more at risk.",
+    "Q: Does pantoprazole cause bloating? A: Bloating has been reported as a side effect of regular pantoprazole use. One study reported bloating in 43% of patients taking a similar proton pump inhibitor to pantoprazole (called esomeprazole) after 8 weeks. By 6 months, over 50% reporting bloating. Other similar side effects reported with pantoprazole that also can have bloating as a side effect include flatulence, abdominal pain, and diarrhea. Symptoms of bloating include tightness, fullness, or swelling of your stomach area.",
+    "Q: When should you take pantoprazole? A: Pantoprazole is usually taken once daily, 30 minutes before a meal. It is most often taken before breakfast to control acid and relieve GERD or heartburn symptoms. It may be taken with or without food, but taking it on an empty stomach before eating helps it work more effectively.",
+    "Q: Can pantoprazole cause anxiety? A: Pantoprazole is not known to commonly cause anxiety, and most people take it without experiencing mood or anxiety symptoms. However, anxiety can be a symptom of low vitamin B12 levels which is a long-term complication of pantoprazole treatment."
+   ],
+   "text": "Q: How long does pantoprazole take to work? A: Pantoprazole starts to work within 2 and a half (2.5) hours – this is the time it takes for it to block the secretion of acid in the stomach - and lasts for 24 hours. Pantoprazole does not provide fast-acting relief from indigestion, acid reflux, or dyspepsia symptoms like antacids such as Tums or Maalox do, and will not treat current symptoms. It may take up to 4 weeks for pantoprazole to work properly so you may still have some symptoms during this time.\nQ: Pantoprazole vs. omeprazole: What's the difference between them? A: Pantoprazole and omeprazole are both proton pump inhibitors (PPIs) that reduce stomach acid and show similar effectiveness for healing acid‑related conditions such as erosive esophagitis. Their main differences relate to FDA‑approved uses, availability (omeprazole is OTC; pantoprazole is prescription), timing with food, and the option for intravenous (IV) pantoprazole in the hospital setting.\nQ: Can you take pantoprazole 40 mg twice a day? A: The usual dosage for pantoprazole 40mg is 40mg once a day if you are buying it without a prescription or a physician's evaluation of your symptoms. The only conditions that pantoprazole 40mg twice a day is recommended for are those characterized by excessively high gastric acid secretion such as Zollinger Ellison syndrome, and if you have these conditions then you should be under the care of a physician. Studies have shown that for reflux, dyspepsia, or GERD, dosages higher than 40mg did not offer any further significant lowering of stomach acid than 40mg dosages.\nQ: How long can I take pantoprazole? A: You should only take pantoprazole for up to 8 weeks if you are buying it without a prescription or a physician evaluation of your symptoms. This is because certain stomach symptoms that persist for more than 4 to 8 weeks should be investigated by a doctor, as they may be a sign of something more serious, such as cancer. Pantoprazole is very good at relieving and hiding serious stomach symptoms, which may make you think you don’t need to see a physician. Long-term use of pantoprazole has also been associated with vitamin B12 deficiency; low magnesium, calcium, iron, or vitamin C levels; and an increased risk of fractures of the hip, wrist, or spine. Elderly, the malnourished, or those on dialysis are more at risk.\nQ: Does pantoprazole cause bloating? A: Bloating has been reported as a side effect of regular pantoprazole use. One study reported bloating in 43% of patients taking a similar proton pump inhibitor to pantoprazole (called esomeprazole) after 8 weeks. By 6 months, over 50% reporting bloating. Other similar side effects reported with pantoprazole that also can have bloating as a side effect include flatulence, abdominal pain, and diarrhea. Symptoms of bloating include tightness, fullness, or swelling of your stomach area.\nQ: When should you take pantoprazole? A: Pantoprazole is usually taken once daily, 30 minutes before a meal. It is most often taken before breakfast to control acid and relieve GERD or heartburn symptoms. It may be taken with or without food, but taking it on an empty stomach before eating helps it work more effectively.\nQ: Can pantoprazole cause anxiety? A: Pantoprazole is not known to commonly cause anxiety, and most people take it without experiencing mood or anxiety symptoms. However, anxiety can be a symptom of low vitamin B12 levels which is a long-term complication of pantoprazole treatment."
+  }
+ ],
+ "rank": 16
+}

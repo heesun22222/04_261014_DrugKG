@@ -1,0 +1,254 @@
+{
+ "name": "Losartan",
+ "slug": "losartan",
+ "url": "https://www.drugs.com/losartan.html",
+ "title": "Losartan",
+ "page_title": "Losartan: Uses, Dosage, Side Effects, Warnings - Drugs.com",
+ "generic_name": "losartan",
+ "pronunciation": "loe-SAR-tan",
+ "brand_names": [
+  "Cozaar",
+  "Arbli"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "oral tablet",
+   "strengths": [
+    "100 mg",
+    "25 mg",
+    "50 mg"
+   ]
+  },
+  {
+   "form": "oral suspension",
+   "strengths": [
+    "10 mg/mL"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Angiotensin receptor blockers",
+   "slug": "angiotensin-ii-inhibitors"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Aug 13, 2026.",
+ "faq": [
+  {
+   "q": "Can you eat bananas when taking losartan?",
+   "a": "Most people taking losartan can eat bananas, or any other food naturally high in potassium. But people with poor kidney function, heart failure, a history of high potassium, or who also take certain diuretics, such as spironolactone, should be cautious about eating foods high in potassium and ask their doctor to monitor their potassium levels."
+  },
+  {
+   "q": "Does Losartan block COVID-19 Coronavirus Receptors?",
+   "a": "Losartan (Cozaar) does not directly block SARS-CoV-2 coronavirus receptors, but this angiotensin receptor blocker (ARB), may influence COVID-19 outcomes through its effects on the renin-angiotensin-aldosterone system (RAAS). Losartan works by blocking angiotensin II from binding to angiotensin II type 1 receptors (AT1) in the heart, blood vessels, kidneys, and lungs, reducing the activity of RAAS, which lowers blood pressure and may modulate the inflammatory response."
+  }
+ ],
+ "description": "Losartan is used to treat high blood pressure (hypertension). It is also used to lower the risk of stroke in certain people with heart disease.",
+ "date_modified": "2026-08-13",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Valsartan",
+   "slug": "valsartan",
+   "blurb": "Valsartan is an angiotensin II receptor blocker (ARB) that may be used to treat high blood pressure..."
+  },
+  {
+   "name": "Enalapril",
+   "slug": "enalapril",
+   "blurb": "Enalapril is used to treat high blood pressure, congestive heart failure and to improve survival..."
+  },
+  {
+   "name": "Skyrizi",
+   "slug": "skyrizi",
+   "blurb": "Skyrizi (risankizumab) is an injection used to treat plaque psoriasis, psoriatic arthritis..."
+  },
+  {
+   "name": "Atenolol",
+   "slug": "atenolol",
+   "blurb": "Atenolol is used to treat angina (chest pain) and hypertension (high blood pressure). Learn about..."
+  },
+  {
+   "name": "Lasix",
+   "slug": "lasix",
+   "blurb": "Lasix is a loop diuretic used to treat fluid retention from heart, liver, or kidney conditions, and..."
+  },
+  {
+   "name": "Hydrochlorothiazide",
+   "slug": "hydrochlorothiazide",
+   "blurb": "Hydrochlorothiazide treats fluid retention (edema) in people with congestive heart failure..."
+  },
+  {
+   "name": "Metoprolol",
+   "slug": "metoprolol",
+   "blurb": "Metoprolol is used to treat angina (chest pain) and hypertension (high blood pressure). Learn about..."
+  },
+  {
+   "name": "Furosemide",
+   "slug": "furosemide",
+   "blurb": "Furosemide is a loop diuretic used to treat fluid retention and high blood pressure by increasing..."
+  },
+  {
+   "name": "Lisinopril",
+   "slug": "lisinopril",
+   "blurb": "Lisinopril is an ACE inhibitor. It is used to treat high blood pressure, congestive heart failure..."
+  },
+  {
+   "name": "Amlodipine",
+   "slug": "amlodipine",
+   "blurb": "Amlodipine is a calcium channel blocker used to treat high blood pressure and angina by relaxing..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is losartan?",
+   "lines": [
+    "Losartan is used alone or in combination with other medications to treat high blood pressure in adults and children at least 6 years old.",
+    "Losartan is also used to decrease the risk of stroke in people who have high blood pressure and a heart condition called left ventricular hypertrophy (enlargement of the walls of the left side of the heart).",
+    "Losartan may not decrease the risk of stroke in African Americans who have these conditions.",
+    "Losartan is also used to treat kidney disease in people who have type 2 diabetes (condition in which the body does not use insulin normally and therefore cannot control the amount of sugar in the blood) and high blood pressure.",
+    "Losartan belongs to a class of medications called angiotensin II receptor antagonists. It works by blocking the action of certain natural substances that tighten the blood vessels, allowing the blood to flow more smoothly and the heart to pump more efficiently."
+   ],
+   "text": "Losartan is used alone or in combination with other medications to treat high blood pressure in adults and children at least 6 years old.\nLosartan is also used to decrease the risk of stroke in people who have high blood pressure and a heart condition called left ventricular hypertrophy (enlargement of the walls of the left side of the heart).\nLosartan may not decrease the risk of stroke in African Americans who have these conditions.\nLosartan is also used to treat kidney disease in people who have type 2 diabetes (condition in which the body does not use insulin normally and therefore cannot control the amount of sugar in the blood) and high blood pressure.\nLosartan belongs to a class of medications called angiotensin II receptor antagonists. It works by blocking the action of certain natural substances that tighten the blood vessels, allowing the blood to flow more smoothly and the heart to pump more efficiently."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Do not use losartan if you are pregnant, and tell your doctor right away if you become pregnant. It can cause injury or death to the unborn baby.",
+    "If you have diabetes, do not use losartan together with any medication that contains aliskiren (a blood pressure medicine).",
+    "You may also need to avoid taking losartan with aliskiren if you have kidney disease.",
+    "In rare cases, this medicine can cause a condition that results in the breakdown of skeletal muscle tissue, leading to kidney failure. Call your doctor right away if you have unexplained muscle pain, tenderness, or weakness especially if you also have fever, unusual tiredness, and dark colored urine."
+   ],
+   "text": "Do not use losartan if you are pregnant, and tell your doctor right away if you become pregnant. It can cause injury or death to the unborn baby.\nIf you have diabetes, do not use losartan together with any medication that contains aliskiren (a blood pressure medicine).\nYou may also need to avoid taking losartan with aliskiren if you have kidney disease.\nIn rare cases, this medicine can cause a condition that results in the breakdown of skeletal muscle tissue, leading to kidney failure. Call your doctor right away if you have unexplained muscle pain, tenderness, or weakness especially if you also have fever, unusual tiredness, and dark colored urine."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not use losartan if you are allergic to it.",
+    "If you have diabetes, do not take losartan with any medication that contains aliskiren (a blood pressure medicine).",
+    "To make sure this medicine is safe for you, tell your doctor if you have ever had:",
+    "- heart disease or congestive heart failure;",
+    "- an electrolyte imbalance (such as high levels of potassium in your blood);",
+    "- if you are on a low-salt diet;",
+    "- liver disease; or",
+    "- kidney disease.",
+    "You may also need to avoid taking losartan with aliskiren if you have kidney disease.",
+    "Stop using this medicine and tell your doctor right away if you become pregnant. Losartan can cause injury or death to the unborn baby.",
+    "You should not breastfeed while using this medicine and for 2 days after your last dose."
+   ],
+   "text": "You should not use losartan if you are allergic to it.\nIf you have diabetes, do not take losartan with any medication that contains aliskiren (a blood pressure medicine).\nTo make sure this medicine is safe for you, tell your doctor if you have ever had:\n- heart disease or congestive heart failure;\n- an electrolyte imbalance (such as high levels of potassium in your blood);\n- if you are on a low-salt diet;\n- liver disease; or\n- kidney disease.\nYou may also need to avoid taking losartan with aliskiren if you have kidney disease.\nStop using this medicine and tell your doctor right away if you become pregnant. Losartan can cause injury or death to the unborn baby.\nYou should not breastfeed while using this medicine and for 2 days after your last dose."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take losartan?",
+   "lines": [
+    "Take losartan exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.",
+    "- Losartan is usually taken once per day.",
+    "- You may take losartan with or without food.",
+    "Call your doctor if you are sick with vomiting or diarrhea, or if you are sweating more than usual. You can easily become dehydrated while taking losartan. This can lead to very low blood pressure, a serious electrolyte imbalance, or kidney failure.",
+    "- Your blood pressure will need to be checked often, and you may need frequent blood tests.",
+    "- If you have high blood pressure, keep using this medicine even if you feel well. High blood pressure often has no symptoms.",
+    "Store tightly closed at room temperature, away from moisture, heat, and light."
+   ],
+   "text": "Take losartan exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.\n- Losartan is usually taken once per day.\n- You may take losartan with or without food.\nCall your doctor if you are sick with vomiting or diarrhea, or if you are sweating more than usual. You can easily become dehydrated while taking losartan. This can lead to very low blood pressure, a serious electrolyte imbalance, or kidney failure.\n- Your blood pressure will need to be checked often, and you may need frequent blood tests.\n- If you have high blood pressure, keep using this medicine even if you feel well. High blood pressure often has no symptoms.\nStore tightly closed at room temperature, away from moisture, heat, and light."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Dosing information",
+   "lines": [
+    "Usual Adult Dose for Diabetic Nephropathy:",
+    "Initial dose: 50 mg orally once a day Maximum dose: 100 mg orally once a day Comments: -If hypertensive patients with left ventricular hypertrophy or type 2 diabetic nephropathy patients require titration from initial dose, increase to 100 mg orally once a day. -Antihypertension is substantially present within 1 week but in some studies the maximal effect occurred in 3 to 6 weeks. Uses: -Treatment of hypertension. -To reduce the risk of stroke in patients with hypertension and left ventricular hypertrophy. -Treatment of diabetic nephropathy with an elevated serum creatinine and proteinuria (urinary albumin to creatinine ratio 300 mg/g or greater) in patients with type 2 diabetes and a history of hypertension.",
+    "Usual Adult Dose for Hypertension:",
+    "Initial dose: 50 mg orally once a day Maximum dose: 100 mg orally once a day Comments: -If hypertensive patients with left ventricular hypertrophy or type 2 diabetic nephropathy patients require titration from initial dose, increase to 100 mg orally once a day. -Antihypertension is substantially present within 1 week but in some studies the maximal effect occurred in 3 to 6 weeks. Uses: -Treatment of hypertension. -To reduce the risk of stroke in patients with hypertension and left ventricular hypertrophy. -Treatment of diabetic nephropathy with an elevated serum creatinine and proteinuria (urinary albumin to creatinine ratio 300 mg/g or greater) in patients with type 2 diabetes and a history of hypertension.",
+    "Usual Pediatric Dose for Hypertension:",
+    "6 Years or Older: Initial dose: 0.7 mg/kg orally once a day (up to 50 mg total) Comments: -May be given as a tablet or suspension. If using the suspension, use an oral dosing syringe or an oral dosing cup to measure the prescribed dose. Do not use a teaspoon or tablespoon. -Doses above 1.4 mg/kg (or 100 mg) daily have not been studied in pediatric patients."
+   ],
+   "text": "Usual Adult Dose for Diabetic Nephropathy:\nInitial dose: 50 mg orally once a day Maximum dose: 100 mg orally once a day Comments: -If hypertensive patients with left ventricular hypertrophy or type 2 diabetic nephropathy patients require titration from initial dose, increase to 100 mg orally once a day. -Antihypertension is substantially present within 1 week but in some studies the maximal effect occurred in 3 to 6 weeks. Uses: -Treatment of hypertension. -To reduce the risk of stroke in patients with hypertension and left ventricular hypertrophy. -Treatment of diabetic nephropathy with an elevated serum creatinine and proteinuria (urinary albumin to creatinine ratio 300 mg/g or greater) in patients with type 2 diabetes and a history of hypertension.\nUsual Adult Dose for Hypertension:\nInitial dose: 50 mg orally once a day Maximum dose: 100 mg orally once a day Comments: -If hypertensive patients with left ventricular hypertrophy or type 2 diabetic nephropathy patients require titration from initial dose, increase to 100 mg orally once a day. -Antihypertension is substantially present within 1 week but in some studies the maximal effect occurred in 3 to 6 weeks. Uses: -Treatment of hypertension. -To reduce the risk of stroke in patients with hypertension and left ventricular hypertrophy. -Treatment of diabetic nephropathy with an elevated serum creatinine and proteinuria (urinary albumin to creatinine ratio 300 mg/g or greater) in patients with type 2 diabetes and a history of hypertension.\nUsual Pediatric Dose for Hypertension:\n6 Years or Older: Initial dose: 0.7 mg/kg orally once a day (up to 50 mg total) Comments: -May be given as a tablet or suspension. If using the suspension, use an oral dosing syringe or an oral dosing cup to measure the prescribed dose. Do not use a teaspoon or tablespoon. -Doses above 1.4 mg/kg (or 100 mg) daily have not been studied in pediatric patients."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+   ],
+   "text": "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking losartan?",
+   "lines": [
+    "Avoid getting up too fast from a sitting or lying position, or you may feel dizzy.",
+    "Do not use potassium supplements or salt substitutes, unless your doctor has told you to."
+   ],
+   "text": "Avoid getting up too fast from a sitting or lying position, or you may feel dizzy.\nDo not use potassium supplements or salt substitutes, unless your doctor has told you to."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Losartan side effects",
+   "lines": [
+    "Get emergency medical help if you have signs of an allergic reaction to losartan: hives, difficulty breathing, swelling of your face, lips, tongue, or throat.",
+    "Losartan may cause serious side effects. Call your doctor at once if you have:",
+    "- a light-headed feeling, like you might pass out;",
+    "- high blood potassium - nausea, weakness, tingly feeling, chest pain, irregular heartbeats, loss of movement; or",
+    "- kidney problems - swelling, urinating less, feeling tired or short of breath.",
+    "Common losartan side effects may include:",
+    "- dizziness, tiredness;",
+    "- low blood pressure;",
+    "- low blood sugar;",
+    "- diarrhea;",
+    "- back pain; or",
+    "- cold symptoms such as stuffy nose, sneezing, sore throat.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have signs of an allergic reaction to losartan: hives, difficulty breathing, swelling of your face, lips, tongue, or throat.\nLosartan may cause serious side effects. Call your doctor at once if you have:\n- a light-headed feeling, like you might pass out;\n- high blood potassium - nausea, weakness, tingly feeling, chest pain, irregular heartbeats, loss of movement; or\n- kidney problems - swelling, urinating less, feeling tired or short of breath.\nCommon losartan side effects may include:\n- dizziness, tiredness;\n- low blood pressure;\n- low blood sugar;\n- diarrhea;\n- back pain; or\n- cold symptoms such as stuffy nose, sneezing, sore throat.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect losartan?",
+   "lines": [
+    "Sometimes it is not safe to use certain medicines at the same time. Some drugs can affect your blood levels of other drugs you use, which may increase side effects or make the medicines less effective.",
+    "Tell your doctor about all your other medicines, especially:",
+    "- a diuretic or \"water pill\" that may increase blood potassium such as spironolactone, triamterene, amiloride;",
+    "- NSAIDs (nonsteroidal anti-inflammatory drugs) - aspirin, ibuprofen (Advil, Motrin), naproxen (Aleve), celecoxib, diclofenac, indomethacin, meloxicam, and others; or",
+    "- heart or blood pressure medication.",
+    "- lithium.",
+    "This list is not complete. Other drugs may affect losartan, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+   ],
+   "text": "Sometimes it is not safe to use certain medicines at the same time. Some drugs can affect your blood levels of other drugs you use, which may increase side effects or make the medicines less effective.\nTell your doctor about all your other medicines, especially:\n- a diuretic or \"water pill\" that may increase blood potassium such as spironolactone, triamterene, amiloride;\n- NSAIDs (nonsteroidal anti-inflammatory drugs) - aspirin, ibuprofen (Advil, Motrin), naproxen (Aleve), celecoxib, diclofenac, indomethacin, meloxicam, and others; or\n- heart or blood pressure medication.\n- lithium.\nThis list is not complete. Other drugs may affect losartan, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: Can you eat bananas when taking losartan? A: Most people taking losartan can eat bananas, or any other food naturally high in potassium. But people with poor kidney function, heart failure, a history of high potassium, or who also take certain diuretics, such as spironolactone, should be cautious about eating foods high in potassium and ask their doctor to monitor their potassium levels.",
+    "Q: Does Losartan block COVID-19 Coronavirus Receptors? A: Losartan (Cozaar) does not directly block SARS-CoV-2 coronavirus receptors, but this angiotensin receptor blocker (ARB), may influence COVID-19 outcomes through its effects on the renin-angiotensin-aldosterone system (RAAS). Losartan works by blocking angiotensin II from binding to angiotensin II type 1 receptors (AT1) in the heart, blood vessels, kidneys, and lungs, reducing the activity of RAAS, which lowers blood pressure and may modulate the inflammatory response."
+   ],
+   "text": "Q: Can you eat bananas when taking losartan? A: Most people taking losartan can eat bananas, or any other food naturally high in potassium. But people with poor kidney function, heart failure, a history of high potassium, or who also take certain diuretics, such as spironolactone, should be cautious about eating foods high in potassium and ask their doctor to monitor their potassium levels.\nQ: Does Losartan block COVID-19 Coronavirus Receptors? A: Losartan (Cozaar) does not directly block SARS-CoV-2 coronavirus receptors, but this angiotensin receptor blocker (ARB), may influence COVID-19 outcomes through its effects on the renin-angiotensin-aldosterone system (RAAS). Losartan works by blocking angiotensin II from binding to angiotensin II type 1 receptors (AT1) in the heart, blood vessels, kidneys, and lungs, reducing the activity of RAAS, which lowers blood pressure and may modulate the inflammatory response."
+  }
+ ],
+ "rank": 7
+}

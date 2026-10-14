@@ -1,0 +1,296 @@
+{
+ "name": "Ibuprofen",
+ "slug": "ibuprofen",
+ "url": "https://www.drugs.com/ibuprofen.html",
+ "title": "Ibuprofen",
+ "page_title": "Ibuprofen Uses, Dosage & Side Effects - Drugs.com",
+ "generic_name": "ibuprofen",
+ "brand_names": [
+  "Advil",
+  "Genpril",
+  "IBU",
+  "Midol IB",
+  "Motrin IB",
+  "Proprinal",
+  "Smart Sense Children's Ibuprofen"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "oral capsule",
+   "strengths": [
+    "200 mg"
+   ]
+  },
+  {
+   "form": "oral suspension",
+   "strengths": [
+    "100 mg/5 mL",
+    "50 mg/1.25 mL"
+   ]
+  },
+  {
+   "form": "oral tablet",
+   "strengths": [
+    "100 mg",
+    "200 mg",
+    "400 mg",
+    "600 mg",
+    "800 mg"
+   ]
+  },
+  {
+   "form": "chewable",
+   "strengths": [
+    "100 mg",
+    "50 mg"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Nonsteroidal anti-inflammatories (NSAIDs)",
+   "slug": "nonsteroidal-anti-inflammatory-agents"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Philip Thornton, DipPharm. Last updated on Aug 25, 2026.",
+ "faq": [
+  {
+   "q": "Meloxicam vs Ibuprofen: What's the difference?",
+   "a": "Meloxicam is stronger, prescription-only, longer-acting, and used mainly for arthritis; ibuprofen is milder, OTC, shorter-acting, and treats various pains."
+  },
+  {
+   "q": "Naproxen vs ibuprofen: What's the difference?",
+   "a": "Ibuprofen is short acting, while naproxen is long acting and more likely to cause an upset stomach. Naproxen also increases the risk of uncontrolled bleeding in people taking blood thinners by 4-fold, and ibuprofen increases the risk 2-fold. Naproxen and ibuprofen are both NSAIDs so they are similar in many ways, but there are important differences."
+  },
+  {
+   "q": "Can you take ibuprofen on an empty stomach?",
+   "a": "Despite the common belief that you must take ibuprofen with food, you can safely take low-dose ibuprofen (up to 1200 mg daily in divided doses for 1 to 7 days) on an empty stomach, and this provides faster pain relief than taking ibuprofen with food. Food slows ibuprofen absorption time, although it doesn't affect the total amount absorbed. There is actually no scientific evidence that taking ibuprofen with food prevents stomach irritation. Over-the-counter ibuprofen doses have a low incidence of gastric problems anyway."
+  },
+  {
+   "q": "Can you take expired ibuprofen?",
+   "a": "Although taking expired ibuprofen is not recommended by the manufacturer, the actual shelf-life is likely to be longer than that indicated by the expiry date, with FDA testing showing many drugs are active for years beyond their expiry date, although specific data on ibuprofen is not available. Within reason, an ibuprofen tablet that is a few months past its expiry date is probably safe to take. Ibuprofen that is years past its expiry date should not be taken."
+  },
+  {
+   "q": "Can You Take Tramadol with Acetaminophen, Ibuprofen, or Aspirin?",
+   "a": "Yes, for most people, tramadol can be safely combined with acetaminophen, ibuprofen, or aspirin, and doing so can provide better pain relief than either medicine alone. However, there are important age restrictions and clinical considerations to be aware of."
+  },
+  {
+   "q": "What's the difference between aspirin and ibuprofen?",
+   "a": "Both aspirin and ibuprofen are popular NSAIDs (nonsteroidal anti-inflammatory drugs) that work by blocking prostaglandin production to reduce pain and inflammation. However, these over-the-counter pain relievers have important differences in safety, uses, and side effects."
+  },
+  {
+   "q": "Can you overdose on ibuprofen?",
+   "a": "Despite ibuprofen having a wide safety margin, it is possible to overdose on it, but death from ibuprofen overdose is rare. Children are more susceptible to the effects of ibuprofen and likely to experience an overdosage of ibuprofen if dosages of more than 400mg/kg (in the range of 8000mg for a 20kg child [the equivalent of 40 x 200mg ibuprofen tablets]) are ingested. Studies have reported patients ingesting less than 99 mg/kg are unlikely to have symptoms."
+  },
+  {
+   "q": "How much ibuprofen can I take and how often?",
+   "a": "Adults can safely take ibuprofen 200 mg to 400 mg (one or two tablets) every 4-6 hours as needed for pain relief. The maximum dose in 24 hours for over-the-counter ibuprofen is 1200 mg (6 tablets of 200 mg each). Ibuprofen is also available on a prescription from a doctor and may be prescribed at a higher strength (600 mg or 800 mg every 6 hours) for severe pain."
+  }
+ ],
+ "description": "Ibuprofen (Advil, Motrin) treats minor aches and pains caused by the common cold, headaches, toothaches, back or muscle aches.",
+ "date_modified": "2026-08-25",
+ "reviewed_by": "Philip Thornton",
+ "availability": "Rx and/or OTC",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Ubrelvy",
+   "slug": "ubrelvy",
+   "blurb": "Ubrelvy (ubrogepant) tablets are used for the acute treatment of migraine. Includes Ubrelvy side..."
+  },
+  {
+   "name": "Paracetamol",
+   "slug": "paracetamol",
+   "blurb": "Paracetamol (Panadol, Calpol, Alvedon) is a widely used over-the-counter painkiller and fever..."
+  },
+  {
+   "name": "Symbravo",
+   "slug": "symbravo",
+   "blurb": "Symbravo is used to treat acute migraine headaches with or without aura in adults. It is a..."
+  },
+  {
+   "name": "Tylenol",
+   "slug": "tylenol",
+   "blurb": "Tylenol is a pain reliever and a fever reducer used to treat many conditions such as headaches..."
+  },
+  {
+   "name": "Cymbalta",
+   "slug": "cymbalta",
+   "blurb": "Cymbalta (duloxetine) is used to treat major depressive disorder, general anxiety disorder and..."
+  },
+  {
+   "name": "Naproxen",
+   "slug": "naproxen",
+   "blurb": "Naproxen is a nonsteroidal anti-inflammatory drug used to treat pain or inflammation caused by..."
+  },
+  {
+   "name": "Oxycodone",
+   "slug": "oxycodone",
+   "blurb": "Oxycodone is an opioid pain medication used to treat moderate to severe pain. Includes oxycodone..."
+  },
+  {
+   "name": "Cyclobenzaprine",
+   "slug": "cyclobenzaprine",
+   "blurb": "Cyclobenzaprine is a muscle relaxant used for short-term pain relief. Learn about its uses, dosage..."
+  },
+  {
+   "name": "Tramadol",
+   "slug": "tramadol",
+   "blurb": "Tramadol is an opioid medication that may be used to treat moderate to moderately severe chronic..."
+  },
+  {
+   "name": "Aspirin",
+   "slug": "aspirin",
+   "blurb": "Aspirin is used to treat mild to moderate pain and to reduce fever or inflammation. Learn about..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is ibuprofen?",
+   "lines": [
+    "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID). It works by reducing hormones that cause inflammation and pain in the body.",
+    "Ibuprofen is used to reduce fever and treat pain or inflammation caused by many conditions such as headache, toothache, back pain, arthritis, menstrual cramps, or minor injury.",
+    "Ibuprofen is used in adults and children. Some formulations are also used in premature babies to close a certain heart defect."
+   ],
+   "text": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID). It works by reducing hormones that cause inflammation and pain in the body.\nIbuprofen is used to reduce fever and treat pain or inflammation caused by many conditions such as headache, toothache, back pain, arthritis, menstrual cramps, or minor injury.\nIbuprofen is used in adults and children. Some formulations are also used in premature babies to close a certain heart defect."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Ibuprofen can increase your risk of fatal heart attack, heart failure, or stroke. Do not use this medicine just before or after heart bypass surgery (coronary artery bypass graft, or CABG). Avoid taking ibuprofen after a recent heart attack, unless your doctor tells you to.",
+    "Ibuprofen may also cause stomach or intestinal bleeding, which can be fatal. These conditions can occur without warning while you are using this medicine, especially in older adults.",
+    "Do not take more than your recommended dose. An ibuprofen overdose can damage your stomach or intestines. Use only the smallest amount of medication needed to get relief from your pain, swelling, or fever."
+   ],
+   "text": "Ibuprofen can increase your risk of fatal heart attack, heart failure, or stroke. Do not use this medicine just before or after heart bypass surgery (coronary artery bypass graft, or CABG). Avoid taking ibuprofen after a recent heart attack, unless your doctor tells you to.\nIbuprofen may also cause stomach or intestinal bleeding, which can be fatal. These conditions can occur without warning while you are using this medicine, especially in older adults.\nDo not take more than your recommended dose. An ibuprofen overdose can damage your stomach or intestines. Use only the smallest amount of medication needed to get relief from your pain, swelling, or fever."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not use ibuprofen if you are allergic to it, or if you have ever had an asthma attack or severe allergic reaction after taking aspirin or an NSAID.",
+    "Ask a doctor or pharmacist if this medicine is safe to use if you have ever had:",
+    "- heart disease, high blood pressure, high cholesterol, diabetes, or if you smoke;",
+    "- a heart attack, stroke, or blood clot;",
+    "- stomach ulcers or bleeding;",
+    "- liver or kidney disease;",
+    "- asthma; or",
+    "- if you take aspirin to prevent heart attack or stroke.",
+    "Ask a doctor before using this medicine if you are pregnant or breastfeeding.",
+    "If you are pregnant, you should not take ibuprofen unless your doctor tells you to. Taking an NSAID at 20 weeks or later in pregnancy can cause serious heart or kidney problems in the unborn baby and possible complications with your pregnancy. Do not take ibuprofen after 30 weeks of pregnancy.",
+    "Ibuprofen may cause a temporary delay in ovulation, which can make it harder to get pregnant. Tell your doctor if you are having trouble getting pregnant.",
+    "Do not give ibuprofen to a child younger than 6 months old without the advice of a doctor."
+   ],
+   "text": "You should not use ibuprofen if you are allergic to it, or if you have ever had an asthma attack or severe allergic reaction after taking aspirin or an NSAID.\nAsk a doctor or pharmacist if this medicine is safe to use if you have ever had:\n- heart disease, high blood pressure, high cholesterol, diabetes, or if you smoke;\n- a heart attack, stroke, or blood clot;\n- stomach ulcers or bleeding;\n- liver or kidney disease;\n- asthma; or\n- if you take aspirin to prevent heart attack or stroke.\nAsk a doctor before using this medicine if you are pregnant or breastfeeding.\nIf you are pregnant, you should not take ibuprofen unless your doctor tells you to. Taking an NSAID at 20 weeks or later in pregnancy can cause serious heart or kidney problems in the unborn baby and possible complications with your pregnancy. Do not take ibuprofen after 30 weeks of pregnancy.\nIbuprofen may cause a temporary delay in ovulation, which can make it harder to get pregnant. Tell your doctor if you are having trouble getting pregnant.\nDo not give ibuprofen to a child younger than 6 months old without the advice of a doctor."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "How should I take ibuprofen?",
+   "lines": [
+    "Use ibuprofen exactly as directed on the label, or as prescribed by your doctor. Use the lowest dose that is effective in treating your condition.",
+    "An ibuprofen overdose can damage your stomach or intestines. The maximum amount of ibuprofen for adults is 800 milligrams per dose or 3200 mg per day (4 maximum doses).",
+    "A child's dose is based on the age and weight of the child. Carefully follow the dosing instructions provided with children's ibuprofen for the age and weight of your child. Ask a doctor or pharmacist if you have questions.",
+    "Take ibuprofen with food or milk to lessen stomach upset.",
+    "Shake the oral suspension (liquid) before you measure a dose. Use the dosing syringe provided, or use a medicine dose-measuring device (not a kitchen spoon).",
+    "You must chew the chewable tablet before you swallow it.",
+    "Store at room temperature away from moisture and heat. Do not allow the liquid medicine to freeze."
+   ],
+   "text": "Use ibuprofen exactly as directed on the label, or as prescribed by your doctor. Use the lowest dose that is effective in treating your condition.\nAn ibuprofen overdose can damage your stomach or intestines. The maximum amount of ibuprofen for adults is 800 milligrams per dose or 3200 mg per day (4 maximum doses).\nA child's dose is based on the age and weight of the child. Carefully follow the dosing instructions provided with children's ibuprofen for the age and weight of your child. Ask a doctor or pharmacist if you have questions.\nTake ibuprofen with food or milk to lessen stomach upset.\nShake the oral suspension (liquid) before you measure a dose. Use the dosing syringe provided, or use a medicine dose-measuring device (not a kitchen spoon).\nYou must chew the chewable tablet before you swallow it.\nStore at room temperature away from moisture and heat. Do not allow the liquid medicine to freeze."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Since ibuprofen is used when needed, you may not be on a dosing schedule. Skip any missed dose if it's almost time for your next dose. Do not use two doses at one time."
+   ],
+   "text": "Since ibuprofen is used when needed, you may not be on a dosing schedule. Skip any missed dose if it's almost time for your next dose. Do not use two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222. Overdose symptoms may include nausea, vomiting, stomach pain, drowsiness, black or bloody stools, coughing up blood, shallow breathing, fainting, or coma."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222. Overdose symptoms may include nausea, vomiting, stomach pain, drowsiness, black or bloody stools, coughing up blood, shallow breathing, fainting, or coma."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What to avoid",
+   "lines": [
+    "Ask a doctor or pharmacist before using other medicines for pain, fever, swelling, or cold/flu symptoms. They may contain ingredients similar to ibuprofen (such as aspirin, ketoprofen, or naproxen).",
+    "Avoid taking aspirin unless your doctor tells you to.",
+    "If you also take aspirin to prevent stroke or heart attack, taking ibuprofen can make aspirin less effective in protecting your heart and blood vessels. If you take both medicines, take ibuprofen at least 8 hours before or 30 minutes after you take aspirin (non-enteric coated form).",
+    "Avoid drinking alcohol. It may increase your risk of stomach bleeding."
+   ],
+   "text": "Ask a doctor or pharmacist before using other medicines for pain, fever, swelling, or cold/flu symptoms. They may contain ingredients similar to ibuprofen (such as aspirin, ketoprofen, or naproxen).\nAvoid taking aspirin unless your doctor tells you to.\nIf you also take aspirin to prevent stroke or heart attack, taking ibuprofen can make aspirin less effective in protecting your heart and blood vessels. If you take both medicines, take ibuprofen at least 8 hours before or 30 minutes after you take aspirin (non-enteric coated form).\nAvoid drinking alcohol. It may increase your risk of stomach bleeding."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Ibuprofen side effects",
+   "lines": [
+    "Get emergency medical help if you have signs of an allergic reaction to ibuprofen (hives, difficult breathing, swelling in your face or throat) or a severe skin reaction (fever, sore throat, burning eyes, skin pain, red or purple skin rash with blistering and peeling).",
+    "Get emergency medical help if you have signs of a heart attack or stroke: chest pain spreading to your jaw or shoulder, sudden numbness or weakness on one side of the body, slurred speech, leg swelling, feeling short of breath.",
+    "Stop using this medicine and call your doctor at once if you have:",
+    "- changes in your vision;",
+    "- shortness of breath (even with mild exertion);",
+    "- swelling or rapid weight gain;",
+    "- a skin rash, no matter how mild;",
+    "- signs of stomach bleeding - bloody or tarry stools, coughing up blood or vomit that looks like coffee grounds;",
+    "- liver problems - nausea, upper stomach pain, itching, tired feeling, flu-like symptoms, loss of appetite, dark urine, clay-colored stools, jaundice (yellowing of the skin or eyes);",
+    "- low red blood cells (anemia) - pale skin, feeling light-headed or short of breath, rapid heart rate, trouble concentrating; or",
+    "- kidney problems - little or no urinating, painful or difficult urination, swelling in your feet or ankles, feeling tired or short of breath.",
+    "Common ibuprofen side effects may include:",
+    "- nausea, vomiting, gas;",
+    "- bleeding; or",
+    "- dizziness, headache.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have signs of an allergic reaction to ibuprofen (hives, difficult breathing, swelling in your face or throat) or a severe skin reaction (fever, sore throat, burning eyes, skin pain, red or purple skin rash with blistering and peeling).\nGet emergency medical help if you have signs of a heart attack or stroke: chest pain spreading to your jaw or shoulder, sudden numbness or weakness on one side of the body, slurred speech, leg swelling, feeling short of breath.\nStop using this medicine and call your doctor at once if you have:\n- changes in your vision;\n- shortness of breath (even with mild exertion);\n- swelling or rapid weight gain;\n- a skin rash, no matter how mild;\n- signs of stomach bleeding - bloody or tarry stools, coughing up blood or vomit that looks like coffee grounds;\n- liver problems - nausea, upper stomach pain, itching, tired feeling, flu-like symptoms, loss of appetite, dark urine, clay-colored stools, jaundice (yellowing of the skin or eyes);\n- low red blood cells (anemia) - pale skin, feeling light-headed or short of breath, rapid heart rate, trouble concentrating; or\n- kidney problems - little or no urinating, painful or difficult urination, swelling in your feet or ankles, feeling tired or short of breath.\nCommon ibuprofen side effects may include:\n- nausea, vomiting, gas;\n- bleeding; or\n- dizziness, headache.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect ibuprofen?",
+   "lines": [
+    "Ask your doctor before using ibuprofen if you take an antidepressant. Taking certain antidepressants with an NSAID may cause you to bruise or bleed easily.",
+    "Ask a doctor or pharmacist before using ibuprofen with any other medications, especially:",
+    "- cyclosporine;",
+    "- lithium;",
+    "- methotrexate;",
+    "- a blood thinner (warfarin, Coumadin, Jantoven);",
+    "- heart or blood pressure medication, including a diuretic or \"water pill\"; or",
+    "- steroid medicine (such as prednisone)",
+    "- digoxin.",
+    "This list is not complete. Other drugs may interact with ibuprofen, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+   ],
+   "text": "Ask your doctor before using ibuprofen if you take an antidepressant. Taking certain antidepressants with an NSAID may cause you to bruise or bleed easily.\nAsk a doctor or pharmacist before using ibuprofen with any other medications, especially:\n- cyclosporine;\n- lithium;\n- methotrexate;\n- a blood thinner (warfarin, Coumadin, Jantoven);\n- heart or blood pressure medication, including a diuretic or \"water pill\"; or\n- steroid medicine (such as prednisone)\n- digoxin.\nThis list is not complete. Other drugs may interact with ibuprofen, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: Meloxicam vs Ibuprofen: What's the difference? A: Meloxicam is stronger, prescription-only, longer-acting, and used mainly for arthritis; ibuprofen is milder, OTC, shorter-acting, and treats various pains.",
+    "Q: Naproxen vs ibuprofen: What's the difference? A: Ibuprofen is short acting, while naproxen is long acting and more likely to cause an upset stomach. Naproxen also increases the risk of uncontrolled bleeding in people taking blood thinners by 4-fold, and ibuprofen increases the risk 2-fold. Naproxen and ibuprofen are both NSAIDs so they are similar in many ways, but there are important differences.",
+    "Q: Can you take ibuprofen on an empty stomach? A: Despite the common belief that you must take ibuprofen with food, you can safely take low-dose ibuprofen (up to 1200 mg daily in divided doses for 1 to 7 days) on an empty stomach, and this provides faster pain relief than taking ibuprofen with food. Food slows ibuprofen absorption time, although it doesn't affect the total amount absorbed. There is actually no scientific evidence that taking ibuprofen with food prevents stomach irritation. Over-the-counter ibuprofen doses have a low incidence of gastric problems anyway.",
+    "Q: Can you take expired ibuprofen? A: Although taking expired ibuprofen is not recommended by the manufacturer, the actual shelf-life is likely to be longer than that indicated by the expiry date, with FDA testing showing many drugs are active for years beyond their expiry date, although specific data on ibuprofen is not available. Within reason, an ibuprofen tablet that is a few months past its expiry date is probably safe to take. Ibuprofen that is years past its expiry date should not be taken.",
+    "Q: Can You Take Tramadol with Acetaminophen, Ibuprofen, or Aspirin? A: Yes, for most people, tramadol can be safely combined with acetaminophen, ibuprofen, or aspirin, and doing so can provide better pain relief than either medicine alone. However, there are important age restrictions and clinical considerations to be aware of.",
+    "Q: What's the difference between aspirin and ibuprofen? A: Both aspirin and ibuprofen are popular NSAIDs (nonsteroidal anti-inflammatory drugs) that work by blocking prostaglandin production to reduce pain and inflammation. However, these over-the-counter pain relievers have important differences in safety, uses, and side effects.",
+    "Q: Can you overdose on ibuprofen? A: Despite ibuprofen having a wide safety margin, it is possible to overdose on it, but death from ibuprofen overdose is rare. Children are more susceptible to the effects of ibuprofen and likely to experience an overdosage of ibuprofen if dosages of more than 400mg/kg (in the range of 8000mg for a 20kg child [the equivalent of 40 x 200mg ibuprofen tablets]) are ingested. Studies have reported patients ingesting less than 99 mg/kg are unlikely to have symptoms.",
+    "Q: How much ibuprofen can I take and how often? A: Adults can safely take ibuprofen 200 mg to 400 mg (one or two tablets) every 4-6 hours as needed for pain relief. The maximum dose in 24 hours for over-the-counter ibuprofen is 1200 mg (6 tablets of 200 mg each). Ibuprofen is also available on a prescription from a doctor and may be prescribed at a higher strength (600 mg or 800 mg every 6 hours) for severe pain."
+   ],
+   "text": "Q: Meloxicam vs Ibuprofen: What's the difference? A: Meloxicam is stronger, prescription-only, longer-acting, and used mainly for arthritis; ibuprofen is milder, OTC, shorter-acting, and treats various pains.\nQ: Naproxen vs ibuprofen: What's the difference? A: Ibuprofen is short acting, while naproxen is long acting and more likely to cause an upset stomach. Naproxen also increases the risk of uncontrolled bleeding in people taking blood thinners by 4-fold, and ibuprofen increases the risk 2-fold. Naproxen and ibuprofen are both NSAIDs so they are similar in many ways, but there are important differences.\nQ: Can you take ibuprofen on an empty stomach? A: Despite the common belief that you must take ibuprofen with food, you can safely take low-dose ibuprofen (up to 1200 mg daily in divided doses for 1 to 7 days) on an empty stomach, and this provides faster pain relief than taking ibuprofen with food. Food slows ibuprofen absorption time, although it doesn't affect the total amount absorbed. There is actually no scientific evidence that taking ibuprofen with food prevents stomach irritation. Over-the-counter ibuprofen doses have a low incidence of gastric problems anyway.\nQ: Can you take expired ibuprofen? A: Although taking expired ibuprofen is not recommended by the manufacturer, the actual shelf-life is likely to be longer than that indicated by the expiry date, with FDA testing showing many drugs are active for years beyond their expiry date, although specific data on ibuprofen is not available. Within reason, an ibuprofen tablet that is a few months past its expiry date is probably safe to take. Ibuprofen that is years past its expiry date should not be taken.\nQ: Can You Take Tramadol with Acetaminophen, Ibuprofen, or Aspirin? A: Yes, for most people, tramadol can be safely combined with acetaminophen, ibuprofen, or aspirin, and doing so can provide better pain relief than either medicine alone. However, there are important age restrictions and clinical considerations to be aware of.\nQ: What's the difference between aspirin and ibuprofen? A: Both aspirin and ibuprofen are popular NSAIDs (nonsteroidal anti-inflammatory drugs) that work by blocking prostaglandin production to reduce pain and inflammation. However, these over-the-counter pain relievers have important differences in safety, uses, and side effects.\nQ: Can you overdose on ibuprofen? A: Despite ibuprofen having a wide safety margin, it is possible to overdose on it, but death from ibuprofen overdose is rare. Children are more susceptible to the effects of ibuprofen and likely to experience an overdosage of ibuprofen if dosages of more than 400mg/kg (in the range of 8000mg for a 20kg child [the equivalent of 40 x 200mg ibuprofen tablets]) are ingested. Studies have reported patients ingesting less than 99 mg/kg are unlikely to have symptoms.\nQ: How much ibuprofen can I take and how often? A: Adults can safely take ibuprofen 200 mg to 400 mg (one or two tablets) every 4-6 hours as needed for pain relief. The maximum dose in 24 hours for over-the-counter ibuprofen is 1200 mg (6 tablets of 200 mg each). Ibuprofen is also available on a prescription from a doctor and may be prescribed at a higher strength (600 mg or 800 mg every 6 hours) for severe pain."
+  }
+ ],
+ "rank": 38
+}

@@ -1,0 +1,150 @@
+relation,definition,subject_type,object_type,origin,n_triples
+has administration instruction,The subject drug should be taken or used in the manner specified by the object entity (for example with food or at a fixed time).,Drug,Instruction,seed,2297
+has side effect,The subject drug may cause the adverse effect or symptom specified by the object entity.,Drug,SideEffect,seed,1603
+interacts with,The subject drug has a drug interaction with the drug or substance specified by the object entity that may change effects or cause harm.,Drug,Substance,seed,1023
+has serious side effect,The subject drug may cause the serious or potentially dangerous adverse effect specified by the object entity that requires medical attention.,Drug,SideEffect,seed,842
+similar to,The subject drug is related to or an alternative for the drug specified by the object entity.,Drug,Drug,seed,500
+contraindicated in,The subject drug should not be used by patients who have the condition or characteristic specified by the object entity.,Drug,Condition,seed,397
+has warning,The subject drug carries a safety warning or precaution about the risk or situation specified by the object entity.,Drug,Warning,seed,385
+treats,The subject drug is used to treat or manage the disease or medical condition specified by the object entity.,Drug,Condition,seed,381
+use with caution in,The subject drug may be unsafe or require medical supervision for patients who have the condition or characteristic specified by the object entity.,Drug,Condition,seed,364
+has overdose symptom,An overdose of the subject drug may cause the symptom specified by the object entity.,Drug,Symptom,seed,291
+has recommended dose,The subject drug is typically prescribed at the dose or dosing regimen specified by the object entity.,Drug,Dose,seed,278
+has strength,The subject drug is available in the dose strength specified by the object entity.,Drug,Strength,seed,262
+has dosage form,The subject drug is available in the pharmaceutical dosage form specified by the object entity.,Drug,DosageForm,seed,247
+has brand name,The subject drug is marketed under the brand or trade name specified by the object entity.,Drug,Drug,seed,225
+should be avoided with,Patients taking the subject drug should avoid the substance or activity specified by the object entity.,Drug,Substance,seed,221
+has missed dose instruction,If a dose of the subject drug is missed the patient should follow the instruction specified by the object entity.,Drug,Instruction,seed,171
+has storage instruction,The subject drug should be stored according to the instruction specified by the object entity.,Drug,Instruction,seed,141
+belongs to drug class,The subject drug is a member of the pharmacological or therapeutic drug class specified by the object entity.,Drug,DrugClass,seed,115
+has mechanism of action,The subject drug produces its therapeutic effect through the biological mechanism specified by the object entity.,Drug,Mechanism,seed,113
+has overdose instruction,In case of an overdose of the subject drug the patient should follow the instruction specified by the object entity.,Drug,Instruction,seed,112
+used in,The subject drug is utilized in the medical procedure or clinical context specified by the object entity.,Drug,Therapy,enriched,98
+reduces risk of,The subject drug is used to prevent or lower the risk of the medical event or condition specified by the object entity.,Drug,Condition,seed,97
+has pregnancy or breastfeeding warning,The subject drug carries the warning specified by the object entity regarding use during pregnancy or while breastfeeding.,Drug,Warning,seed,93
+has effect,The subject drug produces the therapeutic or physiological effect specified by the object entity.,Drug,Symptom,enriched,92
+increases risk of,Taking the subject drug may raise the patient's likelihood of experiencing the condition or event specified by the object entity.,Drug,Condition,seed,88
+requires monitoring of,Patients taking the subject drug may need the medical test or monitoring specified by the object entity.,Drug,LabTest,seed,87
+include,The subject entity comprises or contains the component or measurement specified by the object entity.,LabTest,Substance,enriched,82
+contains ingredient,The subject drug product contains the active ingredient specified by the object entity.,Drug,Ingredient,seed,74
+not approved for,The subject drug is not approved or not recommended for use in the patient population specified by the object entity.,Drug,Population,seed,72
+used in population,The subject drug is used in or approved for the patient population or age group specified by the object entity.,Drug,Population,seed,65
+has symptom,The medical condition specified by the subject entity is characterized by the symptom or sign described by the object entity.,Condition,SideEffect,enriched,65
+used in combination with,The subject drug is used together with the other treatment or lifestyle measure specified by the object entity.,Drug,Therapy,seed,63
+should inform doctor about,Patients taking the subject drug should tell their doctor about the condition or circumstance specified by the object entity.,Drug,Condition,seed,61
+has increased risk in,The subject drug may pose a higher risk of adverse effects in the population or group specified by the object entity.,Drug,Population,enriched,58
+has availability,The subject drug is available under the regulatory status specified by the object entity (for example prescription only or over the counter).,Drug,Availability,seed,56
+has side effect frequency,The subject drug may cause the adverse effect specified by the object entity with the frequency indicated.,Drug,SideEffect,enriched,55
+may cause,The subject action or condition can lead to or contribute to the development of the medical condition or effect specified by the object entity.,Therapy,Condition,enriched,50
+requires adjustment of,The subject drug necessitates changes or modifications to the treatment or dosage specified by the object entity.,Drug,Dose,enriched,50
+has maximum dose,The subject drug should not exceed the maximum dose specified by the object entity.,Drug,Dose,enriched,49
+administered via,The subject drug is given through the route of administration specified by the object entity.,Drug,Route,seed,46
+has generic name,The subject drug is sold under or known by the generic (non-proprietary) name specified by the object entity.,Drug,Drug,seed,34
+helps reduce,The subject drug is used to decrease or lessen the condition or symptom specified by the object entity.,Drug,Symptom,enriched,34
+has study result,The studies related to the subject drug have found the result specified by the object entity.,Drug,Other,enriched,27
+manufactured by,The subject drug is manufactured or marketed by the company specified by the object entity.,Drug,Organization,seed,26
+has approved use,The subject drug or dosage form is officially authorized to be used for the specific medical condition or indication specified by the object entity.,Drug,Condition,enriched,25
+has duration of treatment,The subject drug is typically taken for the length of time specified by the object entity.,Drug,Instruction,seed,24
+affected by,The subject entity is influenced or altered by the factor specified by the object entity.,Condition,Substance,enriched,23
+increases level of,The subject drug increases the level of the substance or biomarker specified by the object entity in the body.,Drug,Substance,seed,22
+has off label use,"The subject drug is used for purposes not specifically approved or listed in the official medication guide, as specified by the object entity.",Drug,Other,enriched,21
+has reference,The subject drug has a reference or additional information source specified by the object entity.,Drug,Other,enriched,21
+is a type of,The subject entity is a specific type or subtype of the object entity.,Drug,Condition,enriched,20
+has onset of effect,The subject drug starts to work or shows its effect within the time period specified by the object entity.,Drug,Instruction,seed,20
+lowers level of,The subject drug decreases the level of the substance or biomarker specified by the object entity in the body.,Drug,Substance,seed,19
+has maintenance dose,The subject drug may have its daily dose adjusted in specified increments at weekly intervals to achieve an optimal response.,Drug,Dose,enriched,17
+has withdrawal symptom characteristic,The subject drug is associated with the specific withdrawal symptom profile described by the object entity.,Drug,SideEffect,enriched,17
+not a,The subject drug is not classified as or does not belong to the category specified by the object entity.,Drug,DrugClass,enriched,16
+passes into,The subject drug is transferred or present in the substance or medium specified by the object entity.,Drug,Substance,enriched,14
+has availability note,"The subject drug has a note regarding its availability, such as the presence of multiple brands or forms, as specified by the object entity.",Drug,Availability,enriched,13
+does not act on,The subject drug does not exert its effects on the anatomical or physiological entity specified by the object entity.,Drug,Substance,enriched,13
+has elimination duration,The subject drug takes the duration specified by the object entity to be fully eliminated from the body.,Drug,Other,enriched,13
+helps regulate,The subject entity plays a role in the regulation of the biological process or function specified by the object entity.,Drug,Condition,enriched,13
+has overdose risk,An overdose of the subject drug may result in the serious or life-threatening consequence specified by the object entity.,Drug,SideEffect,enriched,12
+should not be used in place of,The subject drug should not replace or substitute the treatment specified by the object entity.,Drug,Drug,enriched,12
+not used for,The subject drug is not indicated or used to treat the condition or situation specified by the object entity.,Drug,Condition,enriched,12
+affects,The subject drug may influence or impact the physiological or developmental process specified by the object entity.,Drug,Population,enriched,12
+occurs in,The medical condition specified by the subject entity is associated with or found in the group of individuals described by the object entity.,Condition,Population,enriched,11
+has dose increase instruction for pediatric,The subject drug has a specific instruction for increasing the dose in pediatric patients as specified by the object entity.,Drug,Instruction,enriched,11
+fda approval year,The subject drug was approved by the US FDA in the year specified by the object entity.,Drug,Year,seed,10
+has disposal instruction,The subject drug should be disposed of according to the specific method or procedure described by the object entity.,Drug,Instruction,enriched,10
+has pregnancy registry,"The subject drug is associated with a registry that collects information about the health of individuals exposed to the drug during pregnancy and their babies, as specified by the object entity.",Drug,Other,enriched,10
+has reduced efficacy in,The subject drug may be less effective in patients with the condition or factor specified by the object entity.,Drug,Condition,enriched,10
+compared with,The subject drug is compared to the object entity in clinical trials or studies.,Drug,Drug,enriched,10
+metabolism,The subject drug is metabolized in the body in the manner specified by the object entity.,Drug,Other,enriched,10
+risk factors include,The subject condition or event has risk factors that include the object entity.,Drug,Condition,enriched,10
+used in study,The subject entity is used or tested in the study specified by the object entity.,Drug,Organization,enriched,10
+manufacturer location,The company that manufactures the subject drug is located in the geographic location specified by the object entity.,Drug,Other,enriched,9
+has administration frequency,The subject drug is administered at the frequency specified by the object entity.,Drug,Schedule,enriched,9
+has reporting instruction,The subject drug requires the action or guidance specified by the object entity to be followed for reporting adverse effects or side effects.,Drug,Instruction,enriched,8
+used after,The subject drug is typically used following the medical event or condition specified by the object entity.,Drug,Condition,enriched,8
+has longer half life,"The subject drug has a longer half-life, meaning it remains in the body for a longer duration, as specified by the object entity.",Drug,Other,enriched,8
+has concentration,The subject drug is available in the concentration specified by the object entity.,Drug,Strength,enriched,8
+has boxed warning,The subject drug carries an official boxed (black box) safety warning about the risk specified by the object entity.,Drug,Warning,seed,7
+has peak blood level time,The subject drug reaches its peak concentration in the blood at the time specified by the object entity after a dose.,Drug,Other,enriched,7
+has definition,The subject entity is defined by the description provided in the object entity.,Drug,Other,enriched,7
+has coupon eligibility,The subject drug may qualify for the coupon or savings program specified by the object entity.,Drug,Other,enriched,7
+has recommendation,The subject drug requires the medical action or procedure specified by the object entity to be performed.,Drug,Instruction,enriched,7
+blocks,The subject drug inhibits or prevents the function of the receptor or pathway specified by the object entity.,Drug,Substance,enriched,6
+dose depends on,The subject drug's dose is determined by the factor specified by the object entity.,Drug,Condition,enriched,6
+may have added,The subject drug may include the substance specified by the object entity to adjust or maintain its pH.,Drug,Substance,enriched,6
+has controlled substance schedule,The subject drug is classified under the controlled substance schedule specified by the object entity.,Drug,Schedule,seed,5
+distinguished from,The subject drug can be differentiated or identified as separate from the substance specified by the object entity.,Drug,DrugClass,enriched,5
+was withdrawn from market in,The subject drug was removed from sale or distribution in the country or region specified by the object entity.,Drug,Other,enriched,5
+remain on,The subject products continue to be available or present in the context specified by the object entity.,Drug,Drug,enriched,5
+reduces response to,The subject drug may decrease the effectiveness or response to the object entity.,Drug,DrugClass,enriched,5
+has legal instruction,The subject drug has a legal instruction or regulation associated with it as specified by the object entity.,Drug,Instruction,enriched,5
+can be used with,The subject drug can be administered concurrently with the substance or medication specified by the object entity.,Drug,Substance,enriched,5
+is a man made form of,The subject drug is a synthetic version of the substance specified by the object entity.,Drug,Substance,enriched,5
+average starting weight,The subject treatment or group had patients with the average initial body weight specified by the object entity.,Drug,Other,enriched,5
+has dose composition,The subject drug contains the specific dose composition specified by the object entity.,Drug,Dose,enriched,5
+may cost,"The subject drug may have a specific cost or price, as specified by the object entity.",Drug,Other,enriched,5
+has longer elimination duration in,The subject drug takes a longer time to be fully eliminated from the body in the group specified by the object entity.,Drug,Condition,enriched,4
+does not increase risk of,The subject drug does not elevate the risk of the medical condition or event specified by the object entity.,Drug,Condition,enriched,4
+does not interact with,The subject drug does not have any pharmacological interaction with the substance or medication specified by the object entity.,Drug,Substance,enriched,4
+passes into breast milk,The subject drug is able to pass into breast milk in the quantity specified by the object entity.,Drug,Other,enriched,4
+may have different,The subject drug formulation may differ from the object entity in the specified aspect.,Drug,Ingredient,enriched,4
+has higher blood levels in,The subject drug remains at higher concentrations in the blood of the group specified by the object entity.,Drug,Population,enriched,3
+may be confused with,The subject condition or symptom may be mistaken for the condition or symptom specified by the object entity.,Condition,Condition,enriched,3
+requires washout period,The subject drug necessitates a specific period of time specified by the object entity before switching to another medication to avoid adverse interactions.,Drug,Instruction,enriched,3
+was first approved,The subject drug was initially approved for the indication or use specified by the object entity.,Drug,Other,enriched,3
+may affect,"The subject entity may influence the action, effectiveness, or safety of the object entity.",Drug,Condition,enriched,3
+reduced absorption by,The object entity reduces the amount of the subject drug that is absorbed into the bloodstream.,Drug,Substance,enriched,3
+not chemically related to,The subject drug does not share a chemical structure or mechanism of action with the substance specified by the object entity.,Drug,DrugClass,enriched,3
+has biosimilar,"The subject biological product has a biosimilar product, which is a highly similar version of the subject product.",Drug,Drug,enriched,3
+increases effect of,The subject drug enhances or potentiates the effect of the substance or condition specified by the object entity.,Drug,Substance,enriched,3
+switched to,The subject drug is replaced or transitioned to the drug specified by the object entity.,Drug,Drug,enriched,3
+may be used for,The subject drug can be used for the purpose or indication specified by the object entity.,Drug,Condition,enriched,3
+has inactive ingredient,The subject drug contains the inactive component specified by the object entity.,Drug,Ingredient,enriched,3
+has package content,The subject drug's package includes the specified item or content described by the object entity.,Drug,Other,enriched,3
+has treatment for side effect,The subject drug's side effect can be treated or managed by the method or substance specified by the object entity.,Drug,Therapy,enriched,3
+slows,The subject drug reduces the rate or efficiency of the process specified by the object entity.,Drug,Other,enriched,3
+had hazard ratio,The subject result or measurement had the specified relative risk compared to a comparator.,Drug,Other,enriched,3
+has tablet color additive,The subject drug's tablet contains the color additive specified by the object entity.,Drug,Substance,enriched,2
+does not need to be stopped during,The subject drug does not need to be discontinued during the event or condition specified by the object entity.,Drug,Condition,enriched,2
+involves buildup of,The subject condition involves the accumulation of the substance specified by the object entity.,Condition,Substance,enriched,2
+has fda labeling statement,The subject drug is explicitly labeled by the FDA with the statement specified by the object entity.,Drug,Other,enriched,2
+is available by,The subject product is available through the method or requirement specified by the object entity.,Drug,Availability,enriched,2
+are commonly prescribed,The subject drug class is frequently prescribed among the categories specified by the object entity.,Drug,DrugClass,enriched,2
+has clinical importance,The subject drug has significant clinical relevance for the medical scenario specified by the object entity.,Drug,Condition,enriched,2
+has administration instruction for children,The subject drug is administered to children according to the specific method or guidance specified by the object entity.,Drug,Instruction,enriched,2
+caused birth defects in,The subject drug caused the specified adverse developmental outcome in the object entity.,Drug,Population,enriched,2
+has absorption rate,The subject drug is absorbed at the rate specified by the object entity.,Drug,Other,enriched,2
+has no difference in efficacy compared to,The subject drug does not differ from the object drug in its effectiveness.,Drug,Drug,enriched,2
+is salt form of,The subject drug is a specific salt form of the active pharmaceutical ingredient specified by the object entity.,Drug,Drug,enriched,2
+can mask,The subject drug may conceal or obscure the symptoms or signs specified by the object entity.,Drug,Symptom,enriched,2
+crosses placenta,The subject drug is able to pass through the placental barrier and reach the fetal circulation.,Drug,Substance,enriched,2
+has estimated dose in breastfed baby,The subject drug is estimated to be present in the breastfed baby at the dose specified by the object entity.,Drug,Dose,enriched,2
+has pharmacokinetic property,"The subject drug exhibits the pharmacokinetic characteristic described by the object entity, which relates to how the drug is absorbed, distributed, metabolized, or excreted in the body.",Drug,Other,enriched,2
+has study limitation,The studies related to the subject drug have limitations that make the interpretation of their findings difficult.,Drug,Other,enriched,2
+can reactivate,The subject drug may cause the dormant or previously resolved medical condition specified by the object entity to become active again.,Drug,Condition,enriched,2
+should not be stored in,The subject drug should not be stored in the specified location.,Drug,Other,enriched,2
+has treatment range,"The subject entity has a specified range of doses that are typically used for treatment, as specified by the object entity.",Drug,Dose,enriched,2
+binds to,The subject entity physically interacts with or attaches to the object entity.,Drug,Drug,enriched,2
+has side effect resolution,The subject drug's side effect may resolve under the condition specified by the object entity.,Drug,Condition,enriched,2
+cost condition,The subject drug's cost is subject to the condition specified by the object entity.,Drug,Availability,enriched,2
+did not demonstrate,The subject study failed to show or prove the outcome or result specified by the object entity.,Drug,Other,enriched,2
+had all cause death rate,The subject drug or treatment was associated with the specified percentage of all-cause mortality.,Drug,Other,enriched,2
+had cardiovascular event rate,The subject drug or treatment was associated with the specified percentage of cardiovascular events.,Drug,Other,enriched,2
+has incomplete interaction list,The subject drug has an incomplete list of drugs that may interact with it.,Drug,Other,enriched,2
+not eligible for savings card in,Patients with the specified insurance type are not eligible for the savings card associated with the subject drug.,Drug,Other,enriched,2

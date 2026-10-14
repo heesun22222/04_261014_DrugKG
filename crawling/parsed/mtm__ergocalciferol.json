@@ -1,0 +1,222 @@
+{
+ "name": "Ergocalciferol",
+ "slug": "mtm/ergocalciferol",
+ "url": "https://www.drugs.com/mtm/ergocalciferol.html",
+ "title": "Ergocalciferol",
+ "page_title": "Ergocalciferol Uses, Side Effects & Warnings",
+ "generic_name": "ergocalciferol (vitamin D2)",
+ "pronunciation": "ER-goe-kal-SIF-e-role",
+ "brand_names": [
+  "Calcidol",
+  "Calciferol",
+  "Drisdol",
+  "Vitamin D2"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "oral capsule",
+   "strengths": [
+    "1.25 mg"
+   ]
+  },
+  {
+   "form": "oral solution",
+   "strengths": [
+    "200 mcg/mL"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Vitamins",
+   "slug": "vitamins"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Drugs.com on Sep 23, 2026. Written by Cerner Multum.",
+ "faq": [],
+ "description": "Ergocalciferol: side effects, dosage, interactions, FAQs, reviews. Used for: familial hypophosphatemia, hypocalcemia, hypoparathyroidism, hypophosphatemia, osteomalacia, and more.",
+ "date_modified": "2026-09-23",
+ "reviewed_by": "Drugs.com",
+ "availability": "Rx and/or OTC",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Rocaltrol",
+   "slug": "mtm/rocaltrol",
+   "blurb": "Rocaltrol is used for hypocalcemia, hypoparathyroidism, renal osteodystrophy, rickets, secondary..."
+  },
+  {
+   "name": "Natpara",
+   "slug": "natpara",
+   "blurb": "Natpara (parathyroid hormone) is used to treat hypocalcemia in patients with hypoparathyroidism..."
+  },
+  {
+   "name": "Yorvipath",
+   "slug": "yorvipath",
+   "blurb": "Yorvipath (palopegteriparatide) is an injectable parathyroid hormone replacement therapy that can..."
+  },
+  {
+   "name": "Drisdol",
+   "slug": "mtm/drisdol",
+   "blurb": "Drisdol is used for familial hypophosphatemia, hypocalcemia, hypoparathyroidism, hypophosphatemia..."
+  },
+  {
+   "name": "Calciferol",
+   "slug": "mtm/calciferol",
+   "blurb": "Calciferol is used for familial hypophosphatemia, hypocalcemia, hypoparathyroidism..."
+  },
+  {
+   "name": "Calcium lactate",
+   "slug": "mtm/calcium-lactate",
+   "blurb": "Calcium lactate is used for hypocalcemia, hypoparathyroidism, osteomalacia, osteoporosis..."
+  },
+  {
+   "name": "Calcitriol",
+   "slug": "mtm/calcitriol",
+   "blurb": "Calcitriol is used for hypocalcemia, hypoparathyroidism, renal osteodystrophy, rickets, secondary..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is ergocalciferol?",
+   "lines": [
+    "Ergocalciferol is vitamin D2. Vitamin D helps your body absorb calcium.",
+    "Ergocalciferol is used to treat hypoparathyroidism (decreased functioning of the parathyroid glands).",
+    "Ergocalciferol is also used to treat rickets (softening of the bones caused by vitamin D deficiency) or low levels of phosphate in the blood (hypophosphatemia).",
+    "Ergocalciferol may also be used for purposes not listed in this medication guide."
+   ],
+   "text": "Ergocalciferol is vitamin D2. Vitamin D helps your body absorb calcium.\nErgocalciferol is used to treat hypoparathyroidism (decreased functioning of the parathyroid glands).\nErgocalciferol is also used to treat rickets (softening of the bones caused by vitamin D deficiency) or low levels of phosphate in the blood (hypophosphatemia).\nErgocalciferol may also be used for purposes not listed in this medication guide."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Ergocalciferol side effects",
+   "lines": [
+    "Get emergency medical help if you have signs of an allergic reaction: hives; difficult breathing; swelling of your face, lips, tongue, or throat.",
+    "Stop taking ergocalciferol and call your doctor at once if you have:",
+    "- chest pain, feeling short of breath;",
+    "- growth problems (in a child taking ergocalciferol); or",
+    "- early signs of vitamin D overdose --weakness, metallic taste in your mouth, weight loss, muscle or bone pain, constipation, nausea, and vomiting.",
+    "Less serious side effects may be more likely, and you may have none at all.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have signs of an allergic reaction: hives; difficult breathing; swelling of your face, lips, tongue, or throat.\nStop taking ergocalciferol and call your doctor at once if you have:\n- chest pain, feeling short of breath;\n- growth problems (in a child taking ergocalciferol); or\n- early signs of vitamin D overdose --weakness, metallic taste in your mouth, weight loss, muscle or bone pain, constipation, nausea, and vomiting.\nLess serious side effects may be more likely, and you may have none at all.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "You should not take ergocalciferol if you have had an allergic reaction to vitamin D, or if you have high levels of calcium or vitamin D in your body, or any condition that makes it hard for your body to absorb nutrients from food (malabsorption).",
+    "Use only the recommended dose of ergocalciferol. An overdose could cause serious or life-threatening side effects."
+   ],
+   "text": "You should not take ergocalciferol if you have had an allergic reaction to vitamin D, or if you have high levels of calcium or vitamin D in your body, or any condition that makes it hard for your body to absorb nutrients from food (malabsorption).\nUse only the recommended dose of ergocalciferol. An overdose could cause serious or life-threatening side effects."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not take ergocalciferol if you have had an allergic reaction to vitamin D, or if you have:",
+    "- high levels of vitamin D in your body (hypervitaminosis D);",
+    "- high levels of calcium in your blood (hypercalcemia); or",
+    "- any condition that makes it hard for your body to absorb nutrients from food (malabsorption).",
+    "Tell your doctor if you have ever had:",
+    "- heart disease;",
+    "- kidney disease; or",
+    "- an electrolyte imbalance.",
+    "Certain forms of ergocalciferol may contain ingredients you should know about, such as peanut or soybean oil, sugar, aspartame (phenylalanine), or certain food dyes. Ask a doctor before using ergocalciferol if you have allergies, diabetes, or phenylketonuria (PKU).",
+    "Too much vitamin D could harm an unborn baby, and your dose needs may be different during pregnancy. Tell your doctor if you are pregnant or if you become pregnant while taking ergocalciferol.",
+    "Ergocalciferol can pass into breast milk and may cause side effects in the nursing baby. Tell your doctor if you are breast-feeding.",
+    "Do not give ergocalciferol to a child without medical advice. Your child's dose will depend on age, weight, diet, and other factors."
+   ],
+   "text": "You should not take ergocalciferol if you have had an allergic reaction to vitamin D, or if you have:\n- high levels of vitamin D in your body (hypervitaminosis D);\n- high levels of calcium in your blood (hypercalcemia); or\n- any condition that makes it hard for your body to absorb nutrients from food (malabsorption).\nTell your doctor if you have ever had:\n- heart disease;\n- kidney disease; or\n- an electrolyte imbalance.\nCertain forms of ergocalciferol may contain ingredients you should know about, such as peanut or soybean oil, sugar, aspartame (phenylalanine), or certain food dyes. Ask a doctor before using ergocalciferol if you have allergies, diabetes, or phenylketonuria (PKU).\nToo much vitamin D could harm an unborn baby, and your dose needs may be different during pregnancy. Tell your doctor if you are pregnant or if you become pregnant while taking ergocalciferol.\nErgocalciferol can pass into breast milk and may cause side effects in the nursing baby. Tell your doctor if you are breast-feeding.\nDo not give ergocalciferol to a child without medical advice. Your child's dose will depend on age, weight, diet, and other factors."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "How should I take ergocalciferol?",
+   "lines": [
+    "Follow all directions on your prescription label and read all medication guides or instruction sheets. Use only the recommended dose of ergocalciferol.",
+    "It may be best to take ergocalciferol after a meal, but you may take ergocalciferol with or without food.",
+    "Measure liquid medicine carefully. Use the dosing syringe provided, or use a medicine dose-measuring device (not a kitchen spoon).",
+    "You will need frequent medical tests.",
+    "Your doctor may begin to reduce your ergocalciferol dose as your condition improves. Carefully follow all instructions about adjusting your dose. In some cases, there may be a very small difference in amount between safe and dangerous doses of this medicine.",
+    "Your doctor will determine how long to treat you with this medicine.",
+    "Ergocalciferol may be only part of a complete program of treatment that also includes dietary changes and taking calcium and vitamin supplements. Follow your doctor's instructions very closely.",
+    "Learn about the foods you should eat to make sure you get enough calcium and vitamin D in your diet. Your ergocalciferol dose may need to be adjusted as you make changes to your diet.",
+    "Store at room temperature away from moisture, heat, and light."
+   ],
+   "text": "Follow all directions on your prescription label and read all medication guides or instruction sheets. Use only the recommended dose of ergocalciferol.\nIt may be best to take ergocalciferol after a meal, but you may take ergocalciferol with or without food.\nMeasure liquid medicine carefully. Use the dosing syringe provided, or use a medicine dose-measuring device (not a kitchen spoon).\nYou will need frequent medical tests.\nYour doctor may begin to reduce your ergocalciferol dose as your condition improves. Carefully follow all instructions about adjusting your dose. In some cases, there may be a very small difference in amount between safe and dangerous doses of this medicine.\nYour doctor will determine how long to treat you with this medicine.\nErgocalciferol may be only part of a complete program of treatment that also includes dietary changes and taking calcium and vitamin supplements. Follow your doctor's instructions very closely.\nLearn about the foods you should eat to make sure you get enough calcium and vitamin D in your diet. Your ergocalciferol dose may need to be adjusted as you make changes to your diet.\nStore at room temperature away from moisture, heat, and light."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+   ],
+   "text": "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222. An overdose of vitamin D can cause serious or life-threatening side effects.",
+    "Overdose symptoms may include nausea, loss of appetite, thirst, urinating more or less than usual, body aches, stiffness, confusion, or irregular heartbeats."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222. An overdose of vitamin D can cause serious or life-threatening side effects.\nOverdose symptoms may include nausea, loss of appetite, thirst, urinating more or less than usual, body aches, stiffness, confusion, or irregular heartbeats."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking ergocalciferol?",
+   "lines": [
+    "Ask a doctor or pharmacist before taking any multivitamins, mineral supplements, or antacids while you are taking ergocalciferol."
+   ],
+   "text": "Ask a doctor or pharmacist before taking any multivitamins, mineral supplements, or antacids while you are taking ergocalciferol."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect ergocalciferol?",
+   "lines": [
+    "Certain medications can make it harder for your body to absorb vitamin D. If you take other medications, take them at least 2 hours before or 2 hours after you take ergocalciferol.",
+    "Tell your doctor about all your other medicines, especially:",
+    "- a diuretic or \"water pill\"; or",
+    "- mineral oil (sometimes taken as a laxative).",
+    "This list is not complete. Other drugs may affect ergocalciferol, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here.",
+    "- Check interactions",
+    "- Compare alternatives",
+    "- Pricing & coupons",
+    "- Reviews (34)",
+    "- Drug images",
+    "- Side effects",
+    "- Dosage information",
+    "- During pregnancy",
+    "- Drug class: vitamins",
+    "- En español",
+    "Patient resources:",
+    "Other brands:",
+    "Drisdol, Calciferol, Calcidol",
+    "Professional resources:",
+    "- Ergocalciferol monograph",
+    "- Ergocalciferol (FDA)",
+    "- Vitamin D Ergocalciferol (FDA)",
+    "Other brands:",
+    "Drisdol",
+    "Related treatment guides:",
+    "- Hypoparathyroidism",
+    "- Familial Hypophosphatemia",
+    "- Hypophosphatemia",
+    "- Hypocalcemia"
+   ],
+   "text": "Certain medications can make it harder for your body to absorb vitamin D. If you take other medications, take them at least 2 hours before or 2 hours after you take ergocalciferol.\nTell your doctor about all your other medicines, especially:\n- a diuretic or \"water pill\"; or\n- mineral oil (sometimes taken as a laxative).\nThis list is not complete. Other drugs may affect ergocalciferol, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here.\n- Check interactions\n- Compare alternatives\n- Pricing & coupons\n- Reviews (34)\n- Drug images\n- Side effects\n- Dosage information\n- During pregnancy\n- Drug class: vitamins\n- En español\nPatient resources:\nOther brands:\nDrisdol, Calciferol, Calcidol\nProfessional resources:\n- Ergocalciferol monograph\n- Ergocalciferol (FDA)\n- Vitamin D Ergocalciferol (FDA)\nOther brands:\nDrisdol\nRelated treatment guides:\n- Hypoparathyroidism\n- Familial Hypophosphatemia\n- Hypophosphatemia\n- Hypocalcemia"
+  }
+ ],
+ "rank": 46
+}

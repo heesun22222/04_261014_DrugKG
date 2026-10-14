@@ -1,0 +1,283 @@
+{
+ "name": "Amlodipine",
+ "slug": "amlodipine",
+ "url": "https://www.drugs.com/amlodipine.html",
+ "title": "Amlodipine",
+ "page_title": "Amlodipine: Uses, Side Effects & Dosage - Drugs.com",
+ "generic_name": "amlodipine",
+ "pronunciation": "am-LOE-di-peen",
+ "brand_names": [
+  "Katerzia",
+  "Norliqva",
+  "Norvasc",
+  "Sdamlo"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "powder for oral solution",
+   "strengths": [
+    "2.5 mg, 5 mg, 10 mg"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Calcium channel blockers",
+   "slug": "calcium-channel-blocking-agents"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Aug 25, 2026.",
+ "faq": [
+  {
+   "q": "What is the best time of day to take blood pressure medication?",
+   "a": "Research has suggested that taking your blood pressure medication at night instead of in the morning can provide better blood pressure control at night without compromising daytime blood pressure control and reduce your overall risk of dying because of cardiovascular disease by 45%."
+  },
+  {
+   "q": "How long does it take for amlodipine to work?",
+   "a": "Amlodipine decreases blood pressure over 4 to 8 hours after a single dose. Because the decrease in blood pressure is gradual, a patient's heart rate is not affected because their physiological reflexes (such as an increase in heart rate) are not activated."
+  },
+  {
+   "q": "How do I reduce swelling from amlodipine?",
+   "a": "Swelling from amlodipine is a common, but often troublesome side effect of amlodipine with 5% to 9% of people stopping amlodipine because of it. If you develop swelling with amlodipine, tell your doctor right away because they may be able to change your blood pressure medications slightly to help reduce the swelling. Swelling caused by amlodipine does not usually respond to treatment with diuretics (such as furosemide) because it is caused by changes in capillary pressure that result in leakage into the spaces between capillaries (called the interstitial area) rather than water retention."
+  },
+  {
+   "q": "Best time to take amlodipine - day or night?",
+   "a": "You can take amlodipine in the morning or at night, whichever works best for your schedule. The key is to take it at the same time each day to maintain consistent blood levels and support its effectiveness."
+  },
+  {
+   "q": "How long does amlodipine stay in your system?",
+   "a": "Amlodipine can stay in your system for up to 11.5 days after your last dose. This is because it has a long elimination half-life of 30 to 50 hours, meaning it takes that long for your body to reduce the drug level by half."
+  },
+  {
+   "q": "Does amlodipine cause weight gain?",
+   "a": "Weight gain has been reported by some people taking amlodipine but this is not a common side effect and some people have also reported weight loss. Weight gain with amlodipine may also be a symptom of edema, which is when you retain fluid, which may be particularly noticeable around your ankles or lower legs. The risk of edema is greater in women compared with men and in those people taking a higher dosage of amlodipine, and edema is usually noticed as weight gain."
+  }
+ ],
+ "description": "Amlodipine is a calcium channel blocker used to treat high blood pressure and types of angina. Learn about side effects, doses",
+ "date_modified": "2026-08-25",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Valsartan",
+   "slug": "valsartan",
+   "blurb": "Valsartan is an angiotensin II receptor blocker (ARB) that may be used to treat high blood pressure..."
+  },
+  {
+   "name": "Enalapril",
+   "slug": "enalapril",
+   "blurb": "Enalapril is used to treat high blood pressure, congestive heart failure and to improve survival..."
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Atenolol",
+   "slug": "atenolol",
+   "blurb": "Atenolol is used to treat angina (chest pain) and hypertension (high blood pressure). Learn about..."
+  },
+  {
+   "name": "Lasix",
+   "slug": "lasix",
+   "blurb": "Lasix is a loop diuretic used to treat fluid retention from heart, liver, or kidney conditions, and..."
+  },
+  {
+   "name": "Hydrochlorothiazide",
+   "slug": "hydrochlorothiazide",
+   "blurb": "Hydrochlorothiazide treats fluid retention (edema) in people with congestive heart failure..."
+  },
+  {
+   "name": "Metoprolol",
+   "slug": "metoprolol",
+   "blurb": "Metoprolol is used to treat angina (chest pain) and hypertension (high blood pressure). Learn about..."
+  },
+  {
+   "name": "Furosemide",
+   "slug": "furosemide",
+   "blurb": "Furosemide is a loop diuretic used to treat fluid retention and high blood pressure by increasing..."
+  },
+  {
+   "name": "Lisinopril",
+   "slug": "lisinopril",
+   "blurb": "Lisinopril is an ACE inhibitor. It is used to treat high blood pressure, congestive heart failure..."
+  },
+  {
+   "name": "Losartan",
+   "slug": "losartan",
+   "blurb": "Losartan is used to treat high blood pressure (hypertension). It is also used to lower the risk of..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is amlodipine?",
+   "lines": [
+    "Amlodipine besylate is a prescription medicine used to treat high blood pressure (hypertension) and to prevent certain types of angina (chest pain). It belongs to a class of medications called calcium channel blockers.",
+    "Amlodipine besylate works by relaxing and widening the blood vessels, so blood flows more easily which improves blood pressure.",
+    "Amlodipine besylate controls angina chest pain by increasing the supply of blood to the heart. If taken regularly, this medicine controls chest pain, but it does not stop chest pain once it starts. Your doctor may prescribe a different medication to take when you have chest pain.",
+    "Amlodipine is also used alone or in combination with other medicines to treat high blood pressure (hypertension) in adults and children at least 6 years old. Lowering blood pressure may lower your risk of a stroke or heart attack.",
+    "Amlodipine besylate is available as:",
+    "- Amlodipine 5 mg tablets (Norvasc)",
+    "- Amlodipine 10 mg tablets (Norvasc)",
+    "- Amlodipine 2.5 mg tablets (Norvasc)",
+    "- Amlodipine 1 mg/mL solution (Norliqva)",
+    "- Amlodipine 1 mg/mL oral suspension (Katerzia)",
+    "- Amlodipine single-dose powder for oral solution (Sdamlo)."
+   ],
+   "text": "Amlodipine besylate is a prescription medicine used to treat high blood pressure (hypertension) and to prevent certain types of angina (chest pain). It belongs to a class of medications called calcium channel blockers.\nAmlodipine besylate works by relaxing and widening the blood vessels, so blood flows more easily which improves blood pressure.\nAmlodipine besylate controls angina chest pain by increasing the supply of blood to the heart. If taken regularly, this medicine controls chest pain, but it does not stop chest pain once it starts. Your doctor may prescribe a different medication to take when you have chest pain.\nAmlodipine is also used alone or in combination with other medicines to treat high blood pressure (hypertension) in adults and children at least 6 years old. Lowering blood pressure may lower your risk of a stroke or heart attack.\nAmlodipine besylate is available as:\n- Amlodipine 5 mg tablets (Norvasc)\n- Amlodipine 10 mg tablets (Norvasc)\n- Amlodipine 2.5 mg tablets (Norvasc)\n- Amlodipine 1 mg/mL solution (Norliqva)\n- Amlodipine 1 mg/mL oral suspension (Katerzia)\n- Amlodipine single-dose powder for oral solution (Sdamlo)."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Amlodipine side effects",
+   "lines": [
+    "Common amlodipine side effects:",
+    "The most common amlodipine side may include:",
+    "- dizziness, drowsiness;",
+    "- swelling of your legs or ankles;",
+    "- irregular heartbeat;",
+    "- pounding heartbeats or fluttering in your chest;",
+    "- muscle stiffness;",
+    "- uncontrolled muscle movements;",
+    "- feeling tired;",
+    "- stomach pain, nausea; or",
+    "- flushing (sudden warmth, redness, or tingly feeling).",
+    "Amlodipine besylate may cause serious side effects:",
+    "Get emergency medical help if you have signs of an allergic reaction to amlodipine: hives; difficulty breathing; swelling of your face, lips, tongue, or throat.",
+    "In rare cases, when you first start taking this medicine, your chest pain may get worse or you could have a heart attack. Seek emergency medical attention or call your doctor right away if you have symptoms such as: chest pain or pressure, pain spreading to your jaw or shoulder, nausea, sweating.",
+    "Call your doctor at once if you have:",
+    "- worsening chest pain; or",
+    "- a light-headed feeling, like you might pass out.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Common amlodipine side effects:\nThe most common amlodipine side may include:\n- dizziness, drowsiness;\n- swelling of your legs or ankles;\n- irregular heartbeat;\n- pounding heartbeats or fluttering in your chest;\n- muscle stiffness;\n- uncontrolled muscle movements;\n- feeling tired;\n- stomach pain, nausea; or\n- flushing (sudden warmth, redness, or tingly feeling).\nAmlodipine besylate may cause serious side effects:\nGet emergency medical help if you have signs of an allergic reaction to amlodipine: hives; difficulty breathing; swelling of your face, lips, tongue, or throat.\nIn rare cases, when you first start taking this medicine, your chest pain may get worse or you could have a heart attack. Seek emergency medical attention or call your doctor right away if you have symptoms such as: chest pain or pressure, pain spreading to your jaw or shoulder, nausea, sweating.\nCall your doctor at once if you have:\n- worsening chest pain; or\n- a light-headed feeling, like you might pass out.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Before taking amlodipine besylate, tell your doctor if you have congestive heart failure or liver disease.",
+    "Drinking alcohol can further lower your blood pressure and may increase certain side effects of amlodipine.",
+    "If you are being treated for high blood pressure, keep using amlodipine even if you feel well. High blood pressure often has no symptoms. You may need to use blood pressure medication for the rest of your life.",
+    "Amlodipine is only part of a complete program of treatment that may also include diet, exercise, weight control, and other medications. Follow your diet, medication, and exercise routines very closely.",
+    "Tell your doctor about all other heart or blood pressure medications you are taking.",
+    "Your chest pain may become worse when you first start taking amlodipine or when your dose is increased. Call your doctor if your chest pain is severe or ongoing."
+   ],
+   "text": "Before taking amlodipine besylate, tell your doctor if you have congestive heart failure or liver disease.\nDrinking alcohol can further lower your blood pressure and may increase certain side effects of amlodipine.\nIf you are being treated for high blood pressure, keep using amlodipine even if you feel well. High blood pressure often has no symptoms. You may need to use blood pressure medication for the rest of your life.\nAmlodipine is only part of a complete program of treatment that may also include diet, exercise, weight control, and other medications. Follow your diet, medication, and exercise routines very closely.\nTell your doctor about all other heart or blood pressure medications you are taking.\nYour chest pain may become worse when you first start taking amlodipine or when your dose is increased. Call your doctor if your chest pain is severe or ongoing."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not take amlodipine if you are allergic to it.",
+    "To make sure this medicine is safe for you, tell your doctor if you have ever had:",
+    "- severe narrowing of a certain valve in your heart (aortic stenosis), or other heart problems;",
+    "- coronary artery disease (clogged arteries); or",
+    "- liver disease.",
+    "It is not known if amlodipine will harm an unborn baby. However, having high blood pressure during pregnancy may cause complications or medical problems in both mother and baby. The benefit of treating hypertension may outweigh any risks to the baby.",
+    "Do not breastfeed while taking amlodipine. You can stop breastfeeding or take a different medicine."
+   ],
+   "text": "You should not take amlodipine if you are allergic to it.\nTo make sure this medicine is safe for you, tell your doctor if you have ever had:\n- severe narrowing of a certain valve in your heart (aortic stenosis), or other heart problems;\n- coronary artery disease (clogged arteries); or\n- liver disease.\nIt is not known if amlodipine will harm an unborn baby. However, having high blood pressure during pregnancy may cause complications or medical problems in both mother and baby. The benefit of treating hypertension may outweigh any risks to the baby.\nDo not breastfeed while taking amlodipine. You can stop breastfeeding or take a different medicine."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take amlodipine?",
+   "lines": [
+    "Take amlodipine exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.",
+    "Amlodipine is usually taken once per day.",
+    "Take the medicine at the same time each day, with or without food.",
+    "Shake the oral suspension (liquid). Measure a dose with the supplied measuring device (not a kitchen spoon).",
+    "Amlodipine for oral solution (Sdamlo) comes as a powder that you must mix with water to make a liquid (solution) before taking or giving it. Throw away Sdamlo if you do not take or give it within 60 minutes of mixing and get a new bottle. Do not store mixed Sdamlo.",
+    "Your blood pressure will need to be checked often.",
+    "If you have high blood pressure, keep using amlodipine even if you feel well. High blood pressure often has no symptoms.",
+    "Do not change your doses or stop taking any of your medications without your doctor's advice.",
+    "Your treatment may also include diet, exercise, weight control, and blood tests.",
+    "Store amlodipine tablets and oral solution (liquid) at room temperature away from moisture, heat, and light.",
+    "Store amlodipine oral suspension in the refrigerator; do not freeze."
+   ],
+   "text": "Take amlodipine exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.\nAmlodipine is usually taken once per day.\nTake the medicine at the same time each day, with or without food.\nShake the oral suspension (liquid). Measure a dose with the supplied measuring device (not a kitchen spoon).\nAmlodipine for oral solution (Sdamlo) comes as a powder that you must mix with water to make a liquid (solution) before taking or giving it. Throw away Sdamlo if you do not take or give it within 60 minutes of mixing and get a new bottle. Do not store mixed Sdamlo.\nYour blood pressure will need to be checked often.\nIf you have high blood pressure, keep using amlodipine even if you feel well. High blood pressure often has no symptoms.\nDo not change your doses or stop taking any of your medications without your doctor's advice.\nYour treatment may also include diet, exercise, weight control, and blood tests.\nStore amlodipine tablets and oral solution (liquid) at room temperature away from moisture, heat, and light.\nStore amlodipine oral suspension in the refrigerator; do not freeze."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Amlodipine Dosing Information",
+   "lines": [
+    "Usual Amlodipine Adult Dose for Hypertension:",
+    "Initial dose: 5 mg orally once a day Maintenance dose: 5 to 10 mg orally once a day Maximum dose: 10 mg/day Comments: Patients who are small or fragile may be started on 2.5 mg orally once a day.",
+    "Usual Adult Dose for Angina Pectoris:",
+    "Maintenance dose: 5 to 10 mg orally once a day Maximum dose: 10 mg/day",
+    "Usual Adult Dose for Coronary Artery Disease:",
+    "Maintenance dose: 5 to 10 mg orally once a day Maximum dose: 10 mg/day",
+    "Usual Geriatric Dose for Hypertension:",
+    "Initial dose: 2.5 mg orally once a day Maintenance dose: 2.5 to 10 mg orally once a day Maximum dose: 10 mg/day.",
+    "Usual Geriatric Dose for Angina Pectoris:",
+    "Initial dose: 5 mg orally once a day Maintenance dose: 5 to 10 mg orally once a day Maximum dose: 10 mg/day.. Uses: Alone or in combination with other antianginal agents for the symptomatic treatment of chronic stable angina -Alone or in combination with other antianginal agents for the treatment of confirmed/suspected vasospastic angina -To reduce the risk of hospitalization for angina and to reduce the risk of a coronary revascularization procedure in patients with recently documented CAD by angiography and without heart failure or an ejection fraction less than 40%",
+    "Usual Pediatric Dose for Hypertension:",
+    "6 to 17 years: -Maintenance dose: 2.5 to 5 mg orally once a day -Maximum dose: 5 mg/day Comments: Doses higher than 5 mg have not been studied in pediatric patients. The dosage should be adjusted according to patient response. In general, titration should proceed over 7 to 14 days. If clinically warranted, titration may proceed more rapidly, provided the patient is assessed frequently. Use: Alone or in combination with other antihypertensive agents to treat hypertension"
+   ],
+   "text": "Usual Amlodipine Adult Dose for Hypertension:\nInitial dose: 5 mg orally once a day Maintenance dose: 5 to 10 mg orally once a day Maximum dose: 10 mg/day Comments: Patients who are small or fragile may be started on 2.5 mg orally once a day.\nUsual Adult Dose for Angina Pectoris:\nMaintenance dose: 5 to 10 mg orally once a day Maximum dose: 10 mg/day\nUsual Adult Dose for Coronary Artery Disease:\nMaintenance dose: 5 to 10 mg orally once a day Maximum dose: 10 mg/day\nUsual Geriatric Dose for Hypertension:\nInitial dose: 2.5 mg orally once a day Maintenance dose: 2.5 to 10 mg orally once a day Maximum dose: 10 mg/day.\nUsual Geriatric Dose for Angina Pectoris:\nInitial dose: 5 mg orally once a day Maintenance dose: 5 to 10 mg orally once a day Maximum dose: 10 mg/day.. Uses: Alone or in combination with other antianginal agents for the symptomatic treatment of chronic stable angina -Alone or in combination with other antianginal agents for the treatment of confirmed/suspected vasospastic angina -To reduce the risk of hospitalization for angina and to reduce the risk of a coronary revascularization procedure in patients with recently documented CAD by angiography and without heart failure or an ejection fraction less than 40%\nUsual Pediatric Dose for Hypertension:\n6 to 17 years: -Maintenance dose: 2.5 to 5 mg orally once a day -Maximum dose: 5 mg/day Comments: Doses higher than 5 mg have not been studied in pediatric patients. The dosage should be adjusted according to patient response. In general, titration should proceed over 7 to 14 days. If clinically warranted, titration may proceed more rapidly, provided the patient is assessed frequently. Use: Alone or in combination with other antihypertensive agents to treat hypertension"
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the medicine as soon as you can, but skip the missed dose if you are more than 12 hours late for the dose. Do not take two doses at one time."
+   ],
+   "text": "Take the medicine as soon as you can, but skip the missed dose if you are more than 12 hours late for the dose. Do not take two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.",
+    "Overdose symptoms may include rapid heartbeats, redness or warmth in your arms or legs, or fainting."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.\nOverdose symptoms may include rapid heartbeats, redness or warmth in your arms or legs, or fainting."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking amlodipine?",
+   "lines": [
+    "Avoid getting up too fast from a sitting or lying position, or you may feel dizzy."
+   ],
+   "text": "Avoid getting up too fast from a sitting or lying position, or you may feel dizzy."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect amlodipine?",
+   "lines": [
+    "Sometimes it is not safe to use certain medicines at the same time. Some drugs can affect your blood levels of other drugs you use, which may increase side effects or make the medicines less effective.",
+    "Other drugs may interact with amlodipine, including prescription and over-the-counter medicines, vitamins, and herbal products. Tell your doctor about all other medicines you use.",
+    "Tell your doctor if you take simvastatin. You should not take more than 20 mg of simvastatin daily while taking amlodipine."
+   ],
+   "text": "Sometimes it is not safe to use certain medicines at the same time. Some drugs can affect your blood levels of other drugs you use, which may increase side effects or make the medicines less effective.\nOther drugs may interact with amlodipine, including prescription and over-the-counter medicines, vitamins, and herbal products. Tell your doctor about all other medicines you use.\nTell your doctor if you take simvastatin. You should not take more than 20 mg of simvastatin daily while taking amlodipine."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: What is the best time of day to take blood pressure medication? A: Research has suggested that taking your blood pressure medication at night instead of in the morning can provide better blood pressure control at night without compromising daytime blood pressure control and reduce your overall risk of dying because of cardiovascular disease by 45%.",
+    "Q: How long does it take for amlodipine to work? A: Amlodipine decreases blood pressure over 4 to 8 hours after a single dose. Because the decrease in blood pressure is gradual, a patient's heart rate is not affected because their physiological reflexes (such as an increase in heart rate) are not activated.",
+    "Q: How do I reduce swelling from amlodipine? A: Swelling from amlodipine is a common, but often troublesome side effect of amlodipine with 5% to 9% of people stopping amlodipine because of it. If you develop swelling with amlodipine, tell your doctor right away because they may be able to change your blood pressure medications slightly to help reduce the swelling. Swelling caused by amlodipine does not usually respond to treatment with diuretics (such as furosemide) because it is caused by changes in capillary pressure that result in leakage into the spaces between capillaries (called the interstitial area) rather than water retention.",
+    "Q: Best time to take amlodipine - day or night? A: You can take amlodipine in the morning or at night, whichever works best for your schedule. The key is to take it at the same time each day to maintain consistent blood levels and support its effectiveness.",
+    "Q: How long does amlodipine stay in your system? A: Amlodipine can stay in your system for up to 11.5 days after your last dose. This is because it has a long elimination half-life of 30 to 50 hours, meaning it takes that long for your body to reduce the drug level by half.",
+    "Q: Does amlodipine cause weight gain? A: Weight gain has been reported by some people taking amlodipine but this is not a common side effect and some people have also reported weight loss. Weight gain with amlodipine may also be a symptom of edema, which is when you retain fluid, which may be particularly noticeable around your ankles or lower legs. The risk of edema is greater in women compared with men and in those people taking a higher dosage of amlodipine, and edema is usually noticed as weight gain."
+   ],
+   "text": "Q: What is the best time of day to take blood pressure medication? A: Research has suggested that taking your blood pressure medication at night instead of in the morning can provide better blood pressure control at night without compromising daytime blood pressure control and reduce your overall risk of dying because of cardiovascular disease by 45%.\nQ: How long does it take for amlodipine to work? A: Amlodipine decreases blood pressure over 4 to 8 hours after a single dose. Because the decrease in blood pressure is gradual, a patient's heart rate is not affected because their physiological reflexes (such as an increase in heart rate) are not activated.\nQ: How do I reduce swelling from amlodipine? A: Swelling from amlodipine is a common, but often troublesome side effect of amlodipine with 5% to 9% of people stopping amlodipine because of it. If you develop swelling with amlodipine, tell your doctor right away because they may be able to change your blood pressure medications slightly to help reduce the swelling. Swelling caused by amlodipine does not usually respond to treatment with diuretics (such as furosemide) because it is caused by changes in capillary pressure that result in leakage into the spaces between capillaries (called the interstitial area) rather than water retention.\nQ: Best time to take amlodipine - day or night? A: You can take amlodipine in the morning or at night, whichever works best for your schedule. The key is to take it at the same time each day to maintain consistent blood levels and support its effectiveness.\nQ: How long does amlodipine stay in your system? A: Amlodipine can stay in your system for up to 11.5 days after your last dose. This is because it has a long elimination half-life of 30 to 50 hours, meaning it takes that long for your body to reduce the drug level by half.\nQ: Does amlodipine cause weight gain? A: Weight gain has been reported by some people taking amlodipine but this is not a common side effect and some people have also reported weight loss. Weight gain with amlodipine may also be a symptom of edema, which is when you retain fluid, which may be particularly noticeable around your ankles or lower legs. The risk of edema is greater in women compared with men and in those people taking a higher dosage of amlodipine, and edema is usually noticed as weight gain."
+  }
+ ],
+ "rank": 4
+}

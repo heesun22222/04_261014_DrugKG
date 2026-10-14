@@ -1,0 +1,343 @@
+{
+ "name": "Omeprazole",
+ "slug": "omeprazole",
+ "url": "https://www.drugs.com/omeprazole.html",
+ "title": "Omeprazole",
+ "page_title": "Omeprazole: Uses, Side Effects, Dosage, Warnings - Drugs.com",
+ "generic_name": "omeprazole",
+ "brand_names": [
+  "PriLOSEC",
+  "PriLOSEC OTC"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "oral delayed-release capsule",
+   "strengths": [
+    "10 mg",
+    "20 mg",
+    "40 mg"
+   ]
+  },
+  {
+   "form": "oral delayed-release tablet",
+   "strengths": [
+    "20 mg"
+   ]
+  },
+  {
+   "form": "delayed-release",
+   "strengths": [
+    "10 mg",
+    "2.5 mg"
+   ]
+  },
+  {
+   "form": "oral suspension",
+   "strengths": [
+    "2 mg/mL"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Proton pump inhibitors",
+   "slug": "proton-pump-inhibitors"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Aug 25, 2026.",
+ "faq": [
+  {
+   "q": "What foods should I avoid when taking omeprazole?",
+   "a": "There are no specific foods that interact with omeprazole, therefore there are no foods that you need to avoid."
+  },
+  {
+   "q": "Pantoprazole vs. omeprazole: What's the difference between them?",
+   "a": "Pantoprazole and omeprazole are both proton pump inhibitors (PPIs) that reduce stomach acid and show similar effectiveness for healing acid‑related conditions such as erosive esophagitis. Their main differences relate to FDA‑approved uses, availability (omeprazole is OTC; pantoprazole is prescription), timing with food, and the option for intravenous (IV) pantoprazole in the hospital setting."
+  },
+  {
+   "q": "How soon after taking levothyroxine can I take omeprazole?",
+   "a": "There is a known drug interaction between levothyroxine and omeprazole, but the timing of when you take the two medicines is not relevant. Omeprazole decreases the absorption of your thyroid medication. If you need to be on a course of omeprazole while taking levothyroxine, your doctor may order more frequent laboratory testing to confirm you are absorbing enough levothyroxine."
+  },
+  {
+   "q": "Should I take omeprazole with or without food?",
+   "a": "It is usually best to take Omeprazole 1 hour before meals. When omeprazole is taken with food, it reduces the amount of omeprazole that reaches the bloodstream."
+  },
+  {
+   "q": "Can you take an antacid with omeprazole?",
+   "a": "You can take an antacid with omeprazole if you are still getting symptoms of indigestion because it can take several days for omeprazole to start working. Take omeprazole as directed (usually taken once daily on an empty stomach), and take antacids as needed to relieve indigestion pain after eating. But tell your doctor if several weeks have gone past and omeprazole does not seem to be working or you are still taking antacids."
+  },
+  {
+   "q": "Is famotidine safer than omeprazole for heartburn?",
+   "a": "For most people with mild, occasional heartburn, famotidine is usually the safer first choice because it works quickly, can be taken as needed, and has fewer long‑term safety concerns than omeprazole. Omeprazole, a stronger acid reducer, may be a better option if you have frequent heartburn two or more days per week or confirmed GERD, but it is linked with more potential risks when used for many months or at high doses."
+  },
+  {
+   "q": "Can I take omeprazole in the morning and famotidine at night?",
+   "a": "Yes, you could take omeprazole in the morning and famotidine at night but there are not many studies investigating this approach. Preliminary results suggest that taking your medication this way may provide superior control of gastric acid secretion at night without compromising the effectiveness of omeprazole in the morning. More research is needed."
+  },
+  {
+   "q": "Is omeprazole (Prilosec) bad for your kidneys?",
+   "a": "Omeprazole (Prilosec) is a proton pump inhibitor (PPI) that is used to reduce the amount of acid in your stomach and it can be bad for your kidneys. It can cause acute kidney injury and may also worsen the progression of chronic kidney disease (CKD)."
+  },
+  {
+   "q": "Does omeprazole cause cancer?",
+   "a": "Long-term use of proton pump inhibitor (PPI) acid-suppressing agents, such as omeprazole, has been associated with an increased risk of stomach cancer (also called gastric cancer). This is based on the results of several observational studies and is thought to be because PPIs such as omeprazole are potent gastric acid suppressants that may increase the risk of gastric cancer by causing atrophy (thinning) of the stomach lining, elevating levels of a hormone called gastrin, and an overgrowth of bacteria in the stomach."
+  }
+ ],
+ "description": "Omeprazole is a proton pump inhibitor used to reduce excess stomach acid in heartburn (GERD), stomach ulcers, duodenal ulcers, erosive esophagitis, and other conditions",
+ "date_modified": "2026-08-25",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Rx and/or OTC",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Protonix",
+   "slug": "protonix",
+   "blurb": "Protonix (pantoprazole) is used to treat erosive esophagitis and other conditions involving excess..."
+  },
+  {
+   "name": "Nexium",
+   "slug": "nexium",
+   "blurb": "Nexium is used to treat GERD and other conditions involving excessive stomach acid. Learn about..."
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Prilosec",
+   "slug": "prilosec",
+   "blurb": "Prilosec (omeprazole) is used to treat symptoms of GERD and other conditions caused by excess..."
+  },
+  {
+   "name": "Dexilant",
+   "slug": "mtm/dexilant",
+   "blurb": "Dexilant is used for barrett's esophagus, erosive esophagitis, GERD"
+  },
+  {
+   "name": "Aciphex",
+   "slug": "aciphex",
+   "blurb": "Aciphex is used to treat gastroesophageal reflux disease (GERD) and other conditions involving..."
+  },
+  {
+   "name": "Prevacid",
+   "slug": "prevacid",
+   "blurb": "Prevacid is used to treat and prevent stomach and intestinal ulcers. Learn about side effects..."
+  },
+  {
+   "name": "Dexlansoprazole",
+   "slug": "mtm/dexlansoprazole",
+   "blurb": "Dexlansoprazole is used for barrett's esophagus, erosive esophagitis, GERD"
+  },
+  {
+   "name": "Rabeprazole",
+   "slug": "mtm/rabeprazole",
+   "blurb": "Rabeprazole is used for barrett's esophagus, duodenal ulcer, duodenal ulcer prophylaxis, erosive..."
+  },
+  {
+   "name": "Lansoprazole",
+   "slug": "lansoprazole",
+   "blurb": "Lansoprazole is used to treat stomach and intestinal ulcers, erosive esophagitis and..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is omeprazole?",
+   "lines": [
+    "Omeprazole is used to treat excess stomach acid in conditions such as stomach ulcers, heartburn or gastroesophageal reflux disease (GERD), active duodenal ulcer, Zollinger-Ellison syndrome and erosive esophagitis.",
+    "Omeprazole may also be given together with antibiotics to treat gastric ulcers caused by infection with Helicobacter pylori (H. pylori), in adult patients.",
+    "Omeprazole is a proton pump inhibitor (PPI) that works by blocking the acid pump in your stomach, reducing how much acid it makes and giving irritated or damaged tissue a chance to heal.",
+    "Omeprazole brand names are Prilosec, Prilosec OTC, and generic brands are available.",
+    "Omeprazole is available over the counter (OTC) and as a prescription medication."
+   ],
+   "text": "Omeprazole is used to treat excess stomach acid in conditions such as stomach ulcers, heartburn or gastroesophageal reflux disease (GERD), active duodenal ulcer, Zollinger-Ellison syndrome and erosive esophagitis.\nOmeprazole may also be given together with antibiotics to treat gastric ulcers caused by infection with Helicobacter pylori (H. pylori), in adult patients.\nOmeprazole is a proton pump inhibitor (PPI) that works by blocking the acid pump in your stomach, reducing how much acid it makes and giving irritated or damaged tissue a chance to heal.\nOmeprazole brand names are Prilosec, Prilosec OTC, and generic brands are available.\nOmeprazole is available over the counter (OTC) and as a prescription medication."
+  },
+  {
+   "id": "what-is-omeprazole-used-for",
+   "page": "main",
+   "heading": "What is omeprazole used for?",
+   "lines": [
+    "Over-the-counter omeprazole is used for:",
+    "- frequent heartburn that occurs 2 or more days a week in adults 18 years and older",
+    "- It is taken as a 14-day course, once a day for 14 days in a row. It may take 1 to 4 days to reach its full effect, so it is not used for immediate relief of symptoms. Do not take it for longer than 14 days, and do not start another 14-day course within 4 months, unless your doctor tells you to.",
+    "Prescription omeprazole can be used for:",
+    "- active duodenal ulcer (a sore in the first part of the small intestine) in adults",
+    "- Helicobacter pylori (H. pylori) infection in adults, taken together with antibiotics, to reduce the risk of a duodenal ulcer coming back",
+    "- active benign gastric ulcer (a non-cancerous sore in the stomach lining) in adults",
+    "- symptoms of gastroesophageal reflux disease (GERD), such as heartburn, in adults and children 1 year of age and older",
+    "- erosive esophagitis (EE) caused by acid reflux in adults and children 1 month of age and older",
+    "- keeping erosive esophagitis healed after treatment, in adults and children 1 year of age and older",
+    "- pathological hypersecretory conditions (conditions in which the stomach makes too much acid) in adults, including Zollinger-Ellison syndrome"
+   ],
+   "text": "Over-the-counter omeprazole is used for:\n- frequent heartburn that occurs 2 or more days a week in adults 18 years and older\n- It is taken as a 14-day course, once a day for 14 days in a row. It may take 1 to 4 days to reach its full effect, so it is not used for immediate relief of symptoms. Do not take it for longer than 14 days, and do not start another 14-day course within 4 months, unless your doctor tells you to.\nPrescription omeprazole can be used for:\n- active duodenal ulcer (a sore in the first part of the small intestine) in adults\n- Helicobacter pylori (H. pylori) infection in adults, taken together with antibiotics, to reduce the risk of a duodenal ulcer coming back\n- active benign gastric ulcer (a non-cancerous sore in the stomach lining) in adults\n- symptoms of gastroesophageal reflux disease (GERD), such as heartburn, in adults and children 1 year of age and older\n- erosive esophagitis (EE) caused by acid reflux in adults and children 1 month of age and older\n- keeping erosive esophagitis healed after treatment, in adults and children 1 year of age and older\n- pathological hypersecretory conditions (conditions in which the stomach makes too much acid) in adults, including Zollinger-Ellison syndrome"
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Omeprazole can cause kidney problems. Tell your doctor if you are urinating less than usual, or if you have blood in your urine.",
+    "Diarrhea may be a sign of a new infection. Call your doctor right away if you have watery stools or stomach pain that does not go away. You may or may not have a fever.",
+    "Omeprazole is not to be used for the immediate relief of heartburn symptoms.",
+    "Omeprazole may cause new or worsening symptoms of lupus. Tell your doctor if you have joint pain and a skin rash on your cheeks or arms that worsens in sunlight.",
+    "You may be more likely to have a broken bone while taking this medicine long term or more than once per day."
+   ],
+   "text": "Omeprazole can cause kidney problems. Tell your doctor if you are urinating less than usual, or if you have blood in your urine.\nDiarrhea may be a sign of a new infection. Call your doctor right away if you have watery stools or stomach pain that does not go away. You may or may not have a fever.\nOmeprazole is not to be used for the immediate relief of heartburn symptoms.\nOmeprazole may cause new or worsening symptoms of lupus. Tell your doctor if you have joint pain and a skin rash on your cheeks or arms that worsens in sunlight.\nYou may be more likely to have a broken bone while taking this medicine long term or more than once per day."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "Heartburn can mimic early symptoms of a heart attack. Get emergency medical help if you have chest pain that spreads to your jaw or shoulder and you feel sweaty or light-headed.",
+    "You should not use omeprazole if you are allergic to it, or if:",
+    "- you are also allergic to medicines like omeprazole, such as esomeprazole, lansoprazole, pantoprazole, rabeprazole, Nexium, Prevacid, Protonix, and others;",
+    "- you had breathing problems, kidney problems, or a severe allergic reaction after taking omeprazole in the past; or",
+    "- you also take HIV medication that contains rilpivirine (such as Complera, Edurant, Odefsey, Juluca).",
+    "Ask a doctor or pharmacist if this medicine is safe to use if you have:",
+    "- trouble or pain with swallowing;",
+    "- bloody or black stools, vomit that looks like blood or coffee grounds;",
+    "- heartburn that has lasted for over 3 months;",
+    "- frequent chest pain, heartburn with wheezing;",
+    "- unexplained weight loss;",
+    "- nausea or vomiting, stomach pain;",
+    "- liver disease;",
+    "- low levels of magnesium, calcium, or potassium in your blood; or",
+    "- osteoporosis or low bone mineral density (osteopenia).",
+    "You may be more likely to have a broken bone in your hip, wrist, or spine while taking a proton pump inhibitor long-term or more than once per day. Talk with your doctor about ways to keep your bones healthy.",
+    "Ask a doctor before using this medicine if you are pregnant or breastfeeding.",
+    "Do not give this medicine to a child without medical advice."
+   ],
+   "text": "Heartburn can mimic early symptoms of a heart attack. Get emergency medical help if you have chest pain that spreads to your jaw or shoulder and you feel sweaty or light-headed.\nYou should not use omeprazole if you are allergic to it, or if:\n- you are also allergic to medicines like omeprazole, such as esomeprazole, lansoprazole, pantoprazole, rabeprazole, Nexium, Prevacid, Protonix, and others;\n- you had breathing problems, kidney problems, or a severe allergic reaction after taking omeprazole in the past; or\n- you also take HIV medication that contains rilpivirine (such as Complera, Edurant, Odefsey, Juluca).\nAsk a doctor or pharmacist if this medicine is safe to use if you have:\n- trouble or pain with swallowing;\n- bloody or black stools, vomit that looks like blood or coffee grounds;\n- heartburn that has lasted for over 3 months;\n- frequent chest pain, heartburn with wheezing;\n- unexplained weight loss;\n- nausea or vomiting, stomach pain;\n- liver disease;\n- low levels of magnesium, calcium, or potassium in your blood; or\n- osteoporosis or low bone mineral density (osteopenia).\nYou may be more likely to have a broken bone in your hip, wrist, or spine while taking a proton pump inhibitor long-term or more than once per day. Talk with your doctor about ways to keep your bones healthy.\nAsk a doctor before using this medicine if you are pregnant or breastfeeding.\nDo not give this medicine to a child without medical advice."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "How should I take omeprazole?",
+   "lines": [
+    "Take omeprazole exactly as directed on the label, or as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets.",
+    "Use Prilosec OTC (over-the-counter) exactly as directed on the label, or as prescribed by your doctor.",
+    "Read and carefully follow any Instructions for Use provided with your medicine. Ask your doctor or pharmacist if you do not understand these instructions.",
+    "Shake the oral suspension (liquid) before you measure a dose. Use the dosing syringe provided, or use a medicine dose-measuring device (not a kitchen spoon).",
+    "If you cannot swallow a capsule whole, open it and sprinkle the medicine into a spoonful of applesauce. Swallow the mixture right away without chewing. Do not save it for later use.",
+    "You must dissolve omeprazole powder in a small amount of water. This mixture can either be swallowed or given through a nasogastric (NG) feeding tube using a catheter-tipped syringe.",
+    "Use this medicine for the full prescribed length of time, even if your symptoms quickly improve.",
+    "OTC omeprazole should be taken for only 14 days in a row. It may take 1 to 4 days before your symptoms improve. Allow at least 4 months to pass before you start a new 14-day course of treatment.",
+    "Call your doctor if your symptoms do not improve, or if they get worse.",
+    "Some conditions are treated with a combination of omeprazole and antibiotics. Use all medications as directed.",
+    "This medicine can affect the results of certain medical tests. Tell any doctor who treats you that you are using this medicine.",
+    "Store at room temperature away from moisture and heat."
+   ],
+   "text": "Take omeprazole exactly as directed on the label, or as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets.\nUse Prilosec OTC (over-the-counter) exactly as directed on the label, or as prescribed by your doctor.\nRead and carefully follow any Instructions for Use provided with your medicine. Ask your doctor or pharmacist if you do not understand these instructions.\nShake the oral suspension (liquid) before you measure a dose. Use the dosing syringe provided, or use a medicine dose-measuring device (not a kitchen spoon).\nIf you cannot swallow a capsule whole, open it and sprinkle the medicine into a spoonful of applesauce. Swallow the mixture right away without chewing. Do not save it for later use.\nYou must dissolve omeprazole powder in a small amount of water. This mixture can either be swallowed or given through a nasogastric (NG) feeding tube using a catheter-tipped syringe.\nUse this medicine for the full prescribed length of time, even if your symptoms quickly improve.\nOTC omeprazole should be taken for only 14 days in a row. It may take 1 to 4 days before your symptoms improve. Allow at least 4 months to pass before you start a new 14-day course of treatment.\nCall your doctor if your symptoms do not improve, or if they get worse.\nSome conditions are treated with a combination of omeprazole and antibiotics. Use all medications as directed.\nThis medicine can affect the results of certain medical tests. Tell any doctor who treats you that you are using this medicine.\nStore at room temperature away from moisture and heat."
+  },
+  {
+   "id": "how-long-does-omeprazole-take-to-work",
+   "page": "main",
+   "heading": "How long does omeprazole take to work?",
+   "lines": [
+    "Omeprazole usually takes 1 to 4 days of once-daily dosing to reach its full effect, and some people get complete relief of their symptoms within 24 hours. It begins reducing stomach acid within about 1 hour of the first dose, but it is not designed to relieve heartburn right away.",
+    "What to expect after you start taking omeprazole:",
+    "- Within 1 hour: omeprazole starts to reduce acid production in your stomach",
+    "- Around 2 hours: a single dose reaches its strongest acid-lowering effect",
+    "- Within 24 hours: some people get complete relief of their symptoms",
+    "- 1 to 4 days: most people feel the full benefit",
+    "- About 4 days: the acid-lowering effect reaches its maximum with once-daily dosing",
+    "How fast does omeprazole start working?:",
+    "Omeprazole starts working within about 1 hour, and a single dose has its strongest effect at around 2 hours. This is when the medicine begins lowering acid production, which is not the same as when your heartburn or acid reflux symptoms stop.",
+    "Omeprazole does not work immediately on symptoms you are already feeling. It is a proton pump inhibitor (PPI), which means it reduces how much acid your stomach makes rather than neutralizing acid that is already there."
+   ],
+   "text": "Omeprazole usually takes 1 to 4 days of once-daily dosing to reach its full effect, and some people get complete relief of their symptoms within 24 hours. It begins reducing stomach acid within about 1 hour of the first dose, but it is not designed to relieve heartburn right away.\nWhat to expect after you start taking omeprazole:\n- Within 1 hour: omeprazole starts to reduce acid production in your stomach\n- Around 2 hours: a single dose reaches its strongest acid-lowering effect\n- Within 24 hours: some people get complete relief of their symptoms\n- 1 to 4 days: most people feel the full benefit\n- About 4 days: the acid-lowering effect reaches its maximum with once-daily dosing\nHow fast does omeprazole start working?:\nOmeprazole starts working within about 1 hour, and a single dose has its strongest effect at around 2 hours. This is when the medicine begins lowering acid production, which is not the same as when your heartburn or acid reflux symptoms stop.\nOmeprazole does not work immediately on symptoms you are already feeling. It is a proton pump inhibitor (PPI), which means it reduces how much acid your stomach makes rather than neutralizing acid that is already there."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+   ],
+   "text": "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What to avoid",
+   "lines": [
+    "Omeprazole can cause diarrhea, which may be a sign of a new infection. If you have diarrhea that is watery or bloody, call your doctor before using anti-diarrhea medicine."
+   ],
+   "text": "Omeprazole can cause diarrhea, which may be a sign of a new infection. If you have diarrhea that is watery or bloody, call your doctor before using anti-diarrhea medicine."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Omeprazole side effects",
+   "lines": [
+    "Get emergency medical help if you have signs of an allergic reaction to omeprazole: hives; difficulty breathing; swelling of your face, lips, tongue, or throat.",
+    "Stop using this medicine and call your doctor at once if you have:",
+    "- severe stomach pain, diarrhea that is watery or bloody;",
+    "- new or unusual pain in your wrist, thigh, hip, or back;",
+    "- seizure (convulsions);",
+    "- kidney problems - fever, rash, nausea, loss of appetite, joint pain, urinating less than usual, blood in your urine, weight gain;",
+    "- low magnesium - seizures, dizziness, irregular heartbeats, feeling jittery, muscle aches or weakness, muscle cramps, muscle spasms, or spasms of the hands, feet, or voice;",
+    "- new or worsening symptoms of lupus - joint pain, and a skin rash on your cheeks or arms that worsens in sunlight.",
+    "- severe skin reactions - skin rash with blistering, peeling, or bleeding, fever, chills, body aches, shortness of breath, or enlarged lymph nodes.",
+    "Taking omeprazole long-term may cause you to develop stomach growths called fundic gland polyps. Talk with your doctor about this risk.",
+    "If you use this medicine for longer than 3 years, you could develop a vitamin B-12 deficiency. Talk to your doctor if you develop symptoms such as shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.",
+    "Common side effects of omeprazole may include:",
+    "- cold symptoms such as stuffy nose, sneezing, sore throat (especially in children);",
+    "- fever (especially in children);",
+    "- stomach pain, gas;",
+    "- nausea, vomiting, diarrhea; or",
+    "- headache.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have signs of an allergic reaction to omeprazole: hives; difficulty breathing; swelling of your face, lips, tongue, or throat.\nStop using this medicine and call your doctor at once if you have:\n- severe stomach pain, diarrhea that is watery or bloody;\n- new or unusual pain in your wrist, thigh, hip, or back;\n- seizure (convulsions);\n- kidney problems - fever, rash, nausea, loss of appetite, joint pain, urinating less than usual, blood in your urine, weight gain;\n- low magnesium - seizures, dizziness, irregular heartbeats, feeling jittery, muscle aches or weakness, muscle cramps, muscle spasms, or spasms of the hands, feet, or voice;\n- new or worsening symptoms of lupus - joint pain, and a skin rash on your cheeks or arms that worsens in sunlight.\n- severe skin reactions - skin rash with blistering, peeling, or bleeding, fever, chills, body aches, shortness of breath, or enlarged lymph nodes.\nTaking omeprazole long-term may cause you to develop stomach growths called fundic gland polyps. Talk with your doctor about this risk.\nIf you use this medicine for longer than 3 years, you could develop a vitamin B-12 deficiency. Talk to your doctor if you develop symptoms such as shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.\nCommon side effects of omeprazole may include:\n- cold symptoms such as stuffy nose, sneezing, sore throat (especially in children);\n- fever (especially in children);\n- stomach pain, gas;\n- nausea, vomiting, diarrhea; or\n- headache.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect omeprazole?",
+   "lines": [
+    "Sometimes it is not safe to use certain medications at the same time. Some drugs can affect your blood levels of other drugs you take, which may increase side effects or make the medications less effective.",
+    "Tell your doctor about all your current medicines. Many drugs can affect omeprazole, especially:",
+    "- digoxin;",
+    "- clopidogrel;",
+    "- methotrexate;",
+    "- St. John's wort;",
+    "- a diuretic or \"water pill\"; or",
+    "- an antibiotic - amoxicillin, clarithromycin, rifampin.",
+    "This list is not complete and many other drugs may interact with omeprazole. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+   ],
+   "text": "Sometimes it is not safe to use certain medications at the same time. Some drugs can affect your blood levels of other drugs you take, which may increase side effects or make the medications less effective.\nTell your doctor about all your current medicines. Many drugs can affect omeprazole, especially:\n- digoxin;\n- clopidogrel;\n- methotrexate;\n- St. John's wort;\n- a diuretic or \"water pill\"; or\n- an antibiotic - amoxicillin, clarithromycin, rifampin.\nThis list is not complete and many other drugs may interact with omeprazole. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: What foods should I avoid when taking omeprazole? A: There are no specific foods that interact with omeprazole, therefore there are no foods that you need to avoid.",
+    "Q: Pantoprazole vs. omeprazole: What's the difference between them? A: Pantoprazole and omeprazole are both proton pump inhibitors (PPIs) that reduce stomach acid and show similar effectiveness for healing acid‑related conditions such as erosive esophagitis. Their main differences relate to FDA‑approved uses, availability (omeprazole is OTC; pantoprazole is prescription), timing with food, and the option for intravenous (IV) pantoprazole in the hospital setting.",
+    "Q: How soon after taking levothyroxine can I take omeprazole? A: There is a known drug interaction between levothyroxine and omeprazole, but the timing of when you take the two medicines is not relevant. Omeprazole decreases the absorption of your thyroid medication. If you need to be on a course of omeprazole while taking levothyroxine, your doctor may order more frequent laboratory testing to confirm you are absorbing enough levothyroxine.",
+    "Q: Should I take omeprazole with or without food? A: It is usually best to take Omeprazole 1 hour before meals. When omeprazole is taken with food, it reduces the amount of omeprazole that reaches the bloodstream.",
+    "Q: Can you take an antacid with omeprazole? A: You can take an antacid with omeprazole if you are still getting symptoms of indigestion because it can take several days for omeprazole to start working. Take omeprazole as directed (usually taken once daily on an empty stomach), and take antacids as needed to relieve indigestion pain after eating. But tell your doctor if several weeks have gone past and omeprazole does not seem to be working or you are still taking antacids.",
+    "Q: Is famotidine safer than omeprazole for heartburn? A: For most people with mild, occasional heartburn, famotidine is usually the safer first choice because it works quickly, can be taken as needed, and has fewer long‑term safety concerns than omeprazole. Omeprazole, a stronger acid reducer, may be a better option if you have frequent heartburn two or more days per week or confirmed GERD, but it is linked with more potential risks when used for many months or at high doses.",
+    "Q: Can I take omeprazole in the morning and famotidine at night? A: Yes, you could take omeprazole in the morning and famotidine at night but there are not many studies investigating this approach. Preliminary results suggest that taking your medication this way may provide superior control of gastric acid secretion at night without compromising the effectiveness of omeprazole in the morning. More research is needed.",
+    "Q: Is omeprazole (Prilosec) bad for your kidneys? A: Omeprazole (Prilosec) is a proton pump inhibitor (PPI) that is used to reduce the amount of acid in your stomach and it can be bad for your kidneys. It can cause acute kidney injury and may also worsen the progression of chronic kidney disease (CKD).",
+    "Q: Does omeprazole cause cancer? A: Long-term use of proton pump inhibitor (PPI) acid-suppressing agents, such as omeprazole, has been associated with an increased risk of stomach cancer (also called gastric cancer). This is based on the results of several observational studies and is thought to be because PPIs such as omeprazole are potent gastric acid suppressants that may increase the risk of gastric cancer by causing atrophy (thinning) of the stomach lining, elevating levels of a hormone called gastrin, and an overgrowth of bacteria in the stomach."
+   ],
+   "text": "Q: What foods should I avoid when taking omeprazole? A: There are no specific foods that interact with omeprazole, therefore there are no foods that you need to avoid.\nQ: Pantoprazole vs. omeprazole: What's the difference between them? A: Pantoprazole and omeprazole are both proton pump inhibitors (PPIs) that reduce stomach acid and show similar effectiveness for healing acid‑related conditions such as erosive esophagitis. Their main differences relate to FDA‑approved uses, availability (omeprazole is OTC; pantoprazole is prescription), timing with food, and the option for intravenous (IV) pantoprazole in the hospital setting.\nQ: How soon after taking levothyroxine can I take omeprazole? A: There is a known drug interaction between levothyroxine and omeprazole, but the timing of when you take the two medicines is not relevant. Omeprazole decreases the absorption of your thyroid medication. If you need to be on a course of omeprazole while taking levothyroxine, your doctor may order more frequent laboratory testing to confirm you are absorbing enough levothyroxine.\nQ: Should I take omeprazole with or without food? A: It is usually best to take Omeprazole 1 hour before meals. When omeprazole is taken with food, it reduces the amount of omeprazole that reaches the bloodstream.\nQ: Can you take an antacid with omeprazole? A: You can take an antacid with omeprazole if you are still getting symptoms of indigestion because it can take several days for omeprazole to start working. Take omeprazole as directed (usually taken once daily on an empty stomach), and take antacids as needed to relieve indigestion pain after eating. But tell your doctor if several weeks have gone past and omeprazole does not seem to be working or you are still taking antacids.\nQ: Is famotidine safer than omeprazole for heartburn? A: For most people with mild, occasional heartburn, famotidine is usually the safer first choice because it works quickly, can be taken as needed, and has fewer long‑term safety concerns than omeprazole. Omeprazole, a stronger acid reducer, may be a better option if you have frequent heartburn two or more days per week or confirmed GERD, but it is linked with more potential risks when used for many months or at high doses.\nQ: Can I take omeprazole in the morning and famotidine at night? A: Yes, you could take omeprazole in the morning and famotidine at night but there are not many studies investigating this approach. Preliminary results suggest that taking your medication this way may provide superior control of gastric acid secretion at night without compromising the effectiveness of omeprazole in the morning. More research is needed.\nQ: Is omeprazole (Prilosec) bad for your kidneys? A: Omeprazole (Prilosec) is a proton pump inhibitor (PPI) that is used to reduce the amount of acid in your stomach and it can be bad for your kidneys. It can cause acute kidney injury and may also worsen the progression of chronic kidney disease (CKD).\nQ: Does omeprazole cause cancer? A: Long-term use of proton pump inhibitor (PPI) acid-suppressing agents, such as omeprazole, has been associated with an increased risk of stomach cancer (also called gastric cancer). This is based on the results of several observational studies and is thought to be because PPIs such as omeprazole are potent gastric acid suppressants that may increase the risk of gastric cancer by causing atrophy (thinning) of the stomach lining, elevating levels of a hormone called gastrin, and an overgrowth of bacteria in the stomach."
+  }
+ ],
+ "rank": 10
+}

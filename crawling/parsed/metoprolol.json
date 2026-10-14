@@ -1,0 +1,405 @@
+{
+ "name": "Metoprolol",
+ "slug": "metoprolol",
+ "url": "https://www.drugs.com/metoprolol.html",
+ "title": "Metoprolol",
+ "page_title": "Metoprolol: Uses, Dosage, Side Effects - Drugs.com",
+ "brand_names": [
+  "Kapspargo Sprinkle",
+  "Lopressor",
+  "Toprol-XL"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "oral tablet",
+   "strengths": [
+    "immediate release"
+   ]
+  },
+  {
+   "form": "oral tablet",
+   "strengths": [
+    "extended release"
+   ]
+  },
+  {
+   "form": "oral capsule",
+   "strengths": [
+    "extended release"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Cardioselective beta blockers",
+   "slug": "cardioselective-beta-blockers"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Sep 10, 2026.",
+ "faq": [
+  {
+   "q": "Does metoprolol cause weight gain?",
+   "a": "Metoprolol is not likely to cause weight gain. However, weight gain can be a warning sign that heart failure is getting worse. If you are taking metoprolol for heart failure, tell your doctor right away if you gain weight suddenly. This weight gain is due to extra fluid in the body that may cause swelling in the feet, ankles, legs and belly. The fluid builds up because the heart isn’t working as well as it should."
+  },
+  {
+   "q": "Does metoprolol lower blood pressure?",
+   "a": "Yes, metoprolol causes the blood vessels to relax, which helps to lower blood pressure. If you are prescribed metoprolol for high blood pressure, your doctor may ask you to check your blood pressure regularly at home with an automatic, cuff-style device that goes around your upper arm. Keeping track of your blood pressure at home is one way to help your doctor know if the prescribed dosage of metoprolol is working for you."
+  },
+  {
+   "q": "Should I take metoprolol in the morning or at night?",
+   "a": "When you take metoprolol depends on which salt form is prescribed. Metoprolol tartrate is usually taken twice daily, so it may be taken in the morning then at night. Metoprolol succinate is taken once daily, so it may be taken either morning or night. Both forms are usually taken with or immediately after a meal. Follow your health care provider’s directions for when to take metoprolol."
+  },
+  {
+   "q": "What is the best time of day to take blood pressure medication?",
+   "a": "Research has suggested that taking your blood pressure medication at night instead of in the morning can provide better blood pressure control at night without compromising daytime blood pressure control and reduce your overall risk of dying because of cardiovascular disease by 45%."
+  },
+  {
+   "q": "Does metoprolol lower resting heart rate?",
+   "a": "Yes, metoprolol can lower resting heart rate. It is a beta-blocking medication that is used to lower blood pressure, as well as relieve chest pain from angina pectoris."
+  },
+  {
+   "q": "Metoprolol Succinate vs Tartrate: What's the difference between them?",
+   "a": "Metoprolol is available as two different salts: metoprolol tartrate and metoprolol succinate. The main difference between metoprolol tartrate and metoprolol succinate is that metoprolol tartrate is only available as an immediate-release tablet which means it must be taken several times per day, whereas metoprolol succinate is an extended-release tablet that can be taken once a day. As a result, there are differences in the dosages and indications for both metoprolol tartrate and metoprolol succinate and they are not considered interchangeable."
+  },
+  {
+   "q": "What medications are known to cause hair loss?",
+   "a": "Medication-induced hair loss represents a significant concern for patients across multiple therapeutic categories. While chemotherapy drugs are most commonly associated with severe hair loss, many commonly prescribed medications-including antibiotics, psychiatric drugs, cardiovascular agents, and hormonal therapies-can also cause this distressing side effect."
+  },
+  {
+   "q": "Does metoprolol make you sleepy?",
+   "a": "Yes, metoprolol can make you sleepy. One reason may be because beta blockers slow down your heart rate and lower your blood pressure."
+  },
+  {
+   "q": "How long does it take for metoprolol to work?",
+   "a": "How long it takes metoprolol to work depends on what form is given and what condition is being treated. Effects on heart rate can be seen within one hour after taking metoprolol tartrate tablets and within 20 minutes after the intravenous form is given. The onset of action of metoprolol succinate is similar to metoprolol tartrate."
+  }
+ ],
+ "description": "Metoprolol is used to treat angina (chest pain) and hypertension (high blood pressure). Learn about side effects, interactions and indications.",
+ "date_modified": "2026-09-10",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Jardiance",
+   "slug": "jardiance",
+   "blurb": "Jardiance (empagliflozin) is used to treat type 2 diabetes, chronic kidney disease and reduce the..."
+  },
+  {
+   "name": "Farxiga",
+   "slug": "farxiga",
+   "blurb": "Farxiga (dapagliflozin) is an oral prescription medication that may be given to certain adults with..."
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Hydralazine",
+   "slug": "mtm/hydralazine",
+   "blurb": "Hydralazine is used for heart failure, high blood pressure, hypertensive emergency"
+  },
+  {
+   "name": "Triamcinolone",
+   "slug": "triamcinolone",
+   "blurb": "Triamcinolone is used to treat allergies, skin conditions, ulcerative colitis, and arthritis. Learn..."
+  },
+  {
+   "name": "Warfarin",
+   "slug": "warfarin",
+   "blurb": "Warfarin is an anticoagulant used to prevent heart attacks, strokes, and blood clots. Learn about..."
+  },
+  {
+   "name": "Diltiazem",
+   "slug": "diltiazem",
+   "blurb": "Diltiazem is used to treat high blood pressure, angina and certain heart rhythm disorders. Included..."
+  },
+  {
+   "name": "Spironolactone",
+   "slug": "spironolactone",
+   "blurb": "Spironolactone is a potassium-sparing diuretic that is primarily used to treat heart failure, high..."
+  },
+  {
+   "name": "Carvedilol",
+   "slug": "carvedilol",
+   "blurb": "Carvedilol (Coreg) is used to treat heart failure and hypertension (high blood pressure). Includes..."
+  },
+  {
+   "name": "Furosemide",
+   "slug": "furosemide",
+   "blurb": "Furosemide is a loop diuretic used to treat fluid retention and high blood pressure by increasing..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is metoprolol?",
+   "lines": [
+    "Metoprolol is a beta-blocker medication used to treat high blood pressure, chest pain (angina), and heart failure, and to improve survival after a heart attack. It works mainly on the heart, so it is called a cardioselective beta-blocker.",
+    "Metoprolol works by blocking the effect of adrenaline and noradrenaline on beta-1 receptors in your heart. This slows your heart rate, reduces how hard your heart squeezes, and lowers your blood pressure. Because the heart is doing less work, it needs less oxygen, which is why metoprolol also helps with angina. Exactly how metoprolol works for high blood pressure, heart failure, and after a heart attack is not fully understood.",
+    "At higher blood levels, metoprolol also blocks beta-2 receptors in the airways and blood vessels, which is why it still needs care in people with breathing problems.",
+    "Metoprolol comes as two different salts, metoprolol tartrate and metoprolol succinate. They are not interchangeable dose for dose:",
+    "- Metoprolol tartrate, an immediate-release tablet usually taken once or twice a day (brand name Lopressor)",
+    "- Metoprolol succinate, an extended-release tablet or capsule taken once a day (brand names Toprol-XL and Kapspargo Sprinkle)",
+    "Metoprolol tartrate is also given as an injection into a vein in a hospital during a heart attack."
+   ],
+   "text": "Metoprolol is a beta-blocker medication used to treat high blood pressure, chest pain (angina), and heart failure, and to improve survival after a heart attack. It works mainly on the heart, so it is called a cardioselective beta-blocker.\nMetoprolol works by blocking the effect of adrenaline and noradrenaline on beta-1 receptors in your heart. This slows your heart rate, reduces how hard your heart squeezes, and lowers your blood pressure. Because the heart is doing less work, it needs less oxygen, which is why metoprolol also helps with angina. Exactly how metoprolol works for high blood pressure, heart failure, and after a heart attack is not fully understood.\nAt higher blood levels, metoprolol also blocks beta-2 receptors in the airways and blood vessels, which is why it still needs care in people with breathing problems.\nMetoprolol comes as two different salts, metoprolol tartrate and metoprolol succinate. They are not interchangeable dose for dose:\n- Metoprolol tartrate, an immediate-release tablet usually taken once or twice a day (brand name Lopressor)\n- Metoprolol succinate, an extended-release tablet or capsule taken once a day (brand names Toprol-XL and Kapspargo Sprinkle)\nMetoprolol tartrate is also given as an injection into a vein in a hospital during a heart attack."
+  },
+  {
+   "id": "what-is-metoprolol-used-for",
+   "page": "main",
+   "heading": "What is metoprolol used for?",
+   "lines": [
+    "Metoprolol is FDA-approved to treat high blood pressure, angina, heart failure, and heart attack, but the two forms are not approved for the same conditions.",
+    "Condition | Metoprolol tartrate (immediate release) | Metoprolol succinate (extended release)",
+    "High blood pressure (hypertension) in adults | Yes | Yes",
+    "High blood pressure in children 6 years and older | No | Yes",
+    "Angina (chest pain) | Yes | Yes",
+    "Heart failure | No | Yes",
+    "Heart attack (myocardial infarction) | Yes | No",
+    "High blood pressure (hypertension). Lowering blood pressure reduces the risk of fatal and non-fatal heart and blood vessel events, mainly strokes and heart attacks. Metoprolol can be used on its own or with other blood pressure medicines. Many people need more than one medicine to reach their blood pressure goal.",
+    "Angina. Metoprolol is used for long-term treatment of angina, to reduce how often attacks happen and to help you do more before chest pain starts. It is not used to stop an attack that has already begun.",
+    "Heart failure. Only the extended-release form is approved for heart failure. It is used to reduce the risk of dying from heart and blood vessel causes and to reduce hospital admissions for heart failure.",
+    "Heart attack (myocardial infarction). Metoprolol tartrate is used in people whose blood pressure and circulation are stable after a definite or suspected heart attack, to reduce the risk of dying from heart and blood vessel causes. In hospital, it may be started as an injection into a vein and then continued as tablets."
+   ],
+   "text": "Metoprolol is FDA-approved to treat high blood pressure, angina, heart failure, and heart attack, but the two forms are not approved for the same conditions.\nCondition | Metoprolol tartrate (immediate release) | Metoprolol succinate (extended release)\nHigh blood pressure (hypertension) in adults | Yes | Yes\nHigh blood pressure in children 6 years and older | No | Yes\nAngina (chest pain) | Yes | Yes\nHeart failure | No | Yes\nHeart attack (myocardial infarction) | Yes | No\nHigh blood pressure (hypertension). Lowering blood pressure reduces the risk of fatal and non-fatal heart and blood vessel events, mainly strokes and heart attacks. Metoprolol can be used on its own or with other blood pressure medicines. Many people need more than one medicine to reach their blood pressure goal.\nAngina. Metoprolol is used for long-term treatment of angina, to reduce how often attacks happen and to help you do more before chest pain starts. It is not used to stop an attack that has already begun.\nHeart failure. Only the extended-release form is approved for heart failure. It is used to reduce the risk of dying from heart and blood vessel causes and to reduce hospital admissions for heart failure.\nHeart attack (myocardial infarction). Metoprolol tartrate is used in people whose blood pressure and circulation are stable after a definite or suspected heart attack, to reduce the risk of dying from heart and blood vessel causes. In hospital, it may be started as an injection into a vein and then continued as tablets."
+  },
+  {
+   "id": "what-is-the-difference-between-metoprolol-succinate-and-metoprolol-tartrate",
+   "page": "main",
+   "heading": "What is the difference between metoprolol succinate and metoprolol tartrate?",
+   "lines": [
+    "The two forms release the same medicine at different speeds, and they are approved for different conditions. Metoprolol tartrate is released all at once, so it acts sooner and wears off sooner. Metoprolol succinate is released slowly over the day, so one dose lasts about 24 hours. Only the extended-release form is approved for heart failure and for children, and only the immediate-release form is approved for use after a heart attack.",
+    "Metoprolol tartrate | Metoprolol succinate",
+    "Release | Immediate release | Extended release",
+    "Usual dosing | Once or twice a day, or every 6 hours after a heart attack | Once a day",
+    "Forms | Tablet, injection | Tablet, capsule",
+    "Tablet strengths | 25 mg, 37.5 mg, 50 mg, 75 mg, 100 mg | 25 mg, 50 mg, 100 mg, 200 mg",
+    "Brand names | Lopressor | Toprol-XL, Kapspargo Sprinkle",
+    "Approved for heart failure | No | Yes",
+    "Approved after a heart attack | Yes | No",
+    "Approved for children 6 years and older | No | Yes",
+    "If you switch from immediate-release metoprolol to the extended-release form, the total amount you take in a day stays the same. Your prescriber makes this change, not you."
+   ],
+   "text": "The two forms release the same medicine at different speeds, and they are approved for different conditions. Metoprolol tartrate is released all at once, so it acts sooner and wears off sooner. Metoprolol succinate is released slowly over the day, so one dose lasts about 24 hours. Only the extended-release form is approved for heart failure and for children, and only the immediate-release form is approved for use after a heart attack.\nMetoprolol tartrate | Metoprolol succinate\nRelease | Immediate release | Extended release\nUsual dosing | Once or twice a day, or every 6 hours after a heart attack | Once a day\nForms | Tablet, injection | Tablet, capsule\nTablet strengths | 25 mg, 37.5 mg, 50 mg, 75 mg, 100 mg | 25 mg, 50 mg, 100 mg, 200 mg\nBrand names | Lopressor | Toprol-XL, Kapspargo Sprinkle\nApproved for heart failure | No | Yes\nApproved after a heart attack | Yes | No\nApproved for children 6 years and older | No | Yes\nIf you switch from immediate-release metoprolol to the extended-release form, the total amount you take in a day stays the same. Your prescriber makes this change, not you."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Metoprolol side effects",
+   "lines": [
+    "The most common side effects of metoprolol are tiredness, dizziness, low mood (depression), diarrhea, shortness of breath, a slow heartbeat (bradycardia), and itching or rash. Most side effects reported in studies were mild and did not last.",
+    "Get emergency medical help if you have signs of an allergic reaction to metoprolol: hives, difficulty breathing, or swelling of your face, lips, tongue, or throat.",
+    "Common side effects of metoprolol:",
+    "In studies of people taking metoprolol for high blood pressure or angina:",
+    "- Tiredness and dizziness occurred in about 10% of people",
+    "- Low mood or depression was reported in about 5 out of 100 people",
+    "- Diarrhea occurred in about 5% of people",
+    "- Itching or rash occurred in about 5% of people",
+    "- Shortness of breath and a slow heartbeat occurred in about 3% of people",
+    "- Cold hands and feet, palpitations, swelling of the ankles, and low blood pressure were each reported in about 1% of people",
+    "- Nausea, dry mouth, stomach pain, constipation, gas, and heartburn were each reported in about 1% of people",
+    "Headache, nightmares, trouble sleeping, confusion, and short-term memory loss have also been reported.",
+    "In the heart failure study of extended-release metoprolol, dizziness or vertigo was reported by 1.8% of people taking metoprolol compared with 1.0% taking placebo, and a slow heartbeat by 1.5% compared with 0.4%.",
+    "Other reported side effects:",
+    "These have been reported since metoprolol came on the market. Their frequency is not known:",
+    "- Hair thinning or hair loss, which reversed after stopping",
+    "- Reduced sex drive and difficulty getting an erection",
+    "- Dry eyes, blurred vision, and ringing in the ears",
+    "- Sweating, sensitivity to sunlight, and worsening of psoriasis",
+    "- Change in taste, joint and muscle pain, and fainting",
+    "- Liver inflammation (hepatitis)",
+    "- A severe drop in white blood cells (agranulocytosis), which can show up as fever, chills, or a sore throat",
+    "Serious side effects of metoprolol:",
+    "Some of these, such as shortness of breath and a slow heartbeat, are also listed as common side effects above. They need urgent attention when they are severe, new, or getting worse.",
+    "Call your doctor at once if you have:",
+    "- A very slow heartbeat, pauses in your heartbeat, or a feeling that you might faint. Sinus pause, heart block, and cardiac arrest have all been reported.",
+    "- Signs that heart failure is getting worse, such as weight gain over a few days, more shortness of breath, or swelling of your feet or lower legs",
+    "- Wheezing or trouble breathing",
+    "- Chest pain that is worse or more frequent than usual, especially if you have recently stopped or missed doses",
+    "- Cold, pale, or blue fingers and toes, or pain in your legs when you walk",
+    "- Confusion, hallucinations, or memory problems",
+    "- Yellowing of your skin or eyes, which can be a sign of liver inflammation",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+   ],
+   "text": "The most common side effects of metoprolol are tiredness, dizziness, low mood (depression), diarrhea, shortness of breath, a slow heartbeat (bradycardia), and itching or rash. Most side effects reported in studies were mild and did not last.\nGet emergency medical help if you have signs of an allergic reaction to metoprolol: hives, difficulty breathing, or swelling of your face, lips, tongue, or throat.\nCommon side effects of metoprolol:\nIn studies of people taking metoprolol for high blood pressure or angina:\n- Tiredness and dizziness occurred in about 10% of people\n- Low mood or depression was reported in about 5 out of 100 people\n- Diarrhea occurred in about 5% of people\n- Itching or rash occurred in about 5% of people\n- Shortness of breath and a slow heartbeat occurred in about 3% of people\n- Cold hands and feet, palpitations, swelling of the ankles, and low blood pressure were each reported in about 1% of people\n- Nausea, dry mouth, stomach pain, constipation, gas, and heartburn were each reported in about 1% of people\nHeadache, nightmares, trouble sleeping, confusion, and short-term memory loss have also been reported.\nIn the heart failure study of extended-release metoprolol, dizziness or vertigo was reported by 1.8% of people taking metoprolol compared with 1.0% taking placebo, and a slow heartbeat by 1.5% compared with 0.4%.\nOther reported side effects:\nThese have been reported since metoprolol came on the market. Their frequency is not known:\n- Hair thinning or hair loss, which reversed after stopping\n- Reduced sex drive and difficulty getting an erection\n- Dry eyes, blurred vision, and ringing in the ears\n- Sweating, sensitivity to sunlight, and worsening of psoriasis\n- Change in taste, joint and muscle pain, and fainting\n- Liver inflammation (hepatitis)\n- A severe drop in white blood cells (agranulocytosis), which can show up as fever, chills, or a sore throat\nSerious side effects of metoprolol:\nSome of these, such as shortness of breath and a slow heartbeat, are also listed as common side effects above. They need urgent attention when they are severe, new, or getting worse.\nCall your doctor at once if you have:\n- A very slow heartbeat, pauses in your heartbeat, or a feeling that you might faint. Sinus pause, heart block, and cardiac arrest have all been reported.\n- Signs that heart failure is getting worse, such as weight gain over a few days, more shortness of breath, or swelling of your feet or lower legs\n- Wheezing or trouble breathing\n- Chest pain that is worse or more frequent than usual, especially if you have recently stopped or missed doses\n- Cold, pale, or blue fingers and toes, or pain in your legs when you walk\n- Confusion, hallucinations, or memory problems\n- Yellowing of your skin or eyes, which can be a sign of liver inflammation\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Metoprolol warnings",
+   "lines": [
+    "The most important warning with metoprolol is not to stop it suddenly. Stopping a beta blocker abruptly can bring on worse chest pain and, in some cases, a heart attack. If your treatment needs to stop, your prescriber will lower the dose gradually over 1 to 2 weeks and watch how you respond. This applies even if you only take metoprolol for blood pressure, because heart disease is common and is not always known about.",
+    "Talk to your care team before starting metoprolol if any of these apply to you.",
+    "- Asthma or other breathing problems. Beta blockers can tighten the airways. Metoprolol is used in people with these conditions only when other treatments are not suitable, at the lowest possible dose, with a reliever inhaler on hand.",
+    "- Heart failure. Heart failure can get worse while the dose is being increased. Tell your doctor about weight gain or increasing breathlessness.",
+    "- A slow heart rate or a conduction problem in the heart. This includes first-degree heart block, sinus node problems, and Wolff-Parkinson-White syndrome. Your heart rate should be monitored.",
+    "- Diabetes or long gaps without food. Metoprolol can hide the early warning signs of low blood sugar, such as a fast heartbeat, and can make low blood sugar more severe or last longer. The risk is higher if you are fasting, not eating regularly, or vomiting.",
+    "- An overactive thyroid. Metoprolol can mask signs of an overactive thyroid. Stopping it suddenly can trigger a thyroid crisis.",
+    "- Circulation problems in your arms or legs. Beta blockers can make symptoms of poor circulation worse.",
+    "- A history of severe allergic reactions. If you have anaphylaxis while taking a beta blocker, the usual dose of injectable epinephrine may not work as well.",
+    "- Pheochromocytoma (a tumor of the adrenal gland). Metoprolol must only be started after an alpha blocker has been started, or blood pressure can rise sharply.",
+    "- Liver disease. Metoprolol is broken down by the liver, so levels can build up. Treatment is usually started at a lower dose.",
+    "Surgery. Tell your surgeon and dentist that you take metoprolol. Long-term beta blocker treatment is not usually stopped before surgery. Starting a high dose of extended-release metoprolol shortly before non-cardiac surgery is avoided, because in one large trial this was linked to more slow heartbeats, low blood pressure, strokes, and deaths."
+   ],
+   "text": "The most important warning with metoprolol is not to stop it suddenly. Stopping a beta blocker abruptly can bring on worse chest pain and, in some cases, a heart attack. If your treatment needs to stop, your prescriber will lower the dose gradually over 1 to 2 weeks and watch how you respond. This applies even if you only take metoprolol for blood pressure, because heart disease is common and is not always known about.\nTalk to your care team before starting metoprolol if any of these apply to you.\n- Asthma or other breathing problems. Beta blockers can tighten the airways. Metoprolol is used in people with these conditions only when other treatments are not suitable, at the lowest possible dose, with a reliever inhaler on hand.\n- Heart failure. Heart failure can get worse while the dose is being increased. Tell your doctor about weight gain or increasing breathlessness.\n- A slow heart rate or a conduction problem in the heart. This includes first-degree heart block, sinus node problems, and Wolff-Parkinson-White syndrome. Your heart rate should be monitored.\n- Diabetes or long gaps without food. Metoprolol can hide the early warning signs of low blood sugar, such as a fast heartbeat, and can make low blood sugar more severe or last longer. The risk is higher if you are fasting, not eating regularly, or vomiting.\n- An overactive thyroid. Metoprolol can mask signs of an overactive thyroid. Stopping it suddenly can trigger a thyroid crisis.\n- Circulation problems in your arms or legs. Beta blockers can make symptoms of poor circulation worse.\n- A history of severe allergic reactions. If you have anaphylaxis while taking a beta blocker, the usual dose of injectable epinephrine may not work as well.\n- Pheochromocytoma (a tumor of the adrenal gland). Metoprolol must only be started after an alpha blocker has been started, or blood pressure can rise sharply.\n- Liver disease. Metoprolol is broken down by the liver, so levels can build up. Treatment is usually started at a lower dose.\nSurgery. Tell your surgeon and dentist that you take metoprolol. Long-term beta blocker treatment is not usually stopped before surgery. Starting a high dose of extended-release metoprolol shortly before non-cardiac surgery is avoided, because in one large trial this was linked to more slow heartbeats, low blood pressure, strokes, and deaths."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Who should not take metoprolol?",
+   "lines": [
+    "You should not take metoprolol if you have a very slow heart rate, heart block beyond the first degree, sick sinus syndrome without a pacemaker, cardiogenic shock, or heart failure that is not under control.",
+    "Metoprolol is not for you if you have:",
+    "- Severe bradycardia (a very slow heart rate)",
+    "- Second-degree or third-degree heart block, which is a fault in the heart's electrical signal",
+    "- Sick sinus syndrome, unless you have a permanent pacemaker",
+    "- Cardiogenic shock, when the heart cannot pump enough blood",
+    "- Decompensated heart failure, meaning heart failure that is not stable",
+    "- An allergy to metoprolol or to any of the other ingredients in your product",
+    "Immediate-release metoprolol tartrate tablets should also not be used if your top blood pressure reading is below 100 mmHg."
+   ],
+   "text": "You should not take metoprolol if you have a very slow heart rate, heart block beyond the first degree, sick sinus syndrome without a pacemaker, cardiogenic shock, or heart failure that is not under control.\nMetoprolol is not for you if you have:\n- Severe bradycardia (a very slow heart rate)\n- Second-degree or third-degree heart block, which is a fault in the heart's electrical signal\n- Sick sinus syndrome, unless you have a permanent pacemaker\n- Cardiogenic shock, when the heart cannot pump enough blood\n- Decompensated heart failure, meaning heart failure that is not stable\n- An allergy to metoprolol or to any of the other ingredients in your product\nImmediate-release metoprolol tartrate tablets should also not be used if your top blood pressure reading is below 100 mmHg."
+  },
+  {
+   "id": "before-taking-metoprolol",
+   "page": "main",
+   "heading": "Before taking metoprolol",
+   "lines": [
+    "Tell your doctor or pharmacist if you:",
+    "- Take any other medicine for your heart or blood pressure, especially digoxin, clonidine, diltiazem, or verapamil",
+    "- Take fluoxetine, paroxetine, quinidine, or propafenone, which raise metoprolol levels in your blood",
+    "- Are pregnant, planning a pregnancy, or breastfeeding",
+    "- Have liver problems",
+    "- Have ever had a severe allergic reaction to anything, including foods and insect stings",
+    "Kidney problems do not usually change your dose. The amount of metoprolol in your body and how long it lasts are not meaningfully different in people with kidney failure."
+   ],
+   "text": "Tell your doctor or pharmacist if you:\n- Take any other medicine for your heart or blood pressure, especially digoxin, clonidine, diltiazem, or verapamil\n- Take fluoxetine, paroxetine, quinidine, or propafenone, which raise metoprolol levels in your blood\n- Are pregnant, planning a pregnancy, or breastfeeding\n- Have liver problems\n- Have ever had a severe allergic reaction to anything, including foods and insect stings\nKidney problems do not usually change your dose. The amount of metoprolol in your body and how long it lasts are not meaningfully different in people with kidney failure."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take metoprolol?",
+   "lines": [
+    "Take metoprolol at the same time each day, exactly as prescribed. Do not change your dose or stop taking it without talking to your prescriber first.",
+    "Immediate-release metoprolol tartrate tablets should be taken with a meal or immediately after a meal. For extended-release tablets and capsules, taking your dose with or just after a meal is preferred, but food does not have a significant effect on how much metoprolol your body absorbs.",
+    "- Keep taking metoprolol even if you feel well. High blood pressure often causes no symptoms.",
+    "- Extended-release tablets are scored and can be split in half if your prescriber tells you to. Swallow the whole or half tablet without crushing or chewing it.",
+    "- Extended-release capsules (Kapspargo Sprinkle) should be swallowed whole. If you cannot swallow the capsule, you can open it and sprinkle the contents over a teaspoon of soft food such as applesauce, pudding, or yogurt. Swallow the mixture within 60 minutes and do not save any for later.",
+    "- Tell your doctor if you are fasting or vomiting, because this raises your risk of low blood sugar.",
+    "- Your blood pressure and heart rate will need checking regularly.",
+    "- Store metoprolol at room temperature, between 68°F and 77°F (20°C to 25°C), away from moisture and heat.",
+    "Metoprolol injection is given into a vein by a healthcare professional in a coronary care unit or similar setting, where your blood pressure, heart rate, and heart tracing can be watched. You are then switched to metoprolol tablets."
+   ],
+   "text": "Take metoprolol at the same time each day, exactly as prescribed. Do not change your dose or stop taking it without talking to your prescriber first.\nImmediate-release metoprolol tartrate tablets should be taken with a meal or immediately after a meal. For extended-release tablets and capsules, taking your dose with or just after a meal is preferred, but food does not have a significant effect on how much metoprolol your body absorbs.\n- Keep taking metoprolol even if you feel well. High blood pressure often causes no symptoms.\n- Extended-release tablets are scored and can be split in half if your prescriber tells you to. Swallow the whole or half tablet without crushing or chewing it.\n- Extended-release capsules (Kapspargo Sprinkle) should be swallowed whole. If you cannot swallow the capsule, you can open it and sprinkle the contents over a teaspoon of soft food such as applesauce, pudding, or yogurt. Swallow the mixture within 60 minutes and do not save any for later.\n- Tell your doctor if you are fasting or vomiting, because this raises your risk of low blood sugar.\n- Your blood pressure and heart rate will need checking regularly.\n- Store metoprolol at room temperature, between 68°F and 77°F (20°C to 25°C), away from moisture and heat.\nMetoprolol injection is given into a vein by a healthcare professional in a coronary care unit or similar setting, where your blood pressure, heart rate, and heart tracing can be watched. You are then switched to metoprolol tablets."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Metoprolol dosage",
+   "lines": [
+    "The usual starting dose is 25 mg to 100 mg once a day for extended-release metoprolol, and 100 mg a day for immediate-release metoprolol. Your dose is then adjusted at intervals of a week or longer until your blood pressure or symptoms are controlled.",
+    "Metoprolol tartrate (immediate-release tablets) dosage for adults:",
+    "Condition | Starting dose | Usual range",
+    "High blood pressure | 100 mg a day, as one dose or split into two | 100 mg to 450 mg a day. Doses above 450 mg a day have not been studied.",
+    "Angina | 100 mg a day, split into two doses | 100 mg to 400 mg a day. Doses above 400 mg a day have not been studied.",
+    "After a heart attack | 50 mg every 6 hours for 48 hours, starting 15 minutes after the last dose given into a vein. If the full intravenous dose was not tolerated, 25 mg is used. | Maintenance is 100 mg twice a day, continued for at least 3 months.",
+    "With immediate-release tablets, a once-daily dose may not keep blood pressure controlled for the full 24 hours, especially at 100 mg. Splitting the dose or taking a larger daily dose may be needed.",
+    "Metoprolol succinate (extended-release tablets and capsules) dosage for adults:",
+    "Condition | Starting dose | Usual range",
+    "High blood pressure | 25 mg to 100 mg once a day | Adjust weekly or less often. Doses above 400 mg a day have not been studied.",
+    "Angina | 100 mg once a day | Increase weekly until symptoms are controlled or your heart rate slows noticeably. Doses above 400 mg a day have not been studied.",
+    "Heart failure | 25 mg once a day for two weeks, or 12.5 mg once a day in more severe heart failure | Double the dose every two weeks to the highest dose you tolerate, up to 200 mg once a day.",
+    "Kapspargo Sprinkle capsules are not suitable to start heart failure treatment if a dose below 25 mg is needed.",
+    "Metoprolol dosage for children:",
+    "Extended-release metoprolol is the only form approved for children, and only for high blood pressure in children aged 6 years and older. The starting dose is 1 mg for each kilogram of body weight once a day, up to a maximum first dose of 50 mg. Doses above 2 mg/kg, or above 200 mg a day, have not been studied. Extended-release metoprolol has not been studied in children under 6 years.",
+    "Dose adjustments:",
+    "- Liver problems. Start at a lower dose than usual and increase slowly.",
+    "- Kidney problems. No dose reduction is needed.",
+    "- Older adults. A low starting dose is generally used, because liver, kidney, and heart function are more often reduced and other medicines are more often involved.",
+    "- Switching between forms. When changing from immediate-release to extended-release metoprolol, the same total daily dose is used."
+   ],
+   "text": "The usual starting dose is 25 mg to 100 mg once a day for extended-release metoprolol, and 100 mg a day for immediate-release metoprolol. Your dose is then adjusted at intervals of a week or longer until your blood pressure or symptoms are controlled.\nMetoprolol tartrate (immediate-release tablets) dosage for adults:\nCondition | Starting dose | Usual range\nHigh blood pressure | 100 mg a day, as one dose or split into two | 100 mg to 450 mg a day. Doses above 450 mg a day have not been studied.\nAngina | 100 mg a day, split into two doses | 100 mg to 400 mg a day. Doses above 400 mg a day have not been studied.\nAfter a heart attack | 50 mg every 6 hours for 48 hours, starting 15 minutes after the last dose given into a vein. If the full intravenous dose was not tolerated, 25 mg is used. | Maintenance is 100 mg twice a day, continued for at least 3 months.\nWith immediate-release tablets, a once-daily dose may not keep blood pressure controlled for the full 24 hours, especially at 100 mg. Splitting the dose or taking a larger daily dose may be needed.\nMetoprolol succinate (extended-release tablets and capsules) dosage for adults:\nCondition | Starting dose | Usual range\nHigh blood pressure | 25 mg to 100 mg once a day | Adjust weekly or less often. Doses above 400 mg a day have not been studied.\nAngina | 100 mg once a day | Increase weekly until symptoms are controlled or your heart rate slows noticeably. Doses above 400 mg a day have not been studied.\nHeart failure | 25 mg once a day for two weeks, or 12.5 mg once a day in more severe heart failure | Double the dose every two weeks to the highest dose you tolerate, up to 200 mg once a day.\nKapspargo Sprinkle capsules are not suitable to start heart failure treatment if a dose below 25 mg is needed.\nMetoprolol dosage for children:\nExtended-release metoprolol is the only form approved for children, and only for high blood pressure in children aged 6 years and older. The starting dose is 1 mg for each kilogram of body weight once a day, up to a maximum first dose of 50 mg. Doses above 2 mg/kg, or above 200 mg a day, have not been studied. Extended-release metoprolol has not been studied in children under 6 years.\nDose adjustments:\n- Liver problems. Start at a lower dose than usual and increase slowly.\n- Kidney problems. No dose reduction is needed.\n- Older adults. A low starting dose is generally used, because liver, kidney, and heart function are more often reduced and other medicines are more often involved.\n- Switching between forms. When changing from immediate-release to extended-release metoprolol, the same total daily dose is used."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose of metoprolol?",
+   "lines": [
+    "Skip the missed dose and take your next dose at the usual time. Do not take two doses at once and do not double up to catch up."
+   ],
+   "text": "Skip the missed dose and take your next dose at the usual time. Do not take two doses at once and do not double up to catch up."
+  },
+  {
+   "id": "what-happens-if-i-take-too-much-metoprolol",
+   "page": "main",
+   "heading": "What happens if I take too much metoprolol?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.",
+    "Too much metoprolol can cause a dangerously slow heartbeat, very low blood pressure, and cardiogenic shock. It can also cause heart block, heart failure, wheezing, low oxygen levels, drowsiness or loss of consciousness, nausea, and vomiting. Overdose is treated in an intensive care setting. Dialysis does not remove metoprolol effectively."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.\nToo much metoprolol can cause a dangerously slow heartbeat, very low blood pressure, and cardiogenic shock. It can also cause heart block, heart failure, wheezing, low oxygen levels, drowsiness or loss of consciousness, nausea, and vomiting. Overdose is treated in an intensive care setting. Dialysis does not remove metoprolol effectively."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking metoprolol?",
+   "lines": [
+    "- Avoid driving and other tasks that need alertness until you know how metoprolol affects you. It can make you feel tired or less alert.",
+    "- Get up slowly from sitting or lying down, because metoprolol can make you feel dizzy or lightheaded.",
+    "- Avoid alcohol if you take Kapspargo Sprinkle capsules. Alcohol makes the capsule release its metoprolol much faster, which raises the risk of side effects.",
+    "- Do not stop taking metoprolol on your own, even if you feel fine."
+   ],
+   "text": "- Avoid driving and other tasks that need alertness until you know how metoprolol affects you. It can make you feel tired or less alert.\n- Get up slowly from sitting or lying down, because metoprolol can make you feel dizzy or lightheaded.\n- Avoid alcohol if you take Kapspargo Sprinkle capsules. Alcohol makes the capsule release its metoprolol much faster, which raises the risk of side effects.\n- Do not stop taking metoprolol on your own, even if you feel fine."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs affect metoprolol?",
+   "lines": [
+    "The interactions that matter most are medicines that also slow the heart and medicines that block the liver enzyme CYP2D6, which raises metoprolol levels in your blood.",
+    "- Digoxin, clonidine, diltiazem, and verapamil. These all slow the heart's electrical signal and heart rate. Taking them with metoprolol raises the risk of a very slow heartbeat.",
+    "- Clonidine, when stopping either medicine. If you take both, the metoprolol is stopped several days before clonidine is slowly withdrawn, because beta blockers can worsen the blood pressure rebound that follows clonidine withdrawal.",
+    "- Quinidine, fluoxetine, paroxetine, and propafenone. These strong CYP2D6 blockers double the amount of metoprolol in your blood. Quinidine tripled levels of one form of metoprolol and doubled how long it lasted. Weaker CYP2D6 blockers are likely to raise levels too.",
+    "- Reserpine and MAO inhibitors. These deplete adrenaline-type chemicals and can add to metoprolol's effect, causing low blood pressure or a marked slowing of the heart.",
+    "- Epinephrine. If you need epinephrine for a severe allergic reaction, the usual dose may not work as well while you are on a beta blocker.",
+    "- Other medicines that lower blood pressure or heart rate, including fingolimod, can add to metoprolol's effect.",
+    "Tell each of your healthcare providers about all medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible interactions are listed here."
+   ],
+   "text": "The interactions that matter most are medicines that also slow the heart and medicines that block the liver enzyme CYP2D6, which raises metoprolol levels in your blood.\n- Digoxin, clonidine, diltiazem, and verapamil. These all slow the heart's electrical signal and heart rate. Taking them with metoprolol raises the risk of a very slow heartbeat.\n- Clonidine, when stopping either medicine. If you take both, the metoprolol is stopped several days before clonidine is slowly withdrawn, because beta blockers can worsen the blood pressure rebound that follows clonidine withdrawal.\n- Quinidine, fluoxetine, paroxetine, and propafenone. These strong CYP2D6 blockers double the amount of metoprolol in your blood. Quinidine tripled levels of one form of metoprolol and doubled how long it lasted. Weaker CYP2D6 blockers are likely to raise levels too.\n- Reserpine and MAO inhibitors. These deplete adrenaline-type chemicals and can add to metoprolol's effect, causing low blood pressure or a marked slowing of the heart.\n- Epinephrine. If you need epinephrine for a severe allergic reaction, the usual dose may not work as well while you are on a beta blocker.\n- Other medicines that lower blood pressure or heart rate, including fingolimod, can add to metoprolol's effect.\nTell each of your healthcare providers about all medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible interactions are listed here."
+  },
+  {
+   "id": "pregnancy",
+   "page": "main",
+   "heading": "Can you take metoprolol during pregnancy or while breastfeeding?",
+   "lines": [
+    "Metoprolol crosses the placenta and passes into breast milk in small amounts. Tell your doctor if you are pregnant, planning a pregnancy, or breastfeeding.",
+    "Studies published to date have not shown a link between metoprolol taken in pregnancy and major birth defects or miscarriage. Reports on growth restriction, early birth, and death around the time of birth have been inconsistent, and those studies have limitations that make them hard to interpret. Untreated high blood pressure and untreated heart failure in pregnancy carry their own serious risks for both mother and baby.",
+    "Babies born to mothers taking metoprolol may have low blood pressure, low blood sugar, a slow heartbeat, or slow breathing, so they are watched after birth.",
+    "The amount of metoprolol a breastfed baby receives is estimated at 0.05 mg to under 1 mg a day, which is about 0.5% to 2% of the mother's weight-adjusted dose. No side effects in breastfed babies have been identified. Babies are still monitored for a slow heartbeat and for signs such as unusual sleepiness."
+   ],
+   "text": "Metoprolol crosses the placenta and passes into breast milk in small amounts. Tell your doctor if you are pregnant, planning a pregnancy, or breastfeeding.\nStudies published to date have not shown a link between metoprolol taken in pregnancy and major birth defects or miscarriage. Reports on growth restriction, early birth, and death around the time of birth have been inconsistent, and those studies have limitations that make them hard to interpret. Untreated high blood pressure and untreated heart failure in pregnancy carry their own serious risks for both mother and baby.\nBabies born to mothers taking metoprolol may have low blood pressure, low blood sugar, a slow heartbeat, or slow breathing, so they are watched after birth.\nThe amount of metoprolol a breastfed baby receives is estimated at 0.05 mg to under 1 mg a day, which is about 0.5% to 2% of the mother's weight-adjusted dose. No side effects in breastfed babies have been identified. Babies are still monitored for a slow heartbeat and for signs such as unusual sleepiness."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: Does metoprolol cause weight gain? A: Metoprolol is not likely to cause weight gain. However, weight gain can be a warning sign that heart failure is getting worse. If you are taking metoprolol for heart failure, tell your doctor right away if you gain weight suddenly. This weight gain is due to extra fluid in the body that may cause swelling in the feet, ankles, legs and belly. The fluid builds up because the heart isn’t working as well as it should.",
+    "Q: Does metoprolol lower blood pressure? A: Yes, metoprolol causes the blood vessels to relax, which helps to lower blood pressure. If you are prescribed metoprolol for high blood pressure, your doctor may ask you to check your blood pressure regularly at home with an automatic, cuff-style device that goes around your upper arm. Keeping track of your blood pressure at home is one way to help your doctor know if the prescribed dosage of metoprolol is working for you.",
+    "Q: Should I take metoprolol in the morning or at night? A: When you take metoprolol depends on which salt form is prescribed. Metoprolol tartrate is usually taken twice daily, so it may be taken in the morning then at night. Metoprolol succinate is taken once daily, so it may be taken either morning or night. Both forms are usually taken with or immediately after a meal. Follow your health care provider’s directions for when to take metoprolol.",
+    "Q: What is the best time of day to take blood pressure medication? A: Research has suggested that taking your blood pressure medication at night instead of in the morning can provide better blood pressure control at night without compromising daytime blood pressure control and reduce your overall risk of dying because of cardiovascular disease by 45%.",
+    "Q: Does metoprolol lower resting heart rate? A: Yes, metoprolol can lower resting heart rate. It is a beta-blocking medication that is used to lower blood pressure, as well as relieve chest pain from angina pectoris.",
+    "Q: Metoprolol Succinate vs Tartrate: What's the difference between them? A: Metoprolol is available as two different salts: metoprolol tartrate and metoprolol succinate. The main difference between metoprolol tartrate and metoprolol succinate is that metoprolol tartrate is only available as an immediate-release tablet which means it must be taken several times per day, whereas metoprolol succinate is an extended-release tablet that can be taken once a day. As a result, there are differences in the dosages and indications for both metoprolol tartrate and metoprolol succinate and they are not considered interchangeable.",
+    "Q: What medications are known to cause hair loss? A: Medication-induced hair loss represents a significant concern for patients across multiple therapeutic categories. While chemotherapy drugs are most commonly associated with severe hair loss, many commonly prescribed medications-including antibiotics, psychiatric drugs, cardiovascular agents, and hormonal therapies-can also cause this distressing side effect.",
+    "Q: Does metoprolol make you sleepy? A: Yes, metoprolol can make you sleepy. One reason may be because beta blockers slow down your heart rate and lower your blood pressure.",
+    "Q: How long does it take for metoprolol to work? A: How long it takes metoprolol to work depends on what form is given and what condition is being treated. Effects on heart rate can be seen within one hour after taking metoprolol tartrate tablets and within 20 minutes after the intravenous form is given. The onset of action of metoprolol succinate is similar to metoprolol tartrate."
+   ],
+   "text": "Q: Does metoprolol cause weight gain? A: Metoprolol is not likely to cause weight gain. However, weight gain can be a warning sign that heart failure is getting worse. If you are taking metoprolol for heart failure, tell your doctor right away if you gain weight suddenly. This weight gain is due to extra fluid in the body that may cause swelling in the feet, ankles, legs and belly. The fluid builds up because the heart isn’t working as well as it should.\nQ: Does metoprolol lower blood pressure? A: Yes, metoprolol causes the blood vessels to relax, which helps to lower blood pressure. If you are prescribed metoprolol for high blood pressure, your doctor may ask you to check your blood pressure regularly at home with an automatic, cuff-style device that goes around your upper arm. Keeping track of your blood pressure at home is one way to help your doctor know if the prescribed dosage of metoprolol is working for you.\nQ: Should I take metoprolol in the morning or at night? A: When you take metoprolol depends on which salt form is prescribed. Metoprolol tartrate is usually taken twice daily, so it may be taken in the morning then at night. Metoprolol succinate is taken once daily, so it may be taken either morning or night. Both forms are usually taken with or immediately after a meal. Follow your health care provider’s directions for when to take metoprolol.\nQ: What is the best time of day to take blood pressure medication? A: Research has suggested that taking your blood pressure medication at night instead of in the morning can provide better blood pressure control at night without compromising daytime blood pressure control and reduce your overall risk of dying because of cardiovascular disease by 45%.\nQ: Does metoprolol lower resting heart rate? A: Yes, metoprolol can lower resting heart rate. It is a beta-blocking medication that is used to lower blood pressure, as well as relieve chest pain from angina pectoris.\nQ: Metoprolol Succinate vs Tartrate: What's the difference between them? A: Metoprolol is available as two different salts: metoprolol tartrate and metoprolol succinate. The main difference between metoprolol tartrate and metoprolol succinate is that metoprolol tartrate is only available as an immediate-release tablet which means it must be taken several times per day, whereas metoprolol succinate is an extended-release tablet that can be taken once a day. As a result, there are differences in the dosages and indications for both metoprolol tartrate and metoprolol succinate and they are not considered interchangeable.\nQ: What medications are known to cause hair loss? A: Medication-induced hair loss represents a significant concern for patients across multiple therapeutic categories. While chemotherapy drugs are most commonly associated with severe hair loss, many commonly prescribed medications-including antibiotics, psychiatric drugs, cardiovascular agents, and hormonal therapies-can also cause this distressing side effect.\nQ: Does metoprolol make you sleepy? A: Yes, metoprolol can make you sleepy. One reason may be because beta blockers slow down your heart rate and lower your blood pressure.\nQ: How long does it take for metoprolol to work? A: How long it takes metoprolol to work depends on what form is given and what condition is being treated. Effects on heart rate can be seen within one hour after taking metoprolol tartrate tablets and within 20 minutes after the intravenous form is given. The onset of action of metoprolol succinate is similar to metoprolol tartrate."
+  }
+ ],
+ "rank": 8
+}

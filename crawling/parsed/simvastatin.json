@@ -1,0 +1,241 @@
+{
+ "name": "Simvastatin",
+ "slug": "simvastatin",
+ "url": "https://www.drugs.com/simvastatin.html",
+ "title": "Simvastatin",
+ "page_title": "Simvastatin Uses, Dosage & Side Effects - Drugs.com",
+ "generic_name": "simvastatin",
+ "brand_names": [
+  "Zocor"
+ ],
+ "discontinued_brands": [],
+ "drug_classes": [
+  {
+   "name": "Statins",
+   "slug": "hmg-coa-reductase-inhibitors"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Philip Thornton, DipPharm. Last updated on Aug 27, 2026.",
+ "faq": [
+  {
+   "q": "Do statins cause rhabdomyolysis, and how is it treated?",
+   "a": "Rhabdomyolysis is a rare but serious side effect of statins, a class of cholesterol-lowering medications. It involves the breakdown of muscle tissue, which releases substances into the bloodstream that can cause kidney damage. While statins are generally safe, rhabdomyolysis from statins is uncommon and most likely to occur at high doses or when combined with certain other drugs."
+  },
+  {
+   "q": "When is the best time to take simvastatin?",
+   "a": "The best time to take simvastatin is in the evening. This is because your body makes most of its cholesterol at night when you are not eating. One study that measured people’s total cholesterol and low-density lipoproteins found that concentrations of these two lipids were significantly lower when simvastatin was taken in the evening, than when it was taken in the morning."
+  },
+  {
+   "q": "Can I drink grapefruit juice with simvastatin?",
+   "a": "You should not drink grapefruit juice with simvastatin because it can significantly increase blood levels of simvastatin and increase the risk of side effects such as liver damage and a condition called rhabdomyolysis, which is the excessive breakdown of muscle tissue. Occasionally, rhabdomyolysis can cause kidney damage and death."
+  }
+ ],
+ "description": "Simvastatin (Zocor) is a cholesterol-lowering medication that blocks the production of cholesterol. Includes simvastatin side effects, interactions and indications.",
+ "date_modified": "2026-08-27",
+ "reviewed_by": "Philip Thornton",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Lipitor",
+   "slug": "lipitor",
+   "blurb": "Lipitor is used to treat high cholesterol. Learn about side effects, interactions and indications."
+  },
+  {
+   "name": "Crestor",
+   "slug": "crestor",
+   "blurb": "Crestor (rosuvastatin) is used to treat high cholesterol and high triglycerides in the blood..."
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Zetia",
+   "slug": "zetia",
+   "blurb": "Zetia (ezetimibe) is used to treat high cholesterol. Includes Zetia side effects, interactions and..."
+  },
+  {
+   "name": "Zocor",
+   "slug": "zocor",
+   "blurb": "Zocor (simvastatin) reduces low-density lipoprotein cholesterol and total cholesterol in the blood..."
+  },
+  {
+   "name": "Mevacor",
+   "slug": "cons/mevacor",
+   "blurb": "Mevacor is used for high cholesterol, high cholesterol - familial heterozygous..."
+  },
+  {
+   "name": "Colesevelam",
+   "slug": "mtm/colesevelam",
+   "blurb": "Colesevelam is used for diarrhea, chronic, high cholesterol, hyperlipoproteinemia..."
+  },
+  {
+   "name": "Niacin",
+   "slug": "niacin",
+   "blurb": "Niacin is used to lower cholesterol and triglycerides. Learn about side effects, interactions and..."
+  },
+  {
+   "name": "Lovastatin",
+   "slug": "mtm/lovastatin",
+   "blurb": "Lovastatin is used for high cholesterol, high cholesterol - familial heterozygous..."
+  },
+  {
+   "name": "Ezetimibe",
+   "slug": "ezetimibe",
+   "blurb": "Ezetimibe is used alone or with other medication to treat high cholesterol. Learn about side..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is simvastatin?",
+   "lines": [
+    "Simvastatin belongs to a group of drugs called HMG CoA reductase inhibitors, or \"statins.\"",
+    "Simvastatin is used to lower blood levels of \"bad\" cholesterol (low-density lipoprotein, or LDL), to increase levels of \"good\" cholesterol (high-density lipoprotein, or HDL), and to lower triglycerides (a type of fat in the blood).",
+    "Simvastatin is also used to lower the risk of stroke, heart attack, and other heart complications in people with diabetes, coronary heart disease, or other risk factors.",
+    "Simvastatin is used in adults and children who are at least 10 years old."
+   ],
+   "text": "Simvastatin belongs to a group of drugs called HMG CoA reductase inhibitors, or \"statins.\"\nSimvastatin is used to lower blood levels of \"bad\" cholesterol (low-density lipoprotein, or LDL), to increase levels of \"good\" cholesterol (high-density lipoprotein, or HDL), and to lower triglycerides (a type of fat in the blood).\nSimvastatin is also used to lower the risk of stroke, heart attack, and other heart complications in people with diabetes, coronary heart disease, or other risk factors.\nSimvastatin is used in adults and children who are at least 10 years old."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "In rare cases, simvastatin can cause a condition that results in the breakdown of skeletal muscle tissue, potentially leading to kidney failure. Call your doctor right away if you have unexplained muscle pain, tenderness, or weakness especially if you also have fever, unusual tiredness, and dark colored urine.",
+    "Never take simvastatin in larger amounts, or for longer than recommended by your doctor. Follow your doctor's dosing instructions very carefully. Taking too much of this medication may cause serious or life-threatening side effects.",
+    "Before taking this medicine, tell your doctor if you have ever had liver or kidney disease, diabetes, a thyroid disorder, a muscle weakness condition (such as myasthenia gravis or ocular myasthenia), if you are of Chinese descent, or if you drink more than 2 alcoholic beverages daily.",
+    "Simvastatin can harm an unborn baby or cause birth defects. Do not use if you are pregnant or planning to become pregnant.",
+    "Grapefruit and grapefruit juice may interact with simvastatin and lead to potentially dangerous effects. Do not consume grapefruit products while taking this medication.",
+    "Some medicines can cause unwanted or dangerous effects when used with simvastatin. Your doctor may need to change your treatment plan if you use certain antibiotics or antifungal medicines, heart medication, antiviral medications such as hepatitis C medications, HIV/AIDS medications, or Paxlovid for COVID-19.",
+    "Stop taking this medication and tell your doctor right away if you become pregnant."
+   ],
+   "text": "In rare cases, simvastatin can cause a condition that results in the breakdown of skeletal muscle tissue, potentially leading to kidney failure. Call your doctor right away if you have unexplained muscle pain, tenderness, or weakness especially if you also have fever, unusual tiredness, and dark colored urine.\nNever take simvastatin in larger amounts, or for longer than recommended by your doctor. Follow your doctor's dosing instructions very carefully. Taking too much of this medication may cause serious or life-threatening side effects.\nBefore taking this medicine, tell your doctor if you have ever had liver or kidney disease, diabetes, a thyroid disorder, a muscle weakness condition (such as myasthenia gravis or ocular myasthenia), if you are of Chinese descent, or if you drink more than 2 alcoholic beverages daily.\nSimvastatin can harm an unborn baby or cause birth defects. Do not use if you are pregnant or planning to become pregnant.\nGrapefruit and grapefruit juice may interact with simvastatin and lead to potentially dangerous effects. Do not consume grapefruit products while taking this medication.\nSome medicines can cause unwanted or dangerous effects when used with simvastatin. Your doctor may need to change your treatment plan if you use certain antibiotics or antifungal medicines, heart medication, antiviral medications such as hepatitis C medications, HIV/AIDS medications, or Paxlovid for COVID-19.\nStop taking this medication and tell your doctor right away if you become pregnant."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not take this medicine if you are allergic to simvastatin, or if:",
+    "- you have active liver disease; or",
+    "- you are pregnant or breastfeeding.",
+    "The following drugs can increase your risk of serious muscle problems if you take them together with simvastatin. These drugs should not be used while you are taking this medicine:",
+    "- cyclosporine;",
+    "- danazol;",
+    "- gemfibrozil;",
+    "- nefazodone;",
+    "- an antibiotic - clarithromycin, erythromycin, telithromycin;",
+    "- antifungal medication - itraconazole, ketoconazole, posaconazole, voriconazole;",
+    "- hepatitis C medications - boceprevir, telaprevir; or",
+    "- HIV/AIDS medication - atazanavir, cobicistat (Stribild, Tybost), darunavir, fosamprenavir, indinavir, nelfinavir, ritonavir, saquinavir, tipranavir.",
+    "Before you start taking simvastatin, tell your doctor if you are already using any of these other medicines:",
+    "- lomitapide; or",
+    "- heart medication - amiodarone, amlodipine, diltiazem, dronedarone, ranolazine, verapamil.",
+    "To make sure simvastatin is safe for you, tell your doctor if you have:",
+    "- history of liver disease;",
+    "- history of kidney disease;",
+    "- diabetes;",
+    "- a thyroid disorder; or",
+    "- if you drink more than 2 alcoholic beverages daily",
+    "- a muscle weakness condition (such as myasthenia gravis or ocular myasthenia).",
+    "Simvastatin can cause a condition that results in the breakdown of skeletal muscle tissue, potentially leading to kidney failure. This condition may be more likely to occur in older adults and in people who have kidney disease or poorly controlled hypothyroidism (underactive thyroid).",
+    "This medicine can harm an unborn baby or cause birth defects. Do not take simvastatin if you are pregnant. Stop taking this medication and tell your doctor right away if you become pregnant. Use effective birth control to avoid pregnancy while you are taking this medicine.",
+    "Simvastatin may pass into breast milk and could harm a nursing baby. Do not breast-feed while you are taking this medicine."
+   ],
+   "text": "You should not take this medicine if you are allergic to simvastatin, or if:\n- you have active liver disease; or\n- you are pregnant or breastfeeding.\nThe following drugs can increase your risk of serious muscle problems if you take them together with simvastatin. These drugs should not be used while you are taking this medicine:\n- cyclosporine;\n- danazol;\n- gemfibrozil;\n- nefazodone;\n- an antibiotic - clarithromycin, erythromycin, telithromycin;\n- antifungal medication - itraconazole, ketoconazole, posaconazole, voriconazole;\n- hepatitis C medications - boceprevir, telaprevir; or\n- HIV/AIDS medication - atazanavir, cobicistat (Stribild, Tybost), darunavir, fosamprenavir, indinavir, nelfinavir, ritonavir, saquinavir, tipranavir.\nBefore you start taking simvastatin, tell your doctor if you are already using any of these other medicines:\n- lomitapide; or\n- heart medication - amiodarone, amlodipine, diltiazem, dronedarone, ranolazine, verapamil.\nTo make sure simvastatin is safe for you, tell your doctor if you have:\n- history of liver disease;\n- history of kidney disease;\n- diabetes;\n- a thyroid disorder; or\n- if you drink more than 2 alcoholic beverages daily\n- a muscle weakness condition (such as myasthenia gravis or ocular myasthenia).\nSimvastatin can cause a condition that results in the breakdown of skeletal muscle tissue, potentially leading to kidney failure. This condition may be more likely to occur in older adults and in people who have kidney disease or poorly controlled hypothyroidism (underactive thyroid).\nThis medicine can harm an unborn baby or cause birth defects. Do not take simvastatin if you are pregnant. Stop taking this medication and tell your doctor right away if you become pregnant. Use effective birth control to avoid pregnancy while you are taking this medicine.\nSimvastatin may pass into breast milk and could harm a nursing baby. Do not breast-feed while you are taking this medicine."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "How should I take simvastatin?",
+   "lines": [
+    "Take simvastatin exactly as prescribed. Follow all directions on your prescription label. Never take this medicine in larger amounts, or for longer than prescribed. Taking too much of this medication may cause serious or life-threatening side effects.",
+    "Simvastatin is usually taken once a day in the evening. If you are taking the oral suspension, take it on an empty stomach. Your doctor may occasionally change your dose to make sure you get the best results.",
+    "If you are taking the oral suspension, shake the bottle well for at least 20 seconds before each use. Measure the medicine with an accurate measuring device, not a regular household spoon.",
+    "While using simvastatin, you may need frequent blood tests at your doctor's office.",
+    "You may need to take simvastatin on a long-term basis for the treatment of high cholesterol. You may need to stop using this medicine for a short time if you have surgery or a medical emergency. Do not stop taking this medicine unless your doctor tells you to.",
+    "Simvastatin is only part of a complete program of treatment that also includes diet, exercise, and weight control. Follow your diet, medication, and exercise routines very closely.",
+    "Store at room temperature away from moisture, heat, and light."
+   ],
+   "text": "Take simvastatin exactly as prescribed. Follow all directions on your prescription label. Never take this medicine in larger amounts, or for longer than prescribed. Taking too much of this medication may cause serious or life-threatening side effects.\nSimvastatin is usually taken once a day in the evening. If you are taking the oral suspension, take it on an empty stomach. Your doctor may occasionally change your dose to make sure you get the best results.\nIf you are taking the oral suspension, shake the bottle well for at least 20 seconds before each use. Measure the medicine with an accurate measuring device, not a regular household spoon.\nWhile using simvastatin, you may need frequent blood tests at your doctor's office.\nYou may need to take simvastatin on a long-term basis for the treatment of high cholesterol. You may need to stop using this medicine for a short time if you have surgery or a medical emergency. Do not stop taking this medicine unless your doctor tells you to.\nSimvastatin is only part of a complete program of treatment that also includes diet, exercise, and weight control. Follow your diet, medication, and exercise routines very closely.\nStore at room temperature away from moisture, heat, and light."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the missed dose as soon as you remember. Skip the missed dose if it is almost time for your next scheduled dose. Do not take extra medicine to make up the missed dose."
+   ],
+   "text": "Take the missed dose as soon as you remember. Skip the missed dose if it is almost time for your next scheduled dose. Do not take extra medicine to make up the missed dose."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What to avoid",
+   "lines": [
+    "Grapefruit and grapefruit juice may interact with simvastatin and lead to unwanted side effects. Avoid the use of grapefruit products while taking this medicine.",
+    "Avoid eating foods that are high in fat or cholesterol. Simvastatin will not be as effective in lowering your cholesterol if you do not follow a cholesterol-lowering diet plan.",
+    "Avoid drinking alcohol. It can raise triglyceride levels and may increase your risk of liver damage."
+   ],
+   "text": "Grapefruit and grapefruit juice may interact with simvastatin and lead to unwanted side effects. Avoid the use of grapefruit products while taking this medicine.\nAvoid eating foods that are high in fat or cholesterol. Simvastatin will not be as effective in lowering your cholesterol if you do not follow a cholesterol-lowering diet plan.\nAvoid drinking alcohol. It can raise triglyceride levels and may increase your risk of liver damage."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Simvastatin side effects",
+   "lines": [
+    "Get emergency medical help if you have signs of an allergic reaction to simvastatin (hives, difficult breathing, swelling in your face or throat) or a severe skin reaction (fever, sore throat, burning eyes, skin pain, red or purple skin rash with blistering and peeling).",
+    "Simvastatin can cause the breakdown of muscle tissue, which can lead to kidney failure. Call your doctor right away if you have unexplained muscle pain, tenderness, or weakness especially if you also have fever, unusual tiredness, or dark urine.",
+    "Also call your doctor at once if you have:",
+    "- signs of a kidney problem - little or no urinating; painful or difficult urination; swelling in your feet or ankles; feeling tired or short of breath; or",
+    "- muscle weakness in your hips, shoulders, neck, and back;",
+    "- trouble lifting your arms, trouble climbing or standing; or",
+    "- liver problems - nausea, upper stomach pain, itching, tired feeling, loss of appetite, dark urine, clay-colored stools, jaundice (yellowing of the skin or eyes).",
+    "Common simvastatin side effects may include:",
+    "- headache;",
+    "- constipation, nausea, stomach pain; or",
+    "- cold symptoms such as stuffy nose, sneezing, sore throat.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have signs of an allergic reaction to simvastatin (hives, difficult breathing, swelling in your face or throat) or a severe skin reaction (fever, sore throat, burning eyes, skin pain, red or purple skin rash with blistering and peeling).\nSimvastatin can cause the breakdown of muscle tissue, which can lead to kidney failure. Call your doctor right away if you have unexplained muscle pain, tenderness, or weakness especially if you also have fever, unusual tiredness, or dark urine.\nAlso call your doctor at once if you have:\n- signs of a kidney problem - little or no urinating; painful or difficult urination; swelling in your feet or ankles; feeling tired or short of breath; or\n- muscle weakness in your hips, shoulders, neck, and back;\n- trouble lifting your arms, trouble climbing or standing; or\n- liver problems - nausea, upper stomach pain, itching, tired feeling, loss of appetite, dark urine, clay-colored stools, jaundice (yellowing of the skin or eyes).\nCommon simvastatin side effects may include:\n- headache;\n- constipation, nausea, stomach pain; or\n- cold symptoms such as stuffy nose, sneezing, sore throat.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect simvastatin?",
+   "lines": [
+    "Many drugs can interact with simvastatin. Not all possible interactions are listed here. Tell your doctor about all your medications and any you start or stop using during treatment, especially:",
+    "- delavirdine;",
+    "- fenofibrate; or",
+    "- fluconazole.",
+    "Your doctor may need to change your treatment plan if you use certain antibiotics or antifungal medicines, heart medication, antiviral medications such as hepatitis C medications, HIV/AIDS medications, or Paxlovid for COVID-19. This list is not complete and many other drugs can interact with simvastatin. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Give a list of all your medicines to any healthcare provider who treats you."
+   ],
+   "text": "Many drugs can interact with simvastatin. Not all possible interactions are listed here. Tell your doctor about all your medications and any you start or stop using during treatment, especially:\n- delavirdine;\n- fenofibrate; or\n- fluconazole.\nYour doctor may need to change your treatment plan if you use certain antibiotics or antifungal medicines, heart medication, antiviral medications such as hepatitis C medications, HIV/AIDS medications, or Paxlovid for COVID-19. This list is not complete and many other drugs can interact with simvastatin. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Give a list of all your medicines to any healthcare provider who treats you."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: Do statins cause rhabdomyolysis, and how is it treated? A: Rhabdomyolysis is a rare but serious side effect of statins, a class of cholesterol-lowering medications. It involves the breakdown of muscle tissue, which releases substances into the bloodstream that can cause kidney damage. While statins are generally safe, rhabdomyolysis from statins is uncommon and most likely to occur at high doses or when combined with certain other drugs.",
+    "Q: When is the best time to take simvastatin? A: The best time to take simvastatin is in the evening. This is because your body makes most of its cholesterol at night when you are not eating. One study that measured people’s total cholesterol and low-density lipoproteins found that concentrations of these two lipids were significantly lower when simvastatin was taken in the evening, than when it was taken in the morning.",
+    "Q: Can I drink grapefruit juice with simvastatin? A: You should not drink grapefruit juice with simvastatin because it can significantly increase blood levels of simvastatin and increase the risk of side effects such as liver damage and a condition called rhabdomyolysis, which is the excessive breakdown of muscle tissue. Occasionally, rhabdomyolysis can cause kidney damage and death."
+   ],
+   "text": "Q: Do statins cause rhabdomyolysis, and how is it treated? A: Rhabdomyolysis is a rare but serious side effect of statins, a class of cholesterol-lowering medications. It involves the breakdown of muscle tissue, which releases substances into the bloodstream that can cause kidney damage. While statins are generally safe, rhabdomyolysis from statins is uncommon and most likely to occur at high doses or when combined with certain other drugs.\nQ: When is the best time to take simvastatin? A: The best time to take simvastatin is in the evening. This is because your body makes most of its cholesterol at night when you are not eating. One study that measured people’s total cholesterol and low-density lipoproteins found that concentrations of these two lipids were significantly lower when simvastatin was taken in the evening, than when it was taken in the morning.\nQ: Can I drink grapefruit juice with simvastatin? A: You should not drink grapefruit juice with simvastatin because it can significantly increase blood levels of simvastatin and increase the risk of side effects such as liver damage and a condition called rhabdomyolysis, which is the excessive breakdown of muscle tissue. Occasionally, rhabdomyolysis can cause kidney damage and death."
+  }
+ ],
+ "rank": 26
+}

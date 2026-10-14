@@ -1,0 +1,304 @@
+{
+ "name": "Trazodone",
+ "slug": "trazodone",
+ "url": "https://www.drugs.com/trazodone.html",
+ "title": "Trazodone",
+ "page_title": "Trazodone Uses, Dosage, Side Effects & Warnings - Drugs.com",
+ "generic_name": "trazodone",
+ "pronunciation": "TRAZ-oh-done",
+ "brand_names": [
+  "Desyrel",
+  "Desyrel Dividose",
+  "Oleptro",
+  "Raldesy"
+ ],
+ "discontinued_brands": [
+  "Desyrel",
+  "Desyrel Dividose",
+  "Oleptro"
+ ],
+ "dosage_forms": [
+  {
+   "form": "oral tablet",
+   "strengths": [
+    "100 mg",
+    "150 mg",
+    "300 mg",
+    "50 mg"
+   ]
+  },
+  {
+   "form": "oral solution",
+   "strengths": [
+    "10 mg/mL"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Phenylpiperazine antidepressants",
+   "slug": "phenylpiperazine-antidepressants"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Aug 28, 2026.",
+ "faq": [
+  {
+   "q": "What are the strongest sleeping pills?",
+   "a": "There are many different types of sleeping pills available. Some require a prescription, while others are available over the counter. In general, prescription sleeping pills are stronger than those found over the counter. Some strong sleeping pill names include zolpidem, temazepam, and suvorexant."
+  },
+  {
+   "q": "Trazodone for dogs: Uses, dosage and side effects",
+   "a": "Trazodone is often used in dogs to relieve anxiety or stress or help your dog (and you!) cope with other behavioral issues."
+  },
+  {
+   "q": "Does trazodone cause weight gain?",
+   "a": "Trazodone may cause weight gain for some people, but it is not a common side effect of the medication. Weight loss was shown to be slightly more common with trazodone."
+  },
+  {
+   "q": "Does trazodone make you sleepy?",
+   "a": "Trazodone can help you sleep, and sleepiness is a side effect of the medication. Doctors will sometimes prescribe trazodone for insomnia, particularly for people who have both depression and difficulty sleeping. However, the benefit of taking trazodone for insomnia is not well established. The American Academy of Sleep Medicine recommends that trazodone and other antidepressants only be used for insomnia when other treatments have failed or in patients who also have depression."
+  },
+  {
+   "q": "How long does trazodone stay in your system?",
+   "a": "Trazodone is mostly cleared from a healthy adult’s body within 1 to 3 days after a single dose. Its half-life is 5 to 13 hours, and since it takes about 5.5 half-lives for a drug to leave the system, trazodone is typically eliminated in about 27 to 72 hours."
+  },
+  {
+   "q": "Is trazodone a controlled substance or narcotic?",
+   "a": "The FDA does not classify trazodone as a controlled substance, and it is not considered a narcotic."
+  },
+  {
+   "q": "Can trazodone cause a false positive on a drug test?",
+   "a": "Yes, trazodone has been shown to cause false positive results on urine drug tests for amphetamines, MDMA, and LSD. This potential for cross-reactivity is due to one of its primary metabolites, meta-chlorophenylpiperazine (m-CPP), which can interfere with specific immunoassay screenings."
+  },
+  {
+   "q": "How long does it take for trazodone to work?",
+   "a": "Trazodone may start to relieve depression 1 to 2 weeks after you begin taking it, but it can take up to 6 weeks for the full benefit of the medication to set in."
+  }
+ ],
+ "description": "Trazodone is a tetracyclic antidepressant used to treat depression and anxiety disorders. Includes trazodone side effects, interactions and indications.",
+ "date_modified": "2026-08-28",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Vraylar",
+   "slug": "vraylar",
+   "blurb": "Vraylar is a once a day antipsychotic medication used to treat mental health or mood disorders..."
+  },
+  {
+   "name": "Lexapro",
+   "slug": "lexapro",
+   "blurb": "Lexapro is used to treat anxiety and major depressive disorder. Learn about side effects..."
+  },
+  {
+   "name": "Rexulti",
+   "slug": "rexulti",
+   "blurb": "Rexulti is an antipsychotic used to treat major depressive disorder, schizophrenia, or agitation..."
+  },
+  {
+   "name": "Zoloft",
+   "slug": "zoloft",
+   "blurb": "Zoloft is an antidepressant used to treat major depression, obsessive-compulsive disorder, panic..."
+  },
+  {
+   "name": "Seroquel",
+   "slug": "seroquel",
+   "blurb": "Seroquel is used to treat the symptoms of schizophrenia, bipolar disorder and major depressive..."
+  },
+  {
+   "name": "Wellbutrin",
+   "slug": "wellbutrin",
+   "blurb": "Wellbutrin (bupropion) is used to treat major depressive disorder and seasonal affective disorder..."
+  },
+  {
+   "name": "Cymbalta",
+   "slug": "cymbalta",
+   "blurb": "Cymbalta (duloxetine) is used to treat major depressive disorder, general anxiety disorder and..."
+  },
+  {
+   "name": "Prozac",
+   "slug": "prozac",
+   "blurb": "Prozac (fluoxetine) is an SSRI antidepressant used to treat depression, OCD, panic disorder..."
+  },
+  {
+   "name": "Celexa",
+   "slug": "celexa",
+   "blurb": "Celexa (citalopram) is an antidepressant in a group of drugs called selective serotonin reuptake..."
+  },
+  {
+   "name": "Concerta",
+   "slug": "concerta",
+   "blurb": "Concerta is used to treat attention deficit disorder (ADD) and attention deficit hyperactivity..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is trazodone?",
+   "lines": [
+    "Trazodone is an antidepressant that belongs to a group of drugs called serotonin receptor antagonists and reuptake inhibitors (SARIs). While trazodone is not a true member of the selective serotonin reuptake inhibitors (SSRIs) class of antidepressants, it does still share many properties of the SSRIs.",
+    "Trazodone is used to treat major depressive disorder.",
+    "It may help to improve your mood, appetite, and energy level as well as decrease anxiety and insomnia related to depression.",
+    "Trazodone works by helping to restore the balance of a certain natural chemical (serotonin) in the brain."
+   ],
+   "text": "Trazodone is an antidepressant that belongs to a group of drugs called serotonin receptor antagonists and reuptake inhibitors (SARIs). While trazodone is not a true member of the selective serotonin reuptake inhibitors (SSRIs) class of antidepressants, it does still share many properties of the SSRIs.\nTrazodone is used to treat major depressive disorder.\nIt may help to improve your mood, appetite, and energy level as well as decrease anxiety and insomnia related to depression.\nTrazodone works by helping to restore the balance of a certain natural chemical (serotonin) in the brain."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "You should not use trazodone if you are allergic to it, or if you are being treated with methylene blue injection.",
+    "Do not use this medicine if you have taken an MAO inhibitor in the past 14 days. A dangerous drug interaction could occur. MAO inhibitors include isocarboxazid, linezolid, phenelzine, tranylcypromine and others.",
+    "Some young people have thoughts about suicide when first taking an antidepressant. Your doctor will need to check your progress at regular visits while you are using trazodone. Your family or other caregivers should also be alert to changes in your mood or symptoms.",
+    "Report any new or worsening symptoms to your doctor, such as: mood or behavior changes, anxiety, panic attacks, trouble sleeping, or if you feel impulsive, irritable, agitated, hostile, aggressive, restless, hyperactive (mentally or physically), more depressed, or have thoughts about suicide or hurting yourself.",
+    "Do not give this medicine to anyone younger than 18 years old without the advice of a doctor. Trazodone is not approved for use in children."
+   ],
+   "text": "You should not use trazodone if you are allergic to it, or if you are being treated with methylene blue injection.\nDo not use this medicine if you have taken an MAO inhibitor in the past 14 days. A dangerous drug interaction could occur. MAO inhibitors include isocarboxazid, linezolid, phenelzine, tranylcypromine and others.\nSome young people have thoughts about suicide when first taking an antidepressant. Your doctor will need to check your progress at regular visits while you are using trazodone. Your family or other caregivers should also be alert to changes in your mood or symptoms.\nReport any new or worsening symptoms to your doctor, such as: mood or behavior changes, anxiety, panic attacks, trouble sleeping, or if you feel impulsive, irritable, agitated, hostile, aggressive, restless, hyperactive (mentally or physically), more depressed, or have thoughts about suicide or hurting yourself.\nDo not give this medicine to anyone younger than 18 years old without the advice of a doctor. Trazodone is not approved for use in children."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not use trazodone if you are allergic to it.",
+    "Do not use this medicine if you have used an MAO inhibitor in the past 14 days. A dangerous drug interaction could occur. MAO inhibitors include isocarboxazid, linezolid, methylene blue injection, phenelzine, tranylcypromine, and others.",
+    "After you stop taking trazodone, you must wait at least 14 days before you start taking an MAOI.",
+    "Tell your doctor if you also take stimulant medicine, opioid medicine, herbal products, or medicine for depression, mental illness, Parkinson's disease, migraine headaches, serious infections, or prevention of nausea and vomiting. An interaction with trazodone could cause a serious condition called serotonin syndrome.",
+    "To make sure this medicine is safe for you, tell your doctor if you have ever had:",
+    "- liver or kidney disease;",
+    "- heart disease, or a recent heart attack;",
+    "- a bleeding or blood clotting disorder;",
+    "- seizures or epilepsy;",
+    "- narrow-angle glaucoma;",
+    "- long QT syndrome;",
+    "- drug addiction or suicidal thoughts; or",
+    "- bipolar disorder (manic depression).",
+    "Some young people have thoughts about suicide when first taking an antidepressant. Your doctor should check your progress at regular visits. Your family or other caregivers should also be alert to changes in your mood or symptoms.",
+    "Taking trazodone during pregnancy could harm the baby, but stopping the medicine may not be safe for you. Do not start or stop this medicine without asking your doctor.",
+    "If you are pregnant, your name may be listed on a pregnancy registry to track the effects of trazodone on the baby.",
+    "It may not be safe to breast-feed while using this medicine. Ask your doctor about any risk.",
+    "Trazodone is not approved for use by anyone younger than 18 years old."
+   ],
+   "text": "You should not use trazodone if you are allergic to it.\nDo not use this medicine if you have used an MAO inhibitor in the past 14 days. A dangerous drug interaction could occur. MAO inhibitors include isocarboxazid, linezolid, methylene blue injection, phenelzine, tranylcypromine, and others.\nAfter you stop taking trazodone, you must wait at least 14 days before you start taking an MAOI.\nTell your doctor if you also take stimulant medicine, opioid medicine, herbal products, or medicine for depression, mental illness, Parkinson's disease, migraine headaches, serious infections, or prevention of nausea and vomiting. An interaction with trazodone could cause a serious condition called serotonin syndrome.\nTo make sure this medicine is safe for you, tell your doctor if you have ever had:\n- liver or kidney disease;\n- heart disease, or a recent heart attack;\n- a bleeding or blood clotting disorder;\n- seizures or epilepsy;\n- narrow-angle glaucoma;\n- long QT syndrome;\n- drug addiction or suicidal thoughts; or\n- bipolar disorder (manic depression).\nSome young people have thoughts about suicide when first taking an antidepressant. Your doctor should check your progress at regular visits. Your family or other caregivers should also be alert to changes in your mood or symptoms.\nTaking trazodone during pregnancy could harm the baby, but stopping the medicine may not be safe for you. Do not start or stop this medicine without asking your doctor.\nIf you are pregnant, your name may be listed on a pregnancy registry to track the effects of trazodone on the baby.\nIt may not be safe to breast-feed while using this medicine. Ask your doctor about any risk.\nTrazodone is not approved for use by anyone younger than 18 years old."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take trazodone?",
+   "lines": [
+    "Take trazodone exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.",
+    "Take trazodone after a meal or a snack.",
+    "It may take up to 2 weeks before your symptoms improve. Keep using the medication as directed and tell your doctor if your symptoms do not improve.",
+    "You should not stop using this medicine suddenly, or you could have unpleasant symptoms (such as dizziness, vomiting, agitation, sweating, confusion, numbness, tingling, or electric shock feelings). Ask your doctor how to safely stop using this medicine.",
+    "Store at room temperature away from moisture, heat, and light. If you are using the oral solution, throw away any unused medicine 20 days after first opening the bottle."
+   ],
+   "text": "Take trazodone exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.\nTake trazodone after a meal or a snack.\nIt may take up to 2 weeks before your symptoms improve. Keep using the medication as directed and tell your doctor if your symptoms do not improve.\nYou should not stop using this medicine suddenly, or you could have unpleasant symptoms (such as dizziness, vomiting, agitation, sweating, confusion, numbness, tingling, or electric shock feelings). Ask your doctor how to safely stop using this medicine.\nStore at room temperature away from moisture, heat, and light. If you are using the oral solution, throw away any unused medicine 20 days after first opening the bottle."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Dosing information",
+   "lines": [
+    "Usual Adult Dose for Depression:",
+    "Initial dose: 150 mg orally per day in divided doses; this may be increased by 50 mg orally per day every 3 to 4 days Maximum dose: -Inpatients: 600 mg/day -Outpatients: 400 mg/day Comments: -Patients should be screened for a personal/family history of bipolar disorder, mania, or hypomania prior to initiating treatment. -Patients should be monitored for withdrawal symptoms when discontinuing therapy. -After an adequate response has been reached, dosage may be gradually reduced depending on therapeutic response. -If drowsiness develops, a major portion of the daily dose may be administered at bedtime or a reduction of dosage may be necessary. -This drug should be taken shortly after a meal or light snack. Use: Treatment of major depressive disorder (MDD)"
+   ],
+   "text": "Usual Adult Dose for Depression:\nInitial dose: 150 mg orally per day in divided doses; this may be increased by 50 mg orally per day every 3 to 4 days Maximum dose: -Inpatients: 600 mg/day -Outpatients: 400 mg/day Comments: -Patients should be screened for a personal/family history of bipolar disorder, mania, or hypomania prior to initiating treatment. -Patients should be monitored for withdrawal symptoms when discontinuing therapy. -After an adequate response has been reached, dosage may be gradually reduced depending on therapeutic response. -If drowsiness develops, a major portion of the daily dose may be administered at bedtime or a reduction of dosage may be necessary. -This drug should be taken shortly after a meal or light snack. Use: Treatment of major depressive disorder (MDD)"
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+   ],
+   "text": "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222. An overdose can be fatal when trazodone is taken with alcohol, barbiturates such as phenobarbital, or sedatives such as diazepam (Valium).",
+    "Overdose symptoms may include extreme drowsiness, vomiting, penis erection that is painful or prolonged, fast or pounding heartbeat, seizure (black-out or convulsions), or breathing that slows or stops."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222. An overdose can be fatal when trazodone is taken with alcohol, barbiturates such as phenobarbital, or sedatives such as diazepam (Valium).\nOverdose symptoms may include extreme drowsiness, vomiting, penis erection that is painful or prolonged, fast or pounding heartbeat, seizure (black-out or convulsions), or breathing that slows or stops."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What to avoid",
+   "lines": [
+    "Do not drink alcohol. Dangerous side effects or death could occur.",
+    "Ask your doctor before taking a nonsteroidal anti-inflammatory drug (NSAID) such as aspirin, ibuprofen, naproxen, Advil, Aleve, Motrin, and others. Using an NSAID with trazodone may cause you to bruise or bleed easily.",
+    "Avoid driving or hazardous activity until you know how this medicine will affect you. Your reactions could be impaired.",
+    "Avoid getting up too fast from a sitting or lying position, or you may feel dizzy."
+   ],
+   "text": "Do not drink alcohol. Dangerous side effects or death could occur.\nAsk your doctor before taking a nonsteroidal anti-inflammatory drug (NSAID) such as aspirin, ibuprofen, naproxen, Advil, Aleve, Motrin, and others. Using an NSAID with trazodone may cause you to bruise or bleed easily.\nAvoid driving or hazardous activity until you know how this medicine will affect you. Your reactions could be impaired.\nAvoid getting up too fast from a sitting or lying position, or you may feel dizzy."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Trazodone side effects",
+   "lines": [
+    "Get emergency medical help if you have signs of an allergic reaction to trazodone: hives; difficulty breathing; swelling of your face, lips, tongue, or throat.",
+    "Stop taking trazodone and call your doctor at once if you have a penis erection that is painful or lasts 6 hours or longer. This is a medical emergency and could lead to a serious condition that must be corrected with surgery.",
+    "Report any new or worsening symptoms to your doctor, such as: mood or behavior changes, anxiety, panic attacks, trouble sleeping, or if you feel impulsive, irritable, agitated, hostile, aggressive, restless, hyperactive (mentally or physically), more depressed, or have thoughts about suicide or hurting yourself.",
+    "Call your doctor at once if you have:",
+    "- fast or pounding heartbeats, fluttering in your chest, shortness of breath, and sudden dizziness (like you might pass out);",
+    "- slow heartbeats;",
+    "- unusual thoughts or behavior;",
+    "- easy bruising, unusual bleeding; or",
+    "- low levels of sodium in the body - headache, confusion, slurred speech, severe weakness, vomiting, loss of coordination, feeling unsteady.",
+    "Seek medical attention right away if you have symptoms of serotonin syndrome, such as: agitation, hallucinations, fever, sweating, shivering, fast heart rate, muscle stiffness, twitching, loss of coordination, nausea, vomiting, or diarrhea.",
+    "Common trazodone side effects may include:",
+    "- drowsiness, dizziness, tiredness;",
+    "- swelling;",
+    "- weight loss;",
+    "- blurred vision;",
+    "- diarrhea, constipation; or",
+    "- stuffy nose.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have signs of an allergic reaction to trazodone: hives; difficulty breathing; swelling of your face, lips, tongue, or throat.\nStop taking trazodone and call your doctor at once if you have a penis erection that is painful or lasts 6 hours or longer. This is a medical emergency and could lead to a serious condition that must be corrected with surgery.\nReport any new or worsening symptoms to your doctor, such as: mood or behavior changes, anxiety, panic attacks, trouble sleeping, or if you feel impulsive, irritable, agitated, hostile, aggressive, restless, hyperactive (mentally or physically), more depressed, or have thoughts about suicide or hurting yourself.\nCall your doctor at once if you have:\n- fast or pounding heartbeats, fluttering in your chest, shortness of breath, and sudden dizziness (like you might pass out);\n- slow heartbeats;\n- unusual thoughts or behavior;\n- easy bruising, unusual bleeding; or\n- low levels of sodium in the body - headache, confusion, slurred speech, severe weakness, vomiting, loss of coordination, feeling unsteady.\nSeek medical attention right away if you have symptoms of serotonin syndrome, such as: agitation, hallucinations, fever, sweating, shivering, fast heart rate, muscle stiffness, twitching, loss of coordination, nausea, vomiting, or diarrhea.\nCommon trazodone side effects may include:\n- drowsiness, dizziness, tiredness;\n- swelling;\n- weight loss;\n- blurred vision;\n- diarrhea, constipation; or\n- stuffy nose.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect trazodone?",
+   "lines": [
+    "Using trazodone with other drugs that make you drowsy can worsen this effect. Ask your doctor before using opioid medication, a sleeping pill, a muscle relaxer, or medicine for anxiety or seizures.",
+    "Tell your doctor about all your current medicines. Many drugs can interact with trazodone, especially:",
+    "- any other antidepressants;",
+    "- phenytoin;",
+    "- St. John's wort;",
+    "- tramadol;",
+    "- a diuretic or \"water pill\";",
+    "- medicine to treat anxiety, mood disorders, or mental illness such as schizophrenia;",
+    "- a blood thinner - warfarin, Coumadin, Jantoven; or",
+    "- migraine headache medicine - sumatriptan, Imitrex, Maxalt, Treximet, and others.",
+    "This list is not complete and many other drugs may interact with trazodone. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+   ],
+   "text": "Using trazodone with other drugs that make you drowsy can worsen this effect. Ask your doctor before using opioid medication, a sleeping pill, a muscle relaxer, or medicine for anxiety or seizures.\nTell your doctor about all your current medicines. Many drugs can interact with trazodone, especially:\n- any other antidepressants;\n- phenytoin;\n- St. John's wort;\n- tramadol;\n- a diuretic or \"water pill\";\n- medicine to treat anxiety, mood disorders, or mental illness such as schizophrenia;\n- a blood thinner - warfarin, Coumadin, Jantoven; or\n- migraine headache medicine - sumatriptan, Imitrex, Maxalt, Treximet, and others.\nThis list is not complete and many other drugs may interact with trazodone. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: What are the strongest sleeping pills? A: There are many different types of sleeping pills available. Some require a prescription, while others are available over the counter. In general, prescription sleeping pills are stronger than those found over the counter. Some strong sleeping pill names include zolpidem, temazepam, and suvorexant.",
+    "Q: Trazodone for dogs: Uses, dosage and side effects A: Trazodone is often used in dogs to relieve anxiety or stress or help your dog (and you!) cope with other behavioral issues.",
+    "Q: Does trazodone cause weight gain? A: Trazodone may cause weight gain for some people, but it is not a common side effect of the medication. Weight loss was shown to be slightly more common with trazodone.",
+    "Q: Does trazodone make you sleepy? A: Trazodone can help you sleep, and sleepiness is a side effect of the medication. Doctors will sometimes prescribe trazodone for insomnia, particularly for people who have both depression and difficulty sleeping. However, the benefit of taking trazodone for insomnia is not well established. The American Academy of Sleep Medicine recommends that trazodone and other antidepressants only be used for insomnia when other treatments have failed or in patients who also have depression.",
+    "Q: How long does trazodone stay in your system? A: Trazodone is mostly cleared from a healthy adult’s body within 1 to 3 days after a single dose. Its half-life is 5 to 13 hours, and since it takes about 5.5 half-lives for a drug to leave the system, trazodone is typically eliminated in about 27 to 72 hours.",
+    "Q: Is trazodone a controlled substance or narcotic? A: The FDA does not classify trazodone as a controlled substance, and it is not considered a narcotic.",
+    "Q: Can trazodone cause a false positive on a drug test? A: Yes, trazodone has been shown to cause false positive results on urine drug tests for amphetamines, MDMA, and LSD. This potential for cross-reactivity is due to one of its primary metabolites, meta-chlorophenylpiperazine (m-CPP), which can interfere with specific immunoassay screenings.",
+    "Q: How long does it take for trazodone to work? A: Trazodone may start to relieve depression 1 to 2 weeks after you begin taking it, but it can take up to 6 weeks for the full benefit of the medication to set in."
+   ],
+   "text": "Q: What are the strongest sleeping pills? A: There are many different types of sleeping pills available. Some require a prescription, while others are available over the counter. In general, prescription sleeping pills are stronger than those found over the counter. Some strong sleeping pill names include zolpidem, temazepam, and suvorexant.\nQ: Trazodone for dogs: Uses, dosage and side effects A: Trazodone is often used in dogs to relieve anxiety or stress or help your dog (and you!) cope with other behavioral issues.\nQ: Does trazodone cause weight gain? A: Trazodone may cause weight gain for some people, but it is not a common side effect of the medication. Weight loss was shown to be slightly more common with trazodone.\nQ: Does trazodone make you sleepy? A: Trazodone can help you sleep, and sleepiness is a side effect of the medication. Doctors will sometimes prescribe trazodone for insomnia, particularly for people who have both depression and difficulty sleeping. However, the benefit of taking trazodone for insomnia is not well established. The American Academy of Sleep Medicine recommends that trazodone and other antidepressants only be used for insomnia when other treatments have failed or in patients who also have depression.\nQ: How long does trazodone stay in your system? A: Trazodone is mostly cleared from a healthy adult’s body within 1 to 3 days after a single dose. Its half-life is 5 to 13 hours, and since it takes about 5.5 half-lives for a drug to leave the system, trazodone is typically eliminated in about 27 to 72 hours.\nQ: Is trazodone a controlled substance or narcotic? A: The FDA does not classify trazodone as a controlled substance, and it is not considered a narcotic.\nQ: Can trazodone cause a false positive on a drug test? A: Yes, trazodone has been shown to cause false positive results on urine drug tests for amphetamines, MDMA, and LSD. This potential for cross-reactivity is due to one of its primary metabolites, meta-chlorophenylpiperazine (m-CPP), which can interfere with specific immunoassay screenings.\nQ: How long does it take for trazodone to work? A: Trazodone may start to relieve depression 1 to 2 weeks after you begin taking it, but it can take up to 6 weeks for the full benefit of the medication to set in."
+  }
+ ],
+ "rank": 20
+}

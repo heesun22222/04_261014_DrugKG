@@ -1,0 +1,261 @@
+{
+  "Atorvastatin": {
+    "url": "https://www.drugs.com/atorvastatin.html",
+    "slug": "atorvastatin",
+    "title": "Atorvastatin Uses, Dosage, Side Effects - Drugs.com",
+    "html": "data/raw_html/atorvastatin.html"
+  },
+  "Levothyroxine": {
+    "url": "https://www.drugs.com/levothyroxine.html",
+    "slug": "levothyroxine",
+    "title": "Levothyroxine: Uses, Dosage, Side Effects, &amp; Warnings - Drugs.com",
+    "html": "data/raw_html/levothyroxine.html"
+  },
+  "Metformin": {
+    "url": "https://www.drugs.com/metformin.html",
+    "slug": "metformin",
+    "title": "Metformin: Dosage, Side Effects, Diabetes, PCOS - Drugs.com",
+    "html": "data/raw_html/metformin.html"
+  },
+  "Amlodipine": {
+    "url": "https://www.drugs.com/amlodipine.html",
+    "slug": "amlodipine",
+    "title": "Amlodipine: Uses, Side Effects &amp; Dosage - Drugs.com",
+    "html": "data/raw_html/amlodipine.html"
+  },
+  "Lisinopril": {
+    "url": "https://www.drugs.com/lisinopril.html",
+    "slug": "lisinopril",
+    "title": "Lisinopril Uses, Dosage, Side Effects &amp; Warnings - Drugs.com",
+    "html": "data/raw_html/lisinopril.html"
+  },
+  "Albuterol": {
+    "url": "https://www.drugs.com/albuterol.html",
+    "slug": "albuterol",
+    "title": "Albuterol Inhaler: Uses, Dosage &amp; Side Effects - Drugs.com",
+    "html": "data/raw_html/albuterol.html"
+  },
+  "Losartan": {
+    "url": "https://www.drugs.com/losartan.html",
+    "slug": "losartan",
+    "title": "Losartan: Uses, Dosage, Side Effects, Warnings - Drugs.com",
+    "html": "data/raw_html/losartan.html"
+  },
+  "Metoprolol": {
+    "url": "https://www.drugs.com/metoprolol.html",
+    "slug": "metoprolol",
+    "title": "Metoprolol: Uses, Dosage, Side Effects - Drugs.com",
+    "html": "data/raw_html/metoprolol.html"
+  },
+  "Rosuvastatin": {
+    "slug": "rosuvastatin",
+    "url": "https://www.drugs.com/rosuvastatin.html",
+    "title": "Rosuvastatin: Uses, Dosage, Side Effects, Warnings - Drugs.com"
+  },
+  "Omeprazole": {
+    "url": "https://www.drugs.com/omeprazole.html",
+    "slug": "omeprazole",
+    "title": "Omeprazole: Uses, Side Effects, Dosage, Warnings - Drugs.com",
+    "html": "data/raw_html/omeprazole.html"
+  },
+  "Gabapentin": {
+    "slug": "gabapentin",
+    "url": "https://www.drugs.com/gabapentin.html",
+    "title": "Gabapentin: Uses, Dosage, Side Effects, Warnings - Drugs.com"
+  },
+  "Sertraline": {
+    "slug": "sertraline",
+    "url": "https://www.drugs.com/sertraline.html",
+    "title": "Sertraline: Side Effects, Uses, Dosage and Reviews - Drugs.com"
+  },
+  "Escitalopram": {
+    "slug": "escitalopram",
+    "url": "https://www.drugs.com/escitalopram.html",
+    "title": "Escitalopram Uses, Dosage, Side Effects, Warnings - Drugs.com"
+  },
+  "Semaglutide": {
+    "slug": "semaglutide",
+    "url": "https://www.drugs.com/semaglutide.html",
+    "title": "Semaglutide: Uses, Dosage, Side Effects, Brands - Drugs.com"
+  },
+  "Dextroamphetamine + Amphetamine salts": {
+    "slug": "adderall",
+    "url": "https://www.drugs.com/adderall.html",
+    "title": "Adderall: Uses, Dosage, Side Effects &amp; Warnings - Drugs.com"
+  },
+  "Pantoprazole": {
+    "slug": "pantoprazole",
+    "url": "https://www.drugs.com/pantoprazole.html",
+    "title": "Pantoprazole Uses, Dosage &amp; Side Effects - Drugs.com"
+  },
+  "Bupropion": {
+    "slug": "bupropion",
+    "url": "https://www.drugs.com/bupropion.html",
+    "title": "Bupropion: Uses, Dosage, Side Effects - Drugs.com"
+  },
+  "Hydrochlorothiazide": {
+    "slug": "hydrochlorothiazide",
+    "url": "https://www.drugs.com/hydrochlorothiazide.html",
+    "title": "Hydrochlorothiazide (HCTZ): Uses, Dosage and Side Effects - Drugs.com"
+  },
+  "Fluoxetine": {
+    "slug": "fluoxetine",
+    "url": "https://www.drugs.com/fluoxetine.html",
+    "title": "Fluoxetine (Prozac): Uses, Side Effects, Dosage &amp; Warnings"
+  },
+  "Trazodone": {
+    "slug": "trazodone",
+    "url": "https://www.drugs.com/trazodone.html",
+    "title": "Trazodone Uses, Dosage, Side Effects &amp; Warnings - Drugs.com"
+  },
+  "Montelukast": {
+    "slug": "montelukast",
+    "url": "https://www.drugs.com/montelukast.html",
+    "title": "Montelukast: Uses, Dosage, Side Effects &amp; Warnings - Drugs.com"
+  },
+  "Amoxicillin": {
+    "slug": "amoxicillin",
+    "url": "https://www.drugs.com/amoxicillin.html",
+    "title": "Amoxicillin: Uses, Dosage, Side Effects, Warnings - Drugs.com"
+  },
+  "Fluticasone": {
+    "slug": "flonase",
+    "url": "https://www.drugs.com/flonase.html",
+    "title": "Flonase (Nasal Spray) Uses, Dosage &amp; Side Effects - Drugs.com"
+  },
+  "Tamsulosin": {
+    "slug": "tamsulosin",
+    "url": "https://www.drugs.com/tamsulosin.html",
+    "title": "Tamsulosin: Uses, Dosage &amp; Side Effects - Drugs.com"
+  },
+  "Apixaban": {
+    "slug": "apixaban",
+    "url": "https://www.drugs.com/apixaban.html",
+    "title": "Apixaban Uses, Side Effects &amp; Warnings"
+  },
+  "Simvastatin": {
+    "slug": "simvastatin",
+    "url": "https://www.drugs.com/simvastatin.html",
+    "title": "Simvastatin Uses, Dosage &amp; Side Effects - Drugs.com"
+  },
+  "Insulin Glargine": {
+    "slug": "insulin-glargine",
+    "url": "https://www.drugs.com/insulin-glargine.html",
+    "title": "Insulin Glargine: Uses, Dosage, Side Effects, Warnings - Drugs.com"
+  },
+  "Empagliflozin": {
+    "slug": "empagliflozin",
+    "url": "https://www.drugs.com/empagliflozin.html",
+    "title": "Empagliflozin Uses, Side Effects &amp; Warnings"
+  },
+  "Furosemide": {
+    "slug": "furosemide",
+    "url": "https://www.drugs.com/furosemide.html",
+    "title": "Furosemide: Uses, How to Take, Side Effects, Warnings - Drugs.com"
+  },
+  "Meloxicam": {
+    "slug": "meloxicam",
+    "url": "https://www.drugs.com/meloxicam.html",
+    "title": "Meloxicam: Uses, Dosage, Side Effects &amp; Warnings - Drugs.com"
+  },
+  "Acetaminophen + Hydrocodone": {
+    "slug": "hydrocodone-acetaminophen",
+    "url": "https://www.drugs.com/hydrocodone-acetaminophen.html",
+    "title": "Hydrocodone and Acetaminophen Information - Drugs.com"
+  },
+  "Tirzepatide": {
+    "slug": "tirzepatide",
+    "url": "https://www.drugs.com/tirzepatide.html",
+    "title": "Tirzepatide (Zepbound, Mounjaro): Weight Loss, Diabetes, Dosage &amp; Side Effects"
+  },
+  "Methylphenidate": {
+    "slug": "methylphenidate",
+    "url": "https://www.drugs.com/methylphenidate.html",
+    "title": "Methylphenidate: Uses, Dosage, Side Effects - Drugs.com"
+  },
+  "Duloxetine": {
+    "slug": "duloxetine",
+    "url": "https://www.drugs.com/duloxetine.html",
+    "title": "Duloxetine: Uses, Side Effects, Dosage, Warnings - Drugs.com"
+  },
+  "Prednisone": {
+    "slug": "prednisone",
+    "url": "https://www.drugs.com/prednisone.html",
+    "title": "Prednisone: Uses, Side Effects, Dosage &amp; Warnings"
+  },
+  "Carvedilol": {
+    "slug": "carvedilol",
+    "url": "https://www.drugs.com/carvedilol.html",
+    "title": "Carvedilol Uses, Dosage &amp; Side Effects - Drugs.com"
+  },
+  "Famotidine": {
+    "slug": "famotidine",
+    "url": "https://www.drugs.com/famotidine.html",
+    "title": "Famotidine Uses, How to Take, Side Effects, Warnings - Drugs.com"
+  },
+  "Ibuprofen": {
+    "slug": "ibuprofen",
+    "url": "https://www.drugs.com/ibuprofen.html",
+    "title": "Ibuprofen Uses, Dosage &amp; Side Effects - Drugs.com"
+  },
+  "Buspirone": {
+    "slug": "buspirone",
+    "url": "https://www.drugs.com/buspirone.html",
+    "title": "Buspirone: Uses, Dosage, Side Effects - Drugs.com"
+  },
+  "Venlafaxine": {
+    "slug": "venlafaxine",
+    "url": "https://www.drugs.com/venlafaxine.html",
+    "title": "Venlafaxine Uses, Dosage &amp; Side Effects - Drugs.com"
+  },
+  "Tramadol": {
+    "slug": "tramadol",
+    "url": "https://www.drugs.com/tramadol.html",
+    "title": "Tramadol: Uses, Side Effects, Dosage, &amp; Warnings - Drugs.com"
+  },
+  "Potassium Chloride": {
+    "slug": "potassium-chloride",
+    "url": "https://www.drugs.com/potassium-chloride.html",
+    "title": "Potassium Chloride: Uses, Dosage &amp; Side Effects - Drugs.com"
+  },
+  "Hydroxyzine": {
+    "slug": "hydroxyzine",
+    "url": "https://www.drugs.com/hydroxyzine.html",
+    "title": "Hydroxyzine: Uses, Dosage, Side Effects &amp; Reviews - Drugs.com"
+  },
+  "Allopurinol": {
+    "slug": "allopurinol",
+    "url": "https://www.drugs.com/allopurinol.html",
+    "title": "Allopurinol: Uses, Dosage, Side Effects - Drugs.com"
+  },
+  "Clopidogrel": {
+    "slug": "clopidogrel",
+    "url": "https://www.drugs.com/clopidogrel.html",
+    "title": "Clopidogrel Uses, Side Effects &amp; Warnings"
+  },
+  "Cetirizine": {
+    "slug": "cetirizine",
+    "url": "https://www.drugs.com/cetirizine.html",
+    "title": "Cetirizine Uses, Dosage &amp; Side Effects - Drugs.com"
+  },
+  "Ondansetron": {
+    "slug": "ondansetron",
+    "url": "https://www.drugs.com/ondansetron.html",
+    "title": "Ondansetron Uses, Dosage &amp; Side Effects - Drugs.com"
+  },
+  "Cyclobenzaprine": {
+    "slug": "cyclobenzaprine",
+    "url": "https://www.drugs.com/cyclobenzaprine.html",
+    "title": "Cyclobenzaprine: Uses, Dosage, Side Effects &amp; Warnings"
+  },
+  "Spironolactone": {
+    "slug": "spironolactone",
+    "url": "https://www.drugs.com/spironolactone.html",
+    "title": "Spironolactone: Uses, Dosage, Side Effects - Drugs.com"
+  },
+  "Ergocalciferol": {
+    "slug": "mtm/ergocalciferol",
+    "url": "https://www.drugs.com/mtm/ergocalciferol.html",
+    "title": "Ergocalciferol Uses, Side Effects &amp; Warnings"
+  }
+}

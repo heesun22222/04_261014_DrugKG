@@ -1,0 +1,221 @@
+{
+ "name": "Clopidogrel",
+ "slug": "clopidogrel",
+ "url": "https://www.drugs.com/clopidogrel.html",
+ "title": "Clopidogrel",
+ "page_title": "Clopidogrel Uses, Side Effects & Warnings",
+ "generic_name": "clopidogrel",
+ "pronunciation": "kloe-PID-oh-grel",
+ "brand_names": [
+  "Plavix"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "oral tablet",
+   "strengths": [
+    "300 mg",
+    "75 mg"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Platelet aggregation inhibitors",
+   "slug": "platelet-aggregation-inhibitors"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Drugs.com on Mar 23, 2026. Written by Cerner Multum.",
+ "faq": [],
+ "description": "Clopidogrel: side effects, dosage, interactions, FAQs, reviews. Used for: acute coronary syndrome, acute coronary syndrome, prophylaxis, heart attack, ischemic stroke, and more.",
+ "date_modified": "2026-03-23",
+ "reviewed_by": "Drugs.com",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Plavix",
+   "slug": "plavix",
+   "blurb": "Plavix (clopidogrel) is used to prevent blood clots after a recent heart attack or stroke. Includes..."
+  },
+  {
+   "name": "Ecotrin",
+   "slug": "mtm/ecotrin",
+   "blurb": "Ecotrin is used for angina, angina pectoris prophylaxis, ankylosing spondylitis, antiphospholipid..."
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Vazalore",
+   "slug": "mtm/vazalore",
+   "blurb": "Vazalore is used for angina, angina pectoris prophylaxis, ankylosing spondylitis, antiphospholipid..."
+  },
+  {
+   "name": "Bayer Aspirin",
+   "slug": "cons/bayer",
+   "blurb": "Bayer Aspirin is used for angina, angina pectoris prophylaxis, ankylosing spondylitis..."
+  },
+  {
+   "name": "Arthritis Pain",
+   "slug": "mtm/arthritis-pain",
+   "blurb": "Arthritis Pain is used for angina, angina pectoris prophylaxis, ankylosing spondylitis..."
+  },
+  {
+   "name": "Tenecteplase",
+   "slug": "mtm/tenecteplase",
+   "blurb": "Tenecteplase is used for heart attack, ischemic stroke"
+  },
+  {
+   "name": "Alteplase",
+   "slug": "mtm/alteplase",
+   "blurb": "Alteplase is used for heart attack, ischemic stroke, IV Catheter Clot, pulmonary embolism..."
+  },
+  {
+   "name": "Aspirin",
+   "slug": "aspirin",
+   "blurb": "Aspirin is used to treat mild to moderate pain and to reduce fever or inflammation. Learn about..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is clopidogrel?",
+   "lines": [
+    "Clopidogrel is used to lower your risk of having a stroke, blood clot, or serious heart problem after you've had a heart attack, severe chest pain (angina), or circulation problems.",
+    "Clopidogrel may also be used for purposes not listed in this medication guide."
+   ],
+   "text": "Clopidogrel is used to lower your risk of having a stroke, blood clot, or serious heart problem after you've had a heart attack, severe chest pain (angina), or circulation problems.\nClopidogrel may also be used for purposes not listed in this medication guide."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Clopidogrel side effects",
+   "lines": [
+    "Get emergency medical help if you have signs of an allergic reaction: hives; difficult breathing; swelling of your face, lips, tongue, or throat.",
+    "Clopidogrel increases your risk of bleeding, which can be severe or life-threatening. Call your doctor or seek emergency medical attention if you have bleeding that will not stop, if you have blood in your urine, black or bloody stools, or if you cough up blood or vomit that looks like coffee grounds.",
+    "Also call your doctor at once if you have:",
+    "- nosebleeds, pale skin, easy bruising, purple spots under your skin or in your mouth;",
+    "- jaundice (yellowing of your skin or eyes);",
+    "- fast heartbeats, shortness of breath;",
+    "- headache, fever, weakness, feeling tired;",
+    "- little or no urination;",
+    "- a seizure;",
+    "- low blood sugar --headache, hunger, sweating, irritability, dizziness, fast heart rate, and feeling anxious or shaky; or",
+    "- signs of a blood clot --sudden numbness or weakness, confusion, problems with vision or speech.",
+    "Common side effects of clopidogrel may include:",
+    "- bleeding.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have signs of an allergic reaction: hives; difficult breathing; swelling of your face, lips, tongue, or throat.\nClopidogrel increases your risk of bleeding, which can be severe or life-threatening. Call your doctor or seek emergency medical attention if you have bleeding that will not stop, if you have blood in your urine, black or bloody stools, or if you cough up blood or vomit that looks like coffee grounds.\nAlso call your doctor at once if you have:\n- nosebleeds, pale skin, easy bruising, purple spots under your skin or in your mouth;\n- jaundice (yellowing of your skin or eyes);\n- fast heartbeats, shortness of breath;\n- headache, fever, weakness, feeling tired;\n- little or no urination;\n- a seizure;\n- low blood sugar --headache, hunger, sweating, irritability, dizziness, fast heart rate, and feeling anxious or shaky; or\n- signs of a blood clot --sudden numbness or weakness, confusion, problems with vision or speech.\nCommon side effects of clopidogrel may include:\n- bleeding.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "You should not use clopidogrel if you have any active bleeding such as a stomach ulcer or bleeding in the brain.",
+    "Clopidogrel increases your risk of bleeding, which can be severe or life-threatening. Call your doctor or seek emergency medical attention if you have bleeding that will not stop, if you have blood in your urine, black or bloody stools, or if you cough up blood or vomit that looks like coffee grounds.",
+    "Do not stop taking clopidogrel without first talking to your doctor, even if you have signs of bleeding. Stopping clopidogrel may increase your risk of a heart attack or stroke."
+   ],
+   "text": "You should not use clopidogrel if you have any active bleeding such as a stomach ulcer or bleeding in the brain.\nClopidogrel increases your risk of bleeding, which can be severe or life-threatening. Call your doctor or seek emergency medical attention if you have bleeding that will not stop, if you have blood in your urine, black or bloody stools, or if you cough up blood or vomit that looks like coffee grounds.\nDo not stop taking clopidogrel without first talking to your doctor, even if you have signs of bleeding. Stopping clopidogrel may increase your risk of a heart attack or stroke."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not use clopidogrel if you are allergic to it, or if you have:",
+    "- any active bleeding; or",
+    "- a stomach ulcer or bleeding in the brain (such as from a head injury).",
+    "Tell your doctor if you have ever had:",
+    "- an ulcer in your stomach or intestines; or",
+    "- a bleeding disorder or blood clotting disorder.",
+    "Clopidogrel may not work as well if you have certain genetic factors that affect the breakdown of this medicine in your body. Your doctor may perform a blood test to make sure clopidogrel is right for you.",
+    "This medicine is not expected to harm an unborn baby. However, taking clopidogrel within 1 week before childbirth can cause bleeding in the mother. Tell your doctor if you are pregnant or plan to become pregnant.",
+    "You should not breastfeed while using this medicine."
+   ],
+   "text": "You should not use clopidogrel if you are allergic to it, or if you have:\n- any active bleeding; or\n- a stomach ulcer or bleeding in the brain (such as from a head injury).\nTell your doctor if you have ever had:\n- an ulcer in your stomach or intestines; or\n- a bleeding disorder or blood clotting disorder.\nClopidogrel may not work as well if you have certain genetic factors that affect the breakdown of this medicine in your body. Your doctor may perform a blood test to make sure clopidogrel is right for you.\nThis medicine is not expected to harm an unborn baby. However, taking clopidogrel within 1 week before childbirth can cause bleeding in the mother. Tell your doctor if you are pregnant or plan to become pregnant.\nYou should not breastfeed while using this medicine."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take clopidogrel?",
+   "lines": [
+    "Follow all directions on your prescription label and read all medication guides or instruction sheets. Use these medicines exactly as directed.",
+    "Clopidogrel can be taken with or without food.",
+    "Clopidogrel is sometimes taken together with aspirin. Take aspirin only if your doctor tells you to.",
+    "Clopidogrel keeps your blood from coagulating (clotting) and can make it easier for you to bleed, even from a minor injury. Contact your doctor or seek emergency medical attention if you have any bleeding that will not stop.",
+    "You may need to stop using clopidogrel for a short time before a surgery, medical procedure, or dental work. Any healthcare provider who treats you should know that you are taking clopidogrel.",
+    "Do not stop taking clopidogrel without first talking to your doctor, even if you have signs of bleeding. Stopping the medicine could increase your risk of a heart attack or stroke.",
+    "Store at room temperature away from moisture and heat."
+   ],
+   "text": "Follow all directions on your prescription label and read all medication guides or instruction sheets. Use these medicines exactly as directed.\nClopidogrel can be taken with or without food.\nClopidogrel is sometimes taken together with aspirin. Take aspirin only if your doctor tells you to.\nClopidogrel keeps your blood from coagulating (clotting) and can make it easier for you to bleed, even from a minor injury. Contact your doctor or seek emergency medical attention if you have any bleeding that will not stop.\nYou may need to stop using clopidogrel for a short time before a surgery, medical procedure, or dental work. Any healthcare provider who treats you should know that you are taking clopidogrel.\nDo not stop taking clopidogrel without first talking to your doctor, even if you have signs of bleeding. Stopping the medicine could increase your risk of a heart attack or stroke.\nStore at room temperature away from moisture and heat."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Clopidogrel dosing information",
+   "lines": [
+    "Usual Adult Dose for Acute Coronary Syndrome:",
+    "Unstable Angina (UA)/Non-ST-Elevation Myocardial Infarction (NSTEMI): -Loading dose: 300 mg orally once -Maintenance dose: 75 mg orally once a day -Duration of therapy: Optimal duration unknown. ST-Elevation Myocardial Infarction (STEMI): -Loading dose: 300 mg orally once (OPTIONAL) -Maintenance dose: 75 mg orally once a day, with or without thrombolytics -Duration of therapy: Optimal duration unknown. Comments: -Administer this drug in combination with aspirin 75 mg to 325 mg orally once a day. -The benefit of this drug for patients who undergo primary percutaneous coronary intervention is unknown. Uses: Prevention of atherothrombotic events in patients with non-ST-segment elevation acute coronary syndrome (UA, NSTEMI, those who are to be managed medically, those who are to be managed with coronary revascularization) and STEMI.",
+    "Usual Adult Dose for Ischemic Stroke:",
+    "75 mg orally once a day Uses: Prevention of atherothrombotic events in patients with a history of recent myocardial infarction, recent stroke, or established peripheral arterial disease.",
+    "Usual Adult Dose for Myocardial Infarction:",
+    "75 mg orally once a day Uses: Prevention of atherothrombotic events in patients with a history of recent myocardial infarction, recent stroke, or established peripheral arterial disease.",
+    "Usual Adult Dose for Peripheral Arterial Disease:",
+    "75 mg orally once a day Uses: Prevention of atherothrombotic events in patients with a history of recent myocardial infarction, recent stroke, or established peripheral arterial disease."
+   ],
+   "text": "Usual Adult Dose for Acute Coronary Syndrome:\nUnstable Angina (UA)/Non-ST-Elevation Myocardial Infarction (NSTEMI): -Loading dose: 300 mg orally once -Maintenance dose: 75 mg orally once a day -Duration of therapy: Optimal duration unknown. ST-Elevation Myocardial Infarction (STEMI): -Loading dose: 300 mg orally once (OPTIONAL) -Maintenance dose: 75 mg orally once a day, with or without thrombolytics -Duration of therapy: Optimal duration unknown. Comments: -Administer this drug in combination with aspirin 75 mg to 325 mg orally once a day. -The benefit of this drug for patients who undergo primary percutaneous coronary intervention is unknown. Uses: Prevention of atherothrombotic events in patients with non-ST-segment elevation acute coronary syndrome (UA, NSTEMI, those who are to be managed medically, those who are to be managed with coronary revascularization) and STEMI.\nUsual Adult Dose for Ischemic Stroke:\n75 mg orally once a day Uses: Prevention of atherothrombotic events in patients with a history of recent myocardial infarction, recent stroke, or established peripheral arterial disease.\nUsual Adult Dose for Myocardial Infarction:\n75 mg orally once a day Uses: Prevention of atherothrombotic events in patients with a history of recent myocardial infarction, recent stroke, or established peripheral arterial disease.\nUsual Adult Dose for Peripheral Arterial Disease:\n75 mg orally once a day Uses: Prevention of atherothrombotic events in patients with a history of recent myocardial infarction, recent stroke, or established peripheral arterial disease."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+   ],
+   "text": "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222. Overdose can cause excessive bleeding."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222. Overdose can cause excessive bleeding."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking clopidogrel?",
+   "lines": [
+    "Avoid alcohol. It can increase your risk of stomach bleeding.",
+    "Avoid activities that may increase your risk of bleeding or injury. Use extra care to prevent bleeding while shaving or brushing your teeth.",
+    "If you also take aspirin: Ask a doctor or pharmacist before using medicines for pain, fever, swelling, or cold/flu symptoms. They may contain ingredients similar to aspirin (such as salicylates, ibuprofen, ketoprofen, or naproxen). Taking these products together can increase your risk of bleeding."
+   ],
+   "text": "Avoid alcohol. It can increase your risk of stomach bleeding.\nAvoid activities that may increase your risk of bleeding or injury. Use extra care to prevent bleeding while shaving or brushing your teeth.\nIf you also take aspirin: Ask a doctor or pharmacist before using medicines for pain, fever, swelling, or cold/flu symptoms. They may contain ingredients similar to aspirin (such as salicylates, ibuprofen, ketoprofen, or naproxen). Taking these products together can increase your risk of bleeding."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect clopidogrel?",
+   "lines": [
+    "Sometimes it is not safe to use certain medications at the same time. Some drugs can affect your blood levels of other drugs you take, which may increase side effects or make the medications less effective.",
+    "Tell your doctor about all your other medicines, especially:",
+    "- a stomach acid reducer such as omeprazole, Nexium, or Prilosec;",
+    "- an antidepressant such as citalopram, fluoxetine, sertraline, Cymbalta, Effexor, Lexapro, Pristiq, or Prozac;",
+    "- rifampin;",
+    "- a blood thinner --warfarin, Coumadin, Jantoven; or",
+    "- NSAIDs (nonsteroidal anti-inflammatory drugs) --aspirin, ibuprofen (Advil, Motrin), naproxen (Aleve), celecoxib, diclofenac, indomethacin, meloxicam, and others.",
+    "This list is not complete. Other drugs may affect clopidogrel, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+   ],
+   "text": "Sometimes it is not safe to use certain medications at the same time. Some drugs can affect your blood levels of other drugs you take, which may increase side effects or make the medications less effective.\nTell your doctor about all your other medicines, especially:\n- a stomach acid reducer such as omeprazole, Nexium, or Prilosec;\n- an antidepressant such as citalopram, fluoxetine, sertraline, Cymbalta, Effexor, Lexapro, Pristiq, or Prozac;\n- rifampin;\n- a blood thinner --warfarin, Coumadin, Jantoven; or\n- NSAIDs (nonsteroidal anti-inflammatory drugs) --aspirin, ibuprofen (Advil, Motrin), naproxen (Aleve), celecoxib, diclofenac, indomethacin, meloxicam, and others.\nThis list is not complete. Other drugs may affect clopidogrel, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+  }
+ ],
+ "rank": 45
+}

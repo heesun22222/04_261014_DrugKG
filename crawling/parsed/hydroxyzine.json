@@ -1,0 +1,405 @@
+{
+ "name": "Hydroxyzine",
+ "slug": "hydroxyzine",
+ "url": "https://www.drugs.com/hydroxyzine.html",
+ "title": "Hydroxyzine",
+ "page_title": "Hydroxyzine: Uses, Dosage, Side Effects & Reviews - Drugs.com",
+ "brand_names": [
+  "Vistaril",
+  "Atarax",
+  "generics available"
+ ],
+ "discontinued_brands": [
+  "Vistaril",
+  "Atarax"
+ ],
+ "dosage_forms": [
+  {
+   "form": "Hydroxyzine HCl tablets",
+   "strengths": [
+    "10 mg, 25 mg, and 50 mg"
+   ]
+  },
+  {
+   "form": "Hydroxyzine pamoate capsules",
+   "strengths": [
+    "25 mg"
+   ]
+  },
+  {
+   "form": "Hydroxyzine HCl oral solution",
+   "strengths": [
+    "10 mg/5 mL"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Antihistamines",
+   "slug": "antihistamines"
+  },
+  {
+   "name": "Miscellaneous anxiolytics, sedatives and hypnotics",
+   "slug": "miscellaneous-anxiolytics-sedatives-and-hypnotics"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Sep 2, 2026.",
+ "faq": [
+  {
+   "q": "Can you take hydroxyzine for anxiety and sleep?",
+   "a": "Yes, hydroxyzine can be prescribed short term for anxiety and anxiety‑related trouble sleeping, usually as an “as‑needed” or bridging option rather than a long‑term daily medicine. Evidence supports its short‑term anxiolytic and sedating effects, but its effectiveness and safety for chronic use beyond several months are not well established."
+  },
+  {
+   "q": "Can Hydroxyzine be Taken Long-term For Anxiety?",
+   "a": "Hydroxyzine is intended for short-term anxiety treatment only, typically less than 4 months. Long-term hydroxyzine use is considered off-label because no studies have examined the safety of extended use beyond this timeframe. Some research suggests a link between long-term use of medications with anticholinergic properties, such as hydroxyzine, and dementia, particularly in older adults. Brain fog has also been reported with long-term use."
+  },
+  {
+   "q": "How long does hydroxyzine last?",
+   "a": "Hydroxyzine’s noticeable calming and sedating effects typically last about 4–6 hours for most people, even though the drug itself stays in the body much longer due to an elimination half-life usually around 14–25 hours in adults and about 7 hours in children."
+  },
+  {
+   "q": "Does Benadryl help with or cause anxiety?",
+   "a": "No, Benadryl does not treat anxiety, and in some people it can cause it. Benadryl (diphenhydramine) is an allergy medicine that often makes people sleepy, so it may feel calming for a few hours. But drowsiness is not the same as treating anxiety, and Benadryl is not FDA-approved for anxiety."
+  },
+  {
+   "q": "Hydroxyzine Pamoate vs HCl: What’s the difference?",
+   "a": "Hydroxyzine pamoate and hydroxyzine HCl both deliver the same active drug, hydroxyzine, so their clinical effects (such as sedation, itch relief, and anxiety reduction) are broadly similar. The main difference is the salt form (pamoate vs hydrochloride), which influences how the medicine is formulated."
+  },
+  {
+   "q": "Is hydroxyzine a controlled substance or addictive?",
+   "a": "Hydroxyzine is not classified as a controlled substance in the United States, and current evidence does not show that it causes physical dependence or a characteristic withdrawal syndrome when stopped. It is, however, a prescription-only sedating antihistamine that should be taken only under medical supervision."
+  },
+  {
+   "q": "Hydroxyzine vs Benadryl: What’s the difference?",
+   "a": "Hydroxyzine and Benadryl (diphenhydramine) are both older, sedating H1 antihistamines, but they are different drugs with different FDA‑approved uses. Hydroxyzine is available only by prescription in the United States, while diphenhydramine (Benadryl) is sold over the counter (OTC) in many allergy and sleep products."
+  },
+  {
+   "q": "Can dogs take hydroxyzine?",
+   "a": "Yes, dogs can take hydroxyzine. Hydroxyzine is an antihistamine that may help treat allergies, anxiety, and motion sickness in dogs."
+  },
+  {
+   "q": "Does hydroxyzine cause weight gain or loss?",
+   "a": "Hydroxyzine is not strongly linked to either weight gain or weight loss, and any changes in weight are usually mild and indirect rather than a direct effect of the drug. In clinical studies, weight changes are uncommon and generally not considered clinically significant compared with other side effects such as drowsiness."
+  }
+ ],
+ "description": "Hydroxyzine is used to treat anxiety, tension, itching from allergic skin reactions, and sedation. Learn about doses, side effects, interactions, and uses",
+ "date_modified": "2026-09-02",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Xanax",
+   "slug": "xanax",
+   "blurb": "Xanax (alprazolam) is a benzodiazepine medication used to treat anxiety and panic disorders..."
+  },
+  {
+   "name": "Paroxetine",
+   "slug": "paroxetine",
+   "blurb": "Paroxetine is used to treat depression, obsessive-compulsive disorder, anxiety disorders, PTSD, and..."
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Diazepam",
+   "slug": "diazepam",
+   "blurb": "Diazepam is used to treat anxiety disorders, alcohol withdrawal symptoms, or muscle spasms. Learn..."
+  },
+  {
+   "name": "Cymbalta",
+   "slug": "cymbalta",
+   "blurb": "Cymbalta (duloxetine) is used to treat major depressive disorder, general anxiety disorder and..."
+  },
+  {
+   "name": "Lorazepam",
+   "slug": "lorazepam",
+   "blurb": "Lorazepam is in a group of drugs called benzodiazepines and is used to treat anxiety disorders..."
+  },
+  {
+   "name": "Lexapro",
+   "slug": "lexapro",
+   "blurb": "Lexapro is used to treat anxiety and major depressive disorder. Learn about side effects..."
+  },
+  {
+   "name": "Venlafaxine",
+   "slug": "venlafaxine",
+   "blurb": "Venlafaxine is used to treat major depressive disorder, anxiety, and panic disorder. Learn about..."
+  },
+  {
+   "name": "Buspirone",
+   "slug": "buspirone",
+   "blurb": "Buspirone is used to treat symptoms of anxiety, such as fear, tension, irritability and dizziness..."
+  },
+  {
+   "name": "Alprazolam",
+   "slug": "alprazolam",
+   "blurb": "Alprazolam is used to treat anxiety disorders, panic disorders, and anxiety. Learn about side..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is hydroxyzine?",
+   "lines": [
+    "Hydroxyzine is a prescription antihistamine used to treat anxiety and tension, itching from allergic skin conditions, and sedation before and after general anesthesia.",
+    "It comes in three oral forms:",
+    "- Hydroxyzine hydrochloride (HCl) tablets in 10 mg, 25 mg, and 50 mg strengths",
+    "- Hydroxyzine hydrochloride oral solution (a syrup) containing 10 mg in each 5 mL",
+    "- Hydroxyzine pamoate capsules in 25 mg",
+    "There is also a hydroxyzine hydrochloride injection. It is given into a muscle by a healthcare professional and is never given into a vein or under the skin.",
+    "Hydroxyzine is not chemically related to benzodiazepines, phenothiazines, reserpine, or meprobamate."
+   ],
+   "text": "Hydroxyzine is a prescription antihistamine used to treat anxiety and tension, itching from allergic skin conditions, and sedation before and after general anesthesia.\nIt comes in three oral forms:\n- Hydroxyzine hydrochloride (HCl) tablets in 10 mg, 25 mg, and 50 mg strengths\n- Hydroxyzine hydrochloride oral solution (a syrup) containing 10 mg in each 5 mL\n- Hydroxyzine pamoate capsules in 25 mg\nThere is also a hydroxyzine hydrochloride injection. It is given into a muscle by a healthcare professional and is never given into a vein or under the skin.\nHydroxyzine is not chemically related to benzodiazepines, phenothiazines, reserpine, or meprobamate."
+  },
+  {
+   "id": "what-is-hydroxyzine-used-for",
+   "page": "main",
+   "heading": "What is hydroxyzine used for?",
+   "lines": [
+    "Hydroxyzine taken by mouth is approved for three uses. These are the same for hydroxyzine HCl and hydroxyzine pamoate.",
+    "- Anxiety and tension. For symptomatic relief of anxiety and tension linked to psychoneurosis, and as an add-on treatment in physical illnesses where anxiety is present.",
+    "- Itching from allergic skin conditions. For managing itching (pruritus) caused by allergic conditions such as long-term hives (chronic urticaria), eczema-type rashes, and rashes caused by contact with an irritant. It is also used for itching caused by histamine release.",
+    "- Sedation around surgery. As a sedative given before a procedure (premedication) and after general anesthesia.",
+    "The injection is also approved for nausea and vomiting and is usually given in hospital or clinic settings. It should not be used for nausea and vomiting caused by pregnancy.",
+    "Hydroxyzine has not been studied for long-term use in anxiety. Studies have not assessed whether it still works as an anti-anxiety medicine beyond four months. Your doctor should review from time to time whether you still need it."
+   ],
+   "text": "Hydroxyzine taken by mouth is approved for three uses. These are the same for hydroxyzine HCl and hydroxyzine pamoate.\n- Anxiety and tension. For symptomatic relief of anxiety and tension linked to psychoneurosis, and as an add-on treatment in physical illnesses where anxiety is present.\n- Itching from allergic skin conditions. For managing itching (pruritus) caused by allergic conditions such as long-term hives (chronic urticaria), eczema-type rashes, and rashes caused by contact with an irritant. It is also used for itching caused by histamine release.\n- Sedation around surgery. As a sedative given before a procedure (premedication) and after general anesthesia.\nThe injection is also approved for nausea and vomiting and is usually given in hospital or clinic settings. It should not be used for nausea and vomiting caused by pregnancy.\nHydroxyzine has not been studied for long-term use in anxiety. Studies have not assessed whether it still works as an anti-anxiety medicine beyond four months. Your doctor should review from time to time whether you still need it."
+  },
+  {
+   "id": "what-is-the-difference-between-hydroxyzine-hydrochloride-and-hydroxyzine-pamoate",
+   "page": "main",
+   "heading": "What is the difference between hydroxyzine hydrochloride and hydroxyzine pamoate?",
+   "lines": [
+    "Hydroxyzine hydrochloride (HCl) and hydroxyzine pamoate are two salt forms of the same active medicine. Taken by mouth, FDA-approved labeling gives them the same approved uses, the same doses, the same warnings, and the same side effects.",
+    "The injection is the exception. It is a hydroxyzine HCl product; there is no pamoate injection, and it has its own approved uses, doses, and warnings.",
+    "The practical differences are:",
+    "- Form. Hydroxyzine hydrochloride comes as tablets and as an oral solution. Hydroxyzine pamoate comes as capsules.",
+    "- How they dissolve. Hydroxyzine hydrochloride is very soluble in water. Hydroxyzine pamoate is practically insoluble in water.",
+    "- How the strength is measured. Hydroxyzine pamoate capsules are labeled by the amount of hydroxyzine HCl they are equivalent to. A 25 mg pamoate capsule delivers the same amount of active medicine as a hydroxyzine hydrochloride 25 mg tablet.",
+    "The two salts also had different brand names. Vistaril was the brand name for hydroxyzine pamoate, and Atarax was the brand name for hydroxyzine hydrochloride. Both brands have been discontinued in the United States, and hydroxyzine is now available as a generic medicine.",
+    "Is hydroxyzine pamoate stronger or longer lasting than hydroxyzine hydrochloride?:",
+    "No. You may read that hydroxyzine pamoate works better for anxiety, lasts longer, or reaches the brain more effectively than hydroxyzine hydrochloride. FDA-approved labeling does not support this.",
+    "Labeling for both salt forms states that hydroxyzine's effects are usually noticed within 15 to 30 minutes of a dose taken by mouth. Both are approved for the same three uses. Both carry the same doses, which are 50 to 100 mg four times a day for anxiety in adults, and 25 mg three or four times a day for itching. No FDA labeling describes a difference in how strongly or how long either form works.",
+    "The reason the doses match is that hydroxyzine pamoate capsules are labeled by their hydroxyzine hydrochloride equivalent. A 25 mg pamoate capsule and a 25 mg hydrochloride tablet deliver the same amount of active medicine.",
+    "If you feel that one form suits you better than the other, tell your doctor. People can respond differently to the same medicine."
+   ],
+   "text": "Hydroxyzine hydrochloride (HCl) and hydroxyzine pamoate are two salt forms of the same active medicine. Taken by mouth, FDA-approved labeling gives them the same approved uses, the same doses, the same warnings, and the same side effects.\nThe injection is the exception. It is a hydroxyzine HCl product; there is no pamoate injection, and it has its own approved uses, doses, and warnings.\nThe practical differences are:\n- Form. Hydroxyzine hydrochloride comes as tablets and as an oral solution. Hydroxyzine pamoate comes as capsules.\n- How they dissolve. Hydroxyzine hydrochloride is very soluble in water. Hydroxyzine pamoate is practically insoluble in water.\n- How the strength is measured. Hydroxyzine pamoate capsules are labeled by the amount of hydroxyzine HCl they are equivalent to. A 25 mg pamoate capsule delivers the same amount of active medicine as a hydroxyzine hydrochloride 25 mg tablet.\nThe two salts also had different brand names. Vistaril was the brand name for hydroxyzine pamoate, and Atarax was the brand name for hydroxyzine hydrochloride. Both brands have been discontinued in the United States, and hydroxyzine is now available as a generic medicine.\nIs hydroxyzine pamoate stronger or longer lasting than hydroxyzine hydrochloride?:\nNo. You may read that hydroxyzine pamoate works better for anxiety, lasts longer, or reaches the brain more effectively than hydroxyzine hydrochloride. FDA-approved labeling does not support this.\nLabeling for both salt forms states that hydroxyzine's effects are usually noticed within 15 to 30 minutes of a dose taken by mouth. Both are approved for the same three uses. Both carry the same doses, which are 50 to 100 mg four times a day for anxiety in adults, and 25 mg three or four times a day for itching. No FDA labeling describes a difference in how strongly or how long either form works.\nThe reason the doses match is that hydroxyzine pamoate capsules are labeled by their hydroxyzine hydrochloride equivalent. A 25 mg pamoate capsule and a 25 mg hydrochloride tablet deliver the same amount of active medicine.\nIf you feel that one form suits you better than the other, tell your doctor. People can respond differently to the same medicine."
+  },
+  {
+   "id": "overview",
+   "page": "main",
+   "heading": "How does hydroxyzine work?",
+   "lines": [
+    "Hydroxyzine is thought to work by quieting activity in certain deeper regions of the brain, below the outer layer known as the cortex. It is not a cortical depressant, meaning it does not work by slowing down the outer layer of the brain the way some other sedatives do.",
+    "Hydroxyzine also blocks histamine, a chemical your body releases during an allergic reaction. This is what relieves itching.",
+    "Laboratory and clinical studies have also shown that hydroxyzine relaxes skeletal muscle, widens the airways (bronchodilation), and reduces pain. These are effects that have been observed rather than uses the medicine is approved for.",
+    "Hydroxyzine has also been shown to reduce nausea and vomiting. This is an approved use for the injection, but not for the forms taken by mouth."
+   ],
+   "text": "Hydroxyzine is thought to work by quieting activity in certain deeper regions of the brain, below the outer layer known as the cortex. It is not a cortical depressant, meaning it does not work by slowing down the outer layer of the brain the way some other sedatives do.\nHydroxyzine also blocks histamine, a chemical your body releases during an allergic reaction. This is what relieves itching.\nLaboratory and clinical studies have also shown that hydroxyzine relaxes skeletal muscle, widens the airways (bronchodilation), and reduces pain. These are effects that have been observed rather than uses the medicine is approved for.\nHydroxyzine has also been shown to reduce nausea and vomiting. This is an approved use for the injection, but not for the forms taken by mouth."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How do I take hydroxyzine?",
+   "lines": [
+    "Take hydroxyzine exactly as your doctor prescribes. Follow all directions on your prescription label. Do not take more or less than prescribed, and do not take it for longer than your doctor tells you to.",
+    "Your doctor may adjust your dose depending on how well you respond to treatment.",
+    "If you are taking the oral solution, measure your dose with the dosing syringe provided, a dose-measuring spoon, or a medicine cup. Do not use a kitchen spoon, because it will not give an accurate dose. Ask your pharmacist for a measuring device if you do not have one.",
+    "Call your doctor if your anxiety does not improve or if it gets worse."
+   ],
+   "text": "Take hydroxyzine exactly as your doctor prescribes. Follow all directions on your prescription label. Do not take more or less than prescribed, and do not take it for longer than your doctor tells you to.\nYour doctor may adjust your dose depending on how well you respond to treatment.\nIf you are taking the oral solution, measure your dose with the dosing syringe provided, a dose-measuring spoon, or a medicine cup. Do not use a kitchen spoon, because it will not give an accurate dose. Ask your pharmacist for a measuring device if you do not have one.\nCall your doctor if your anxiety does not improve or if it gets worse."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "What is the usual dosage of hydroxyzine?",
+   "lines": [
+    "The dose depends on what you are being treated for. The same doses apply to hydroxyzine hydrochloride tablets, hydroxyzine hydrochloride oral solution, and hydroxyzine pamoate capsules.",
+    "Dosage for anxiety and tension:",
+    "- Adults: 50 to 100 mg four times a day",
+    "- Children under 6 years: 50 mg a day, split into smaller doses",
+    "- Children 6 years and over: 50 to 100 mg a day, split into smaller doses",
+    "Dosage for itching:",
+    "- Adults: 25 mg three or four times a day",
+    "- Children under 6 years: 50 mg a day, split into smaller doses",
+    "- Children 6 years and over: 50 to 100 mg a day, split into smaller doses",
+    "Dosage for sedation before and after surgery:",
+    "- Adults: 50 to 100 mg",
+    "- Children: 0.6 mg for each kilogram of body weight",
+    "If treatment is started with an injection into a muscle, later doses can be given by mouth.",
+    "Dosage in older adults:",
+    "Doctors usually start older adults on a low dose. Sedating medicines can cause confusion and too much sedation in older people, so your doctor will watch you closely. Kidney, liver, and heart function often decline with age, and how much hydroxyzine leaves the body through the kidneys has not been established."
+   ],
+   "text": "The dose depends on what you are being treated for. The same doses apply to hydroxyzine hydrochloride tablets, hydroxyzine hydrochloride oral solution, and hydroxyzine pamoate capsules.\nDosage for anxiety and tension:\n- Adults: 50 to 100 mg four times a day\n- Children under 6 years: 50 mg a day, split into smaller doses\n- Children 6 years and over: 50 to 100 mg a day, split into smaller doses\nDosage for itching:\n- Adults: 25 mg three or four times a day\n- Children under 6 years: 50 mg a day, split into smaller doses\n- Children 6 years and over: 50 to 100 mg a day, split into smaller doses\nDosage for sedation before and after surgery:\n- Adults: 50 to 100 mg\n- Children: 0.6 mg for each kilogram of body weight\nIf treatment is started with an injection into a muscle, later doses can be given by mouth.\nDosage in older adults:\nDoctors usually start older adults on a low dose. Sedating medicines can cause confusion and too much sedation in older people, so your doctor will watch you closely. Kidney, liver, and heart function often decline with age, and how much hydroxyzine leaves the body through the kidneys has not been established."
+  },
+  {
+   "id": "how-long-does-hydroxyzine-take-to-work",
+   "page": "main",
+   "heading": "How long does hydroxyzine take to work?",
+   "lines": [
+    "Hydroxyzine usually starts working within 15 to 30 minutes of taking it by mouth. It is absorbed quickly from the digestive system. This is the same for tablets, oral solution, and pamoate capsules."
+   ],
+   "text": "Hydroxyzine usually starts working within 15 to 30 minutes of taking it by mouth. It is absorbed quickly from the digestive system. This is the same for tablets, oral solution, and pamoate capsules."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "What are the side effects of hydroxyzine?",
+   "lines": [
+    "The most common side effects of hydroxyzine are drowsiness, dry mouth, and headache. These are usually mild and do not last long.",
+    "A skin rash is different. If you develop a rash while taking hydroxyzine, stop taking it and call your doctor, because a rash can be the first sign of a serious reaction.",
+    "Common side effects:",
+    "Common hydroxyzine side effects include dry mouth, headache, and drowsiness. The drowsiness is usually temporary and may go away after a few days of treatment or when the dose is lowered.",
+    "Serious side effects:",
+    "Stop taking hydroxyzine and call your doctor right away if you develop a skin rash, if a skin condition you are treating gets worse, or if you have any other sign of an allergic reaction.",
+    "In rare cases, hydroxyzine can cause a serious skin reaction called acute generalized exanthematous pustulosis (AGEP). Signs include fever together with many small, shallow, pus-filled spots appearing across large areas of swollen, red skin. If you have had AGEP or another allergic reaction to hydroxyzine, you should also avoid cetirizine and levocetirizine, because a similar reaction can happen with those medicines.",
+    "Hydroxyzine has also been linked to a heart rhythm problem called QT prolongation, which can lead to a serious irregular heartbeat known as Torsade de Pointes.",
+    "Other reported side effects include:",
+    "- tremor or seizures (convulsions), which are rare and have usually happened at doses much higher than recommended",
+    "- hallucinations (seeing or hearing things that are not there)",
+    "- skin reactions including rash, hives, itching, and fixed drug eruptions, which are rashes that come back in the same spot each time the medicine is taken",
+    "- allergic reaction",
+    "Serious breathing problems have not been reported at recommended doses.",
+    "If you are given hydroxyzine by injection, tell your healthcare provider straight away about severe pain, swelling, or skin changes where the injection was given. In rare cases, the injection has caused serious damage to the surrounding tissue, including tissue death (necrosis) and gangrene, which has needed surgery to treat.",
+    "This is not a complete list of side effects, and others may happen. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+   ],
+   "text": "The most common side effects of hydroxyzine are drowsiness, dry mouth, and headache. These are usually mild and do not last long.\nA skin rash is different. If you develop a rash while taking hydroxyzine, stop taking it and call your doctor, because a rash can be the first sign of a serious reaction.\nCommon side effects:\nCommon hydroxyzine side effects include dry mouth, headache, and drowsiness. The drowsiness is usually temporary and may go away after a few days of treatment or when the dose is lowered.\nSerious side effects:\nStop taking hydroxyzine and call your doctor right away if you develop a skin rash, if a skin condition you are treating gets worse, or if you have any other sign of an allergic reaction.\nIn rare cases, hydroxyzine can cause a serious skin reaction called acute generalized exanthematous pustulosis (AGEP). Signs include fever together with many small, shallow, pus-filled spots appearing across large areas of swollen, red skin. If you have had AGEP or another allergic reaction to hydroxyzine, you should also avoid cetirizine and levocetirizine, because a similar reaction can happen with those medicines.\nHydroxyzine has also been linked to a heart rhythm problem called QT prolongation, which can lead to a serious irregular heartbeat known as Torsade de Pointes.\nOther reported side effects include:\n- tremor or seizures (convulsions), which are rare and have usually happened at doses much higher than recommended\n- hallucinations (seeing or hearing things that are not there)\n- skin reactions including rash, hives, itching, and fixed drug eruptions, which are rashes that come back in the same spot each time the medicine is taken\n- allergic reaction\nSerious breathing problems have not been reported at recommended doses.\nIf you are given hydroxyzine by injection, tell your healthcare provider straight away about severe pain, swelling, or skin changes where the injection was given. In rare cases, the injection has caused serious damage to the surrounding tissue, including tissue death (necrosis) and gangrene, which has needed surgery to treat.\nThis is not a complete list of side effects, and others may happen. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "does-hydroxyzine-cause-weight-gain",
+   "page": "main",
+   "heading": "Does hydroxyzine cause weight gain?",
+   "lines": [
+    "Weight gain is not among the side effects reported in FDA-approved labeling for hydroxyzine. It does not appear in the labeling for the tablets, the oral solution, the pamoate capsules, or the injection.",
+    "This does not mean weight changes are impossible for every person. If your weight changes while you are taking hydroxyzine, tell your doctor."
+   ],
+   "text": "Weight gain is not among the side effects reported in FDA-approved labeling for hydroxyzine. It does not appear in the labeling for the tablets, the oral solution, the pamoate capsules, or the injection.\nThis does not mean weight changes are impossible for every person. If your weight changes while you are taking hydroxyzine, tell your doctor."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Who should not take hydroxyzine?",
+   "lines": [
+    "Do not take hydroxyzine if you:",
+    "- are allergic to hydroxyzine or to any ingredient in the medicine",
+    "- are allergic to cetirizine or levocetirizine",
+    "- have a prolonged QT interval, a heart rhythm finding seen on an electrocardiogram (ECG)",
+    "- are in early pregnancy",
+    "In animal studies, hydroxyzine caused birth defects in rats and mice at doses well above those used in people. There is not enough information in humans to know whether hydroxyzine is safe in early pregnancy, so it should not be used at that time."
+   ],
+   "text": "Do not take hydroxyzine if you:\n- are allergic to hydroxyzine or to any ingredient in the medicine\n- are allergic to cetirizine or levocetirizine\n- have a prolonged QT interval, a heart rhythm finding seen on an electrocardiogram (ECG)\n- are in early pregnancy\nIn animal studies, hydroxyzine caused birth defects in rats and mice at doses well above those used in people. There is not enough information in humans to know whether hydroxyzine is safe in early pregnancy, so it should not be used at that time."
+  },
+  {
+   "id": "what-should-i-tell-my-doctor-before-taking-hydroxyzine",
+   "page": "main",
+   "heading": "What should I tell my doctor before taking hydroxyzine?",
+   "lines": [
+    "Tell your doctor if you have anything that raises your risk of a heart rhythm problem called QT prolongation. This includes:",
+    "- congenital long QT syndrome, a heart rhythm condition you are born with",
+    "- a family history of long QT syndrome",
+    "- a recent heart attack",
+    "- heart failure that is not well controlled",
+    "- a slow or irregular heartbeat (bradyarrhythmia)",
+    "- other conditions that make heart rhythm problems more likely",
+    "Hydroxyzine should not be given to women who are breastfeeding. It is not known whether hydroxyzine passes into breast milk, but many medicines do.",
+    "The oral solution contains a small amount of alcohol, 0.5% by volume, and is sweetened with sucrose. Tell your doctor if either of these matters for you."
+   ],
+   "text": "Tell your doctor if you have anything that raises your risk of a heart rhythm problem called QT prolongation. This includes:\n- congenital long QT syndrome, a heart rhythm condition you are born with\n- a family history of long QT syndrome\n- a recent heart attack\n- heart failure that is not well controlled\n- a slow or irregular heartbeat (bradyarrhythmia)\n- other conditions that make heart rhythm problems more likely\nHydroxyzine should not be given to women who are breastfeeding. It is not known whether hydroxyzine passes into breast milk, but many medicines do.\nThe oral solution contains a small amount of alcohol, 0.5% by volume, and is sweetened with sucrose. Tell your doctor if either of these matters for you."
+  },
+  {
+   "id": "can-i-drink-alcohol-while-taking-hydroxyzine",
+   "page": "main",
+   "heading": "Can I drink alcohol while taking hydroxyzine?",
+   "lines": [
+    "No. Alcohol's effects may be stronger while you are taking hydroxyzine. You should also avoid other medicines that slow down the central nervous system."
+   ],
+   "text": "No. Alcohol's effects may be stronger while you are taking hydroxyzine. You should also avoid other medicines that slow down the central nervous system."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking hydroxyzine?",
+   "lines": [
+    "Hydroxyzine can make you drowsy. Do not drive or operate dangerous machinery until you know how it affects you.",
+    "Avoid alcohol and other medicines that cause drowsiness."
+   ],
+   "text": "Hydroxyzine can make you drowsy. Do not drive or operate dangerous machinery until you know how it affects you.\nAvoid alcohol and other medicines that cause drowsiness."
+  },
+  {
+   "id": "is-hydroxyzine-a-controlled-substance",
+   "page": "main",
+   "heading": "Is hydroxyzine a controlled substance?",
+   "lines": [
+    "No. Hydroxyzine is not a controlled substance and has no DEA schedule. This applies to both hydroxyzine hydrochloride and hydroxyzine pamoate."
+   ],
+   "text": "No. Hydroxyzine is not a controlled substance and has no DEA schedule. This applies to both hydroxyzine hydrochloride and hydroxyzine pamoate."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs affect hydroxyzine?",
+   "lines": [
+    "Hydroxyzine makes the effects of central nervous system depressants stronger. If you take hydroxyzine with any of the following, your doctor may need to lower the dose of the other medicine:",
+    "- narcotic (opioid) pain medicines",
+    "- non-narcotic pain medicines",
+    "- barbiturates",
+    "Hydroxyzine may increase the effects of meperidine and barbiturates when used before anesthesia, so your doctor will adjust these doses for you individually.",
+    "Care is needed if you take other medicines that can affect heart rhythm by prolonging the QT interval. These include:",
+    "- heart rhythm medicines such as quinidine, procainamide, amiodarone, and sotalol",
+    "- certain antipsychotics such as ziprasidone, iloperidone, clozapine, quetiapine, and chlorpromazine",
+    "- certain antidepressants such as citalopram and fluoxetine",
+    "- certain antibiotics such as azithromycin, erythromycin, clarithromycin, gatifloxacin, and moxifloxacin",
+    "- other medicines such as pentamidine, methadone, ondansetron, and droperidol",
+    "Hydroxyzine does not affect atropine or other belladonna alkaloids, and it is not known to interfere with digitalis. It can be used at the same time as digitalis.",
+    "Tell each of your healthcare providers about all medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible interactions are listed here."
+   ],
+   "text": "Hydroxyzine makes the effects of central nervous system depressants stronger. If you take hydroxyzine with any of the following, your doctor may need to lower the dose of the other medicine:\n- narcotic (opioid) pain medicines\n- non-narcotic pain medicines\n- barbiturates\nHydroxyzine may increase the effects of meperidine and barbiturates when used before anesthesia, so your doctor will adjust these doses for you individually.\nCare is needed if you take other medicines that can affect heart rhythm by prolonging the QT interval. These include:\n- heart rhythm medicines such as quinidine, procainamide, amiodarone, and sotalol\n- certain antipsychotics such as ziprasidone, iloperidone, clozapine, quetiapine, and chlorpromazine\n- certain antidepressants such as citalopram and fluoxetine\n- certain antibiotics such as azithromycin, erythromycin, clarithromycin, gatifloxacin, and moxifloxacin\n- other medicines such as pentamidine, methadone, ondansetron, and droperidol\nHydroxyzine does not affect atropine or other belladonna alkaloids, and it is not known to interfere with digitalis. It can be used at the same time as digitalis.\nTell each of your healthcare providers about all medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible interactions are listed here."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose on hydroxyzine?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.",
+    "The most common sign of hydroxyzine overdose is heavy sedation. Other reported signs include seizures (convulsions), stupor, nausea, and vomiting.",
+    "Overdose can also cause QT prolongation and Torsade de Pointes, so heart monitoring with an ECG is recommended.",
+    "There is no specific antidote for hydroxyzine overdose."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.\nThe most common sign of hydroxyzine overdose is heavy sedation. Other reported signs include seizures (convulsions), stupor, nausea, and vomiting.\nOverdose can also cause QT prolongation and Torsade de Pointes, so heart monitoring with an ECG is recommended.\nThere is no specific antidote for hydroxyzine overdose."
+  },
+  {
+   "id": "how-should-i-store-hydroxyzine",
+   "page": "main",
+   "heading": "How should I store hydroxyzine?",
+   "lines": [
+    "Store hydroxyzine tablets, capsules, and oral solution at room temperature, between 68°F and 77°F (20°C to 25°C).",
+    "Keep tablets and capsules in a tightly closed, light-resistant container with a child-resistant cap.",
+    "Keep the oral solution in a tightly closed, light-resistant bottle with a child-resistant cap. Protect it from light and do not let it freeze.",
+    "Keep this and all medicines out of the reach of children."
+   ],
+   "text": "Store hydroxyzine tablets, capsules, and oral solution at room temperature, between 68°F and 77°F (20°C to 25°C).\nKeep tablets and capsules in a tightly closed, light-resistant container with a child-resistant cap.\nKeep the oral solution in a tightly closed, light-resistant bottle with a child-resistant cap. Protect it from light and do not let it freeze.\nKeep this and all medicines out of the reach of children."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: Can you take hydroxyzine for anxiety and sleep? A: Yes, hydroxyzine can be prescribed short term for anxiety and anxiety‑related trouble sleeping, usually as an “as‑needed” or bridging option rather than a long‑term daily medicine. Evidence supports its short‑term anxiolytic and sedating effects, but its effectiveness and safety for chronic use beyond several months are not well established.",
+    "Q: Can Hydroxyzine be Taken Long-term For Anxiety? A: Hydroxyzine is intended for short-term anxiety treatment only, typically less than 4 months. Long-term hydroxyzine use is considered off-label because no studies have examined the safety of extended use beyond this timeframe. Some research suggests a link between long-term use of medications with anticholinergic properties, such as hydroxyzine, and dementia, particularly in older adults. Brain fog has also been reported with long-term use.",
+    "Q: How long does hydroxyzine last? A: Hydroxyzine’s noticeable calming and sedating effects typically last about 4–6 hours for most people, even though the drug itself stays in the body much longer due to an elimination half-life usually around 14–25 hours in adults and about 7 hours in children.",
+    "Q: Does Benadryl help with or cause anxiety? A: No, Benadryl does not treat anxiety, and in some people it can cause it. Benadryl (diphenhydramine) is an allergy medicine that often makes people sleepy, so it may feel calming for a few hours. But drowsiness is not the same as treating anxiety, and Benadryl is not FDA-approved for anxiety.",
+    "Q: Hydroxyzine Pamoate vs HCl: What’s the difference? A: Hydroxyzine pamoate and hydroxyzine HCl both deliver the same active drug, hydroxyzine, so their clinical effects (such as sedation, itch relief, and anxiety reduction) are broadly similar. The main difference is the salt form (pamoate vs hydrochloride), which influences how the medicine is formulated.",
+    "Q: Is hydroxyzine a controlled substance or addictive? A: Hydroxyzine is not classified as a controlled substance in the United States, and current evidence does not show that it causes physical dependence or a characteristic withdrawal syndrome when stopped. It is, however, a prescription-only sedating antihistamine that should be taken only under medical supervision.",
+    "Q: Hydroxyzine vs Benadryl: What’s the difference? A: Hydroxyzine and Benadryl (diphenhydramine) are both older, sedating H1 antihistamines, but they are different drugs with different FDA‑approved uses. Hydroxyzine is available only by prescription in the United States, while diphenhydramine (Benadryl) is sold over the counter (OTC) in many allergy and sleep products.",
+    "Q: Can dogs take hydroxyzine? A: Yes, dogs can take hydroxyzine. Hydroxyzine is an antihistamine that may help treat allergies, anxiety, and motion sickness in dogs.",
+    "Q: Does hydroxyzine cause weight gain or loss? A: Hydroxyzine is not strongly linked to either weight gain or weight loss, and any changes in weight are usually mild and indirect rather than a direct effect of the drug. In clinical studies, weight changes are uncommon and generally not considered clinically significant compared with other side effects such as drowsiness."
+   ],
+   "text": "Q: Can you take hydroxyzine for anxiety and sleep? A: Yes, hydroxyzine can be prescribed short term for anxiety and anxiety‑related trouble sleeping, usually as an “as‑needed” or bridging option rather than a long‑term daily medicine. Evidence supports its short‑term anxiolytic and sedating effects, but its effectiveness and safety for chronic use beyond several months are not well established.\nQ: Can Hydroxyzine be Taken Long-term For Anxiety? A: Hydroxyzine is intended for short-term anxiety treatment only, typically less than 4 months. Long-term hydroxyzine use is considered off-label because no studies have examined the safety of extended use beyond this timeframe. Some research suggests a link between long-term use of medications with anticholinergic properties, such as hydroxyzine, and dementia, particularly in older adults. Brain fog has also been reported with long-term use.\nQ: How long does hydroxyzine last? A: Hydroxyzine’s noticeable calming and sedating effects typically last about 4–6 hours for most people, even though the drug itself stays in the body much longer due to an elimination half-life usually around 14–25 hours in adults and about 7 hours in children.\nQ: Does Benadryl help with or cause anxiety? A: No, Benadryl does not treat anxiety, and in some people it can cause it. Benadryl (diphenhydramine) is an allergy medicine that often makes people sleepy, so it may feel calming for a few hours. But drowsiness is not the same as treating anxiety, and Benadryl is not FDA-approved for anxiety.\nQ: Hydroxyzine Pamoate vs HCl: What’s the difference? A: Hydroxyzine pamoate and hydroxyzine HCl both deliver the same active drug, hydroxyzine, so their clinical effects (such as sedation, itch relief, and anxiety reduction) are broadly similar. The main difference is the salt form (pamoate vs hydrochloride), which influences how the medicine is formulated.\nQ: Is hydroxyzine a controlled substance or addictive? A: Hydroxyzine is not classified as a controlled substance in the United States, and current evidence does not show that it causes physical dependence or a characteristic withdrawal syndrome when stopped. It is, however, a prescription-only sedating antihistamine that should be taken only under medical supervision.\nQ: Hydroxyzine vs Benadryl: What’s the difference? A: Hydroxyzine and Benadryl (diphenhydramine) are both older, sedating H1 antihistamines, but they are different drugs with different FDA‑approved uses. Hydroxyzine is available only by prescription in the United States, while diphenhydramine (Benadryl) is sold over the counter (OTC) in many allergy and sleep products.\nQ: Can dogs take hydroxyzine? A: Yes, dogs can take hydroxyzine. Hydroxyzine is an antihistamine that may help treat allergies, anxiety, and motion sickness in dogs.\nQ: Does hydroxyzine cause weight gain or loss? A: Hydroxyzine is not strongly linked to either weight gain or weight loss, and any changes in weight are usually mild and indirect rather than a direct effect of the drug. In clinical studies, weight changes are uncommon and generally not considered clinically significant compared with other side effects such as drowsiness."
+  }
+ ],
+ "rank": 43
+}

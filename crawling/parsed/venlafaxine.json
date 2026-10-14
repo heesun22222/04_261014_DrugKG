@@ -1,0 +1,295 @@
+{
+ "name": "Venlafaxine",
+ "slug": "venlafaxine",
+ "url": "https://www.drugs.com/venlafaxine.html",
+ "title": "Venlafaxine",
+ "page_title": "Venlafaxine Uses, Dosage & Side Effects - Drugs.com",
+ "generic_name": "venlafaxine",
+ "pronunciation": "VEN-la-fax-een",
+ "brand_names": [
+  "Effexor XR",
+  "Effexor"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "extended release",
+   "strengths": [
+    "150 mg",
+    "37.5 mg",
+    "75 mg"
+   ]
+  },
+  {
+   "form": "oral tablet",
+   "strengths": [
+    "100 mg",
+    "25 mg",
+    "37.5 mg",
+    "50 mg",
+    "75 mg"
+   ]
+  },
+  {
+   "form": "extended release",
+   "strengths": [
+    "112.5 mg",
+    "150 mg",
+    "225 mg",
+    "37.5 mg",
+    "75 mg"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Serotonin-norepinephrine reuptake inhibitors",
+   "slug": "ssnri-antidepressants"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Philip Thornton, DipPharm. Last updated on Aug 27, 2026.",
+ "faq": [
+  {
+   "q": "How long do venlafaxine withdrawal symptoms last?",
+   "a": "Venlafaxine withdrawal symptoms typically last up to 1 to 4 weeks, but may persist even longer. The timing varies widely. People who stop suddenly, took higher doses, or used venlafaxine for years may have symptoms for two to three months or longer."
+  },
+  {
+   "q": "What drugs can cause serotonin syndrome?",
+   "a": "Common drug classes that can cause serotonin syndrome include selective serotonin reuptake inhibitors (SSRIs), monoamine oxidase inhibitors (MAOIs), and opioids like tramadol."
+  }
+ ],
+ "description": "Venlafaxine is used to treat major depressive disorder, anxiety, and panic disorder. Learn about side effects, interactions and indications.",
+ "date_modified": "2026-08-27",
+ "reviewed_by": "Philip Thornton",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Vraylar",
+   "slug": "vraylar",
+   "blurb": "Vraylar is a once a day antipsychotic medication used to treat mental health or mood disorders..."
+  },
+  {
+   "name": "Abilify",
+   "slug": "abilify",
+   "blurb": "Abilify (aripiprazole) is an antipsychotic medication used to treat schizophrenia, bipolar I..."
+  },
+  {
+   "name": "Rexulti",
+   "slug": "rexulti",
+   "blurb": "Rexulti is an antipsychotic used to treat major depressive disorder, schizophrenia, or agitation..."
+  },
+  {
+   "name": "Risperdal",
+   "slug": "risperdal",
+   "blurb": "Risperdal is used to treat schizophrenia and symptoms of bipolar disorder. Learn about side..."
+  },
+  {
+   "name": "Effexor XR",
+   "slug": "effexor",
+   "blurb": "Effexor XR (venlafaxine) is used to treat major depressive disorder, anxiety, and panic disorder..."
+  },
+  {
+   "name": "Geodon",
+   "slug": "geodon",
+   "blurb": "Geodon is used to treat schizophrenia and the manic symptoms of bipolar disorder. Learn about side..."
+  },
+  {
+   "name": "Aristada",
+   "slug": "aristada",
+   "blurb": "Aristada (aripiprazole) is an antipsychotic medication. It works by changing the actions of..."
+  },
+  {
+   "name": "Abilify Maintena",
+   "slug": "abilify-maintena",
+   "blurb": "Abilify Maintena (aripiprazole) is an atypical antipsychotic used to treat schizophrenia and..."
+  },
+  {
+   "name": "Uzedy",
+   "slug": "uzedy",
+   "blurb": "Uzedy is a long-acting injectable form of risperidone that may be given to treat schizophrenia in adults."
+  },
+  {
+   "name": "Ziprasidone",
+   "slug": "mtm/ziprasidone",
+   "blurb": "Ziprasidone is used for autism, bipolar disorder, body dysmorphic disorder, obsessive compulsive..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is venlafaxine?",
+   "lines": [
+    "Venlafaxine is used in adults to treat major depressive disorder. Venlafaxine extended-release (long-acting) capsules are also used to treat generalized anxiety disorder (GAD; excessive worrying that is difficult to control), social anxiety disorder (extreme fear of interacting with others or performing in front of others that interferes with normal life), and panic disorder (sudden, unexpected attacks of extreme fear and worry about these attacks).",
+    "Venlafaxine belongs to a class of medications called selective serotonin and norepinephrine reuptake inhibitors (SNRIs). Venlafaxine works by increasing the amounts of serotonin and norepinephrine, natural substances in the brain that help maintain mental balance."
+   ],
+   "text": "Venlafaxine is used in adults to treat major depressive disorder. Venlafaxine extended-release (long-acting) capsules are also used to treat generalized anxiety disorder (GAD; excessive worrying that is difficult to control), social anxiety disorder (extreme fear of interacting with others or performing in front of others that interferes with normal life), and panic disorder (sudden, unexpected attacks of extreme fear and worry about these attacks).\nVenlafaxine belongs to a class of medications called selective serotonin and norepinephrine reuptake inhibitors (SNRIs). Venlafaxine works by increasing the amounts of serotonin and norepinephrine, natural substances in the brain that help maintain mental balance."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "You should not take venlafaxine if you have uncontrolled narrow-angle glaucoma.",
+    "Do not use venlafaxine within 7 days before or 14 days after you have used an MAO inhibitor, such as isocarboxazid, linezolid, methylene blue injection, phenelzine, or tranylcypromine.",
+    "Some young people have thoughts about suicide when first taking an antidepressant. Stay alert to changes in your mood or symptoms. Report any new or worsening symptoms to your doctor, such as: mood or behavioral changes, anxiety, panic attacks, trouble sleeping, or if you feel impulsive, irritable, agitated, hostile, aggressive, restless, hyperactive (mentally or physically), more depressed, or have thoughts about suicide or hurting yourself.",
+    "Do not stop using venlafaxine without first talking to your doctor.",
+    "Do not give this medicine to anyone younger than 18 years old without the advice of a doctor. Venlafaxine is not FDA approved for use in children."
+   ],
+   "text": "You should not take venlafaxine if you have uncontrolled narrow-angle glaucoma.\nDo not use venlafaxine within 7 days before or 14 days after you have used an MAO inhibitor, such as isocarboxazid, linezolid, methylene blue injection, phenelzine, or tranylcypromine.\nSome young people have thoughts about suicide when first taking an antidepressant. Stay alert to changes in your mood or symptoms. Report any new or worsening symptoms to your doctor, such as: mood or behavioral changes, anxiety, panic attacks, trouble sleeping, or if you feel impulsive, irritable, agitated, hostile, aggressive, restless, hyperactive (mentally or physically), more depressed, or have thoughts about suicide or hurting yourself.\nDo not stop using venlafaxine without first talking to your doctor.\nDo not give this medicine to anyone younger than 18 years old without the advice of a doctor. Venlafaxine is not FDA approved for use in children."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not take venlafaxine if you are allergic to it or to desvenlafaxine (Pristiq).",
+    "Do not use venlafaxine if you have used an MAO inhibitor in the past 14 days. A dangerous drug interaction could occur. MAO inhibitors include isocarboxazid, linezolid, methylene blue injection, phenelzine, and tranylcypromine.",
+    "Tell your doctor if you also use stimulant medicine, opioid medicine, herbal products, or medicine for depression, mental illness, Parkinson's disease, migraine headaches, serious infections, or prevention of nausea and vomiting. An interaction with venlafaxine could cause a serious condition called serotonin syndrome.",
+    "To make sure venlafaxine is safe for you, tell your doctor if you have ever had:",
+    "- bipolar disorder (manic depression);",
+    "- heart disease, high blood pressure, high cholesterol or triglycerides, or a stroke;",
+    "- diabetes;",
+    "- lung disease;",
+    "- glaucoma;",
+    "- a thyroid disorder;",
+    "- a seizure;",
+    "- sexual problems;",
+    "- bleeding problems;",
+    "- low blood levels of sodium; or",
+    "- liver or kidney disease.",
+    "Some young people may have increased suicidal thoughts when first starting a medicine to treat depression. Stay alert to changes in your mood or symptoms. Your family or caregivers should also watch for sudden changes in your behavior.",
+    "Taking this medicine during pregnancy could harm the baby, and taking it in the month before delivery may increase your risk of severe bleeding after childbirth. However, stopping the medicine may not be safe for you. Do not start or stop venlafaxine without asking your doctor.",
+    "If you are pregnant, your name may be listed on a pregnancy registry to track the effects of venlafaxine on the baby.",
+    "Ask a doctor if it is safe to breastfeed while using this medicine."
+   ],
+   "text": "You should not take venlafaxine if you are allergic to it or to desvenlafaxine (Pristiq).\nDo not use venlafaxine if you have used an MAO inhibitor in the past 14 days. A dangerous drug interaction could occur. MAO inhibitors include isocarboxazid, linezolid, methylene blue injection, phenelzine, and tranylcypromine.\nTell your doctor if you also use stimulant medicine, opioid medicine, herbal products, or medicine for depression, mental illness, Parkinson's disease, migraine headaches, serious infections, or prevention of nausea and vomiting. An interaction with venlafaxine could cause a serious condition called serotonin syndrome.\nTo make sure venlafaxine is safe for you, tell your doctor if you have ever had:\n- bipolar disorder (manic depression);\n- heart disease, high blood pressure, high cholesterol or triglycerides, or a stroke;\n- diabetes;\n- lung disease;\n- glaucoma;\n- a thyroid disorder;\n- a seizure;\n- sexual problems;\n- bleeding problems;\n- low blood levels of sodium; or\n- liver or kidney disease.\nSome young people may have increased suicidal thoughts when first starting a medicine to treat depression. Stay alert to changes in your mood or symptoms. Your family or caregivers should also watch for sudden changes in your behavior.\nTaking this medicine during pregnancy could harm the baby, and taking it in the month before delivery may increase your risk of severe bleeding after childbirth. However, stopping the medicine may not be safe for you. Do not start or stop venlafaxine without asking your doctor.\nIf you are pregnant, your name may be listed on a pregnancy registry to track the effects of venlafaxine on the baby.\nAsk a doctor if it is safe to breastfeed while using this medicine."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take venlafaxine?",
+   "lines": [
+    "Take venlafaxine as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.",
+    "Take with food at the same time each day.",
+    "Swallow the extended-release capsule or tablet whole and do not crush, chew, break, or open it.",
+    "If you cannot swallow a capsule whole, open it and mix the medicine with applesauce. Swallow the mixture right away without chewing.",
+    "Tell your doctor if you have any changes in sexual function, such as loss of interest in sex, trouble having an orgasm, or (in men) problems with erections or ejaculation. Some sexual problems can be treated.",
+    "Your symptoms may not improve for up to several weeks. Do not stop using venlafaxine suddenly, or you could have severe and long-lasting unpleasant symptoms (such as agitation, confusion, tingling or electric shock feelings, aggression, violent behavior, suicidal thoughts, vision changes, or increased blood pressure). Ask your doctor before stopping the medicine.",
+    "Your blood pressure and cholesterol levels may need to be checked often.",
+    "This medicine may cause false results on a drug-screening urine test. Tell the laboratory staff that you use venlafaxine.",
+    "Store at room temperature away from moisture and heat."
+   ],
+   "text": "Take venlafaxine as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.\nTake with food at the same time each day.\nSwallow the extended-release capsule or tablet whole and do not crush, chew, break, or open it.\nIf you cannot swallow a capsule whole, open it and mix the medicine with applesauce. Swallow the mixture right away without chewing.\nTell your doctor if you have any changes in sexual function, such as loss of interest in sex, trouble having an orgasm, or (in men) problems with erections or ejaculation. Some sexual problems can be treated.\nYour symptoms may not improve for up to several weeks. Do not stop using venlafaxine suddenly, or you could have severe and long-lasting unpleasant symptoms (such as agitation, confusion, tingling or electric shock feelings, aggression, violent behavior, suicidal thoughts, vision changes, or increased blood pressure). Ask your doctor before stopping the medicine.\nYour blood pressure and cholesterol levels may need to be checked often.\nThis medicine may cause false results on a drug-screening urine test. Tell the laboratory staff that you use venlafaxine.\nStore at room temperature away from moisture and heat."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Dosing Information",
+   "lines": [
+    "Usual Adult Dose for Depression:",
+    "Immediate release: -Initial dose: 37.5 mg orally twice a day OR 25 mg orally 3 times a day -Maintenance dose: 75 to 150 mg orally per day, given in divided doses -Maximum dose: ---Moderately depressed outpatients: 225 mg/day ---Severely depressed inpatients: 375 mg/day Extended release: -Initial dose: 75 mg orally once a day -Maintenance dose: 75 to 225 mg orally once a day -Maximum dose: ---Moderately depressed outpatients: 225 mg/day ---Severely depressed inpatients: 375 mg/day Comments: -The daily dosage of immediate-release formulations may be divided into 2 or 3 doses/day. -Healthcare providers should consider initial extended release doses of 37.5 mg orally once a day for 4 to 7 days (before increasing the dose to 75 mg/day) in patients who may require additional time to adjust to the drug. -Doses may be increased in daily increments of up to 75 mg orally at intervals of no less than 4 days. -Patients should be periodically reassessed for the continued need of maintenance treatment and for the appropriate dose of treatment. -Use of doses exceeding 225 mg/day is limited.",
+    "Usual Adult Dose for Generalized Anxiety Disorder:",
+    "Extended release: -Initial dose: 75 mg orally once a day -Maintenance dose: 75 to 225 mg orally once a day -Maximum dose: 225 mg/day Comments: -Healthcare providers should consider initial extended release doses of 37.5 mg orally once a day for 4 to 7 days (before increasing the dose to 75 mg/day) in patients who may require additional time to adjust to the drug. -Doses may be increased in daily increments of up to 75 mg orally at intervals of no less than 4 days.",
+    "Usual Adult Dose for Social Anxiety Disorder:",
+    "Extended release: 75 mg orally once a day Comment: There is no evidence that doses greater than 75 mg/day confer additional benefit.",
+    "Usual Adult Dose for Panic Disorder:",
+    "Extended release: -Initial dose: 37.5 mg orally once a day for 7 days, then 75 mg orally once a day thereafter -Maintenance dose: 75 to 225 mg orally once a day -Maximum dose: 225 mg/day Comment: Doses may be increased in daily increments of 75 mg orally at intervals of no less than 7 days."
+   ],
+   "text": "Usual Adult Dose for Depression:\nImmediate release: -Initial dose: 37.5 mg orally twice a day OR 25 mg orally 3 times a day -Maintenance dose: 75 to 150 mg orally per day, given in divided doses -Maximum dose: ---Moderately depressed outpatients: 225 mg/day ---Severely depressed inpatients: 375 mg/day Extended release: -Initial dose: 75 mg orally once a day -Maintenance dose: 75 to 225 mg orally once a day -Maximum dose: ---Moderately depressed outpatients: 225 mg/day ---Severely depressed inpatients: 375 mg/day Comments: -The daily dosage of immediate-release formulations may be divided into 2 or 3 doses/day. -Healthcare providers should consider initial extended release doses of 37.5 mg orally once a day for 4 to 7 days (before increasing the dose to 75 mg/day) in patients who may require additional time to adjust to the drug. -Doses may be increased in daily increments of up to 75 mg orally at intervals of no less than 4 days. -Patients should be periodically reassessed for the continued need of maintenance treatment and for the appropriate dose of treatment. -Use of doses exceeding 225 mg/day is limited.\nUsual Adult Dose for Generalized Anxiety Disorder:\nExtended release: -Initial dose: 75 mg orally once a day -Maintenance dose: 75 to 225 mg orally once a day -Maximum dose: 225 mg/day Comments: -Healthcare providers should consider initial extended release doses of 37.5 mg orally once a day for 4 to 7 days (before increasing the dose to 75 mg/day) in patients who may require additional time to adjust to the drug. -Doses may be increased in daily increments of up to 75 mg orally at intervals of no less than 4 days.\nUsual Adult Dose for Social Anxiety Disorder:\nExtended release: 75 mg orally once a day Comment: There is no evidence that doses greater than 75 mg/day confer additional benefit.\nUsual Adult Dose for Panic Disorder:\nExtended release: -Initial dose: 37.5 mg orally once a day for 7 days, then 75 mg orally once a day thereafter -Maintenance dose: 75 to 225 mg orally once a day -Maximum dose: 225 mg/day Comment: Doses may be increased in daily increments of 75 mg orally at intervals of no less than 7 days."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+   ],
+   "text": "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking venlafaxine?",
+   "lines": [
+    "Do not drink alcohol.",
+    "Ask your doctor before taking a nonsteroidal anti-inflammatory drug (NSAID) such as aspirin, ibuprofen, naproxen, Advil, Aleve, Motrin, and others. Using an NSAID with venlafaxine may cause you to bruise or bleed easily.",
+    "Avoid driving or hazardous activity until you know how venlafaxine will affect you. Your reactions could be impaired."
+   ],
+   "text": "Do not drink alcohol.\nAsk your doctor before taking a nonsteroidal anti-inflammatory drug (NSAID) such as aspirin, ibuprofen, naproxen, Advil, Aleve, Motrin, and others. Using an NSAID with venlafaxine may cause you to bruise or bleed easily.\nAvoid driving or hazardous activity until you know how venlafaxine will affect you. Your reactions could be impaired."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Venlafaxine side effects",
+   "lines": [
+    "Get emergency medical help if you have signs of an allergic reaction to venlafaxine: hives; difficult breathing; swelling of your face, lips, tongue, or throat.",
+    "Tell your doctor right away if you have new or sudden changes in mood or behavior, including new or worse depression or anxiety, panic attacks, trouble sleeping, or if you feel impulsive, irritable, agitated, hostile, aggressive, restless, more active or talkative, or have thoughts about suicide or hurting yourself.",
+    "Venlafaxine may cause serious side effects. Call your doctor at once if you have:",
+    "- blurred vision, eye pain or redness, seeing halos around lights;",
+    "- cough, chest tightness, trouble breathing;",
+    "- a seizure (convulsions);",
+    "- unusual bleeding - nosebleeds, bleeding gums, abnormal vaginal bleeding, any bleeding that will not stop;",
+    "- low blood sodium - headache, confusion, problems with thinking or memory, weakness, feeling unsteady; or",
+    "- severe nervous system reaction - very stiff (rigid) muscles, high fever, sweating, confusion, fast or uneven heartbeats, tremors, feeling like you might pass out.",
+    "Seek medical attention right away if you have symptoms of serotonin syndrome, such as: agitation, hallucinations, fever, sweating, shivering, fast heart rate, muscle stiffness, twitching, loss of coordination, nausea, vomiting, or diarrhea.",
+    "Common venlafaxine side effects may include:",
+    "- headache, dizziness, drowsiness, tiredness;",
+    "- ringing in your ears, feeling anxious, nervous, or jittery;",
+    "- sleep problems, unusual dreams;",
+    "- tremors;",
+    "- fast heartbeats;",
+    "- blurred vision;",
+    "- nausea, vomiting, diarrhea, constipation;",
+    "- changes in weight or appetite;",
+    "- dry mouth, yawning;",
+    "- increased sweating; or",
+    "- sexual problems.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have signs of an allergic reaction to venlafaxine: hives; difficult breathing; swelling of your face, lips, tongue, or throat.\nTell your doctor right away if you have new or sudden changes in mood or behavior, including new or worse depression or anxiety, panic attacks, trouble sleeping, or if you feel impulsive, irritable, agitated, hostile, aggressive, restless, more active or talkative, or have thoughts about suicide or hurting yourself.\nVenlafaxine may cause serious side effects. Call your doctor at once if you have:\n- blurred vision, eye pain or redness, seeing halos around lights;\n- cough, chest tightness, trouble breathing;\n- a seizure (convulsions);\n- unusual bleeding - nosebleeds, bleeding gums, abnormal vaginal bleeding, any bleeding that will not stop;\n- low blood sodium - headache, confusion, problems with thinking or memory, weakness, feeling unsteady; or\n- severe nervous system reaction - very stiff (rigid) muscles, high fever, sweating, confusion, fast or uneven heartbeats, tremors, feeling like you might pass out.\nSeek medical attention right away if you have symptoms of serotonin syndrome, such as: agitation, hallucinations, fever, sweating, shivering, fast heart rate, muscle stiffness, twitching, loss of coordination, nausea, vomiting, or diarrhea.\nCommon venlafaxine side effects may include:\n- headache, dizziness, drowsiness, tiredness;\n- ringing in your ears, feeling anxious, nervous, or jittery;\n- sleep problems, unusual dreams;\n- tremors;\n- fast heartbeats;\n- blurred vision;\n- nausea, vomiting, diarrhea, constipation;\n- changes in weight or appetite;\n- dry mouth, yawning;\n- increased sweating; or\n- sexual problems.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect venlafaxine?",
+   "lines": [
+    "Using venlafaxine with other drugs that make you drowsy can worsen this effect. Ask your doctor before using opioid medication, a sleeping pill, a muscle relaxer, or medicine for anxiety or seizures.",
+    "Tell your doctor about all your current medicines. Many drugs can affect venlafaxine, especially:",
+    "- any other antidepressant, or other medicines containing venlafaxine or desvenlafaxine;",
+    "- amphetamines;",
+    "- fentanyl;",
+    "- cimetidine;",
+    "- tramadol;",
+    "- St. John's wort, tryptophan (sometimes called L-tryptophan);",
+    "- diet pills, weight loss medicine (such as phentermine);",
+    "- a blood thinner (warfarin, Coumadin, Jantoven);",
+    "- medicine to treat mood disorders, thought disorders, or mental illness - buspirone, lithium, and many others; or",
+    "- migraine headache medicine - sumatriptan, zolmitriptan, and others.",
+    "This list is not complete and many other drugs may interact with venlafaxine. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+   ],
+   "text": "Using venlafaxine with other drugs that make you drowsy can worsen this effect. Ask your doctor before using opioid medication, a sleeping pill, a muscle relaxer, or medicine for anxiety or seizures.\nTell your doctor about all your current medicines. Many drugs can affect venlafaxine, especially:\n- any other antidepressant, or other medicines containing venlafaxine or desvenlafaxine;\n- amphetamines;\n- fentanyl;\n- cimetidine;\n- tramadol;\n- St. John's wort, tryptophan (sometimes called L-tryptophan);\n- diet pills, weight loss medicine (such as phentermine);\n- a blood thinner (warfarin, Coumadin, Jantoven);\n- medicine to treat mood disorders, thought disorders, or mental illness - buspirone, lithium, and many others; or\n- migraine headache medicine - sumatriptan, zolmitriptan, and others.\nThis list is not complete and many other drugs may interact with venlafaxine. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: How long do venlafaxine withdrawal symptoms last? A: Venlafaxine withdrawal symptoms typically last up to 1 to 4 weeks, but may persist even longer. The timing varies widely. People who stop suddenly, took higher doses, or used venlafaxine for years may have symptoms for two to three months or longer.",
+    "Q: What drugs can cause serotonin syndrome? A: Common drug classes that can cause serotonin syndrome include selective serotonin reuptake inhibitors (SSRIs), monoamine oxidase inhibitors (MAOIs), and opioids like tramadol."
+   ],
+   "text": "Q: How long do venlafaxine withdrawal symptoms last? A: Venlafaxine withdrawal symptoms typically last up to 1 to 4 weeks, but may persist even longer. The timing varies widely. People who stop suddenly, took higher doses, or used venlafaxine for years may have symptoms for two to three months or longer.\nQ: What drugs can cause serotonin syndrome? A: Common drug classes that can cause serotonin syndrome include selective serotonin reuptake inhibitors (SSRIs), monoamine oxidase inhibitors (MAOIs), and opioids like tramadol."
+  }
+ ],
+ "rank": 40
+}

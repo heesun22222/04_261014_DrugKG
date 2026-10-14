@@ -1,0 +1,257 @@
+{
+ "name": "Apixaban",
+ "slug": "apixaban",
+ "url": "https://www.drugs.com/apixaban.html",
+ "title": "Apixaban",
+ "page_title": "Apixaban Uses, Side Effects & Warnings",
+ "generic_name": "apixaban",
+ "pronunciation": "a-PIX-a-ban",
+ "brand_names": [
+  "Eliquis",
+  "Eliquis Sprinkle",
+  "Eliquis Starter Pack for Treatment of DVT and PE"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "oral powder for reconstitution",
+   "strengths": [
+    "0.15 mg"
+   ]
+  },
+  {
+   "form": "oral tablet",
+   "strengths": [
+    "2.5 mg",
+    "5 mg"
+   ]
+  },
+  {
+   "form": "dispersible",
+   "strengths": [
+    "0.5 mg"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Factor Xa inhibitors",
+   "slug": "factor-xa-inhibitors"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Drugs.com on Dec 10, 2025. Written by Cerner Multum.",
+ "faq": [
+  {
+   "q": "Xarelto vs Eliquis: How do they compare?",
+   "a": "Xarelto (rivaroxaban) and Eliquis (apixaban) are novel anticoagulants that make blood less likely to clot (also called thinning the blood). Both belong to the class of medicines known as factor Xa (FXa) inhibitors and they are two of the most popular blood thinners on the market. Either one may be used to reduce the risk of stroke or treat and prevent blood clots in conditions such as DVT."
+  },
+  {
+   "q": "What medications are known to cause hair loss?",
+   "a": "Medication-induced hair loss represents a significant concern for patients across multiple therapeutic categories. While chemotherapy drugs are most commonly associated with severe hair loss, many commonly prescribed medications-including antibiotics, psychiatric drugs, cardiovascular agents, and hormonal therapies-can also cause this distressing side effect."
+  },
+  {
+   "q": "How do you reverse bleeding with Xarelto?",
+   "a": "There is no longer an FDA-approved antidote for Xarelto (rivaroxaban) in the United States. Andexxa, the only approved reversal drug, was pulled from the U.S. market on December 22, 2025, after the FDA decided its risks outweighed its benefits. For serious bleeding today, hospitals stop the drug, control the bleeding directly."
+  }
+ ],
+ "description": "Apixaban: side effects, dosage, interactions, FAQs, reviews. Used for: deep vein thrombosis, deep vein thrombosis prophylaxis after hip replacement surgery, deep vein thrombosis prophylaxis after knee replacement surgery, and more.",
+ "date_modified": "2025-12-10",
+ "reviewed_by": "Drugs.com",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Eliquis",
+   "slug": "eliquis",
+   "blurb": "Eliquis is used to reduce the risk of stroke and systemic embolism in patients with nonvalvular..."
+  },
+  {
+   "name": "Xarelto",
+   "slug": "xarelto",
+   "blurb": "Xarelto (rivaroxaban) is a factor Xa inhibitor used to reduce the risk of blood clots and stroke in..."
+  },
+  {
+   "name": "Wegovy",
+   "slug": "wegovy",
+   "blurb": "Wegovy (semaglutide) is an FDA-approved weekly injection for weight loss, reducing heart risks..."
+  },
+  {
+   "name": "Pradaxa",
+   "slug": "pradaxa",
+   "blurb": "Pradaxa (dabigatran) is used to prevent stroke and blood clots in patients with atrial..."
+  },
+  {
+   "name": "Lovenox",
+   "slug": "lovenox",
+   "blurb": "Lovenox is used to prevent deep vein thrombosis (DVT) which can lead to blood clots in the lungs..."
+  },
+  {
+   "name": "Fondaparinux",
+   "slug": "mtm/fondaparinux",
+   "blurb": "Fondaparinux is used for deep vein thrombosis, deep vein thrombosis prophylaxis after abdominal..."
+  },
+  {
+   "name": "Dabigatran",
+   "slug": "mtm/dabigatran",
+   "blurb": "Dabigatran is used for deep vein thrombosis, deep vein thrombosis, prophylaxis, deep vein..."
+  },
+  {
+   "name": "Heparin",
+   "slug": "heparin",
+   "blurb": "Heparin injection is used to treat and prevent blood clots in the veins, arteries, or lungs. Learn..."
+  },
+  {
+   "name": "Rivaroxaban",
+   "slug": "mtm/rivaroxaban",
+   "blurb": "Rivaroxaban is used for atrial fibrillation, cardiovascular risk reduction, congenital heart..."
+  },
+  {
+   "name": "Enoxaparin",
+   "slug": "mtm/enoxaparin",
+   "blurb": "Enoxaparin is used for acute coronary syndrome, angina, deep vein thrombosis, deep vein thrombosis..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is apixaban?",
+   "lines": [
+    "Apixaban is used to lower the risk of stroke and blood clots in adults with a heart rhythm disorder called atrial fibrillation not caused by a heart valve problem.",
+    "Apixaban is also used in adults to treat blood clots in the legs (DVT) or lungs (PE) and to lower your risk of happening again after you have received treatment for blood clots.",
+    "Apixaban is also used in adults after hip or knee replacement surgery to prevent clots that can occur in the legs (deep vein thrombosis, DVT) or in the lungs (pulmonary embolism, PE).",
+    "Apixaban is also used in children from birth to less than 18 years of age to treat blood clots in the legs (DVT) or lungs (PE) and lower the risk of happening again after receiving treatment for at least 5 days.",
+    "Apixaban is not approved for use in children who weigh less than 5.7 pounds (2.6 kg).",
+    "Apixaban may also be used for purposes not listed in this medication guide."
+   ],
+   "text": "Apixaban is used to lower the risk of stroke and blood clots in adults with a heart rhythm disorder called atrial fibrillation not caused by a heart valve problem.\nApixaban is also used in adults to treat blood clots in the legs (DVT) or lungs (PE) and to lower your risk of happening again after you have received treatment for blood clots.\nApixaban is also used in adults after hip or knee replacement surgery to prevent clots that can occur in the legs (deep vein thrombosis, DVT) or in the lungs (pulmonary embolism, PE).\nApixaban is also used in children from birth to less than 18 years of age to treat blood clots in the legs (DVT) or lungs (PE) and lower the risk of happening again after receiving treatment for at least 5 days.\nApixaban is not approved for use in children who weigh less than 5.7 pounds (2.6 kg).\nApixaban may also be used for purposes not listed in this medication guide."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Apixaban side effects",
+   "lines": [
+    "Get emergency medical help if you have signs of an allergic reaction: hives, difficult breathing, swelling of your face, lips, tongue, or throat.",
+    "Also seek emergency medical attention if you have symptoms of a spinal blood clot: back pain, numbness, tingling, muscle weakness in your lower body, or loss of bladder or bowel control.",
+    "Apixaban can cause you to bleed more easily. Call your doctor at once if you have signs of bleeding such as:",
+    "- bruising or bleeding that will not stop, unusual bleeding (nosebleeds, bleeding gums, vaginal bleeding);",
+    "- unexpected pain, joint pain or swelling;",
+    "- headache, dizziness, weakness, feeling like you might pass out;",
+    "- urine that looks red, pink, or brown; or",
+    "- bloody or tarry stools, coughing up blood or vomit that looks like coffee grounds.",
+    "Common side effects of apixaban may include:",
+    "- bleeding, including heavy menstrual bleeding; or",
+    "- headache, vomiting.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have signs of an allergic reaction: hives, difficult breathing, swelling of your face, lips, tongue, or throat.\nAlso seek emergency medical attention if you have symptoms of a spinal blood clot: back pain, numbness, tingling, muscle weakness in your lower body, or loss of bladder or bowel control.\nApixaban can cause you to bleed more easily. Call your doctor at once if you have signs of bleeding such as:\n- bruising or bleeding that will not stop, unusual bleeding (nosebleeds, bleeding gums, vaginal bleeding);\n- unexpected pain, joint pain or swelling;\n- headache, dizziness, weakness, feeling like you might pass out;\n- urine that looks red, pink, or brown; or\n- bloody or tarry stools, coughing up blood or vomit that looks like coffee grounds.\nCommon side effects of apixaban may include:\n- bleeding, including heavy menstrual bleeding; or\n- headache, vomiting.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Do not stop taking apixaban unless your doctor tells you to. Stopping suddenly can increase your risk of blood clot or stroke.",
+    "Some drugs can increase your risk of bleeding when used with apixaban. Tell your doctor about all other medicines you use.",
+    "Call your doctor at once if you have signs of bleeding such as: easy bruising, unusual bleeding, unexpected pain or swelling, feeling very weak or dizzy, bleeding gums, nosebleeds, heavy menstrual bleeding, blood in your urine or stools, coughing up blood or vomit that looks like coffee grounds, or any bleeding that will not stop.",
+    "Apixaban can cause a very serious blood clot around your spinal cord if you undergo a spinal tap or receive spinal anesthesia (epidural). Tell any doctor who treats you that you are taking apixaban."
+   ],
+   "text": "Do not stop taking apixaban unless your doctor tells you to. Stopping suddenly can increase your risk of blood clot or stroke.\nSome drugs can increase your risk of bleeding when used with apixaban. Tell your doctor about all other medicines you use.\nCall your doctor at once if you have signs of bleeding such as: easy bruising, unusual bleeding, unexpected pain or swelling, feeling very weak or dizzy, bleeding gums, nosebleeds, heavy menstrual bleeding, blood in your urine or stools, coughing up blood or vomit that looks like coffee grounds, or any bleeding that will not stop.\nApixaban can cause a very serious blood clot around your spinal cord if you undergo a spinal tap or receive spinal anesthesia (epidural). Tell any doctor who treats you that you are taking apixaban."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not take apixaban if you are allergic to it or if you have active bleeding from any cause.",
+    "Apixaban can cause a serious blood clot if you undergo a procedure such as a spinal tap or receive spinal anesthesia (epidural). This type of blood clot could cause permanent or long-term paralysis.",
+    "Apixaban can make it easier for you to bleed, even from a minor injury. Call your doctor if you have any bleeding that will not stop.",
+    "Tell your doctor if you have or have ever had:",
+    "- artificial heart valve;",
+    "- a history of problems with your spine, a spinal surgery, or difficult or repeated spinal taps;",
+    "- bleeding problems;",
+    "- plan for surgery, or a medical or a dental procedure;",
+    "- a thin tube (catheter) placed in your back to give you certain medicine;",
+    "- antiphospholipid syndrome, an immune system disorder that increases the risk of blood clots; or",
+    "- liver or kidney disease.",
+    "It is not known if apixaban will harm an unborn baby. Taking apixaban during pregnancy may cause bleeding in the mother or the unborn baby. Tell your doctor if you are pregnant or plan to become pregnant.",
+    "Do not breastfeed while taking apixaban."
+   ],
+   "text": "You should not take apixaban if you are allergic to it or if you have active bleeding from any cause.\nApixaban can cause a serious blood clot if you undergo a procedure such as a spinal tap or receive spinal anesthesia (epidural). This type of blood clot could cause permanent or long-term paralysis.\nApixaban can make it easier for you to bleed, even from a minor injury. Call your doctor if you have any bleeding that will not stop.\nTell your doctor if you have or have ever had:\n- artificial heart valve;\n- a history of problems with your spine, a spinal surgery, or difficult or repeated spinal taps;\n- bleeding problems;\n- plan for surgery, or a medical or a dental procedure;\n- a thin tube (catheter) placed in your back to give you certain medicine;\n- antiphospholipid syndrome, an immune system disorder that increases the risk of blood clots; or\n- liver or kidney disease.\nIt is not known if apixaban will harm an unborn baby. Taking apixaban during pregnancy may cause bleeding in the mother or the unborn baby. Tell your doctor if you are pregnant or plan to become pregnant.\nDo not breastfeed while taking apixaban."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "How should I take apixaban?",
+   "lines": [
+    "Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose. Use the medicine exactly as directed.",
+    "Apixaban is usually taken twice per day.",
+    "Read and carefully follow any Instructions for Use provided with your medicine. If you cannot swallow a tablet whole, you may crush it and mix the medicine with a small amount of applesauce, apple juice, or water.",
+    "If your child is prescribed the tablets for oral suspension, it should be mixed with water, infant formula, apple juice, or apple sauce. Do not swallow the tablet.",
+    "If your child is taking capsules for oral suspension, the capsule should be opened and mixed with water or infant formula only. Do not swallow the capsule.",
+    "Mixed medicine should be used right away. Apixaban may also be given through a feeding tube.",
+    "apixaban can also make it easier for you to bleed, even from a minor injury such as a fall or a bump on the head. Tell your doctor or seek emergency medical attention if you fall or hit your head, or have any bleeding that will not stop.",
+    "If you have a planned surgery or dental procedure, your doctor may tell you to stop taking apixaban for a short time.",
+    "Doses are based on weight in children and teenagers. Your child's dose may change if the child gains or loses weight.",
+    "If your child vomits within 30 minutes after taking apixaban, take another dose. If the child vomits after more than 30 minutes of taking apixaban, do not take another dose and give the next dose as scheduled.",
+    "Do not change your dose or stop taking apixaban unless your doctor tells you to. If you stop taking apixaban for any reason, your doctor may prescribe another medicine to prevent blood clots. Keep all follow-up visits with your healthcare provider.",
+    "Store at room temperature away from moisture and heat."
+   ],
+   "text": "Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose. Use the medicine exactly as directed.\nApixaban is usually taken twice per day.\nRead and carefully follow any Instructions for Use provided with your medicine. If you cannot swallow a tablet whole, you may crush it and mix the medicine with a small amount of applesauce, apple juice, or water.\nIf your child is prescribed the tablets for oral suspension, it should be mixed with water, infant formula, apple juice, or apple sauce. Do not swallow the tablet.\nIf your child is taking capsules for oral suspension, the capsule should be opened and mixed with water or infant formula only. Do not swallow the capsule.\nMixed medicine should be used right away. Apixaban may also be given through a feeding tube.\napixaban can also make it easier for you to bleed, even from a minor injury such as a fall or a bump on the head. Tell your doctor or seek emergency medical attention if you fall or hit your head, or have any bleeding that will not stop.\nIf you have a planned surgery or dental procedure, your doctor may tell you to stop taking apixaban for a short time.\nDoses are based on weight in children and teenagers. Your child's dose may change if the child gains or loses weight.\nIf your child vomits within 30 minutes after taking apixaban, take another dose. If the child vomits after more than 30 minutes of taking apixaban, do not take another dose and give the next dose as scheduled.\nDo not change your dose or stop taking apixaban unless your doctor tells you to. If you stop taking apixaban for any reason, your doctor may prescribe another medicine to prevent blood clots. Keep all follow-up visits with your healthcare provider.\nStore at room temperature away from moisture and heat."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take a missed dose as soon as you remember it on the same day. Take your next dose at the regular time and stay on your twice-daily schedule. Do not take two doses at one time.",
+    "Get your prescription refilled before you run out of medicine completely."
+   ],
+   "text": "Take a missed dose as soon as you remember it on the same day. Take your next dose at the regular time and stay on your twice-daily schedule. Do not take two doses at one time.\nGet your prescription refilled before you run out of medicine completely."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking apixaban?",
+   "lines": [
+    "Avoid activities that may increase your risk of bleeding or injury. Use extra care while shaving or brushing your teeth."
+   ],
+   "text": "Avoid activities that may increase your risk of bleeding or injury. Use extra care while shaving or brushing your teeth."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect apixaban?",
+   "lines": [
+    "Sometimes it is not safe to use certain medicines at the same time. Some drugs can affect your blood levels of other drugs you use, which may increase side effects or make the medicines less effective.",
+    "Tell your doctor about all your current medicines. Many drugs can affect apixaban, especially:",
+    "- a blood thinner or any other medicines to treat or prevent blood clots such as enoxaparin, warfarin, heparin, clopidogrel, dipyridamole, prasugrel, and others;",
+    "- an antidepressant; or",
+    "- NSAIDs (nonsteroidal anti-inflammatory drugs) --aspirin, ibuprofen (Advil, Motrin), naproxen (Aleve), celecoxib, diclofenac, indomethacin, meloxicam, and others.",
+    "This list is not complete and many other drugs may affect apixaban. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+   ],
+   "text": "Sometimes it is not safe to use certain medicines at the same time. Some drugs can affect your blood levels of other drugs you use, which may increase side effects or make the medicines less effective.\nTell your doctor about all your current medicines. Many drugs can affect apixaban, especially:\n- a blood thinner or any other medicines to treat or prevent blood clots such as enoxaparin, warfarin, heparin, clopidogrel, dipyridamole, prasugrel, and others;\n- an antidepressant; or\n- NSAIDs (nonsteroidal anti-inflammatory drugs) --aspirin, ibuprofen (Advil, Motrin), naproxen (Aleve), celecoxib, diclofenac, indomethacin, meloxicam, and others.\nThis list is not complete and many other drugs may affect apixaban. This includes prescription and over-the-counter medicines, vitamins, and herbal products. Not all possible drug interactions are listed here."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: Xarelto vs Eliquis: How do they compare? A: Xarelto (rivaroxaban) and Eliquis (apixaban) are novel anticoagulants that make blood less likely to clot (also called thinning the blood). Both belong to the class of medicines known as factor Xa (FXa) inhibitors and they are two of the most popular blood thinners on the market. Either one may be used to reduce the risk of stroke or treat and prevent blood clots in conditions such as DVT.",
+    "Q: What medications are known to cause hair loss? A: Medication-induced hair loss represents a significant concern for patients across multiple therapeutic categories. While chemotherapy drugs are most commonly associated with severe hair loss, many commonly prescribed medications-including antibiotics, psychiatric drugs, cardiovascular agents, and hormonal therapies-can also cause this distressing side effect.",
+    "Q: How do you reverse bleeding with Xarelto? A: There is no longer an FDA-approved antidote for Xarelto (rivaroxaban) in the United States. Andexxa, the only approved reversal drug, was pulled from the U.S. market on December 22, 2025, after the FDA decided its risks outweighed its benefits. For serious bleeding today, hospitals stop the drug, control the bleeding directly."
+   ],
+   "text": "Q: Xarelto vs Eliquis: How do they compare? A: Xarelto (rivaroxaban) and Eliquis (apixaban) are novel anticoagulants that make blood less likely to clot (also called thinning the blood). Both belong to the class of medicines known as factor Xa (FXa) inhibitors and they are two of the most popular blood thinners on the market. Either one may be used to reduce the risk of stroke or treat and prevent blood clots in conditions such as DVT.\nQ: What medications are known to cause hair loss? A: Medication-induced hair loss represents a significant concern for patients across multiple therapeutic categories. While chemotherapy drugs are most commonly associated with severe hair loss, many commonly prescribed medications-including antibiotics, psychiatric drugs, cardiovascular agents, and hormonal therapies-can also cause this distressing side effect.\nQ: How do you reverse bleeding with Xarelto? A: There is no longer an FDA-approved antidote for Xarelto (rivaroxaban) in the United States. Andexxa, the only approved reversal drug, was pulled from the U.S. market on December 22, 2025, after the FDA decided its risks outweighed its benefits. For serious bleeding today, hospitals stop the drug, control the bleeding directly."
+  }
+ ],
+ "rank": 25
+}

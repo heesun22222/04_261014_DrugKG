@@ -1,0 +1,372 @@
+{
+ "name": "Cyclobenzaprine",
+ "slug": "cyclobenzaprine",
+ "url": "https://www.drugs.com/cyclobenzaprine.html",
+ "title": "Cyclobenzaprine",
+ "page_title": "Cyclobenzaprine: Uses, Dosage, Side Effects & Warnings",
+ "brand_names": [
+  "Flexeril",
+  "Tonmya",
+  "Amrix",
+  "Fexmid"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "immediate-release tablet",
+   "strengths": [
+    "5 mg, 7.5 mg, 10 mg"
+   ]
+  },
+  {
+   "form": "extended-release capsule",
+   "strengths": [
+    "15 mg, 30 mg"
+   ]
+  },
+  {
+   "form": "sublingual tablet",
+   "strengths": [
+    "2.8 mg"
+   ]
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Skeletal muscle relaxants",
+   "slug": "skeletal-muscle-relaxants"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Aug 14, 2026.",
+ "faq": [
+  {
+   "q": "Does cyclobenzaprine make you sleepy?",
+   "a": "Yes, cyclobenzaprine can make you very sleepy and this side effect may get worse with higher doses. Drowsiness is the most commonly reported side effect in studies, occurring in up to 38% (38 out of 100) of people. Fatigue and dizziness may also occur. Avoid or limit the use of alcohol or other sedating medicines while being treated with cyclobenzaprine. Also avoid driving, operating machinery, or other hazardous activities until you know how cyclobenzaprine affects you."
+  },
+  {
+   "q": "How long does it take for cyclobenzaprine to work?",
+   "a": "Immediate-release cyclobenzaprine tablets work in about 30 to 60 minutes to start relieving your muscle spasm pain. Its duration of action is 4 to 6 hours and it is typically given 3 times per day. It may take up to 7 days for you to see the full therapeutical effect. The extended-release cyclobenzaprine capsules (brand name: Amrix) are usually given once per day but may take longer to start working. Cyclobenzaprine use for periods longer than 2 or 3 weeks is not recommended."
+  },
+  {
+   "q": "How much cyclobenzaprine can I take?",
+   "a": "For most adults, immediate-release cyclobenzaprine is taken as 5 mg three times daily and may be increased to 10 mg three times daily. Extended-release cyclobenzaprine (Amrix) is usually 15 mg once daily and may be increased to 30 mg. Tonmya for fibromyalgia has a maximum recommended dose of 5.6 mg nightly, and 2.8 mg daily for older adults or people with liver disease."
+  },
+  {
+   "q": "How long does it take for Flexeril to work?",
+   "a": "Flexeril (cyclobenzaprine) is a fast-acting medicine and you should start to feel some muscle relaxant effects within 30 minutes to one hour. The full effect can take up to 7 days. The drowsy side effect will set in quickly, too, so be sure you are not driving or doing other hazardous activities."
+  },
+  {
+   "q": "Is cyclobenzaprine a controlled substance or addictive?",
+   "a": "No. Cyclobenzaprine is not a controlled substance and is not considered addictive. Rarely, stopping it suddenly after prolonged use may cause nausea, headache, or malaise, but these symptoms are not signs of addiction. Cyclobenzaprine can cause drowsiness and should not be combined with alcohol or other CNS depressants without medical advice."
+  },
+  {
+   "q": "How long does Flexeril (cyclobenzaprine) stay in your system?",
+   "a": "As an estimate, after taking a dose of Flexeril it should be out of your system within 5.5 days to 16.5 days."
+  },
+  {
+   "q": "Can I take cyclobenzaprine and Tylenol together?",
+   "a": "Yes, you can take cyclobenzaprine and Tylenol (acetaminophen) together. There are no known interactions between these medicines, however this doesn't necessarily mean that no interaction exist."
+  }
+ ],
+ "description": "Cyclobenzaprine is a prescription muscle relaxant used to relieve pain caused by muscle spasms and fibromyalgia. Learn about its uses, dosage, side effects, and interactions.",
+ "date_modified": "2026-08-14",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Flexeril",
+   "slug": "flexeril",
+   "blurb": "Flexeril (cyclobenzaprine) is a muscle relaxant used to treat skeletal muscle conditions such as..."
+  },
+  {
+   "name": "Robaxin",
+   "slug": "robaxin",
+   "blurb": "Robaxin (methocarbamol) is used to treat skeletal muscle conditions such as pain or injury..."
+  },
+  {
+   "name": "Ubrelvy",
+   "slug": "ubrelvy",
+   "blurb": "Ubrelvy (ubrogepant) tablets are used for the acute treatment of migraine. Includes Ubrelvy side..."
+  },
+  {
+   "name": "Valium",
+   "slug": "valium",
+   "blurb": "Valium is used to treat anxiety disorders, alcohol withdrawal symptoms, or muscle spasms. Learn..."
+  },
+  {
+   "name": "Zanaflex",
+   "slug": "zanaflex",
+   "blurb": "Zanaflex (tizanidine) is a short-acting muscle relaxer used to treat spasticity by temporarily..."
+  },
+  {
+   "name": "Soma",
+   "slug": "soma",
+   "blurb": "Soma (carisoprodol) is used treat injuries and other painful muscle conditions. Includes Soma side..."
+  },
+  {
+   "name": "Orphenadrine",
+   "slug": "mtm/orphenadrine",
+   "blurb": "Orphenadrine is used for headache, migraine, muscle spasm"
+  },
+  {
+   "name": "Carisoprodol",
+   "slug": "carisoprodol",
+   "blurb": "Carisoprodol is a muscle relaxer that works by blocking pain sensations. Learn about side effects..."
+  },
+  {
+   "name": "Diazepam",
+   "slug": "diazepam",
+   "blurb": "Diazepam is used to treat anxiety disorders, alcohol withdrawal symptoms, or muscle spasms. Learn..."
+  },
+  {
+   "name": "Baclofen",
+   "slug": "baclofen",
+   "blurb": "Baclofen is a muscle relaxant used to treat spasticity and muscle pain in conditions like multiple..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is cyclobenzaprine?",
+   "lines": [
+    "Cyclobenzaprine is a prescription muscle relaxant used short-term to relieve muscle spasms caused by sprains, strains, and injuries, including low back and neck pain. It is used together with rest and physical therapy to help relieve the pain, tenderness, and limited movement caused by muscle spasm. 1,2",
+    "Cyclobenzaprine is also used to treat fibromyalgia in adults, where it can help reduce pain. For fibromyalgia, it is taken as a sublingual (under the tongue) tablet at bedtime under the brand name Tonmya. In clinical trials, Tonmya significantly reduced fibromyalgia pain compared with placebo over 14 weeks, and close to half of treated patients achieved at least a 30% improvement in pain. 3",
+    "The Flexeril brand has been discontinued, but cyclobenzaprine is available as generic tablets and as the brand-name products Amrix (extended-release capsules) and Fexmid. 2,4"
+   ],
+   "text": "Cyclobenzaprine is a prescription muscle relaxant used short-term to relieve muscle spasms caused by sprains, strains, and injuries, including low back and neck pain. It is used together with rest and physical therapy to help relieve the pain, tenderness, and limited movement caused by muscle spasm. 1,2\nCyclobenzaprine is also used to treat fibromyalgia in adults, where it can help reduce pain. For fibromyalgia, it is taken as a sublingual (under the tongue) tablet at bedtime under the brand name Tonmya. In clinical trials, Tonmya significantly reduced fibromyalgia pain compared with placebo over 14 weeks, and close to half of treated patients achieved at least a 30% improvement in pain. 3\nThe Flexeril brand has been discontinued, but cyclobenzaprine is available as generic tablets and as the brand-name products Amrix (extended-release capsules) and Fexmid. 2,4"
+  },
+  {
+   "id": "overview",
+   "page": "main",
+   "heading": "How does cyclobenzaprine work?",
+   "lines": [
+    "Cyclobenzaprine works by reducing the nerve signals in the brain that drive muscle tone and spasm, which allows tight, overactive muscles to relax. It acts within the central nervous system, primarily at the level of the brain stem, and does not act on the muscles themselves or at the junction between nerves and muscle. 1,2 Because cyclobenzaprine works through the nervous system in this way, it will not relieve muscle spasm caused by central nervous system disease, such as cerebral palsy or spinal cord disease. 1,2",
+    "The way cyclobenzaprine works in fibromyalgia is not known. Laboratory studies show it blocks several receptor types, including serotonin (5-HT2A), histamine, and muscarinic receptors. 3",
+    "Cyclobenzaprine is chemically related to tricyclic antidepressants such as amitriptyline, which explains several of its side effects (such as drowsiness and dry mouth) and some of its most important drug interactions. 1,2"
+   ],
+   "text": "Cyclobenzaprine works by reducing the nerve signals in the brain that drive muscle tone and spasm, which allows tight, overactive muscles to relax. It acts within the central nervous system, primarily at the level of the brain stem, and does not act on the muscles themselves or at the junction between nerves and muscle. 1,2 Because cyclobenzaprine works through the nervous system in this way, it will not relieve muscle spasm caused by central nervous system disease, such as cerebral palsy or spinal cord disease. 1,2\nThe way cyclobenzaprine works in fibromyalgia is not known. Laboratory studies show it blocks several receptor types, including serotonin (5-HT2A), histamine, and muscarinic receptors. 3\nCyclobenzaprine is chemically related to tricyclic antidepressants such as amitriptyline, which explains several of its side effects (such as drowsiness and dry mouth) and some of its most important drug interactions. 1,2"
+  },
+  {
+   "id": "is-cyclobenzaprine-a-controlled-substance-or-narcotic",
+   "page": "main",
+   "heading": "Is cyclobenzaprine a controlled substance or narcotic?",
+   "lines": [
+    "No. Cyclobenzaprine is not a controlled substance and is not a narcotic, opioid, or benzodiazepine. It is a skeletal muscle relaxant that is chemically related to tricyclic antidepressants, and its FDA labeling states directly that cyclobenzaprine is not a controlled substance. 3",
+    "Cyclobenzaprine is not considered addictive in the way opioids or benzodiazepines are. Stopping suddenly after prolonged use may rarely cause nausea, headache, and a general unwell feeling, but these effects are not a sign of addiction. 1,3"
+   ],
+   "text": "No. Cyclobenzaprine is not a controlled substance and is not a narcotic, opioid, or benzodiazepine. It is a skeletal muscle relaxant that is chemically related to tricyclic antidepressants, and its FDA labeling states directly that cyclobenzaprine is not a controlled substance. 3\nCyclobenzaprine is not considered addictive in the way opioids or benzodiazepines are. Stopping suddenly after prolonged use may rarely cause nausea, headache, and a general unwell feeling, but these effects are not a sign of addiction. 1,3"
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Cyclobenzaprine warnings",
+   "lines": [
+    "Do not take cyclobenzaprine if you have an overactive thyroid (hyperthyroidism), congestive heart failure, a heart rhythm or conduction problem including heart block, or if you have recently had a heart attack. Do not take cyclobenzaprine within 14 days of taking an MAO inhibitor. 1,2,3",
+    "MAO inhibitors. Do not take MAO inhibitors, including isocarboxazid, linezolid, phenelzine, rasagiline, selegiline, and tranylcypromine with cyclobenzaprine. Dangerously high fever, seizures, and deaths have occurred when cyclobenzaprine or similar drugs were combined with these medicines. 1,2,3",
+    "Serotonin syndrome. Cyclobenzaprine can cause a serious condition called serotonin syndrome when taken with certain other medicines, especially antidepressants (SSRIs, SNRIs, tricyclics), tramadol, bupropion, meperidine, and verapamil. Get medical help right away if you have agitation, hallucinations, fever, sweating, shivering, fast heart rate, muscle stiffness or twitching, loss of coordination, nausea, vomiting, or diarrhea. 1,2,3",
+    "Drowsiness and alcohol. Cyclobenzaprine can impair your thinking and reactions, and this effect is stronger with alcohol or other medicines that cause drowsiness. Do not drive or do anything that needs alertness until you know how it affects you. 1,2,3",
+    "Pregnancy: If you use Tonmya for fibromyalgia. Based on animal studies, Tonmya may increase the risk of neural tube defects (a type of birth defect affecting the spine) if used in early pregnancy. Do not use Tonmya in the two weeks before conception or during the first trimester. See the Pregnancy section below. 3"
+   ],
+   "text": "Do not take cyclobenzaprine if you have an overactive thyroid (hyperthyroidism), congestive heart failure, a heart rhythm or conduction problem including heart block, or if you have recently had a heart attack. Do not take cyclobenzaprine within 14 days of taking an MAO inhibitor. 1,2,3\nMAO inhibitors. Do not take MAO inhibitors, including isocarboxazid, linezolid, phenelzine, rasagiline, selegiline, and tranylcypromine with cyclobenzaprine. Dangerously high fever, seizures, and deaths have occurred when cyclobenzaprine or similar drugs were combined with these medicines. 1,2,3\nSerotonin syndrome. Cyclobenzaprine can cause a serious condition called serotonin syndrome when taken with certain other medicines, especially antidepressants (SSRIs, SNRIs, tricyclics), tramadol, bupropion, meperidine, and verapamil. Get medical help right away if you have agitation, hallucinations, fever, sweating, shivering, fast heart rate, muscle stiffness or twitching, loss of coordination, nausea, vomiting, or diarrhea. 1,2,3\nDrowsiness and alcohol. Cyclobenzaprine can impair your thinking and reactions, and this effect is stronger with alcohol or other medicines that cause drowsiness. Do not drive or do anything that needs alertness until you know how it affects you. 1,2,3\nPregnancy: If you use Tonmya for fibromyalgia. Based on animal studies, Tonmya may increase the risk of neural tube defects (a type of birth defect affecting the spine) if used in early pregnancy. Do not use Tonmya in the two weeks before conception or during the first trimester. See the Pregnancy section below. 3"
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not take cyclobenzaprine if you are allergic to it, or if you have:",
+    "- hyperthyroidism (overactive thyroid);",
+    "- heart block, a heart rhythm disorder, or congestive heart failure; or",
+    "- had a recent heart attack. 1,2,3",
+    "To make sure cyclobenzaprine is safe for you, tell your doctor if you have ever had:",
+    "- liver disease; 1,2,3",
+    "- glaucoma or increased pressure in the eye; 1,2,3",
+    "- a seizure disorder (Tonmya); 3",
+    "- an enlarged prostate or problems with urination. 1,2,3",
+    "The safety and effectiveness of cyclobenzaprine tablets have not been established in children under 15 years of age. The safety and effectiveness of Tonmya and Amrix have not been established in children of any age. 1,2,3",
+    "Older adults:",
+    "Cyclobenzaprine builds up to higher levels in older adults and is more likely to cause side effects such as confusion, hallucinations, heart problems, and falls. In people 65 and older:",
+    "- Immediate-release tablets should be used only if clearly needed, starting at 5 mg and increasing slowly under medical supervision. 1",
+    "- Amrix extended-release capsules are not recommended at all, because blood levels run about 40% higher and the drug stays in the body much longer (half-life of 50 hours versus 32 hours in younger adults). 2",
+    "- Tonmya is limited to the lower 2.8 mg dose once daily at bedtime. 3",
+    "Pregnancy:",
+    "Pregnancy guidance differs by product, so check which cyclobenzaprine product you use.",
+    "Tonmya (fibromyalgia): Based on animal data, Tonmya may increase the risk of neural tube defects when used two weeks before conception and through the first trimester. Because neural tube development happens early, often before pregnancy is recognized, avoid Tonmya during this window. Your healthcare provider should do a pregnancy test before you start Tonmya, and you should use effective contraception during treatment and for two weeks after the final dose. 3",
+    "Immediate-release tablets and Amrix (muscle spasm): available data have not identified a risk of major birth defects or miscarriage, and animal studies at usual doses did not show harm to the fetus, although data are limited. These products should be used during pregnancy only if clearly needed. Tell your doctor if you are pregnant or plan to become pregnant. 1,2",
+    "Breastfeeding:",
+    "Small published reports suggest cyclobenzaprine passes into breast milk in low amounts, but there is no information on effects on a breastfed baby or on milk supply. Talk with your healthcare provider about the benefits of breastfeeding alongside your need for this medicine. 2,3"
+   ],
+   "text": "You should not take cyclobenzaprine if you are allergic to it, or if you have:\n- hyperthyroidism (overactive thyroid);\n- heart block, a heart rhythm disorder, or congestive heart failure; or\n- had a recent heart attack. 1,2,3\nTo make sure cyclobenzaprine is safe for you, tell your doctor if you have ever had:\n- liver disease; 1,2,3\n- glaucoma or increased pressure in the eye; 1,2,3\n- a seizure disorder (Tonmya); 3\n- an enlarged prostate or problems with urination. 1,2,3\nThe safety and effectiveness of cyclobenzaprine tablets have not been established in children under 15 years of age. The safety and effectiveness of Tonmya and Amrix have not been established in children of any age. 1,2,3\nOlder adults:\nCyclobenzaprine builds up to higher levels in older adults and is more likely to cause side effects such as confusion, hallucinations, heart problems, and falls. In people 65 and older:\n- Immediate-release tablets should be used only if clearly needed, starting at 5 mg and increasing slowly under medical supervision. 1\n- Amrix extended-release capsules are not recommended at all, because blood levels run about 40% higher and the drug stays in the body much longer (half-life of 50 hours versus 32 hours in younger adults). 2\n- Tonmya is limited to the lower 2.8 mg dose once daily at bedtime. 3\nPregnancy:\nPregnancy guidance differs by product, so check which cyclobenzaprine product you use.\nTonmya (fibromyalgia): Based on animal data, Tonmya may increase the risk of neural tube defects when used two weeks before conception and through the first trimester. Because neural tube development happens early, often before pregnancy is recognized, avoid Tonmya during this window. Your healthcare provider should do a pregnancy test before you start Tonmya, and you should use effective contraception during treatment and for two weeks after the final dose. 3\nImmediate-release tablets and Amrix (muscle spasm): available data have not identified a risk of major birth defects or miscarriage, and animal studies at usual doses did not show harm to the fetus, although data are limited. These products should be used during pregnancy only if clearly needed. Tell your doctor if you are pregnant or plan to become pregnant. 1,2\nBreastfeeding:\nSmall published reports suggest cyclobenzaprine passes into breast milk in low amounts, but there is no information on effects on a breastfed baby or on milk supply. Talk with your healthcare provider about the benefits of breastfeeding alongside your need for this medicine. 2,3"
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take cyclobenzaprine?",
+   "lines": [
+    "Cyclobenzaprine dose for muscle spasm:",
+    "Cyclobenzaprine is usually taken for up to 2 or 3 weeks for muscle spasm. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.",
+    "Immediate-release tablets are taken three times a day. Extended-release capsules are taken once daily, at about the same time each day. Swallow the capsules whole; if you have difficulty swallowing them, you can open the capsule and sprinkle the contents onto a tablespoon of applesauce, then swallow the mixture right away without chewing.",
+    "Follow your doctor's dosing instructions very carefully.",
+    "Cyclobenzaprine for fibromyalgia:",
+    "Tonmya is taken once daily at bedtime, after brushing your teeth. Drink a few sips of water first so your mouth is moist, place the tablet(s) under your tongue until dissolved, and do not swallow whole, cut, crush, or chew. Avoid eating or drinking for at least 15 minutes afterward, avoid hot, cold, or acidic drinks until morning, and avoid talking for about 5 minutes after dosing. 3"
+   ],
+   "text": "Cyclobenzaprine dose for muscle spasm:\nCyclobenzaprine is usually taken for up to 2 or 3 weeks for muscle spasm. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose.\nImmediate-release tablets are taken three times a day. Extended-release capsules are taken once daily, at about the same time each day. Swallow the capsules whole; if you have difficulty swallowing them, you can open the capsule and sprinkle the contents onto a tablespoon of applesauce, then swallow the mixture right away without chewing.\nFollow your doctor's dosing instructions very carefully.\nCyclobenzaprine for fibromyalgia:\nTonmya is taken once daily at bedtime, after brushing your teeth. Drink a few sips of water first so your mouth is moist, place the tablet(s) under your tongue until dissolved, and do not swallow whole, cut, crush, or chew. Avoid eating or drinking for at least 15 minutes afterward, avoid hot, cold, or acidic drinks until morning, and avoid talking for about 5 minutes after dosing. 3"
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Cyclobenzaprine dosage",
+   "lines": [
+    "The usual cyclobenzaprine dose for muscle spasm is 5 mg three times a day, which may be increased to 10 mg three times a day if needed. The maximum dose is 30 mg per day. Cyclobenzaprine is taken for a maximum of 2 to 3 weeks. 1",
+    "Cyclobenzaprine dosage chart:",
+    "Immediate-release tablets: the usual starting dose is 5 mg three times a day, increased to 10 mg three times a day based on your response. In adults 65 and older and in people with mild liver problems, treatment should start at 5 mg and be increased slowly, if at all. The tablets are not recommended with moderate to severe liver impairment. 1",
+    "Amrix extended-release capsules: the recommended dose is 15 mg once daily for most adults; some people may need 30 mg once daily (one 30 mg capsule or two 15 mg capsules). Amrix is not recommended in adults 65 and older, or in anyone with liver impairment of any severity. 2",
+    "Tonmya sublingual tablets (fibromyalgia): The recommended starting dose of Tonmya is 2.8 mg (1 sublingual tablet) once daily at bedtime for the first 14 days, then increases to the target dose of 5.6 mg (2 sublingual tablets) once daily at bedtime from day 15 onward. The maximum is 5.6 mg once daily. In adults 65 and older and in people with mild liver impairment, the maximum is 2.8 mg once daily at bedtime, and Tonmya is not recommended with moderate or severe liver impairment. 3",
+    "Product | Usual adult dose | Maximum dose | How long",
+    "Immediate-release tablets, formerly sold as Flexeril (adults and children 15 and older) | 5 mg three times a day, increased to 10 mg three times a day if needed | 30 mg per day (10 mg three times a day) | Up to 2 to 3 weeks",
+    "Amrix extended-release capsules | 15 mg once daily | 30 mg once daily | Up to 2 to 3 weeks",
+    "Tonmya sublingual tablets (fibromyalgia) | 2.8 mg once daily at bedtime for 14 days, then 5.6 mg once daily at bedtime | 5.6 mg once daily | Ongoing, as directed",
+    "1,2,3",
+    "Can I take 2 cyclobenzaprine 10 mg at the same time?:",
+    "No. Do not take two cyclobenzaprine 10 mg tablets at once. The maximum recommended single dose of the immediate-release tablet is 10 mg, taken up to three times a day. Taking 20 mg at one time increases the risk of side effects such as severe drowsiness and fast heart rate, and in overdose cyclobenzaprine can cause dangerous heart rhythm problems, without providing better muscle spasm relief. If your dose is not controlling your symptoms, talk with your doctor rather than doubling up. 1",
+    "How often can you take cyclobenzaprine?:",
+    "Immediate-release tablets are taken three times a day. Amrix extended-release capsules and Tonmya sublingual tablets are taken once a day. Do not take extra doses between scheduled doses. 1,2,3",
+    "How long does cyclobenzaprine take to work, and how long does it last?:",
+    "In clinical trials of the immediate-release tablets, the muscle relaxant effect was measurable within the first several days, with significant improvement in muscle spasm and pain by day 3 or 4 of treatment. 1",
+    "With Amrix extended-release capsules, the drug is first detectable in the blood about 1.5 hours after a dose, with peak levels at 7 to 8 hours, and one daily dose provides day-long coverage. 2",
+    "How long does cyclobenzaprine stay in your system?:",
+    "Cyclobenzaprine stays in your system for about 3 to 7 days after your last dose. It has a half-life of around 18 hours for the immediate-release tablets, and a drug takes 4 to 5 half-lives to clear from the body. 1",
+    "The once-daily forms last longer: the half-life is about 32 hours for Amrix extended-release capsules and about 36 hours for Tonmya sublingual tablets, so these can take a week or more to fully clear. Cyclobenzaprine also stays in the body longer in older adults and in people with liver problems, in whom blood levels run higher. 1,2,3",
+    "Does cyclobenzaprine show up on a drug test?:",
+    "No, cyclobenzaprine does not usually show up on a drug test, as it is not a controlled substance and it is not one of the five substances (amphetamines, cannabinoids, cocaine, opiates, and phencyclidine) required on standard federal workplace drug tests. 3,5",
+    "However, cyclobenzaprine has a similar structure to tricyclic antidepressants, and it is a recognized cause of false positive results on tricyclic antidepressant immunoassays, including urine immunoassays. Tests for tricyclic antidepressants are not part of routine drugs-of-abuse screening. 5",
+    "If you take cyclobenzaprine and need a drug test, tell the testing provider what medicines you take. A screening result is only presumptive, and a confirmatory laboratory test such as gas chromatography-mass spectrometry can tell cyclobenzaprine apart from a tricyclic antidepressant. 5"
+   ],
+   "text": "The usual cyclobenzaprine dose for muscle spasm is 5 mg three times a day, which may be increased to 10 mg three times a day if needed. The maximum dose is 30 mg per day. Cyclobenzaprine is taken for a maximum of 2 to 3 weeks. 1\nCyclobenzaprine dosage chart:\nImmediate-release tablets: the usual starting dose is 5 mg three times a day, increased to 10 mg three times a day based on your response. In adults 65 and older and in people with mild liver problems, treatment should start at 5 mg and be increased slowly, if at all. The tablets are not recommended with moderate to severe liver impairment. 1\nAmrix extended-release capsules: the recommended dose is 15 mg once daily for most adults; some people may need 30 mg once daily (one 30 mg capsule or two 15 mg capsules). Amrix is not recommended in adults 65 and older, or in anyone with liver impairment of any severity. 2\nTonmya sublingual tablets (fibromyalgia): The recommended starting dose of Tonmya is 2.8 mg (1 sublingual tablet) once daily at bedtime for the first 14 days, then increases to the target dose of 5.6 mg (2 sublingual tablets) once daily at bedtime from day 15 onward. The maximum is 5.6 mg once daily. In adults 65 and older and in people with mild liver impairment, the maximum is 2.8 mg once daily at bedtime, and Tonmya is not recommended with moderate or severe liver impairment. 3\nProduct | Usual adult dose | Maximum dose | How long\nImmediate-release tablets, formerly sold as Flexeril (adults and children 15 and older) | 5 mg three times a day, increased to 10 mg three times a day if needed | 30 mg per day (10 mg three times a day) | Up to 2 to 3 weeks\nAmrix extended-release capsules | 15 mg once daily | 30 mg once daily | Up to 2 to 3 weeks\nTonmya sublingual tablets (fibromyalgia) | 2.8 mg once daily at bedtime for 14 days, then 5.6 mg once daily at bedtime | 5.6 mg once daily | Ongoing, as directed\n1,2,3\nCan I take 2 cyclobenzaprine 10 mg at the same time?:\nNo. Do not take two cyclobenzaprine 10 mg tablets at once. The maximum recommended single dose of the immediate-release tablet is 10 mg, taken up to three times a day. Taking 20 mg at one time increases the risk of side effects such as severe drowsiness and fast heart rate, and in overdose cyclobenzaprine can cause dangerous heart rhythm problems, without providing better muscle spasm relief. If your dose is not controlling your symptoms, talk with your doctor rather than doubling up. 1\nHow often can you take cyclobenzaprine?:\nImmediate-release tablets are taken three times a day. Amrix extended-release capsules and Tonmya sublingual tablets are taken once a day. Do not take extra doses between scheduled doses. 1,2,3\nHow long does cyclobenzaprine take to work, and how long does it last?:\nIn clinical trials of the immediate-release tablets, the muscle relaxant effect was measurable within the first several days, with significant improvement in muscle spasm and pain by day 3 or 4 of treatment. 1\nWith Amrix extended-release capsules, the drug is first detectable in the blood about 1.5 hours after a dose, with peak levels at 7 to 8 hours, and one daily dose provides day-long coverage. 2\nHow long does cyclobenzaprine stay in your system?:\nCyclobenzaprine stays in your system for about 3 to 7 days after your last dose. It has a half-life of around 18 hours for the immediate-release tablets, and a drug takes 4 to 5 half-lives to clear from the body. 1\nThe once-daily forms last longer: the half-life is about 32 hours for Amrix extended-release capsules and about 36 hours for Tonmya sublingual tablets, so these can take a week or more to fully clear. Cyclobenzaprine also stays in the body longer in older adults and in people with liver problems, in whom blood levels run higher. 1,2,3\nDoes cyclobenzaprine show up on a drug test?:\nNo, cyclobenzaprine does not usually show up on a drug test, as it is not a controlled substance and it is not one of the five substances (amphetamines, cannabinoids, cocaine, opiates, and phencyclidine) required on standard federal workplace drug tests. 3,5\nHowever, cyclobenzaprine has a similar structure to tricyclic antidepressants, and it is a recognized cause of false positive results on tricyclic antidepressant immunoassays, including urine immunoassays. Tests for tricyclic antidepressants are not part of routine drugs-of-abuse screening. 5\nIf you take cyclobenzaprine and need a drug test, tell the testing provider what medicines you take. A screening result is only presumptive, and a confirmatory laboratory test such as gas chromatography-mass spectrometry can tell cyclobenzaprine apart from a tricyclic antidepressant. 5"
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Immediate-release tablets and Amrix: take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time.",
+    "Tonmya: if you miss your bedtime dose, take your next dose at the regular time the following evening. Do not take a missed dose during the day, and do not take two doses to make up for a missed dose. 3"
+   ],
+   "text": "Immediate-release tablets and Amrix: take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time.\nTonmya: if you miss your bedtime dose, take your next dose at the regular time the following evening. Do not take a missed dose during the day, and do not take two doses to make up for a missed dose. 3"
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222. An overdose of cyclobenzaprine can be fatal, and deliberate overdoses often involve other drugs or alcohol, which raises the danger. 1,2",
+    "Overdose symptoms may include severe drowsiness, fast heartbeats, tremors, agitation, slurred speech, confusion, dizziness, nausea, vomiting, or hallucinations. Rare but critical effects include seizures, dangerously low blood pressure, heart rhythm disturbances, and cardiac arrest. 1,2"
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222. An overdose of cyclobenzaprine can be fatal, and deliberate overdoses often involve other drugs or alcohol, which raises the danger. 1,2\nOverdose symptoms may include severe drowsiness, fast heartbeats, tremors, agitation, slurred speech, confusion, dizziness, nausea, vomiting, or hallucinations. Rare but critical effects include seizures, dangerously low blood pressure, heart rhythm disturbances, and cardiac arrest. 1,2"
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What to avoid",
+   "lines": [
+    "Avoid driving or hazardous activity until you know how cyclobenzaprine will affect you. It can impair your thinking and reactions, and this effect is stronger with alcohol or other medicines that cause drowsiness. Avoid drinking alcohol while taking cyclobenzaprine. 1,2,3"
+   ],
+   "text": "Avoid driving or hazardous activity until you know how cyclobenzaprine will affect you. It can impair your thinking and reactions, and this effect is stronger with alcohol or other medicines that cause drowsiness. Avoid drinking alcohol while taking cyclobenzaprine. 1,2,3"
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Cyclobenzaprine side effects",
+   "lines": [
+    "The most common cyclobenzaprine side effects are drowsiness, dry mouth, dizziness, fatigue, and headache. Most side effects are mild and settle as your body adjusts, but cyclobenzaprine can occasionally cause serious heart rhythm effects and serotonin syndrome. 1",
+    "Common cyclobenzaprine side effects:",
+    "Common cyclobenzaprine side effects may include: 1",
+    "- drowsiness and tiredness;",
+    "- dry mouth;",
+    "- dizziness;",
+    "- fatigue;",
+    "- headache;",
+    "- nausea, indigestion, or constipation;",
+    "- blurred vision;",
+    "- unpleasant taste;",
+    "- nervousness or confusion.",
+    "In placebo-controlled trials of the immediate-release tablets, side effects were dose-related, occurring more often with 10 mg than with 5 mg: 1",
+    "Side effect | Cyclobenzaprine 5 mg | Cyclobenzaprine 10 mg | Placebo",
+    "Drowsiness | 29% | 38% | 10%",
+    "Dry mouth | 21% | 32% | 7%",
+    "Fatigue | 6% | 6% | 3%",
+    "Headache | 5% | 5% | 8%",
+    "With Amrix, the most common side effects are dry mouth (up to 14% at 30 mg), dizziness, fatigue, constipation, nausea, indigestion, and drowsiness. 2",
+    "With Tonmya, because it dissolves under the tongue, the most common side effects involve the mouth: reduced feeling or numbness in the mouth (23%), mouth discomfort, abnormal taste, tingling, mouth pain, and canker sores, along with sleepiness, fatigue, and dry mouth. Mouth-related effects usually begin within minutes of a dose and most resolve within an hour. Moistening your mouth with sips of water before dosing reduces the risk of numbness. Tell your healthcare provider if mouth effects are severe. 3",
+    "Serious cyclobenzaprine side effects:",
+    "Get emergency medical help if you have signs of an allergic reaction to cyclobenzaprine: hives; difficult breathing; swelling of your face, lips, tongue, or throat; or itching. 2,3",
+    "Stop taking cyclobenzaprine and call your doctor at once if you have: 1,2,3",
+    "- fast, pounding, or irregular heartbeats;",
+    "- chest pain or pressure, or pain spreading to your jaw or shoulder;",
+    "- sudden numbness or weakness, slurred speech, or balance problems; or",
+    "- symptoms of serotonin syndrome: agitation, hallucinations, fever, sweating, shivering, fast heart rate, muscle stiffness or twitching, loss of coordination, nausea, vomiting, or diarrhea.",
+    "Serious side effects, including confusion, hallucinations, and heart problems leading to falls, are more likely in older adults. 1",
+    "Does cyclobenzaprine make you sleepy?:",
+    "Yes, drowsiness is the most common side effect of the tablets, affecting up to 38% of people taking the 10 mg dose in clinical trials. This is one reason 5 mg is the usual starting dose, since it causes less drowsiness with comparable effectiveness. Analysis of trial data shows cyclobenzaprine relieves muscle spasm whether or not sedation occurs, so drowsiness is not required for it to work. 1",
+    "Does cyclobenzaprine cause constipation?:",
+    "Constipation is a known side effect, reported in 1% to 3% of people taking the immediate-release tablets and up to 3% of people taking Amrix 30 mg in clinical trials. It results from the drug's anticholinergic (drying) effects, the same mechanism behind dry mouth and blurred vision. 1,2",
+    "This is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "The most common cyclobenzaprine side effects are drowsiness, dry mouth, dizziness, fatigue, and headache. Most side effects are mild and settle as your body adjusts, but cyclobenzaprine can occasionally cause serious heart rhythm effects and serotonin syndrome. 1\nCommon cyclobenzaprine side effects:\nCommon cyclobenzaprine side effects may include: 1\n- drowsiness and tiredness;\n- dry mouth;\n- dizziness;\n- fatigue;\n- headache;\n- nausea, indigestion, or constipation;\n- blurred vision;\n- unpleasant taste;\n- nervousness or confusion.\nIn placebo-controlled trials of the immediate-release tablets, side effects were dose-related, occurring more often with 10 mg than with 5 mg: 1\nSide effect | Cyclobenzaprine 5 mg | Cyclobenzaprine 10 mg | Placebo\nDrowsiness | 29% | 38% | 10%\nDry mouth | 21% | 32% | 7%\nFatigue | 6% | 6% | 3%\nHeadache | 5% | 5% | 8%\nWith Amrix, the most common side effects are dry mouth (up to 14% at 30 mg), dizziness, fatigue, constipation, nausea, indigestion, and drowsiness. 2\nWith Tonmya, because it dissolves under the tongue, the most common side effects involve the mouth: reduced feeling or numbness in the mouth (23%), mouth discomfort, abnormal taste, tingling, mouth pain, and canker sores, along with sleepiness, fatigue, and dry mouth. Mouth-related effects usually begin within minutes of a dose and most resolve within an hour. Moistening your mouth with sips of water before dosing reduces the risk of numbness. Tell your healthcare provider if mouth effects are severe. 3\nSerious cyclobenzaprine side effects:\nGet emergency medical help if you have signs of an allergic reaction to cyclobenzaprine: hives; difficult breathing; swelling of your face, lips, tongue, or throat; or itching. 2,3\nStop taking cyclobenzaprine and call your doctor at once if you have: 1,2,3\n- fast, pounding, or irregular heartbeats;\n- chest pain or pressure, or pain spreading to your jaw or shoulder;\n- sudden numbness or weakness, slurred speech, or balance problems; or\n- symptoms of serotonin syndrome: agitation, hallucinations, fever, sweating, shivering, fast heart rate, muscle stiffness or twitching, loss of coordination, nausea, vomiting, or diarrhea.\nSerious side effects, including confusion, hallucinations, and heart problems leading to falls, are more likely in older adults. 1\nDoes cyclobenzaprine make you sleepy?:\nYes, drowsiness is the most common side effect of the tablets, affecting up to 38% of people taking the 10 mg dose in clinical trials. This is one reason 5 mg is the usual starting dose, since it causes less drowsiness with comparable effectiveness. Analysis of trial data shows cyclobenzaprine relieves muscle spasm whether or not sedation occurs, so drowsiness is not required for it to work. 1\nDoes cyclobenzaprine cause constipation?:\nConstipation is a known side effect, reported in 1% to 3% of people taking the immediate-release tablets and up to 3% of people taking Amrix 30 mg in clinical trials. It results from the drug's anticholinergic (drying) effects, the same mechanism behind dry mouth and blurred vision. 1,2\nThis is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "Cyclobenzaprine interactions",
+   "lines": [
+    "The most serious cyclobenzaprine (Flexeril) drug interactions are with MAO inhibitors, which must never be combined with cyclobenzaprine, and with antidepressants and other serotonergic medicines, which can cause serotonin syndrome. Cyclobenzaprine also interacts with alcohol and other medicines that cause drowsiness, making sedation worse. 1,2,3",
+    "Other medicines and substances that interact with cyclobenzaprine include: 1,2,3",
+    "- MAO inhibitors such as isocarboxazid, linezolid, phenelzine, rasagiline, selegiline, and tranylcypromine (contraindicated; do not use within 14 days);",
+    "- antidepressants of any kind, including SSRIs, SNRIs, and tricyclics (risk of serotonin syndrome);",
+    "- bupropion, tramadol, or meperidine;",
+    "- verapamil;",
+    "- alcohol;",
+    "- opioid medicines, sleeping pills, other muscle relaxers, and medicines for anxiety or seizures;",
+    "- barbiturates and other CNS depressants;",
+    "- anticholinergic medicines;",
+    "- guanethidine or similar blood pressure medicines;",
+    "- cold or allergy medicines containing an antihistamine.",
+    "Cyclobenzaprine may increase the risk of seizures in people taking tramadol, and may block the blood pressure-lowering effect of guanethidine and similar drugs. 1,2,3",
+    "Tell your doctor about all your other medicines. This list is not complete, and other drugs may interact with cyclobenzaprine, including prescription and over-the-counter medicines, vitamins, and herbal products.",
+    "Can you take ibuprofen with cyclobenzaprine?:",
+    "There is no listed drug interaction between cyclobenzaprine and ibuprofen, and the two are commonly prescribed together for painful muscle injuries, since they work in different ways. In studies, taking cyclobenzaprine with aspirin did not change blood levels of either drug, and combining it with naproxen was well tolerated, although the combination caused more drowsiness than naproxen alone. Check with your doctor or pharmacist before combining medicines, especially if you take other drugs as well. 1",
+    "Can you take Tylenol with cyclobenzaprine?:",
+    "There is no listed interaction between cyclobenzaprine and acetaminophen (Tylenol), and they may be used together when recommended by your doctor. Be careful with combination cold or nighttime products, which may contain antihistamines or other sedating ingredients that do interact with cyclobenzaprine. 1"
+   ],
+   "text": "The most serious cyclobenzaprine (Flexeril) drug interactions are with MAO inhibitors, which must never be combined with cyclobenzaprine, and with antidepressants and other serotonergic medicines, which can cause serotonin syndrome. Cyclobenzaprine also interacts with alcohol and other medicines that cause drowsiness, making sedation worse. 1,2,3\nOther medicines and substances that interact with cyclobenzaprine include: 1,2,3\n- MAO inhibitors such as isocarboxazid, linezolid, phenelzine, rasagiline, selegiline, and tranylcypromine (contraindicated; do not use within 14 days);\n- antidepressants of any kind, including SSRIs, SNRIs, and tricyclics (risk of serotonin syndrome);\n- bupropion, tramadol, or meperidine;\n- verapamil;\n- alcohol;\n- opioid medicines, sleeping pills, other muscle relaxers, and medicines for anxiety or seizures;\n- barbiturates and other CNS depressants;\n- anticholinergic medicines;\n- guanethidine or similar blood pressure medicines;\n- cold or allergy medicines containing an antihistamine.\nCyclobenzaprine may increase the risk of seizures in people taking tramadol, and may block the blood pressure-lowering effect of guanethidine and similar drugs. 1,2,3\nTell your doctor about all your other medicines. This list is not complete, and other drugs may interact with cyclobenzaprine, including prescription and over-the-counter medicines, vitamins, and herbal products.\nCan you take ibuprofen with cyclobenzaprine?:\nThere is no listed drug interaction between cyclobenzaprine and ibuprofen, and the two are commonly prescribed together for painful muscle injuries, since they work in different ways. In studies, taking cyclobenzaprine with aspirin did not change blood levels of either drug, and combining it with naproxen was well tolerated, although the combination caused more drowsiness than naproxen alone. Check with your doctor or pharmacist before combining medicines, especially if you take other drugs as well. 1\nCan you take Tylenol with cyclobenzaprine?:\nThere is no listed interaction between cyclobenzaprine and acetaminophen (Tylenol), and they may be used together when recommended by your doctor. Be careful with combination cold or nighttime products, which may contain antihistamines or other sedating ingredients that do interact with cyclobenzaprine. 1"
+  },
+  {
+   "id": "flexeril-and-other-brand-names",
+   "page": "main",
+   "heading": "Flexeril and other brand names",
+   "lines": [
+    "Flexeril was the original brand name for cyclobenzaprine and remains the name many people know it by. The Flexeril brand has been discontinued and is no longer on the marke t, but this was a commercial decision, not a safety withdrawal: generic cyclobenzaprine tablets containing the same active ingredient remain widely available and inexpensive. 4",
+    "Current brand names include Amrix (15 mg and 30 mg extended-release capsules taken once daily), Fexmid (7.5 mg tablets), and Tonmya (2.8 mg sublingual tablets for fibromyalgia, approved August 2025). 2,3"
+   ],
+   "text": "Flexeril was the original brand name for cyclobenzaprine and remains the name many people know it by. The Flexeril brand has been discontinued and is no longer on the marke t, but this was a commercial decision, not a safety withdrawal: generic cyclobenzaprine tablets containing the same active ingredient remain widely available and inexpensive. 4\nCurrent brand names include Amrix (15 mg and 30 mg extended-release capsules taken once daily), Fexmid (7.5 mg tablets), and Tonmya (2.8 mg sublingual tablets for fibromyalgia, approved August 2025). 2,3"
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: Does cyclobenzaprine make you sleepy? A: Yes, cyclobenzaprine can make you very sleepy and this side effect may get worse with higher doses. Drowsiness is the most commonly reported side effect in studies, occurring in up to 38% (38 out of 100) of people. Fatigue and dizziness may also occur. Avoid or limit the use of alcohol or other sedating medicines while being treated with cyclobenzaprine. Also avoid driving, operating machinery, or other hazardous activities until you know how cyclobenzaprine affects you.",
+    "Q: How long does it take for cyclobenzaprine to work? A: Immediate-release cyclobenzaprine tablets work in about 30 to 60 minutes to start relieving your muscle spasm pain. Its duration of action is 4 to 6 hours and it is typically given 3 times per day. It may take up to 7 days for you to see the full therapeutical effect. The extended-release cyclobenzaprine capsules (brand name: Amrix) are usually given once per day but may take longer to start working. Cyclobenzaprine use for periods longer than 2 or 3 weeks is not recommended.",
+    "Q: How much cyclobenzaprine can I take? A: For most adults, immediate-release cyclobenzaprine is taken as 5 mg three times daily and may be increased to 10 mg three times daily. Extended-release cyclobenzaprine (Amrix) is usually 15 mg once daily and may be increased to 30 mg. Tonmya for fibromyalgia has a maximum recommended dose of 5.6 mg nightly, and 2.8 mg daily for older adults or people with liver disease.",
+    "Q: How long does it take for Flexeril to work? A: Flexeril (cyclobenzaprine) is a fast-acting medicine and you should start to feel some muscle relaxant effects within 30 minutes to one hour. The full effect can take up to 7 days. The drowsy side effect will set in quickly, too, so be sure you are not driving or doing other hazardous activities.",
+    "Q: Is cyclobenzaprine a controlled substance or addictive? A: No. Cyclobenzaprine is not a controlled substance and is not considered addictive. Rarely, stopping it suddenly after prolonged use may cause nausea, headache, or malaise, but these symptoms are not signs of addiction. Cyclobenzaprine can cause drowsiness and should not be combined with alcohol or other CNS depressants without medical advice.",
+    "Q: How long does Flexeril (cyclobenzaprine) stay in your system? A: As an estimate, after taking a dose of Flexeril it should be out of your system within 5.5 days to 16.5 days.",
+    "Q: Can I take cyclobenzaprine and Tylenol together? A: Yes, you can take cyclobenzaprine and Tylenol (acetaminophen) together. There are no known interactions between these medicines, however this doesn't necessarily mean that no interaction exist."
+   ],
+   "text": "Q: Does cyclobenzaprine make you sleepy? A: Yes, cyclobenzaprine can make you very sleepy and this side effect may get worse with higher doses. Drowsiness is the most commonly reported side effect in studies, occurring in up to 38% (38 out of 100) of people. Fatigue and dizziness may also occur. Avoid or limit the use of alcohol or other sedating medicines while being treated with cyclobenzaprine. Also avoid driving, operating machinery, or other hazardous activities until you know how cyclobenzaprine affects you.\nQ: How long does it take for cyclobenzaprine to work? A: Immediate-release cyclobenzaprine tablets work in about 30 to 60 minutes to start relieving your muscle spasm pain. Its duration of action is 4 to 6 hours and it is typically given 3 times per day. It may take up to 7 days for you to see the full therapeutical effect. The extended-release cyclobenzaprine capsules (brand name: Amrix) are usually given once per day but may take longer to start working. Cyclobenzaprine use for periods longer than 2 or 3 weeks is not recommended.\nQ: How much cyclobenzaprine can I take? A: For most adults, immediate-release cyclobenzaprine is taken as 5 mg three times daily and may be increased to 10 mg three times daily. Extended-release cyclobenzaprine (Amrix) is usually 15 mg once daily and may be increased to 30 mg. Tonmya for fibromyalgia has a maximum recommended dose of 5.6 mg nightly, and 2.8 mg daily for older adults or people with liver disease.\nQ: How long does it take for Flexeril to work? A: Flexeril (cyclobenzaprine) is a fast-acting medicine and you should start to feel some muscle relaxant effects within 30 minutes to one hour. The full effect can take up to 7 days. The drowsy side effect will set in quickly, too, so be sure you are not driving or doing other hazardous activities.\nQ: Is cyclobenzaprine a controlled substance or addictive? A: No. Cyclobenzaprine is not a controlled substance and is not considered addictive. Rarely, stopping it suddenly after prolonged use may cause nausea, headache, or malaise, but these symptoms are not signs of addiction. Cyclobenzaprine can cause drowsiness and should not be combined with alcohol or other CNS depressants without medical advice.\nQ: How long does Flexeril (cyclobenzaprine) stay in your system? A: As an estimate, after taking a dose of Flexeril it should be out of your system within 5.5 days to 16.5 days.\nQ: Can I take cyclobenzaprine and Tylenol together? A: Yes, you can take cyclobenzaprine and Tylenol (acetaminophen) together. There are no known interactions between these medicines, however this doesn't necessarily mean that no interaction exist."
+  }
+ ],
+ "rank": 49
+}

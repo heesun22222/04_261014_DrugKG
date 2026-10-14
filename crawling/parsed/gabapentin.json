@@ -1,0 +1,431 @@
+{
+ "name": "Gabapentin",
+ "slug": "gabapentin",
+ "url": "https://www.drugs.com/gabapentin.html",
+ "title": "Gabapentin",
+ "page_title": "Gabapentin: Uses, Dosage, Side Effects, Warnings - Drugs.com",
+ "brand_names": [
+  "Gralise",
+  "Neurontin",
+  "Horizant",
+  "Relgaabi"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "capsule",
+   "strengths": []
+  },
+  {
+   "form": "tablet",
+   "strengths": []
+  },
+  {
+   "form": "extended-release tablet",
+   "strengths": []
+  },
+  {
+   "form": "oral solution",
+   "strengths": []
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Gabapentinoids",
+   "slug": "gamma-aminobutyric-acid-analogs"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Melisa Puckey, BPharm. Last updated on Aug 14, 2026.",
+ "faq": [
+  {
+   "q": "Gabapentin for dogs: uses, dosage and side effects",
+   "a": "Gabapentin is commonly prescribed by veterinarians to treat dogs with chronic pain (such as arthritis, back pain, or nerve pain) or to relieve fear or anxiety associated with stressful events (such as car or plane travel, situations with loud noises [such as fireworks], or visits to the vets or the groomers)."
+  },
+  {
+   "q": "Lyrica vs Gabapentin: What's the difference?",
+   "a": "Both Lyrica (pregabalin) and gabapentin (Neurontin) are both anticonvulsants and gabapentinoids used to treat nerve pain and seizures, but they differ significantly in potency, absorption speed, and regulatory status. Lyrica is generally more potent, faster-acting (peaks in approximately 1 hour), and is a Schedule V controlled substance, whereas gabapentin peaks in 3 to 4 hours, is less regulated in most states, and is usually cheaper."
+  },
+  {
+   "q": "How long does gabapentin withdrawal last?",
+   "a": "Case reports have shown that gabapentin withdrawal often lasts for 5 to 10 days, but some people have taken as long as 18 weeks to completely taper off gabapentin while managing withdrawal symptoms. The symptoms and how long they last depend on how much of the drug you are taking and for how long you’ve been taking it."
+  },
+  {
+   "q": "Is gabapentin considered a painkiller?",
+   "a": "Gabapentin (Neurontin, Gralise, Horizant) is commonly used to treat some types of nerve pain but is classified as an anticonvulsant medicine, not as an opioid or narcotic painkiller. Gabapentin is used to treat nerve pain that can occur due to an outbreak of shingles, restless legs syndrome (RLS), and some forms of epilepsy."
+  },
+  {
+   "q": "Is gabapentin safe for cats?",
+   "a": "Yes, Gabapentin is safe for cats when prescribed by a veterinarian. This medication is commonly used to treat cat pain, anxiety, and feline hyperesthesia syndrome with minimal side effects. Mild sedation and drowsiness are the most common reactions, which typically improve with continued use."
+  },
+  {
+   "q": "Does gabapentin help treat nerve pain?",
+   "a": "Gabapentin can help relieve nerve pain in some people with postherpetic neuralgia (shingles nerve pain) and diabetic peripheral neuropathy (diabetic foot pain)."
+  },
+  {
+   "q": "How long does it take gabapentin to work?",
+   "a": "It can take several weeks for gabapentin to reach its full effect, but this depends on the condition being treated and your individual response to the drug."
+  },
+  {
+   "q": "Does gabapentin cause weight gain?",
+   "a": "Gabapentin may cause weight gain, but it is an uncommon side effect. Studies have shown that a small number of people taking gabapentin weight gain. People who do gain weight may gain about 5 pounds after 6 weeks of use."
+  },
+  {
+   "q": "Does gabapentin help you sleep?",
+   "a": "Gabapentin is a prescription medication that may help you sleep. That may be why it has been prescribed for people with insomnia, even though it is not approved for that use."
+  }
+ ],
+ "description": "Gabapentin is a prescription medicine used to treat seizures, pain after shingles, restless legs syndrome, and off-label uses. Learn about side effects, dosage, uses, warnings, interactions, and brand differences.",
+ "date_modified": "2026-08-14",
+ "reviewed_by": "Melisa Puckey",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Paracetamol",
+   "slug": "paracetamol",
+   "blurb": "Paracetamol (Panadol, Calpol, Alvedon) is a widely used over-the-counter painkiller and fever..."
+  },
+  {
+   "name": "Tylenol",
+   "slug": "tylenol",
+   "blurb": "Tylenol is a pain reliever and a fever reducer used to treat many conditions such as headaches..."
+  },
+  {
+   "name": "Xcopri",
+   "slug": "xcopri",
+   "blurb": "Xcopri (cenobamate) is an oral, once-daily, tablet that may be used to treat partial-onset seizures..."
+  },
+  {
+   "name": "Cymbalta",
+   "slug": "cymbalta",
+   "blurb": "Cymbalta (duloxetine) is used to treat major depressive disorder, general anxiety disorder and..."
+  },
+  {
+   "name": "Naproxen",
+   "slug": "naproxen",
+   "blurb": "Naproxen is a nonsteroidal anti-inflammatory drug used to treat pain or inflammation caused by..."
+  },
+  {
+   "name": "Oxycodone",
+   "slug": "oxycodone",
+   "blurb": "Oxycodone is an opioid pain medication used to treat moderate to severe pain. Includes oxycodone..."
+  },
+  {
+   "name": "Cyclobenzaprine",
+   "slug": "cyclobenzaprine",
+   "blurb": "Cyclobenzaprine is a muscle relaxant used for short-term pain relief. Learn about its uses, dosage..."
+  },
+  {
+   "name": "Tramadol",
+   "slug": "tramadol",
+   "blurb": "Tramadol is an opioid medication that may be used to treat moderate to moderately severe chronic..."
+  },
+  {
+   "name": "Ibuprofen",
+   "slug": "ibuprofen",
+   "blurb": "Ibuprofen (Advil, Motrin) treats minor aches and pains caused by the common cold, headaches..."
+  },
+  {
+   "name": "Aspirin",
+   "slug": "aspirin",
+   "blurb": "Aspirin is used to treat mild to moderate pain and to reduce fever or inflammation. Learn about..."
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is gabapentin?",
+   "lines": [
+    "Gabapentin is a prescription medicine used to treat partial seizures, nerve pain from shingles (postherpetic neuralgia), and restless legs syndrome (Horizant brand only). It may also be prescribed off-label for other conditions including diabetic nerve pain, anxiety, and fibromyalgia. Gabapentin is thought to work by calming overactive nerve signals in the brain and nervous system. It is an anticonvulsant and nerve pain medication from the drug class gabapentinoids",
+    "Gabapentin brand names are Neurontin, Gralise, Horizant, and Relgaabi, which may not be interchangeable.",
+    "Gabapentin is not a federally controlled substance, but some states classify it as Schedule V and others require gabapentin prescriptions to be reported to their prescription drug monitoring program (PDMP). Rules on refills and quantity limits vary by state.",
+    "The most common side effects of gabapentin are dizziness, drowsiness (somnolence), and swelling in the hands or feet (peripheral edema). These often improve as your body adjusts, but do not drive until you know how gabapentin affects you."
+   ],
+   "text": "Gabapentin is a prescription medicine used to treat partial seizures, nerve pain from shingles (postherpetic neuralgia), and restless legs syndrome (Horizant brand only). It may also be prescribed off-label for other conditions including diabetic nerve pain, anxiety, and fibromyalgia. Gabapentin is thought to work by calming overactive nerve signals in the brain and nervous system. It is an anticonvulsant and nerve pain medication from the drug class gabapentinoids\nGabapentin brand names are Neurontin, Gralise, Horizant, and Relgaabi, which may not be interchangeable.\nGabapentin is not a federally controlled substance, but some states classify it as Schedule V and others require gabapentin prescriptions to be reported to their prescription drug monitoring program (PDMP). Rules on refills and quantity limits vary by state.\nThe most common side effects of gabapentin are dizziness, drowsiness (somnolence), and swelling in the hands or feet (peripheral edema). These often improve as your body adjusts, but do not drive until you know how gabapentin affects you."
+  },
+  {
+   "id": "what-is-gabapentin-used-for",
+   "page": "main",
+   "heading": "What is gabapentin used for?",
+   "lines": [
+    "Gabapentin is FDA-approved to treat partial onset seizures in patients 3 years and older (used with other seizure medicines) and nerve pain from shingles (postherpetic neuralgia) in adults. A related product, gabapentin enacarbil (Horizant), is approved for moderate to severe restless legs syndrome in adults.",
+    "The approved uses depend on the specific product, and no single gabapentin product is approved for all of these conditions. See the table below for a breakdown by brand."
+   ],
+   "text": "Gabapentin is FDA-approved to treat partial onset seizures in patients 3 years and older (used with other seizure medicines) and nerve pain from shingles (postherpetic neuralgia) in adults. A related product, gabapentin enacarbil (Horizant), is approved for moderate to severe restless legs syndrome in adults.\nThe approved uses depend on the specific product, and no single gabapentin product is approved for all of these conditions. See the table below for a breakdown by brand."
+  },
+  {
+   "id": "gabapentin-off-label-uses",
+   "page": "main",
+   "heading": "Gabapentin off-label uses",
+   "lines": [
+    "Doctors also prescribe gabapentin off-label for other types of nerve pain, including diabetic nerve pain (diabetic neuropathy), and for anxiety, fibromyalgia, hot flashes, and alcohol withdrawal. Off-label means that the condition it is being prescribed for is not an FDA-approved indication."
+   ],
+   "text": "Doctors also prescribe gabapentin off-label for other types of nerve pain, including diabetic nerve pain (diabetic neuropathy), and for anxiety, fibromyalgia, hot flashes, and alcohol withdrawal. Off-label means that the condition it is being prescribed for is not an FDA-approved indication."
+  },
+  {
+   "id": "are-gabapentin-brands-interchangeable",
+   "page": "main",
+   "heading": "Are gabapentin brands interchangeable?",
+   "lines": [
+    "Different brands of gabapentin are not interchangeable, and they are FDA-approved for different conditions. Use only the brand and form of gabapentin your doctor has prescribed. Check your medicine each time you get a refill to make sure you receive the correct form.",
+    "Important: Gralise and Horizant are not substitutes for Neurontin or generic gabapentin, even at the same milligram dose. The release profile differs, and switching without a prescriber's instruction can significantly change blood levels.",
+    "Brand (form) | Partial onset seizures (add-on) | Postherpetic neuralgia | Restless legs syndrome",
+    "Neurontin (immediate-release capsule, tablet, oral solution) | Adults and children 3 years and older | Adults | Not approved",
+    "Generic gabapentin (immediate-release) | Adults and children 3 years and older | Adults | Not approved",
+    "Relgaabi (immediate-release capsule) | Adults and children 3 years and older | Adults | Not approved",
+    "Gralise (once-daily extended-release tablet) | Not approved | Adults | Not approved",
+    "Horizant (gabapentin enacarbil, extended-release tablet) | Not approved | Adults | Adults (moderate to severe primary RLS)",
+    "Sources: FDA prescribing information for Neurontin, Gralise, and Horizant; Relgaabi prescribing information (DailyMed)"
+   ],
+   "text": "Different brands of gabapentin are not interchangeable, and they are FDA-approved for different conditions. Use only the brand and form of gabapentin your doctor has prescribed. Check your medicine each time you get a refill to make sure you receive the correct form.\nImportant: Gralise and Horizant are not substitutes for Neurontin or generic gabapentin, even at the same milligram dose. The release profile differs, and switching without a prescriber's instruction can significantly change blood levels.\nBrand (form) | Partial onset seizures (add-on) | Postherpetic neuralgia | Restless legs syndrome\nNeurontin (immediate-release capsule, tablet, oral solution) | Adults and children 3 years and older | Adults | Not approved\nGeneric gabapentin (immediate-release) | Adults and children 3 years and older | Adults | Not approved\nRelgaabi (immediate-release capsule) | Adults and children 3 years and older | Adults | Not approved\nGralise (once-daily extended-release tablet) | Not approved | Adults | Not approved\nHorizant (gabapentin enacarbil, extended-release tablet) | Not approved | Adults | Adults (moderate to severe primary RLS)\nSources: FDA prescribing information for Neurontin, Gralise, and Horizant; Relgaabi prescribing information (DailyMed)"
+  },
+  {
+   "id": "overview",
+   "page": "main",
+   "heading": "How does gabapentin work?",
+   "lines": [
+    "Gabapentin works by calming overactive electrical signals in the brain and nervous system. It does this by binding to the alpha-2-delta subunit of calcium channels in nerve cells, which is thought to normalize chemical signals nerves send to each other and results in a calmer, less excitable nerve circuit.",
+    "That same effect helps in different ways depending on what gabapentin is treating:",
+    "- Epilepsy - dampens the runaway electrical firing that causes seizures.",
+    "- Postherpetic neuralgia (shingles nerve pain) - reduces the abnormal pain signals from nerves damaged by shingles.",
+    "- Restless legs syndrome (gabapentin enacarbil / Horizant) - the exact mechanism is less clear, but the same calming effect on overactive nerves is thought to ease the urge-to-move sensation.",
+    "Gabapentin is not an opioid, sedative, or anti-inflammatory painkiller. It works directly on the nerves, which is why it helps nerve-related pain and why it isn't useful for everyday pain like headaches or sprains. Most people need 1 to 2 weeks of regular dosing for the full effect to build up."
+   ],
+   "text": "Gabapentin works by calming overactive electrical signals in the brain and nervous system. It does this by binding to the alpha-2-delta subunit of calcium channels in nerve cells, which is thought to normalize chemical signals nerves send to each other and results in a calmer, less excitable nerve circuit.\nThat same effect helps in different ways depending on what gabapentin is treating:\n- Epilepsy - dampens the runaway electrical firing that causes seizures.\n- Postherpetic neuralgia (shingles nerve pain) - reduces the abnormal pain signals from nerves damaged by shingles.\n- Restless legs syndrome (gabapentin enacarbil / Horizant) - the exact mechanism is less clear, but the same calming effect on overactive nerves is thought to ease the urge-to-move sensation.\nGabapentin is not an opioid, sedative, or anti-inflammatory painkiller. It works directly on the nerves, which is why it helps nerve-related pain and why it isn't useful for everyday pain like headaches or sprains. Most people need 1 to 2 weeks of regular dosing for the full effect to build up."
+  },
+  {
+   "id": "how-long-does-it-take-for-gabapentin-to-work",
+   "page": "main",
+   "heading": "How long does it take for gabapentin to work?",
+   "lines": [
+    "Gabapentin can start working for pain after 1 week in some people, but usually takes several weeks to reach its full effect. It works differently than other pain medicines, so you need to take it regularly over several weeks for the full pain-relieving effect to develop."
+   ],
+   "text": "Gabapentin can start working for pain after 1 week in some people, but usually takes several weeks to reach its full effect. It works differently than other pain medicines, so you need to take it regularly over several weeks for the full pain-relieving effect to develop."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Respiratory depression. Gabapentin can cause life-threatening breathing problems (respiratory depression), especially if you already have a breathing disorder (such as COPD), are elderly, or if you use other medicines that can make you drowsy or slow your breathing, such as opioids or CNS depressants. Seek emergency medical attention if you have very slow breathing.",
+    "Suicidal thoughts or behaviors. Some people have thoughts about suicide while taking and after discontinuing this medicine. Stay alert to changes in your mood or symptoms. Tell your doctor right away if you have any sudden changes in mood or behavior, or thoughts about suicide.",
+    "Abrupt or rapid discontinuation. Seizures may occur if you stop using gabapentin suddenly. Ask your doctor before stopping the medicine. Stopping abruptly can cause withdrawal symptoms such as anxiety, trouble sleeping, nausea, pain, and sweating.",
+    "Sleepiness, sedation, and dizziness. Avoid driving or participating in hazardous activities until you know how gabapentin will affect you. Dizziness or drowsiness can cause falls, accidents, or severe injuries.",
+    "Brand substitution. Brands of gabapentin may not be interchangeable."
+   ],
+   "text": "Respiratory depression. Gabapentin can cause life-threatening breathing problems (respiratory depression), especially if you already have a breathing disorder (such as COPD), are elderly, or if you use other medicines that can make you drowsy or slow your breathing, such as opioids or CNS depressants. Seek emergency medical attention if you have very slow breathing.\nSuicidal thoughts or behaviors. Some people have thoughts about suicide while taking and after discontinuing this medicine. Stay alert to changes in your mood or symptoms. Tell your doctor right away if you have any sudden changes in mood or behavior, or thoughts about suicide.\nAbrupt or rapid discontinuation. Seizures may occur if you stop using gabapentin suddenly. Ask your doctor before stopping the medicine. Stopping abruptly can cause withdrawal symptoms such as anxiety, trouble sleeping, nausea, pain, and sweating.\nSleepiness, sedation, and dizziness. Avoid driving or participating in hazardous activities until you know how gabapentin will affect you. Dizziness or drowsiness can cause falls, accidents, or severe injuries.\nBrand substitution. Brands of gabapentin may not be interchangeable."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Gabapentin side effects",
+   "lines": [
+    "The most common side effects of gabapentin are dizziness, drowsiness (somnolence), swelling in the hands or feet (peripheral edema), and tiredness.",
+    "Other common gabapentin side effects may include:",
+    "- unsteadiness, poor coordination, or jerky movements",
+    "- nausea or vomiting",
+    "- headache",
+    "- trouble speaking",
+    "- blurred or double vision",
+    "- tremor",
+    "- signs of infection such as fever, chills, or sore throat",
+    "Serious side effects:",
+    "Get emergency medical help if you have signs of an allergic reaction to gabapentin: hives, difficult breathing, or swelling of your face, lips, tongue, or throat.",
+    "Seek medical treatment if you have a serious drug reaction that can affect many parts of your body. Symptoms may include skin rash, fever, swollen glands, muscle aches, severe weakness, unusual bruising, or yellowing of your skin or eyes.",
+    "Tell your doctor right away if you have new or sudden changes in mood or behavior, including new or worse depression or anxiety, panic attacks, trouble sleeping, or if you feel impulsive, irritable, agitated, hostile, aggressive, restless, more active or talkative, or have thoughts about suicide or hurting yourself, while taking this medicine and after stopping it.",
+    "Gabapentin can slow or stop your breathing, especially if you have recently used an opioid medicine or alcohol. A person caring for you should seek emergency medical attention if you have slow breathing with long pauses, blue-colored lips, or if you are hard to wake up.",
+    "Some side effects are more likely in children taking gabapentin. Call your doctor if the child has behavior changes, memory problems, trouble concentrating, or is restless, hostile, or aggressive.",
+    "Call your doctor at once if you have:",
+    "- drowsiness, dizziness, or weakness",
+    "- problems with balance or muscle movement",
+    "- increased seizures",
+    "This is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+   ],
+   "text": "The most common side effects of gabapentin are dizziness, drowsiness (somnolence), swelling in the hands or feet (peripheral edema), and tiredness.\nOther common gabapentin side effects may include:\n- unsteadiness, poor coordination, or jerky movements\n- nausea or vomiting\n- headache\n- trouble speaking\n- blurred or double vision\n- tremor\n- signs of infection such as fever, chills, or sore throat\nSerious side effects:\nGet emergency medical help if you have signs of an allergic reaction to gabapentin: hives, difficult breathing, or swelling of your face, lips, tongue, or throat.\nSeek medical treatment if you have a serious drug reaction that can affect many parts of your body. Symptoms may include skin rash, fever, swollen glands, muscle aches, severe weakness, unusual bruising, or yellowing of your skin or eyes.\nTell your doctor right away if you have new or sudden changes in mood or behavior, including new or worse depression or anxiety, panic attacks, trouble sleeping, or if you feel impulsive, irritable, agitated, hostile, aggressive, restless, more active or talkative, or have thoughts about suicide or hurting yourself, while taking this medicine and after stopping it.\nGabapentin can slow or stop your breathing, especially if you have recently used an opioid medicine or alcohol. A person caring for you should seek emergency medical attention if you have slow breathing with long pauses, blue-colored lips, or if you are hard to wake up.\nSome side effects are more likely in children taking gabapentin. Call your doctor if the child has behavior changes, memory problems, trouble concentrating, or is restless, hostile, or aggressive.\nCall your doctor at once if you have:\n- drowsiness, dizziness, or weakness\n- problems with balance or muscle movement\n- increased seizures\nThis is not a complete list of side effects, and others may occur. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "does-gabapentin-cause-weight-gain",
+   "page": "main",
+   "heading": "Does gabapentin cause weight gain?",
+   "lines": [
+    "Gabapentin can cause weight gain, although it is not common. In clinical trials, a small number of people (roughly 2 in 100) gained weight while taking it. Gabapentin can also cause swelling in the legs, feet, or hands (peripheral edema), which may add to weight changes and becomes more common with age."
+   ],
+   "text": "Gabapentin can cause weight gain, although it is not common. In clinical trials, a small number of people (roughly 2 in 100) gained weight while taking it. Gabapentin can also cause swelling in the legs, feet, or hands (peripheral edema), which may add to weight changes and becomes more common with age."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not take gabapentin if you are allergic to it.",
+    "To make sure this medicine is safe for you, tell your doctor if you have ever had:",
+    "- breathing problems",
+    "- diabetes",
+    "- depression, a mood disorder, or suicidal thoughts or actions",
+    "- a history of alcohol use or drug addiction",
+    "- a seizure",
+    "- (for patients with restless legs syndrome) if you are a day sleeper or work a night shift",
+    "- kidney disease, or if you are on dialysis",
+    "Some people have thoughts about suicide while taking seizure medicine. Children taking gabapentin may have behavior changes. Stay alert to changes in your mood or symptoms. Your family or caregivers should also watch for sudden changes in your behavior.",
+    "Pregnancy:",
+    "It is not known if gabapentin will harm an unborn baby. Tell your doctor if you are pregnant or plan to become pregnant. Do not start or stop seizure medication during pregnancy without your doctor's advice, because having a seizure during pregnancy could harm both mother and baby. If you are pregnant, your name may be listed on a pregnancy registry to track the effects of gabapentin on the baby.",
+    "Breastfeeding:",
+    "Ask a doctor if it is safe to breastfeed while using gabapentin."
+   ],
+   "text": "You should not take gabapentin if you are allergic to it.\nTo make sure this medicine is safe for you, tell your doctor if you have ever had:\n- breathing problems\n- diabetes\n- depression, a mood disorder, or suicidal thoughts or actions\n- a history of alcohol use or drug addiction\n- a seizure\n- (for patients with restless legs syndrome) if you are a day sleeper or work a night shift\n- kidney disease, or if you are on dialysis\nSome people have thoughts about suicide while taking seizure medicine. Children taking gabapentin may have behavior changes. Stay alert to changes in your mood or symptoms. Your family or caregivers should also watch for sudden changes in your behavior.\nPregnancy:\nIt is not known if gabapentin will harm an unborn baby. Tell your doctor if you are pregnant or plan to become pregnant. Do not start or stop seizure medication during pregnancy without your doctor's advice, because having a seizure during pregnancy could harm both mother and baby. If you are pregnant, your name may be listed on a pregnancy registry to track the effects of gabapentin on the baby.\nBreastfeeding:\nAsk a doctor if it is safe to breastfeed while using gabapentin."
+  },
+  {
+   "id": "directions",
+   "page": "main",
+   "heading": "How should I take gabapentin?",
+   "lines": [
+    "Take gabapentin exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose. Never take gabapentin in larger amounts, or for longer, than prescribed.",
+    "Your dose needs may change if you switch to a different brand, strength, or form of this medicine. Avoid medication errors by using only the medicine your doctor prescribes.",
+    "- Neurontin can be taken with or without food.",
+    "- Gralise should be taken with food, with the evening meal.",
+    "- Swallow Gralise and Horizant tablets whole. Do not crush, break, chew, or dissolve them.",
+    "- If you break a scored Neurontin tablet and take only half, take the other half at your next dose, and use it within 28 days.",
+    "- Measure liquid medicine with the supplied measuring device, not a kitchen spoon.",
+    "Doses are based on weight in children. Your child's dose may change if the child gains or loses weight.",
+    "Do not stop taking gabapentin suddenly. Stopping suddenly may cause increased seizures or withdrawal symptoms. Follow your doctor's instructions about tapering your dose, usually gradually over at least a week.",
+    "This medicine can affect the results of certain medical tests. Tell any doctor who treats you that you are using gabapentin. Your kidney function may need to be checked, and your dose may change based on the results.",
+    "Store tablets and capsules at room temperature away from moisture and heat. Store the liquid medicine in the refrigerator; do not freeze. Follow all storage instructions provided. Your pharmacist can provide more information about how to store this medicine."
+   ],
+   "text": "Take gabapentin exactly as prescribed by your doctor. Follow all directions on your prescription label and read all medication guides or instruction sheets. Your doctor may occasionally change your dose. Never take gabapentin in larger amounts, or for longer, than prescribed.\nYour dose needs may change if you switch to a different brand, strength, or form of this medicine. Avoid medication errors by using only the medicine your doctor prescribes.\n- Neurontin can be taken with or without food.\n- Gralise should be taken with food, with the evening meal.\n- Swallow Gralise and Horizant tablets whole. Do not crush, break, chew, or dissolve them.\n- If you break a scored Neurontin tablet and take only half, take the other half at your next dose, and use it within 28 days.\n- Measure liquid medicine with the supplied measuring device, not a kitchen spoon.\nDoses are based on weight in children. Your child's dose may change if the child gains or loses weight.\nDo not stop taking gabapentin suddenly. Stopping suddenly may cause increased seizures or withdrawal symptoms. Follow your doctor's instructions about tapering your dose, usually gradually over at least a week.\nThis medicine can affect the results of certain medical tests. Tell any doctor who treats you that you are using gabapentin. Your kidney function may need to be checked, and your dose may change based on the results.\nStore tablets and capsules at room temperature away from moisture and heat. Store the liquid medicine in the refrigerator; do not freeze. Follow all storage instructions provided. Your pharmacist can provide more information about how to store this medicine."
+  },
+  {
+   "id": "what-strengths-does-gabapentin-come-in",
+   "page": "main",
+   "heading": "What strengths does gabapentin come in?",
+   "lines": [
+    "Gabapentin is available as capsules, tablets, extended-release tablets, and an oral solution. Strengths vary by product, and different products are not interchangeable.",
+    "Neurontin and generic gabapentin",
+    "- oral capsules 100 mg, 300 mg, 400 mg",
+    "- oral tablets 600 mg, 800 mg",
+    "- oral solution 250 mg/5 mL",
+    "Relgaabi",
+    "- oral capsules 100 mg, 200 mg, 300 mg, 400 mg",
+    "Gralise",
+    "- extended-release tablets 300 mg, 450 mg, 600 mg, 750 mg, and 900 mg",
+    "Horizant (gabapentin enacarbil)",
+    "- extended-release tablets 300 mg, 600 mg",
+    "Note: The Horizant strengths refer to gabapentin enacarbil, not gabapentin itself, so Horizant doses do not correspond milligram-for-milligram to other gabapentin products."
+   ],
+   "text": "Gabapentin is available as capsules, tablets, extended-release tablets, and an oral solution. Strengths vary by product, and different products are not interchangeable.\nNeurontin and generic gabapentin\n- oral capsules 100 mg, 300 mg, 400 mg\n- oral tablets 600 mg, 800 mg\n- oral solution 250 mg/5 mL\nRelgaabi\n- oral capsules 100 mg, 200 mg, 300 mg, 400 mg\nGralise\n- extended-release tablets 300 mg, 450 mg, 600 mg, 750 mg, and 900 mg\nHorizant (gabapentin enacarbil)\n- extended-release tablets 300 mg, 600 mg\nNote: The Horizant strengths refer to gabapentin enacarbil, not gabapentin itself, so Horizant doses do not correspond milligram-for-milligram to other gabapentin products."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "Gabapentin dosing information",
+   "lines": [
+    "Take gabapentin exactly as prescribed. Your dose may differ from the ranges shown here.",
+    "Usual Gabapentin Dose for Epilepsy (immediate-release):",
+    "Patients 12 years and older Dose: starting dose gabapentin 300 mg 3 times a day, which may be titrated up to a maximum dose of 600 mg 3 times a day if needed.",
+    "Patients 3 to 11 years of age Dose: the starting dose range is 10 to 15 mg/kg/day, given in 3 divided doses. The recommended dose in patients 3 to 4 years of age is 40 mg/kg/day, and in patients 5 to 11 years of age is 25 to 35 mg/kg/day, given in 3 divided doses. The recommended maintenance dose is reached by upward titration over approximately 3 days.",
+    "Less than 3 years: Not recommended",
+    "Note:",
+    "- Leave no more than 12 hours between doses",
+    "- Dose should be adjusted in patients with reduced kidney function. Your doctor will determine your dose based on your kidney function.",
+    "Use: Adjunctive therapy in the treatment of partial onset seizures, with and without secondary generalization, in patients 3 years of age and older.",
+    "Usual Adult Dose for Postherpetic Neuralgia (immediate-release):",
+    "Initial dose: gabapentin 300 mg orally on day one, 300 mg orally 2 times a day on day two, then 300 mg orally 3 times a day on day three, then titrate up as needed for pain relief",
+    "Maximum Gabapentin dose in 24 hours: 1800 mg per day (600 mg orally 3 times a day) Notes:",
+    "- Doses above 1,800 mg a day did not add benefit in studies.",
+    "- Dose should be modified in renal impairment.",
+    "Usual Adult Dose for Postherpetic Neuralgia (extended release - Gralise):",
+    "Maintenance dose: Gralise should be titrated to 1800 mg orally once daily with the evening meal. Recommended titration schedule:",
+    "- Day 1: 300 mg orally with the evening meal",
+    "- Day 2: 600 mg orally with the evening meal",
+    "- Days 3 through 6: 900 mg orally with the evening meal",
+    "- Days 7 through 10: 1200 mg orally with the evening meal",
+    "- Days 11 through 14: 1500 mg orally with the evening meal",
+    "- Day 15: 1800 mg orally with the evening meal",
+    "Notes",
+    "- Gralise is not interchangeable with other gabapentin products because of differing pharmacokinetic profiles that affect the frequency of administration.",
+    "- Dose should be modified in renal impairment.",
+    "Usual Adult Dose of Gabapentin enacarbil (Horizant) for Postherpetic Neuralgia:",
+    "Initial dose: 600 mg orally once each morning on days 1 to 3 Maintenance dose: 600 mg orally 2 times a day (1200 mg/day total) from day 4 onward",
+    "Notes:",
+    "- Doses above 1200 mg a day did not add benefit and caused more side effects",
+    "- Take with food and swallow tablets whole; do not crush or chew",
+    "- Horizant is not interchangeable with other gabapentin products",
+    "- Dose should be modified in renal impairment",
+    "Usual Adult Dose of Gabapentin enacarbil (Horizant) for Restless Legs Syndrome:",
+    "Gabapentin enacarbil (Horizant) dose: 600 mg orally once daily with food at about 5 PM Use: For the treatment of moderate-to-severe primary Restless Legs Syndrome (RLS) in adults",
+    "Notes:",
+    "- A 1200 mg dose gave no added benefit and caused more side effects",
+    "- Dose should be modified in renal impairment."
+   ],
+   "text": "Take gabapentin exactly as prescribed. Your dose may differ from the ranges shown here.\nUsual Gabapentin Dose for Epilepsy (immediate-release):\nPatients 12 years and older Dose: starting dose gabapentin 300 mg 3 times a day, which may be titrated up to a maximum dose of 600 mg 3 times a day if needed.\nPatients 3 to 11 years of age Dose: the starting dose range is 10 to 15 mg/kg/day, given in 3 divided doses. The recommended dose in patients 3 to 4 years of age is 40 mg/kg/day, and in patients 5 to 11 years of age is 25 to 35 mg/kg/day, given in 3 divided doses. The recommended maintenance dose is reached by upward titration over approximately 3 days.\nLess than 3 years: Not recommended\nNote:\n- Leave no more than 12 hours between doses\n- Dose should be adjusted in patients with reduced kidney function. Your doctor will determine your dose based on your kidney function.\nUse: Adjunctive therapy in the treatment of partial onset seizures, with and without secondary generalization, in patients 3 years of age and older.\nUsual Adult Dose for Postherpetic Neuralgia (immediate-release):\nInitial dose: gabapentin 300 mg orally on day one, 300 mg orally 2 times a day on day two, then 300 mg orally 3 times a day on day three, then titrate up as needed for pain relief\nMaximum Gabapentin dose in 24 hours: 1800 mg per day (600 mg orally 3 times a day) Notes:\n- Doses above 1,800 mg a day did not add benefit in studies.\n- Dose should be modified in renal impairment.\nUsual Adult Dose for Postherpetic Neuralgia (extended release - Gralise):\nMaintenance dose: Gralise should be titrated to 1800 mg orally once daily with the evening meal. Recommended titration schedule:\n- Day 1: 300 mg orally with the evening meal\n- Day 2: 600 mg orally with the evening meal\n- Days 3 through 6: 900 mg orally with the evening meal\n- Days 7 through 10: 1200 mg orally with the evening meal\n- Days 11 through 14: 1500 mg orally with the evening meal\n- Day 15: 1800 mg orally with the evening meal\nNotes\n- Gralise is not interchangeable with other gabapentin products because of differing pharmacokinetic profiles that affect the frequency of administration.\n- Dose should be modified in renal impairment.\nUsual Adult Dose of Gabapentin enacarbil (Horizant) for Postherpetic Neuralgia:\nInitial dose: 600 mg orally once each morning on days 1 to 3 Maintenance dose: 600 mg orally 2 times a day (1200 mg/day total) from day 4 onward\nNotes:\n- Doses above 1200 mg a day did not add benefit and caused more side effects\n- Take with food and swallow tablets whole; do not crush or chew\n- Horizant is not interchangeable with other gabapentin products\n- Dose should be modified in renal impairment\nUsual Adult Dose of Gabapentin enacarbil (Horizant) for Restless Legs Syndrome:\nGabapentin enacarbil (Horizant) dose: 600 mg orally once daily with food at about 5 PM Use: For the treatment of moderate-to-severe primary Restless Legs Syndrome (RLS) in adults\nNotes:\n- A 1200 mg dose gave no added benefit and caused more side effects\n- Dose should be modified in renal impairment."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose?",
+   "lines": [
+    "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time.",
+    "If you take Horizant: skip the missed dose and take your next dose at the regular time. Do not use two doses at one time."
+   ],
+   "text": "Take the medicine as soon as you can, but skip the missed dose if it is almost time for your next dose. Do not take two doses at one time.\nIf you take Horizant: skip the missed dose and take your next dose at the regular time. Do not use two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222. An overdose can be fatal.",
+    "Overdose symptoms may include slow breathing, double vision, tremor, slurred speech, drowsiness, change in your mental state, dizziness, tiredness, or diarrhea."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222. An overdose can be fatal.\nOverdose symptoms may include slow breathing, double vision, tremor, slurred speech, drowsiness, change in your mental state, dizziness, tiredness, or diarrhea."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking gabapentin?",
+   "lines": [
+    "Avoid driving or hazardous activities until you know how gabapentin will affect you. Dizziness or drowsiness can cause falls, accidents, or severe injuries.",
+    "Avoid taking antacids at the same time as gabapentin.",
+    "Do not drink alcohol. Dangerous side effects could occur."
+   ],
+   "text": "Avoid driving or hazardous activities until you know how gabapentin will affect you. Dizziness or drowsiness can cause falls, accidents, or severe injuries.\nAvoid taking antacids at the same time as gabapentin.\nDo not drink alcohol. Dangerous side effects could occur."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect gabapentin?",
+   "lines": [
+    "Taking gabapentin with other medicines that make you drowsy or slow your breathing can cause dangerous side effects, including life-threatening breathing problems. Ask your doctor before using gabapentin with:",
+    "- opioid pain medicines such as hydrocodone, oxycodone, morphine, or buprenorphine",
+    "- sleeping pills such as zolpidem",
+    "- anxiety medicines such as lorazepam and other benzodiazepines",
+    "- muscle relaxers, sedatives, or other seizure medicines that cause drowsiness",
+    "Avoid drinking alcohol while taking gabapentin, because it can add to these effects.",
+    "Some medicines change the amount of gabapentin in your body:",
+    "- Antacids that contain aluminum or magnesium (such as Maalox) can reduce gabapentin absorption. Take gabapentin at least 2 hours after an antacid.",
+    "- Morphine can increase gabapentin levels, which may increase drowsiness and the risk of breathing problems. Your doctor may adjust your dose.",
+    "Gabapentin does not usually interact with other seizure medicines, such as phenytoin, carbamazepine, valproic acid, or phenobarbital, because it is not broken down by the liver. Your doctor can still check for interactions with your specific medicines.",
+    "Tell your doctor about all your current medicines, including prescription and over-the-counter medicines, vitamins, and herbal products. This list does not include all possible drug interactions."
+   ],
+   "text": "Taking gabapentin with other medicines that make you drowsy or slow your breathing can cause dangerous side effects, including life-threatening breathing problems. Ask your doctor before using gabapentin with:\n- opioid pain medicines such as hydrocodone, oxycodone, morphine, or buprenorphine\n- sleeping pills such as zolpidem\n- anxiety medicines such as lorazepam and other benzodiazepines\n- muscle relaxers, sedatives, or other seizure medicines that cause drowsiness\nAvoid drinking alcohol while taking gabapentin, because it can add to these effects.\nSome medicines change the amount of gabapentin in your body:\n- Antacids that contain aluminum or magnesium (such as Maalox) can reduce gabapentin absorption. Take gabapentin at least 2 hours after an antacid.\n- Morphine can increase gabapentin levels, which may increase drowsiness and the risk of breathing problems. Your doctor may adjust your dose.\nGabapentin does not usually interact with other seizure medicines, such as phenytoin, carbamazepine, valproic acid, or phenobarbital, because it is not broken down by the liver. Your doctor can still check for interactions with your specific medicines.\nTell your doctor about all your current medicines, including prescription and over-the-counter medicines, vitamins, and herbal products. This list does not include all possible drug interactions."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: Gabapentin for dogs: uses, dosage and side effects A: Gabapentin is commonly prescribed by veterinarians to treat dogs with chronic pain (such as arthritis, back pain, or nerve pain) or to relieve fear or anxiety associated with stressful events (such as car or plane travel, situations with loud noises [such as fireworks], or visits to the vets or the groomers).",
+    "Q: Lyrica vs Gabapentin: What's the difference? A: Both Lyrica (pregabalin) and gabapentin (Neurontin) are both anticonvulsants and gabapentinoids used to treat nerve pain and seizures, but they differ significantly in potency, absorption speed, and regulatory status. Lyrica is generally more potent, faster-acting (peaks in approximately 1 hour), and is a Schedule V controlled substance, whereas gabapentin peaks in 3 to 4 hours, is less regulated in most states, and is usually cheaper.",
+    "Q: How long does gabapentin withdrawal last? A: Case reports have shown that gabapentin withdrawal often lasts for 5 to 10 days, but some people have taken as long as 18 weeks to completely taper off gabapentin while managing withdrawal symptoms. The symptoms and how long they last depend on how much of the drug you are taking and for how long you’ve been taking it.",
+    "Q: Is gabapentin considered a painkiller? A: Gabapentin (Neurontin, Gralise, Horizant) is commonly used to treat some types of nerve pain but is classified as an anticonvulsant medicine, not as an opioid or narcotic painkiller. Gabapentin is used to treat nerve pain that can occur due to an outbreak of shingles, restless legs syndrome (RLS), and some forms of epilepsy.",
+    "Q: Is gabapentin safe for cats? A: Yes, Gabapentin is safe for cats when prescribed by a veterinarian. This medication is commonly used to treat cat pain, anxiety, and feline hyperesthesia syndrome with minimal side effects. Mild sedation and drowsiness are the most common reactions, which typically improve with continued use.",
+    "Q: Does gabapentin help treat nerve pain? A: Gabapentin can help relieve nerve pain in some people with postherpetic neuralgia (shingles nerve pain) and diabetic peripheral neuropathy (diabetic foot pain).",
+    "Q: How long does it take gabapentin to work? A: It can take several weeks for gabapentin to reach its full effect, but this depends on the condition being treated and your individual response to the drug.",
+    "Q: Does gabapentin cause weight gain? A: Gabapentin may cause weight gain, but it is an uncommon side effect. Studies have shown that a small number of people taking gabapentin weight gain. People who do gain weight may gain about 5 pounds after 6 weeks of use.",
+    "Q: Does gabapentin help you sleep? A: Gabapentin is a prescription medication that may help you sleep. That may be why it has been prescribed for people with insomnia, even though it is not approved for that use."
+   ],
+   "text": "Q: Gabapentin for dogs: uses, dosage and side effects A: Gabapentin is commonly prescribed by veterinarians to treat dogs with chronic pain (such as arthritis, back pain, or nerve pain) or to relieve fear or anxiety associated with stressful events (such as car or plane travel, situations with loud noises [such as fireworks], or visits to the vets or the groomers).\nQ: Lyrica vs Gabapentin: What's the difference? A: Both Lyrica (pregabalin) and gabapentin (Neurontin) are both anticonvulsants and gabapentinoids used to treat nerve pain and seizures, but they differ significantly in potency, absorption speed, and regulatory status. Lyrica is generally more potent, faster-acting (peaks in approximately 1 hour), and is a Schedule V controlled substance, whereas gabapentin peaks in 3 to 4 hours, is less regulated in most states, and is usually cheaper.\nQ: How long does gabapentin withdrawal last? A: Case reports have shown that gabapentin withdrawal often lasts for 5 to 10 days, but some people have taken as long as 18 weeks to completely taper off gabapentin while managing withdrawal symptoms. The symptoms and how long they last depend on how much of the drug you are taking and for how long you’ve been taking it.\nQ: Is gabapentin considered a painkiller? A: Gabapentin (Neurontin, Gralise, Horizant) is commonly used to treat some types of nerve pain but is classified as an anticonvulsant medicine, not as an opioid or narcotic painkiller. Gabapentin is used to treat nerve pain that can occur due to an outbreak of shingles, restless legs syndrome (RLS), and some forms of epilepsy.\nQ: Is gabapentin safe for cats? A: Yes, Gabapentin is safe for cats when prescribed by a veterinarian. This medication is commonly used to treat cat pain, anxiety, and feline hyperesthesia syndrome with minimal side effects. Mild sedation and drowsiness are the most common reactions, which typically improve with continued use.\nQ: Does gabapentin help treat nerve pain? A: Gabapentin can help relieve nerve pain in some people with postherpetic neuralgia (shingles nerve pain) and diabetic peripheral neuropathy (diabetic foot pain).\nQ: How long does it take gabapentin to work? A: It can take several weeks for gabapentin to reach its full effect, but this depends on the condition being treated and your individual response to the drug.\nQ: Does gabapentin cause weight gain? A: Gabapentin may cause weight gain, but it is an uncommon side effect. Studies have shown that a small number of people taking gabapentin weight gain. People who do gain weight may gain about 5 pounds after 6 weeks of use.\nQ: Does gabapentin help you sleep? A: Gabapentin is a prescription medication that may help you sleep. That may be why it has been prescribed for people with insomnia, even though it is not approved for that use."
+  }
+ ],
+ "rank": 11
+}

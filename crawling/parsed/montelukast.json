@@ -1,0 +1,242 @@
+{
+ "name": "Montelukast",
+ "slug": "montelukast",
+ "url": "https://www.drugs.com/montelukast.html",
+ "title": "Montelukast",
+ "page_title": "Montelukast: Uses, Dosage, Side Effects & Warnings - Drugs.com",
+ "generic_name": "montelukast",
+ "pronunciation": "mon-te-LOO-kast",
+ "brand_names": [
+  "Singulair"
+ ],
+ "discontinued_brands": [],
+ "dosage_forms": [
+  {
+   "form": "oral granule",
+   "strengths": []
+  },
+  {
+   "form": "oral tablet",
+   "strengths": []
+  },
+  {
+   "form": "oral chewable tablet",
+   "strengths": []
+  }
+ ],
+ "drug_classes": [
+  {
+   "name": "Leukotriene modifiers",
+   "slug": "leukotriene-modifiers"
+  }
+ ],
+ "reviewed_line": "Medically reviewed by Carmen Pope, Senior Medical Editor, B. Pharm. Last updated on Sep 9, 2025.",
+ "faq": [
+  {
+   "q": "Why is montelukast usually taken at night?",
+   "a": "Montelukast is usually taken in the evening because this is how the medication was studied and proven to be effective in clinical trials. Most clinical trials and prescribing information have traditionally used once‑daily evening dosing for asthma, which is why this schedule is commonly recommended."
+  },
+  {
+   "q": "What is the mechanism of action of montelukast?",
+   "a": "Montelukast works by blocking leukotriene D4 and related cysteinyl leukotrienes from binding to the CysLT1 receptor on airway and nasal tissues. This reduces inflammation, swelling, and allergy or asthma symptoms."
+  },
+  {
+   "q": "Is montelukast an antihistamine?",
+   "a": "Montelukast is not an antihistamine; it belongs to a different drug class. It is a leukotriene receptor antagonist (LTRA), a type of medicine that blocks the effects of leukotrienes (chemicals that contribute to inflammation in asthma and some allergy conditions)."
+  },
+  {
+   "q": "Is Montelukast used for allergies?",
+   "a": "Montelukast is approved to treat allergy-related nasal symptoms in people with seasonal and perennial allergic rhinitis. However, because of a boxed warning about potential neuropsychiatric side effects, major guidelines recommend reserving montelukast for patients who do not respond to or cannot tolerate other standard allergy treatments."
+  }
+ ],
+ "description": "Montelukast is a daily oral medication used to prevent asthma attacks, exercise-induced bronchoconstriction, and seasonal and perennial allergic rhinitis in adults and children.",
+ "date_modified": "2025-09-09",
+ "reviewed_by": "Carmen Pope",
+ "availability": "Prescription only",
+ "pregnancy": "Risk data available",
+ "related_drugs": [
+  {
+   "name": "Ohtuvayre",
+   "slug": "ohtuvayre",
+   "blurb": "Ohtuvayre is an inhaled, steroid-free suspension, that may be used as maintenance treatment for..."
+  },
+  {
+   "name": "Symbicort",
+   "slug": "symbicort",
+   "blurb": "Symbicort (budesonide and formoterol) is used to prevent bronchospasm in people with asthma or..."
+  },
+  {
+   "name": "Dupixent",
+   "slug": "dupixent",
+   "blurb": "Dupixent is used to treat multiple inflammatory conditions, including moderate-to-severe eczema..."
+  },
+  {
+   "name": "Ventolin",
+   "slug": "cons/ventolin-albuterol-oral",
+   "blurb": "Ventolin is used for asthma, acute, asthma, maintenance, bronchospasm prophylaxis, COPD, Acute..."
+  },
+  {
+   "name": "Breo Ellipta",
+   "slug": "breo-ellipta",
+   "blurb": "Breo Ellipta (fluticasone and vilanterol) is used to prevent airflow obstruction or bronchospasm in..."
+  },
+  {
+   "name": "Xopenex",
+   "slug": "xopenex",
+   "blurb": "Xopenex is a short-acting bronchodilator used to treat or prevent bronchospasm in asthma and other..."
+  },
+  {
+   "name": "Spiriva",
+   "slug": "spiriva",
+   "blurb": "Spiriva (tiotropium) is used to prevent bronchospasm in people with bronchitis, emphysema, or COPD..."
+  },
+  {
+   "name": "Ventolin HFA",
+   "slug": "ventolin",
+   "blurb": "Ventolin HFA (albuterol) is used to treat or prevent breathing problems in patients who have asthma..."
+  },
+  {
+   "name": "Anoro Ellipta",
+   "slug": "anoro-ellipta",
+   "blurb": "Anoro (umeclidinium and vilanterol inhalation powder) is used to treat chronic obstructive..."
+  },
+  {
+   "name": "Atrovent",
+   "slug": "cons/atrovent-ipratropium-inhalation",
+   "blurb": "Atrovent is used for asthma, COPD, Maintenance"
+  }
+ ],
+ "sections": [
+  {
+   "id": "uses",
+   "page": "main",
+   "heading": "What is montelukast?",
+   "lines": [
+    "Montelukast helps to reduce inflammation and may be used to prevent asthma attacks in adults and children at least 2 years old.",
+    "Montelukast is also used to prevent exercise-induced bronchoconstriction (a narrowing of the air passages in the lungs due to exercise that is also known as exercise-induced asthma) in adults and children who are at least 6 years old.",
+    "For adults and children at least 2 years old with symptoms of seasonal allergic rhinitis, and people over 6 months old with perennial (year-round) allergies, montelukast may be considered when other treatments have not worked.",
+    "If you already take montelukast regularly to prevent asthma or allergy symptoms, do not take an extra dose to treat exercise-induced bronchoconstriction.",
+    "Montelukast is not a fast-acting rescue medicine for asthma attacks and needs to be taken daily to work properly.",
+    "Montelukast was FDA-approved in 1998."
+   ],
+   "text": "Montelukast helps to reduce inflammation and may be used to prevent asthma attacks in adults and children at least 2 years old.\nMontelukast is also used to prevent exercise-induced bronchoconstriction (a narrowing of the air passages in the lungs due to exercise that is also known as exercise-induced asthma) in adults and children who are at least 6 years old.\nFor adults and children at least 2 years old with symptoms of seasonal allergic rhinitis, and people over 6 months old with perennial (year-round) allergies, montelukast may be considered when other treatments have not worked.\nIf you already take montelukast regularly to prevent asthma or allergy symptoms, do not take an extra dose to treat exercise-induced bronchoconstriction.\nMontelukast is not a fast-acting rescue medicine for asthma attacks and needs to be taken daily to work properly.\nMontelukast was FDA-approved in 1998."
+  },
+  {
+   "id": "warnings",
+   "page": "main",
+   "heading": "Warnings",
+   "lines": [
+    "Stop taking montelukast and call your doctor right away if you have any unusual changes in mood or behavior (such as agitation, confusion, depression, sleep problems, compulsive behaviors, hallucinations, or suicidal thoughts or actions).",
+    "Tell your doctor right away if you have signs of blood vessel inflammation: flu-like symptoms, severe sinus pain, a skin rash, numbness or a \"pins and needles\" feeling in your arms or legs."
+   ],
+   "text": "Stop taking montelukast and call your doctor right away if you have any unusual changes in mood or behavior (such as agitation, confusion, depression, sleep problems, compulsive behaviors, hallucinations, or suicidal thoughts or actions).\nTell your doctor right away if you have signs of blood vessel inflammation: flu-like symptoms, severe sinus pain, a skin rash, numbness or a \"pins and needles\" feeling in your arms or legs."
+  },
+  {
+   "id": "before-taking",
+   "page": "main",
+   "heading": "Before taking this medicine",
+   "lines": [
+    "You should not use montelukast if you are allergic to it.",
+    "Tell your doctor if you have ever had:",
+    "- mental illness or psychosis; or",
+    "- asthma, or a history of severe allergic reaction (sneezing, runny or stuffy nose, wheezing, shortness of breath) after taking aspirin or another NSAID.",
+    "The chewable montelukast tablet may contain phenylalanine and could be harmful if you have phenylketonuria (PKU).",
+    "Tell your doctor if you are pregnant or breastfeeding.",
+    "Do not give this medicine to a child without a doctor's advice."
+   ],
+   "text": "You should not use montelukast if you are allergic to it.\nTell your doctor if you have ever had:\n- mental illness or psychosis; or\n- asthma, or a history of severe allergic reaction (sneezing, runny or stuffy nose, wheezing, shortness of breath) after taking aspirin or another NSAID.\nThe chewable montelukast tablet may contain phenylalanine and could be harmful if you have phenylketonuria (PKU).\nTell your doctor if you are pregnant or breastfeeding.\nDo not give this medicine to a child without a doctor's advice."
+  },
+  {
+   "id": "dosage",
+   "page": "main",
+   "heading": "How should I take montelukast?",
+   "lines": [
+    "Take montelukast exactly as prescribed by your doctor and read all medication guides or instruction sheets about montelukast.",
+    "Montelukast is not a fast-acting rescue medicine for asthma attacks. Seek medical attention if your breathing problems get worse quickly, or if you think your medications are not working.",
+    "Montelukast is usually taken once every evening, with or without food.",
+    "For exercise-induced bronchoconstriction, take a single dose at least 2 hours before exercise, and do not take another dose for at least 24 hours.",
+    "Swallow the regular tablet whole, with a glass of water.",
+    "You must chew the chewable tablet before you swallow it.",
+    "Place the oral granules directly in your mouth and swallow, or mix them with applesauce, mashed carrots, rice, or ice cream. The granules may also be mixed with baby formula or breast milk. Do not use any other type of liquid. Use the mixture within 15 minutes. Do not save for later use.",
+    "If you also use an oral steroid medication, you should not stop using it suddenly when you start taking montelukast. Follow your doctor's instructions about tapering your dose.",
+    "Do not change your dose or stop using asthma medication without your doctor's advice.",
+    "Store montelukast at room temperature away from moisture and heat. Do not open a packet of montelukast oral granules until you are ready to use them."
+   ],
+   "text": "Take montelukast exactly as prescribed by your doctor and read all medication guides or instruction sheets about montelukast.\nMontelukast is not a fast-acting rescue medicine for asthma attacks. Seek medical attention if your breathing problems get worse quickly, or if you think your medications are not working.\nMontelukast is usually taken once every evening, with or without food.\nFor exercise-induced bronchoconstriction, take a single dose at least 2 hours before exercise, and do not take another dose for at least 24 hours.\nSwallow the regular tablet whole, with a glass of water.\nYou must chew the chewable tablet before you swallow it.\nPlace the oral granules directly in your mouth and swallow, or mix them with applesauce, mashed carrots, rice, or ice cream. The granules may also be mixed with baby formula or breast milk. Do not use any other type of liquid. Use the mixture within 15 minutes. Do not save for later use.\nIf you also use an oral steroid medication, you should not stop using it suddenly when you start taking montelukast. Follow your doctor's instructions about tapering your dose.\nDo not change your dose or stop using asthma medication without your doctor's advice.\nStore montelukast at room temperature away from moisture and heat. Do not open a packet of montelukast oral granules until you are ready to use them."
+  },
+  {
+   "id": "missed-dose",
+   "page": "main",
+   "heading": "What happens if I miss a dose of montelukast?",
+   "lines": [
+    "If you miss a dose of montelukast, skip the missed dose and use your next dose at the regular time. Do not use two doses at one time."
+   ],
+   "text": "If you miss a dose of montelukast, skip the missed dose and use your next dose at the regular time. Do not use two doses at one time."
+  },
+  {
+   "id": "overdose",
+   "page": "main",
+   "heading": "What happens if I overdose?",
+   "lines": [
+    "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+   ],
+   "text": "Seek emergency medical attention or call the Poison Help line at 1-800-222-1222."
+  },
+  {
+   "id": "what-to-avoid",
+   "page": "main",
+   "heading": "What should I avoid while taking montelukast?",
+   "lines": [
+    "Avoid situations or activities that may trigger an asthma attack.",
+    "If your asthma symptoms get worse when you take aspirin, avoid taking aspirin or other NSAIDs (nonsteroidal anti-inflammatory drugs) such as ibuprofen (Advil, Motrin), naproxen (Aleve), celecoxib, diclofenac, indomethacin, meloxicam, and others."
+   ],
+   "text": "Avoid situations or activities that may trigger an asthma attack.\nIf your asthma symptoms get worse when you take aspirin, avoid taking aspirin or other NSAIDs (nonsteroidal anti-inflammatory drugs) such as ibuprofen (Advil, Motrin), naproxen (Aleve), celecoxib, diclofenac, indomethacin, meloxicam, and others."
+  },
+  {
+   "id": "side-effects",
+   "page": "main",
+   "heading": "Montelukast side effects",
+   "lines": [
+    "Get emergency medical help if you have signs of an allergic reaction to montelukast: hives, blisters, severe itching; difficult breathing; swelling of your face, lips, tongue, or throat.",
+    "Tell your doctor right away if you have signs of blood vessel inflammation: flu-like symptoms, severe sinus pain, a skin rash, numbness or a \"pins and needles\" feeling in your arms or legs.",
+    "Some people using montelukast have had new or worsening mental problems. Stop taking montelukast and call your doctor right away if you have unusual changes in mood or behavior, such as:",
+    "- agitation, aggression, feeling restless or irritable;",
+    "- anxiety, depression, confusion, problems with memory or attention;",
+    "- stuttering, tremors, uncontrolled muscle movements;",
+    "- suicidal thoughts or actions;",
+    "- hallucinations, sleep problems, vivid, dreams, sleep-walking; or",
+    "- compulsive or repetitive behaviors.",
+    "Common side effects of montelukast may include:",
+    "- stomach pain, diarrhea;",
+    "- fever or other flu symptoms;",
+    "- ear pain or full feeling, trouble hearing;",
+    "- headache; or",
+    "- cold symptoms such as runny or stuffy nose, sinus pain, cough, sore throat.",
+    "This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+   ],
+   "text": "Get emergency medical help if you have signs of an allergic reaction to montelukast: hives, blisters, severe itching; difficult breathing; swelling of your face, lips, tongue, or throat.\nTell your doctor right away if you have signs of blood vessel inflammation: flu-like symptoms, severe sinus pain, a skin rash, numbness or a \"pins and needles\" feeling in your arms or legs.\nSome people using montelukast have had new or worsening mental problems. Stop taking montelukast and call your doctor right away if you have unusual changes in mood or behavior, such as:\n- agitation, aggression, feeling restless or irritable;\n- anxiety, depression, confusion, problems with memory or attention;\n- stuttering, tremors, uncontrolled muscle movements;\n- suicidal thoughts or actions;\n- hallucinations, sleep problems, vivid, dreams, sleep-walking; or\n- compulsive or repetitive behaviors.\nCommon side effects of montelukast may include:\n- stomach pain, diarrhea;\n- fever or other flu symptoms;\n- ear pain or full feeling, trouble hearing;\n- headache; or\n- cold symptoms such as runny or stuffy nose, sinus pain, cough, sore throat.\nThis is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088."
+  },
+  {
+   "id": "interactions",
+   "page": "main",
+   "heading": "What other drugs will affect montelukast?",
+   "lines": [
+    "Other drugs may affect montelukast, including prescription and over-the-counter medicines, vitamins, and herbal products. Tell your doctor about all other medicines you use."
+   ],
+   "text": "Other drugs may affect montelukast, including prescription and over-the-counter medicines, vitamins, and herbal products. Tell your doctor about all other medicines you use."
+  },
+  {
+   "id": "faq",
+   "page": "main",
+   "heading": "Popular FAQ",
+   "lines": [
+    "Q: Why is montelukast usually taken at night? A: Montelukast is usually taken in the evening because this is how the medication was studied and proven to be effective in clinical trials. Most clinical trials and prescribing information have traditionally used once‑daily evening dosing for asthma, which is why this schedule is commonly recommended.",
+    "Q: What is the mechanism of action of montelukast? A: Montelukast works by blocking leukotriene D4 and related cysteinyl leukotrienes from binding to the CysLT1 receptor on airway and nasal tissues. This reduces inflammation, swelling, and allergy or asthma symptoms.",
+    "Q: Is montelukast an antihistamine? A: Montelukast is not an antihistamine; it belongs to a different drug class. It is a leukotriene receptor antagonist (LTRA), a type of medicine that blocks the effects of leukotrienes (chemicals that contribute to inflammation in asthma and some allergy conditions).",
+    "Q: Is Montelukast used for allergies? A: Montelukast is approved to treat allergy-related nasal symptoms in people with seasonal and perennial allergic rhinitis. However, because of a boxed warning about potential neuropsychiatric side effects, major guidelines recommend reserving montelukast for patients who do not respond to or cannot tolerate other standard allergy treatments."
+   ],
+   "text": "Q: Why is montelukast usually taken at night? A: Montelukast is usually taken in the evening because this is how the medication was studied and proven to be effective in clinical trials. Most clinical trials and prescribing information have traditionally used once‑daily evening dosing for asthma, which is why this schedule is commonly recommended.\nQ: What is the mechanism of action of montelukast? A: Montelukast works by blocking leukotriene D4 and related cysteinyl leukotrienes from binding to the CysLT1 receptor on airway and nasal tissues. This reduces inflammation, swelling, and allergy or asthma symptoms.\nQ: Is montelukast an antihistamine? A: Montelukast is not an antihistamine; it belongs to a different drug class. It is a leukotriene receptor antagonist (LTRA), a type of medicine that blocks the effects of leukotrienes (chemicals that contribute to inflammation in asthma and some allergy conditions).\nQ: Is Montelukast used for allergies? A: Montelukast is approved to treat allergy-related nasal symptoms in people with seasonal and perennial allergic rhinitis. However, because of a boxed warning about potential neuropsychiatric side effects, major guidelines recommend reserving montelukast for patients who do not respond to or cannot tolerate other standard allergy treatments."
+  }
+ ],
+ "rank": 21
+}
